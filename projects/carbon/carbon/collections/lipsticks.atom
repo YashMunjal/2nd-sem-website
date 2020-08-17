@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/lipsticks.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-09-23T16:05:49-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364955594842</id>
+    <published>2018-09-23T16:05:49-04:00</published>
+    <updated>2018-09-23T16:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-2"/>
+    <title>Lipstick</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>Y et Beaute</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bisou.jpg?v=1537725929" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Y et Beaute<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A premiere color collection inspired by the founder's travels and practicing yoga in India, these stunning, highly-pigmented lipsticks are crafted in Italy from natural &amp; certified organic ingredients.</p>
+<p><em>Shades</em></p>
+<p><strong>Bisou</strong>: A mellow earthy pink</p>
+<p><strong>Calme</strong>: A feminine fuchsia with a blue undertone</p>
+<p><strong>Edie</strong>: A violet with a vivid streak</p>
+<p><strong>James</strong>: A blackened plum</p>
+<p><strong>Lou</strong>: A tawny pink</p>
+<p><strong>No 11</strong>: An energetic pop of pink</p>
+<p><strong>No 21</strong>: An audacious pinky red</p>
+<p><strong>Soho</strong>: A deep dusty mauve</p>
+<p><strong>Vivienne</strong>: An elegant raspberry</p>
+<p><strong>Tranquille</strong>: A pale, whisper-weight rose</p>
+<p>• Crafted in Italy, all Y Et Beauté's products are Non-nano, Paraben-Free, Cruelty-Free, Sulfate-Free and Phthlate-Free</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Castor Seed Oil*, Sweet Almond Oil*, Beeswax*, Candelila Wax*, Cranberry Seed Oil*, Rice Bran Wax*, Jojoba Seed Oil*, Carnauba Wax*, Shea Butter Oil*, Kernel Oil*, Octyldodecanol, Stearalkonium Hectorite, Propylene Carbonate, Ascorbyl Palmitate, Ethyl Vanilin, Resveratrol. *Certified Organic Ingredients</p>
+<p>May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499) Titanium Dioxide (CI 77891), Blue 1 Lake (CI 42090), Red 6 Lake (CI 15850), Red 7 Lake (CI 15850), Yellow 6 Lake (CI 15985)</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">This lipstick is highly pigmented. Wear over your favorite lip balm for a glossy look. Apply a layer and blot for a sheer matte effect. Apply multiple layers for bold lips.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Bisou</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickBisou-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Calme</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickCalme-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Edie</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickEdie-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>James</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickJames-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Lou</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickLou-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>No 11</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickNo11-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>No 21</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickNo21-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Soho</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickSoho-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Vivienne</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickVivienne-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Tranquille</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickTranquille-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1318190415962</id>
+    <published>2018-07-06T12:41:44-04:00</published>
+    <updated>2018-07-06T12:41:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-1"/>
+    <title>Lipstick</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lipstick_Allure.jpg?v=1529613055" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NU Evolution's lipsticks are richly pigmented &amp; formulated with a nourishing blend of Castor Oil, Sunflower Seed Oil, Shea Butter, Coconut Oil, Cocoa Butter, Jojoba Oil &amp; Vitamin E.</p>
+<p><strong>Shades</strong></p>
+<p><strong>Allure</strong>: The perfect shade of nude</p>
+<p><strong>Chianti</strong>: Like a fine glass of Chianti wine, this color is a truly stunning, purple mauve</p>
+<p><strong>Coquette</strong>: A gorgeous orange coral</p>
+<p><strong>Delish</strong>: Pink with a hint of coral</p>
+<p><strong>Diva</strong>: Be bold and own it with this fabulous hot pink shade</p>
+<p><strong>Entice</strong>: ENTICE everyone with this fabulous berry red</p>
+<p><strong>Femme Fatale</strong>: Exude an air of mystery with this seductive orange-red shade</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Bismuth Oxychloride, Phenoxyethanol, Artificial Dyes, Synthetic Fragrances, Phthalates, Propylene Glycol, BHT, Dimethicone, Petroleum, and Mineral Oil</p>
+<p>• Cruelty free, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Oil*, Cera Alba (Beeswax)*, Copernicia Cerifera (Carnauba) Wax, Candelilla Wax, Helianthus Annuus (Sun Flower) Seed Oil*, Butyrospermum Parkii (Shea Butter)*, Theobroma Cacao (Cocoa) Butter*, Simmondsia Chinesis (Jojoba) Seed Oil*, Cocos Nucifera (Coconut) Oil, Cetyl Alcohol, Potassium Sorbate, Origanum Vulgare (Oregano) Leaf Extract*, Thymus Vulgaris (Thyme) Extract*, Cinnamomum Zeylanicum (Cinnamon) Bark Extract*, Rosmarinus Officinalis (Rosemary) Leaf Extract*, Lavendula Angustifolia (Lavender) Flower Extract*, Hydrastis Canadensis (Goldenseal) Root Extract*, Citrus Medica Limonum (Lemon) Peel Extract*, Citrus Grandis (Grapefruit) Seed Extract*, Tocopherol Acetate (Vitamin E), Vanilla Extract (Fragrance - Naturally derived). May Contain: Titanium Dioxide (CL-77891), Iron Oxides (CI-77499), (CI-77491), (CI-77492). *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Allure</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickAllure-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Chianti</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickChianti-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Coquette</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickCoquette-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Delish</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickDelish-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Diva</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickDiva-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Entice</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickEntice-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318190415962</id>
+      <title>Femme Fatale</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>NuEv-LipstickFemFatale-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/450804711455</id>
+    <published>2018-02-25T21:09:10-05:00</published>
+    <updated>2018-02-25T21:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick"/>
+    <title>Lipstick</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>Axiology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_True.jpg?v=1519610770" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axiology<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Axiology’s deeply nourishing formula is comprised of all-natural ingredients that keep lips soft &amp; kissable—for hours on end. The comfortable, long-lasting pigments maintain their rich color while providing continuous moisture. With a silky-smooth finish and safe, delicious elements, their lip line is made for the conscious and kind lipstick devotee.</p>
+<p>• 100% Natural, 100% Vegan, Cruelty free</p>
+<p>• Paraben free, Sulfate free, Gluten free, Palm Oil free</p>
+<p><em><strong>Shades</strong></em></p>
+<p><strong>True</strong> - True is enduring romance; a rare jewel of plant-derived red. This succulent shade is a manifesto to possibility; the hue you slip on to write love letters and bucket lists. Like a wild sunrise, the deep base of vermillion crowns your pout and finishes with a canyon-coral touch.</p>
+<p><strong>Worth</strong> - Sometimes you need a fiery pout to suit your flirtatious smirk. Worth is a bittersweet red with undertones of warm tangerine that glides on with a creme-matte finish. No matter what your skin tone, Worth produces a sizzling effect that compliments both dazzling evening looks and carefree, daytime casuals.</p>
+<p><strong>Noble</strong> - A succulent, hybrid peach-pink coral tone that keeps lips looking glossy and fresh. Supremely wearable for a first date or an interview, this color highlights your smile in a classy, honeyed glow.</p>
+<p><strong>Attitude</strong> - Perfect for Spring and Summer, Attitude glides on as a hot, hibiscus-pink pop with a blush of blue undertones. Popular among both world-travelers and urbanites, this color evokes lustrous Indian saris and bright neon billboards—and will keep your lips loaded with moisture.</p>
+<p><strong>Fundamental</strong> - Has an earthy russet base with a hint of rose-gold finish. Punchy by day and a sexy choice for night; this creamy hue will boldly frame the words you speak—no matter when you’re wearing it.</p>
+<p><strong>Elusive</strong> - Keep them guessing with a burgundy-drenched tone that satiates your desire for stand-out color. Elusive pours onto your pout like a fine wine splash, matching an elegant ensemble or dressed-down jeans and a crisp t-shirt. Cream-based and demure, this color will enhance even the most sensual of secret rendezvous.</p>
+<p><strong>The Goodness</strong> - Dances on the lips in a playful, sea-shell shimmer that stays all day. The blush-pink base has a creamy finish highlighted with an added dimension of silvery sheen. Suitable for meeting your partner’s parents or ocean frolicking, this shade will keep your smile shining sweetly.</p>
+<p><strong>BAD</strong> - Dramatic and daring, this runway-ready hue pins to the lip in burnt chestnut with a copper tinge. We crafted this color with a nod to the fierce supermodels of the 90’s who first donned it—and to the mavericks like Lana Del Rey and Katy Perry who are bringing it back. BAD is best worn after the sun goes down.</p>
+<p><strong>Dimension</strong> - An earthy Fall and Winter shade, Dimension is a burnished brown sheer balm with a light shimmer finish. Ideal for everyday or special events, it’s rich and dynamic hue nourishes lips long after application. Pair it well with a blushed cheek and strong eyebrow.</p>
+<p><strong>Infinite</strong> - Flirt without words wearing Infinite’s rich mulberry stain. The intense dark violet base is cheered with subtle layers of black and brown, making it the perfect hue for complexions of all shades. Worn with a cool suit, it pulls an outfit together with precision—donned with a cocktail dress, it exudes passion and confidence.</p>
+<p><strong>Desire</strong> - With a base of royal purple shot through a lilac sheen, Desire is a dreamy shade fit for a bohemian queen. Great for fun weekend wear or a naughty evening of memorable trouble, this naturally glossy color brings out your cool, Coachella vibe.</p>
+<p><strong>Phenomenon</strong> - Deep cobalt like a midnight lagoon, Phenomenon wows with avant-garde style and sci-fi sass. This sheer balm with blue and black hues will rock your bold, brave lips—whether you wear it everyday, or save it for a blue moon.</p>
+<p><strong>Devotion</strong> - With a copper burnt-sugar base and an echo of rose quartz, Devotion is the girl-crush of natural-look lovers. Its buttery luster keeps lips flawlessly moisturized and supple. Pair Devotion with powerful eye-makeup for maximum effect, or apply every day for a nearly-bare look.</p>
+<p><strong>Intrinsic</strong> - Sheer, subtle, and shimmering-balm, this shade will make your lips look like a wind-swept beach at golden hour. Intrinsic is ultra-moisturizing with a high-gloss sheen, best paired with a dramatic eye for ultimate flair.</p>
+<p><strong>Theory</strong> - With a light brown base and a whisper of rose, Theory colors your lips with a matte finish. The versatility of the day-into-night hue is complemented by it’s long-lasting moisturizing properties, and works especially well with a sun-kissed complexion.</p>
+<p><strong>Virtue</strong> - A luminous, sheer spark of golden orange that’s great for balmy summer nights. With a glimmer of red, this lipstick possesses a quiet, fiery glow that’s sure to light up the room.</p>
+<p><strong>Philosophy</strong> - For both bold romantics and wall-flowers, Philosophy’s ultra-smooth pink blends with a twist of salmon—bringing to life even the shyest of lips. Like a pair of well-loved ballet slippers, this shade is soft, silky, and just-a-touch sweet.</p>
+<p><strong>Identity</strong> - Inspired by the rush of peony season, Identity is a glittering cool pink with a lavender lean. This dreamy hue is perfect for a look that needs a subtle touch of off-beat color—while staying classic and collected.</p>
+<p><strong>Vibration</strong> - A scarlet wash with a glint of pink, Vibration is a sunset glow on a desert rose. The matte-cream base loads your pout with moisture, keeping it punch-drunk in color. Vibration is best worn while road-tripping into the horizon, or blazing top-down through lit cityscapes.</p>
+<p><strong>Enlighten</strong> - Daydream up a storm in Enlighten’s mesmerizing gloss. Enlighten rolls on the lips as an amethyst glaze, lifted by a silver-glitter finish. Like a rain-soaked field of wild lilacs, this color keeps your pout perfectly drenched in nourishing moisture.</p>
+<p><strong>Instinct</strong> - Stripped of all pretensions, Instinct is an understated nude with a sandcastle glitter. Flaxen like a metallic meadow, Instinct’s shy sparkle stays mysterious and gifts your lips with lasting moisture. This versatile hue works well day or night, no matter where your fanciful spirit takes you.</p>
+<p><strong>Existential</strong> - Deep, dynamic, and dark: meet the siren-song of shades. Existential glides on with a matte obsidian tone and holds on tight to your pout while keeping it silky-soft. Whether you’re going full-on glam, gothic, or rock and roll, you can be sure your mouth will maintain the color of a black pearl, all night long.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Candelilla Wax, Organic Avocado Oil, Organic Castor Oil, Organic Avocado Butter, Organic Grape Seed Oil, Organic Coconut Oil, Vitamin E Oil, Elderberry Extract, Sweet Orange Oil, Neem Seed Oil; May Contain: Iron Oxide, Mica, Titanium Dioxide, Manganese Violet.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>True | True Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-TrueLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Worth | Orange Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-WorthLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Noble | Peachy Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-NobleLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Attitude | Hot Hibiscus Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-AttitudeLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Fundamental | Rose Gold</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-FundamentalLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Elusive | Burgundy Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-ElusiveLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>The Goodness | Pale Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-GoodnessLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>BAD | Deep Brown</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-BADLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Dimension | Brown Sparkle</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DimensionLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Infinite | Mulberry Stain</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-InfiniteLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Desire | Royal Purple</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DesireLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Phenomenon | Blue Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-PhenomenonLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Devotion | Nude Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DevotionLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Intrinsic | Golden Clear</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-IntrinsicLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Theory | Light Brown</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-TheoryLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Virtue | Golden Orange</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-VirtueLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Philosophy | Salmon Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-PhilosophyLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Identity | Soft Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-IdentityLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Vibration | Pink/Red Pop</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-VibrationLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Enlighten | Lilac Glitter</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-EnlightenLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Instinct | Nude</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-InstinctLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Existential | Matte Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-ExistentialLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7598811393</id>
+    <published>2016-08-29T11:29:00-04:00</published>
+    <updated>2016-08-29T11:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-cheek-tint"/>
+    <title>Lip + Cheek Tint</title>
+    <s:type>lip and cheek tint</s:type>
+    <s:vendor>Evelyn Iona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_and_Cheek_Tint_ASH.jpg?v=1472484553" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Evelyn Iona<br />
+        <strong>Type: </strong>lip and cheek tint<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the men that make us blush! Let this Glycerin-based (natural moisturizer that helps sensitive, acne prone skin heal) paraben, synthetics, preservatives and cruelty free blush caress your cheeks and lips, when he can't.</p>
+<p>• Natural + Organic</p>
+<p>• Vegan, Cruelty free, Gluten free</p>
+<p>• Paraben free, Sulfate free</p>
+<p>• Made in the USA</p>
+<p>• .11 oz / 3 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Ricinus Communis (Castor) Oil, *Copernicia Cerifera (Carnauba) Wax, Microcrystalline Wax, Glycerine, Stearic Acid, Zea Mays (Corn) Starch, Isostearyl Palmitate, Xanthan Gum,* Helianthus Annuus ( Sunflower) Seed Oil,*Origanum Vulgare (Oregano) Leaf Extract, *Thymus Vulgaris (Thyme) Extract, *Cinnamomum Zeylancum (Cinnamon) Bark Extract, *Rosmarinus Officinalis (Rosemary) Leaf Extract, *Lavandula Angustfolia (Lavender) Flower Extract, *Hydrastis Canadensis (Goldenseal) Root Extract, Vanilla Planifolia.[+/- May Contain: Iron Oxides (CI 77491, 77492, 77499), Titanium Dioxide (C177891) Mica (CI 77019)] *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>blush + bronzer</s:tag>
+    <s:tag>lip gloss</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lip tint</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7598811393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>EvelynIona-LipCheekTintASH</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/366697365</id>
+    <published>2016-06-06T14:53:00-04:00</published>
+    <updated>2016-06-06T14:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-tint"/>
+    <title>Lip Tints</title>
+    <s:type>Lip Treatment</s:type>
+    <s:vendor>French Girl Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Tint_Collection_6b130d8b-dcfd-4fb0-a469-922925f4543f.jpg?v=1508967029" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French Girl Organics<br />
+        <strong>Type: </strong>Lip Treatment<br />
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lustrous balm and emollient mineral lip tint in one. Formulated with an enriching blend of organic &amp; wildcrafted waxes, butters, and oils to leave lips moisturized while adding a subtle pop of color, perfect for everyday.</p>
+<p>Scent: Rose | Mint</p>
+<p>Deeply emollient Shea Butter and plant oils moisturize and condition lips. Pure Organic Essential Oils - add a light minty scent and flavor. Natural Iron Oxides and Micas - provide sheer pigment without artificial color or carmine.</p>
+<p>- Shades -</p>
+<p><strong>Ambre Noire</strong> - Dark burgundy with a golden sheen</p>
+<p><strong>Ambre Rose</strong> - Warm rosy nude with a sheer finish</p>
+<p><strong>Aphrodesie</strong> - Sheer violet-pink with a cool-toned shimmer</p>
+<p><strong>Cerise</strong> - Neutral medium-red with a sheer finish</p>
+<p><strong>Claire</strong> - Clear balm</p>
+<p><strong>Rose Noire</strong> - Black cherry red with a sheer finish</p>
+<p><strong>Sonali</strong> - Peachy pink with a pearlescent sheen</p>
+<p><strong>Terre Rouge</strong> - Terracotta red with a copper sheen</p>
+<p><strong>Véronique</strong> - Warm coral red with a copper sheen</p>
+<p><strong>Violette</strong> - Berry red with a golden shimmer</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Olea europaea (Olive) Oil*, Euphorbia anisyphilitica (Candelilla) Wax* Cocos nucifera (Coconut) Oil*, Butyrospermum parkii (Shea) Butter*, Sustainable Elaeis guineensis (Palm) Oil* Simmondsia chinensis (Jojoba) Oil*, Rosa mosqueta (Rosehip) Oil, Tocopherol (Vitamin E), Melia Azadirachta (Neem Seed Oil)*, Rosmarinus Officinalis (Rosemary Leaf) Extract*, Helianthus Annuus (Sunflower Seed) Oil*, Iron Oxides, Mica, Pelergoniun graveolens (Rose Geranium), Mentha piperita (Peppermint) Essential Oils*, Mentha Spicata (Spearmint)* *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to lips as needed!</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>borage</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>french girl</s:tag>
+    <s:tag>french girl organic</s:tag>
+    <s:tag>french girl organics</s:tag>
+    <s:tag>geranium</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>lip</s:tag>
+    <s:tag>lip color</s:tag>
+    <s:tag>lip gloss</s:tag>
+    <s:tag>lip stick</s:tag>
+    <s:tag>lip tint</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>rosehip</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>spring picks 2017</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Aphrodesie</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintAphrodesie</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Sonali</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintSonali</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Cerise</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintCerise</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Ambre Rose</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintAmbreRose</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Véronique</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintVeronique</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Ambre Noir</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintAmbreNoir</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Terre Rouge</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-LipTintTerreRouge</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/366697365</id>
+      <title>Violette</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FrenchGirl-VioletteLipTint</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5630033217</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-lets-kiss"/>
+    <title>Lipstick - LET&apos;S KISS</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Let_s_Kiss.jpg?v=1461534521" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>LET'S KISS - Subtle Nude Glow</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5630033217</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickLETSKISS</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629963201</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-in-the-buff"/>
+    <title>Lipstick - IN THE BUFF</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_In_The_Buff.jpg?v=1461534518" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>IN THE BUFF - Sheer Nude Coral</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629963201</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickINTHEBUFF</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629932737</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-the-edit"/>
+    <title>Lipstick - THE EDIT</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_The_Edit.jpg?v=1461534659" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>THE EDIT - A Striking Pillar Box Red</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629932737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickTHEEDIT</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629807041</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-dazed"/>
+    <title>Lipstick - DAZED</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dazed.jpg?v=1461534336" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>DAZED - Shimmery Touch of Coral</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629807041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickDAZED</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629784577</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-spring-fling"/>
+    <title>Lipstick - SPRING FLING</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Spring_Fling.jpg?v=1461534650" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>SPRING FLING - Striking Red-Orange</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629784577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickSPRINGFLING</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629757953</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-good-karma"/>
+    <title>Lipstick - GOOD KARMA</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Good_Karma.jpg?v=1461534516" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>GOOD KARMA - Bold Dark Cherry Red</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629757953</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickGOODKARMA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629728897</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-super-natural"/>
+    <title>Lipstick - SUPER NATURAL</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Super_Natural.jpg?v=1461534652" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>SUPER NATURAL - Shimmering Sheer Dusty Rose</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629728897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickSUPERNATURAL</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629661761</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-off-road"/>
+    <title>Lipstick - OFF ROAD</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Off_Road.jpg?v=1461534552" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>OFF ROAD - Classic Bordeaux</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629661761</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickOFFROAD</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629651905</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-talk-to-me"/>
+    <title>Lipstick - TALK TO ME</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Talk_to_Me.jpg?v=1461534656" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>TALK TO ME - A Wash of Soft Pink</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629651905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickTALKTOME</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5629632833</id>
+    <published>2016-04-26T10:29:00-04:00</published>
+    <updated>2016-04-26T10:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-eat-me"/>
+    <title>Lipstick - EAT ME</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eat_Me.jpg?v=1461534386" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>EAT ME - Classic Rosy Brown</em></p>
+<p>The perfect mix of color and creamy shine, treat collection's Lipcolors feel lightweight while they moisturize and condition your lips. From subtle nudes to classic reds, there is the perfect color for every skin tone and every occasion.</p>
+<p>Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine!</p>
+<p>All Lipcolors are gluten and cruelty free and formulated without parabens, petrochemicals, phthalates, GMOs, triclosans and synthetic fragrances, which can contain harmful toxins. Instead, they use natural ingredients such as lanolin - helps to improve skin texture and reduce signs of aging, castor seed oil – a natural antibacterial and antiseptic agent, jojoba oil – a natural antiseptic with anti-aging qualities, and honeysuckle – which provides natural UV protection and also possesses anti-aging and regenerative properties, to ultimately create smooth, moisturizing Lipcolors with a subtle hint of natural vanilla fragrance.</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ricinus Communis (Castor) Seed Oil, Cetyl Acetate (and) Acetylated Lanolin Alcohol, Cetyl Ricinoleate, Euphorbis Cerifera (Candelilla) Wax, Lanolin Oil, Propylene Glycol, Dicaprylate/Dicaprate, Ethylhexyl Palmitate, Ozokerite, Ricinus Communis, Stearalkonium Hectorite, Propylene Carbonate, Copernica Cerifera (Carnauba) Wax, Cera Microcristallina (Microcrystalline) Wax, VP/Hexadecene Coploymer, Lonicera Japonica (Honeysuckle) Flower Extract, Lonicera Caprifolium (Honeysuckle) Flower Extract, Tocopherol (Vitamin E), Natural Vanilla. +/- Mica (CI 77019), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499), Red 21 Lake (CI 45380), Orange 5 Lake (CI 45370), Yellow 5 Lake (CI 19140), Utramarine Blue (CI 77007), Yellow 6 Lake (CI 15985), Blue 1 Lake (CI 42090), Red 7 Lake (CI 15850), Red 33 Lake (CI 17200), Red 27 Lake (CI 45410), Red 6 Lake (CI 15850), Red 36 Lake (CI 12085), Red 30 (CI 73360), D&amp;C Red No.30 (CI 75470)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lipcolors can be worn alone or dressed up with your choice of Treat Collection Lipshine.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5629632833</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Treat-LipstickEATME</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3555694593</id>
+    <published>2015-12-02T16:59:00-05:00</published>
+    <updated>2015-12-02T16:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/clever-carrot-cheek-lip-balm"/>
+    <title>Clever Carrot Cheek &amp; Lip Balm</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Carrot_HEALTHY.jpg?v=1449093711" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Blush<br />
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harness the natural goodness of carrots while adding vibrant color without the fuss of brushes or applicators. This easy, fuss-free coverage keeps skin soft and hydrated, and can also be used on lips. Simply dip your finger in and smooth over cheeks / lips. Ultra-waterproof for the beach, gym, office or active lifestyles, and small enough to fit in your pocket or wallet.</p>
+<p><strong>Healthy</strong> - A caramel cream blush with a light tan colour, great for daytime.</p>
+<p><strong>Happy</strong> - A crimson cream blush that is divine on darker skin tones.</p>
+<p><strong>Harmless</strong> - A pink cream blush that is fabulous on fair skin tones.</p>
+<p><strong>Holy</strong> - A Plum-colored cream blush that is a wonderful shade for winter.</p>
+<p>• Free of harsh chemicals such as parabens, phthalates, propylene glycol, paraffin, lead, nanoparticles and more.</p>
+<p>• Compatible with even the most sensitive skin types</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">hydrogenated olive (olea europea) oil, candelilla (euphorbia cerifera) wax, caprylic/capric triglyceride, ozokerite , avocado (persea gratissima) oil, carrot (daucus carota sativa) oil, tocopheryl acetate (vitamin e). May contain +/- iron oxides, CI 77019, CI77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Simply dip your finger in and smooth over cheeks / lips.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3555694593</id>
+      <title>Healthy - Caramel</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>ErePerez-CleverCarrotCheekLipHEALTHY</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3555694593</id>
+      <title>Happy - Crimson</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>ErePerez-CleverCarrotCheekLipHAPPY</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3555694593</id>
+      <title>Harmless - Pink</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>ErePerez-CleverCarrotCheekLipHARMLESS</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3555694593</id>
+      <title>Holy - Plum</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>ErePerez-CleverCarrotCheekLipHOLY</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/370526401</id>
+    <published>2014-10-04T17:18:00-04:00</published>
+    <updated>2014-10-04T17:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nudist-colorbalm"/>
+    <title>Nudist Lip Butter</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Nudist_0_Clear.jpg?v=1506392966" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The vegan love child of a lip stick + a lip balm, The Nudist gives lips a subtle boost of color and shine plus penetrating, nourishing hydration. Rich in organic omega oils and aloe, this luxury lip treat leaves stressed lips soothed, supple and protected. Clothing optional.</p>
+<p>• Vegan, Cruelty Free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Castor Isostearate Succinate, Acacia Decurrens/Jojoba/ Sunflower Seed Wax/ Polyglyceryl-Esters, Tribehenin, Oleic/linoleic/linolenic polyglycerides, Euphorbia Cerifera (Candelila Wax)*, Simmondsia Chinensis (Jojoba Oil)*, Helianthus Annuus (Sunflower) Seed Oil*, Zinc oxide, Rubus Idaeus (Red Raspberry) Seed Oil*, Daucus Carota Sativa (Carrot) Seed Oil*, Mixed Tocopherols, Camellia Sinensis Leaf Extract*, Mentha Spicata*, Vanilla Planifolia Fruit (or) Vanilla Tahitensis Fruit* (+/- iron oxide CI77489, CI77491, CI77492, CI77499, CI17200, CI15850, CI77742, CI77019 *Certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply liberally to lips</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>chapped lips</s:tag>
+    <s:tag>cosmetics</s:tag>
+    <s:tag>dry lips</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>lip balm</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>lip tint</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>w3ll people</s:tag>
+    <s:tag>well people</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370526401</id>
+      <title>Clear Natural 0</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>W3LL-NudistColorbalmNatural</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370526401</id>
+      <title>Cherry 3</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>W3ll-NudistColBalmCherry</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370526401</id>
+      <title>Nude 7</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>W3ll-NudistColBalmNude</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

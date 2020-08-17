@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/evolvh.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-09-20T16:49:13-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363973701722</id>
+    <published>2018-09-20T16:49:13-04:00</published>
+    <updated>2018-09-20T16:49:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartcolor-protecting-conditioner"/>
+    <title>SmartColor Protecting Conditioner</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartColor_Conditioner.jpg?v=1537400865" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Conditioner<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This revolutionary conditioner is formulated for supreme color vibrancy, hydration and healing since color (and lightening) is stressful on your strands.</p>
+<p>The innovative blend of essential fatty and amino acids is delivered deep into every strand to increase color retention for extended peak color life, eliminating breakage and frizz, and restoring every strand to optimal health with soft, smooth texture, sublime hydration for bounce and movement, and gorgeous shine.</p>
+<p>Enjoy the light, clean, and divinely delicious, soft scent of grapefruit plus luscious floral undertones. A sensual love affair awaits.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, Sulfate free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water, Brassicamidopropyl Dimethylamine†, Dicapryl Succinate†, Brassica Glycerides†, Soy Amino Acids†, Palm Oil*, Aleurites Moluccana (Kiwi) Seed Oil†, Molasses†, Castor Oil*, Lecithin*, Sunflower Oil*, Soy*, Safflower Oil*, Vitamin C, Wild Pansy Extract†, Sweet Clover Extract, Apricot Extract†, Ginkgo Biloba Leaf Extract Rosmarinus Officinalis (Rosemary) Leaf Extract, Equisetum Arvense Extract†, Urtica Dioica (Nettle) Extract†, Salvia Officinalis (Sage) Leaf Extract†, Symphytum Officinale Leaf Extract†, Trigonella Foenum-Graecum Seed Extract†, Vaccinium Macrocarpon (Cranberry) Seed Oil†, Glycine Soja (Soybean) Seed Extract†, Elaeis Guineensis (Palm) Fruit Extract†, Nasturtium Extract†, Nectarine Extract†, Passion Flower Extract†, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived °Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After cleansing with SmartColor Shampoo, apply to wet hair, rinse. For more intensive hydration, apply with wide-tooth comb and leave in for up to five minutes, then rinse. Follow with SmartStart or SmartVolume Leave-in Conditioner.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>color safe</s:tag>
+    <s:tag>color safe conditioner</s:tag>
+    <s:tag>color treated hair</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>conditioners</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363973701722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>EVOLVh-SmartColorCond8.5oz-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363973341274</id>
+    <published>2018-09-20T16:49:02-04:00</published>
+    <updated>2018-09-20T16:49:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartcolor-protecting-shampoo"/>
+    <title>SmartColor Protecting Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartColor_Shampoo.jpg?v=1537400858" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This breakthrough eco-luxe shampoo gently cleanses color treated hair and prevents fading by infusing vital nutrients deep into every strand for supreme color retention, vibrancy, and hair health.</p>
+<p>Enjoy the light, clean, and divinely delicious, soft scent of grapefruit plus luscious floral undertones. A sensual love affair awaits.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, Sulfate free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water, Decyl Glucose‡, Disodium Sulfosuccinate, Cocamidopropy Betaine‡, Lauryl Glucose‡, Coco Polyglucose‡, Kiwi Seed Oil†, Almond Oil*, Seaweed Extract†, Citrus Aurantifolia*, Lecithin*, Sunflower Oil*, Soya, Safflower Oil*, Butyrospermum Parkii (Shea Butter) Fruit†, Vegetable Glycerine, Soy Amino Acids, Vitamin C, Wild Pansy Extract†, Sweet Clover Extract†, Apricot Extract†, Ginkgo Biloba Leaf Extract†, Rosmarinus Officinalis (Rosemary) Leaf Extract†, Equisetum Arvense Extract†, Urtica Dioica (Nettle) Extract†, Salvia Officinalis (Sage) Leaf Extract†, Symphytum Officinale Leaf Extract†, Trigonella Foenum-Graecum Seed Extract†, Aleurites Moluccana (Kukui) Seed Oil†, Theobroma Grandiflorum (Cupuacu) Seed Butter†, Hydrolyzed Adansonia Digitata (Baobab) Seed†, Cucurbita Pepo (Pumpkin) Seed Oil†, Elaeis Guineensis (Palm) Fruit Extract†, Nasturtium Extract†, Nectarine Extract†, Passion Flower Extract†, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived °Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Massage a small amount into thoroughly saturated wet hair and scalp. Rinse with warm water. For more lather, repeat. Follow with SmartColor Conditioner.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>color protecting shampoos</s:tag>
+    <s:tag>color safe</s:tag>
+    <s:tag>color safe shampoo</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>shampoos</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363973341274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>EVOLVh-SmartColorShamp8.5oz-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363972751450</id>
+    <published>2018-09-20T16:48:46-04:00</published>
+    <updated>2018-09-20T16:48:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartbody-wash"/>
+    <title>SmartBody Wash</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartBody_Wash.jpg?v=1537400852" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Body Wash<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An amazing sulfate-free moisturizing cleansing foam that is concentrated and long lasting, and is healthier for our planet after going down the drain. It's nothing short of a luxurious win-win for all.</p>
+<p>Provides gentle cleansing while infusing essential nutrients to leave skin moisturized, smooth, soft and radiant.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water, Decyl Glucose‡, Disodium Sulfosuccinate, Cocamidopropyl Betaine‡, Lauryl Glucose‡, Coco Polyglucose‡, Kiwi Seed Oil†, Almond Oil*, Seaweed Extract†, Citrus Aurantifolia*, Lecithin*, Sunflower Oil*, Soya, Safflower Oil*, Butyrospermum Parkii (Shea Butter) Fruit†, Vegetable Glycerine†, Soy Amino Acids†, Vitamin C‡, Wild Pansy Extract†, Sweet Clover Extract†, Apricot Extract†, Sambucus Nigra Flower Extract†, Cucumis Sativus (Cucumber) Fruit Extract†, Aspalathus Linearis Leaf Extract†, Chamomilla Recutita (Matricaria) Flower Extract†, Equisetum Arvense Extract†, Nigella Sativa (Black Cumin) Seed Oil†, Cucurbita Pepo (Pumpkin) Seed Oil†, Elaeis Guineensis (Palm) Fruit Extract†, Nasturtium Extract†, Nectarine Extract†, Passion Flower Extract*, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*.</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived, , °Natural Fragrance, Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Start with two pumps applied directly to skin or onto your favorite applicator. Savor every rejuvenating moment and rinse. The luxurious foam is very concentrated, and as with all EVOLVh products, less is more.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body cleansers</s:tag>
+    <s:tag>body wash</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363972751450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>EVOLVh-SmartBodyWash-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363972161626</id>
+    <published>2018-09-20T16:48:35-04:00</published>
+    <updated>2018-09-20T16:48:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartybody-lotion"/>
+    <title>SmartyBody Lotion</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartBody_Lotion.jpg?v=1537400844" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say hello to the revitalizing daily moisturizer that offers supreme skin hydration for all skin types. This ultra-moisturizing lotion is deeply penetrating and packed with essential nutrients that help defy skin's aging and result in skin that is smooth, silky soft, and radiant in appearance.</p>
+<p>The lotion leaves skin velvety soft to the touch but never oily as the it absorbs quickly into the skin for deep healing relief and extraordinary benefits.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water, Butyrospermum Parkii (Shea Butter) Fruit†, Cocos Nucifera (Coconut) Oil*, Mangifera Indica (Mango) Seed Butter‡, Olea Europaea (Olive) Oil†, Aleurites Moluccana (Kiwi) Seed Oil‡, Molasses†,Stearic Acid Triple Pressed‡, Carthamus Tinctorius (Safflower) Seed Oil*, Helianthus Annuus (Sunflower) Seed Oil*, Raw Lecithin*, Argania Spinosa (Argan) Nut Oil‡, Persea Gratissima (Avocado) Oil*, Punica Granatum (Pomegranate) seed oil*, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived, , °Natural Fragrance, Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Start with 1-2 pumps and apply as desired.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body lotion</s:tag>
+    <s:tag>body lotions</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363972161626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>EVOLVh-SmartBodyLotion-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363971276890</id>
+    <published>2018-09-20T16:47:57-04:00</published>
+    <updated>2018-09-20T16:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartbody-butter"/>
+    <title>SmartBody Butter</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/SmartBody_Butter.jpg?v=1537400832" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Meet the ultra-rich hydration therapy for your skin - for when and where it needs it most. The ultimate moisturizing &amp; repair treatment offering the highest concentration of Shea butter and other supremely beneficial ingredients. This unique formulation restores elasticity to skin and helps to reduce the appearance of blemishes and wrinkles.</p>
+<p>Shea butter at this concentration and quality is an anti-aging and anti-free radical super ingredient that is also known to increase circulation to the skin and helps reduce acne and scarring, amongst many of it's benefits.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Butyrospermum Parkii (Shea Butter) Fruit†, Cocos Nucifera (Coconut) Oil*, Water, Mangifera Indica (Mango) Seed Butter‡, Olea Europaea (Olive) Oil†, Aleurites Moluccana (Kiwi) Seed Oil‡, Molasses†, Stearic Acid Triple Pressed‡, Carthamus Tinctorius (Safflower) Seed Oil*, Helianthus Annuus (Sunflower) Seed Oil*, Raw Lecithin*, Argania Spinosa (Argan) Nut Oil‡, Persea Gratissima (Avocado) Oil*, Punica Granatum (Pomegranate) seed oil*, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived, °Natural Fragrance, Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply as desired to skin areas in need of deep hydration.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>body lotions</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363971276890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>EVOLVh-SmartBodyButter-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762626441306</id>
+    <published>2018-04-22T19:16:59-04:00</published>
+    <updated>2018-04-22T19:16:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/restore-discovery-kit"/>
+    <title>Restore Discovery Kit</title>
+    <s:type>hair care set</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Restore_Discovery_Kit.jpg?v=1524437987" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>hair care set<br />
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 amazing products, 3 easy steps for healthy hair.</p>
+<p><strong>The Restore Discovery Kit Includes</strong>:</p>
+<p>• UltraShine Shampoo (2 oz)</p>
+<p>• UltraShine Conditioner (2 oz)</p>
+<p>• SmartStart Leave-in Conditioner (2 oz)</p>
+<p>• UltraRepair Reconstructing Masque (2 oz)</p>
+<p>• Reusable Recyclable Zip Pouch + Instruction Card</p>
+<p>• All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual product pages for detailed ingredient information!</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair care kit</s:tag>
+    <s:tag>hair care set</s:tag>
+    <s:tag>hair care sets</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762626441306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>EVOLVh-RestoreDiscSet</s:sku>
+      <s:grams>411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10296043905</id>
+    <published>2017-10-28T12:56:19-04:00</published>
+    <updated>2017-10-28T12:56:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/wonderbalm-magic-for-curls"/>
+    <title>WonderBalm Magic For Curls</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_WonderBalm_1.jpg?v=1507839662" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Styling<br />
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A truly magical potion for curl gorgeousness! The first silicone-free product of its kind with properties that will amaze - soft, touchable curls with brilliant shine, weightless and leaves no residue. It's a wow product that you simply won't be able to live without!</p>
+<p>• Defines curls without stickiness or crunch</p>
+<p>• Softens + adds shine while moisturizing dry strands</p>
+<p>• Eliminates frizz + flyaways</p>
+<p>• Paraben, silicone, fragrance, &amp; gluten free</p>
+<p>• Vegan &amp; Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 3.4 fl oz / 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Coco-caprylate, diheptyl succinate &amp; capryloyl glycerin/sebacic acid copolymer*, hydrogenated rapeseed oil*, kiwi seed oil, castor oil, almond oil. * Eco-certified Ingredients</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Initially apply 1 pump to wet or dry hair, roots to ends. Then adjust number of pumps according to length of hair and definition required. Shape using fingers into desired curl or wave pattern. For optimal results, apply SmartStart or SmartVolume Leave-in Conditioner just before using WonderBalm.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>styling products</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10296043905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>EVOLVh-WonderBalm100ml</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10295955009</id>
+    <published>2017-10-28T12:56:19-04:00</published>
+    <updated>2017-10-28T12:56:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartcurl-hydrating-conditioner"/>
+    <title>SmartCurl Hydrating Conditioner</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartCurl_Conditioner.jpg?v=1531187580" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Conditioner<br />
+        <strong>Price: </strong>
+            11.00 - 102.00
+            <a href="https://www.carbonbeauty.com/products/smartcurl-hydrating-conditioner">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ultimate hydrating conditioner for every curl type - experience the smoothest hair you've ever had with increased strength, shine, softness and curl formation. Simply dreamy is an understatement.</p>
+<p>• Ultra-hydrating silky rich formula deep conditions each strand</p>
+<p>• Formulated for curly, thick, or coarse hair that needs softness, manageability, definition, and moisture</p>
+<p>• Restores &amp; repairs, minimizes breakage and maximizes growth</p>
+<p>• Increases color retention</p>
+<p>• Paraben, silicone, panthenol and gluten free</p>
+<p>• Vegan &amp; Never tested on animals</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), brassicamidopropyl dimethylamine, dicapryl succinate, brassica glycerides*, palm oil, kiwi seed extract, castor oil, mango, lecithin, sunflower oil, soya, safflower oil, soy amino acids, vitamin C, wild pansy, sweet clover, apricot, nasturtium, nectarine, passion flower, SmartScent™ citrus seed extract. * Eco-certified Ingredients</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After shampooing with SmartCurl Hydrating Wash, apply conditioner to hair, focusing on mid-lengths and ends, then rinse with warm water. For intensive moisturizing, comb hair after applying and leave in for five minutes.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>conditioners</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair conditioner</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295955009</id>
+      <title>8.5 oz</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>EVOLVh-SmartCurlHydCond8.5oz</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295955009</id>
+      <title>2 oz</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>EVOLVh-SmartCurlHydCond2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295955009</id>
+      <title>1 Liter / 33.8 fl oz</title>
+      <s:price currency="USD">102.00</s:price>
+      <s:sku>EVOLVh-SmartCurlCONDLiter</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10295883009</id>
+    <published>2017-10-28T12:56:19-04:00</published>
+    <updated>2017-10-28T12:56:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartcurl-hydrating-wash"/>
+    <title>SmartCurl Hydrating Wash</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartCurl_Wash.jpg?v=1531187606" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            10.00 - 96.00
+            <a href="https://www.carbonbeauty.com/products/smartcurl-hydrating-wash">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The dream-come-true wash for curly hair, made with the finest natural &amp; organic ingredients. Gently cleanses without stripping hair's beneficial oils, and infuses essential nutrients for increased strength, shine, softness, and curl formation, resulting in beautiful, easy-to-manage, frizz-free curls.</p>
+<p>• Ultra-Hydrating creamy rich formula gently cleanses and revives curls</p>
+<p>• Formulated for curly, thick, or coarse hair that needs softness, manageability, definition, and moisture</p>
+<p>• Restores &amp; repairs, minimizes breakage and maximizes growth</p>
+<p>• Increases color retention</p>
+<p>• Paraben, silicone, panthenol and gluten free</p>
+<p>• Vegan &amp; Never tested on animals</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), decyl glucose, disodium sulfosuccinate, cocamidopropyl betaine, lauryl glucose, coco polyglucose, kiwi seed oil, almond oil, seaweed extract, citrus aurantifolia, mango, lecithin, sunflower oil, soya, safflower oil, soy amino acids, vitamin C, wild pansy, sweet clover, apricot, nasturtium, nectarine, passion flower, SmartScent™, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Massage into thoroughly saturated wet hair and scalp. For more lather, repeat with a small amount of wash on the 2nd pass. Follow with SmartCurl Hydrating Conditioner.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>curly hair</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295883009</id>
+      <title>8.5 oz</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>EVOLVh-SmartCurlHydWash8.5oz</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295883009</id>
+      <title>2 oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>EVOLVh-SmartCurlHydWash2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10295883009</id>
+      <title>1 Liter / 33.8 fl oz</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>EVOLVh-SmartCurlWASHLiter</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9939657857</id>
+    <published>2017-07-24T19:03:58-04:00</published>
+    <updated>2017-07-24T19:03:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/healthy-hair-trio"/>
+    <title>Healthy Hair Trio</title>
+    <s:type>hair care set</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Trio_1.jpg?v=1500937423" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>hair care set<br />
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the 3-step ritual that will change your hair life. EVOLVh's approach to caring for your hair is similar to skin care. The products work best as a system for experiencing results like never before. With the Healthy Hair Trio, you will see dramatic improvement in hair texture and reduction in frizz and breakage, plus increased manageability, shine and overall healthy, moisturized, happy hair.</p>
+<p><strong>The Healthy Hair Trio Contains</strong>:</p>
+<p>- UltraShine Moisture Shampoo $26</p>
+<p>- UltraShine Moisture Conditioner $28</p>
+<p>- SmartStart Leave-in Conditioner $28</p>
+<p>Total retail value: $82</p>
+<p>• Color Safe - Vegan - Cruelty Free - Gluten Free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual product pages for more detailed ingredient information!</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair care kit</s:tag>
+    <s:tag>hair care kits</s:tag>
+    <s:tag>hair care sets</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9939657857</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>EVOLVh-HealthyHairTrio</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3869145345</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/healthy-hair-travel-duo"/>
+    <title>Healthy Hair Travel Duo</title>
+    <s:type>hair care set</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Travel_Duo.jpg?v=1452621887" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>hair care set<br />
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your hair in dazzling shape on those long vacations or short-notice business trips with a complete, travel-sized healthy hair solution. These two products have wonderful synergy and will work together to keep your hair sleek, shiny, and radiant when you're on the go.</p>
+<p><strong>This Travel Set Includes</strong>:</p>
+<p>• UltraShine Moisture Shampoo (2.5 oz / 75 ml)</p>
+<p>• UltraShine Moisture Conditioner (2.5 oz / 75 ml)</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual product pages for detailed ingredient information!</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair care kit</s:tag>
+    <s:tag>hair care kits</s:tag>
+    <s:tag>hair care set</s:tag>
+    <s:tag>hair care sets</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3869145345</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>EVOLVH-HealthyHairTravelDuo</s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3869123009</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/straightening-travel-size-collection"/>
+    <title>Smooth Discovery Kit</title>
+    <s:type>hair care set</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Smooth_Discovery_Kit.jpg?v=1524437961" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>hair care set<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A complete system with all of the products you need for a gorgeous, smooth, sleek look, with brilliant shine and without frizz or fly-aways.</p>
+<p><strong>Collection Includes</strong>:</p>
+<p>• UltraShine Moisture Shampoo 2 oz</p>
+<p>• UltraShine Moisture Conditioner 2 oz</p>
+<p>• SmartStart Leave-in Conditioner &amp; Uber Detangler 2 oz</p>
+<p>• SuperFinish Polishing Balm 2 oz</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual product pages for detailed ingredient information!</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">(1) Shampoo and condition with the UltraShine duo. (2) Towel-dry before using the StartSmart Leave-in Conditioner. (3) Apply the SuperFinish Polishing Balm from root to end. (4) Blow-dry and flat-iron. (5) Lightly re-apply a very modest amount of SuperFinish for a final polish.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>getaway</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair care kit</s:tag>
+    <s:tag>hair care set</s:tag>
+    <s:tag>hair care sets</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3869123009</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>EVOLVH-StraighteningTravelSizeCollection</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3869044289</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/volume-travel-size-collection"/>
+    <title>Volume Discovery Kit</title>
+    <s:type>Travel Kit</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Volume_Discovery_Kit.jpg?v=1524439360" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Travel Kit<br />
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A simple and easy all-natural system for stunning volume, that's soft to the touch and with brilliant shine!</p>
+<p><strong>Discovery Kit Includes</strong>:</p>
+<p>• UltraShine Moisture Shampoo (2 oz)</p>
+<p>• UltraShine Moisture Conditioner (2 oz)</p>
+<p>• SmartVolume Volumizing Leave-In Conditioner (2 oz)</p>
+<p>• TotalControl Styling Creme (2 oz)</p>
+<p>• Reusable recyclable Zip Pouch + Instruction Card</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual product pages for detailed ingredient information!</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">(1) Cleanse and treat with UltraShine Moisture Shampoo and Conditioner. (2) Spray towel dried damp hair with SmartVolume, approximately 10-12 spray pumps roots to ends, more product at root for extra lift. (3) Blow-dry hair away from scalp either with a round brush or simply using gravity by hanging head upside down while blow-drying. (4) When hair is 50% dry, apply TotalControl Styling Creme, root to ends, more product at root for extra lift. Use nickel sized amount from root to mid-shaft, dime sized amount from mid-shaft to ends. (5) Finish blow-drying hair away from scalp. And voila! Stunning beautiful Volume.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Additional Go Big Tips <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Volume created using SmartVolume &amp; TotalControl should last into Day 2 and often even Day 3. When flat-ironing for a pin-straight look, apply SmartVolume or SmartStart &amp; TotalControl prior to blow-drying for heat protection and to help hair stay smooth, straight, super shiny and with lots of movement. EVOLVh products are magic anytime you're using a hot iron!</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>gift list</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair care kit</s:tag>
+    <s:tag>hair care set</s:tag>
+    <s:tag>hair care sets</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3869044289</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>EVOLVH-VolumeTravelSizeCollection</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868796417</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/superfinish-polishing-balm"/>
+    <title>SuperFinish Polishing Balm</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SuperFinish.jpg?v=1524621731" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Styling<br />
+        <strong>Price: </strong>
+            12.00 - 32.00
+            <a href="https://www.carbonbeauty.com/products/superfinish-polishing-balm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Many stylists call SuperFinish the perfect product. It delivers brilliant shine, de-frizzing and fly-away control, plus it moisturizes and protects without being greasy or adding weight - making it an incredible alternative to oils.</p>
+<p>• Eliminate frizz + fly-away control</p>
+<p>• Moisture for dry ends + heat protection for heat styling</p>
+<p>• UV protection</p>
+<p>• A must for every time you use a flat-iron</p>
+<p>• Use in wet hair prior to blow drying and in dry hair to finish/polish smooth looks or to add shine</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), hydrolyzed silk, soy bran lipids, jojoba oil, passion flower, Vit E crystals, cyclomethicone, cyclopentasiloxane, corn starch, ambrosia, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to damp hair when air drying. You can also use it too dry hair after blow-drying and/or flat ironing to smooth and polish for a sleek look. You'll have hair with brilliant shine and without frizz or pesky fly-aways.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair styling</s:tag>
+    <s:tag>hair styling product</s:tag>
+    <s:tag>hair styling products</s:tag>
+    <s:tag>styling products</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868796417</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>EVOLVH-SuperFinishPolishBalm8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868796417</id>
+      <title>2 fl oz / 59 ml</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>EVOLVH-SuperFinishPolishBalm2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868704641</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/totalcontrol-styling-creme"/>
+    <title>TotalControl Styling Creme</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Total_Control.jpg?v=1524621811" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Styling<br />
+        <strong>Price: </strong>
+            11.00 - 28.00
+            <a href="https://www.carbonbeauty.com/products/totalcontrol-styling-creme">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This versatile botanical formula is ideal for creating fullness and volume, and can also be used to hold curls when styling with a curling iron. It feels virtually weightless in hair and also adds shine + defrizzes.</p>
+<p>• Blow-dry with a round brush for volume</p>
+<p>• Curl hair with an iron, and watch the curl hold for 24 hours</p>
+<p>• Create and hold a wet look</p>
+<p>• Style short hair and add texture</p>
+<p>• Reduce frizz and fly-aways</p>
+<p>• Increase shine</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Atmospheric Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), mallow, flax, marigold, chamomile, cyclomethiconal, corn starch, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to damp hair from the roots out. For max volume, blow dry hair off the scalp and use a round brush technique for smoothness and lift.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair styling</s:tag>
+    <s:tag>hair styling products</s:tag>
+    <s:tag>styling products</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868704641</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>EVOLVH-TotalControlStylingCreme8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868704641</id>
+      <title>2 fl oz / 59 ml</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>EVOLVH-TotalControlStylingCreme2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868615873</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ultimate-styling-lotion"/>
+    <title>Ultimate Styling Lotion</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Ultimate_Styling.jpg?v=1524622022" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Styling<br />
+        <strong>Price: </strong>
+            11.00 - 28.00
+            <a href="https://www.carbonbeauty.com/products/ultimate-styling-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Key Functions</strong>: VOLUME, HOLD, SHINE, DEFRIZZ, MANAGE CURLS (for soft smooth bouncy ringlets)</p>
+<p>A botanical formula that truly does everything well: volume, hold, de-frizzing, shine, and manage curls (we call it ringlets in a bottle).</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Atmospheric Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), mallow, flax, marigold, chamomile,cyclomethiconal, corn starch, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">When styling for fullness and volume, apply from the roots out and blow dry hair off the scalp. In curly hair, apply sparingly from roots to mid-length and slightly more product from mid-length to ends for beautiful, smooth ringlets.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair styling</s:tag>
+    <s:tag>hair styling product</s:tag>
+    <s:tag>hair styling products</s:tag>
+    <s:tag>styling products</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868615873</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>EVOLVH-UltimateStylingLotion8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868615873</id>
+      <title>2 fl oz / 59 ml</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>EVOLVH-UltimateStylingLotion2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868566529</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartvolume-volumizing-leave-in-conditioner"/>
+    <title>SmartVolume Volumizing Leave-in Conditioner</title>
+    <s:type>Hair Treatment</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartVolume.jpg?v=1524621683" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Treatment<br />
+        <strong>Price: </strong>
+            11.00 - 29.00
+            <a href="https://www.carbonbeauty.com/products/smartvolume-volumizing-leave-in-conditioner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, water-based formula is made with raw lecithin, a powerful natural extract that fortifies weak strands and prevents future breakage. Flax adds fullness to hair while rice bran and cumin seed oil guard against heat and UV damage. Bergamot fruit oil softens and detangles while preventing flyaways.</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Vegetable Glycerin, Flax, Rice Bran Extract, Black Cumin Seed Oil, Palm Kernel Oil, Lecithin, Pumpkin Seed Oil, Red Raspberry Seed Oil, Red Grape Seed Oil, Cranberry Seed Oil, Citrus Orange Peel Oil, Grapefruit Peel Oil, Lavender Oil, Bergamot Fruit Oil, Patchouli Oil, Cinnamomum Oil, Geranium Flower Oil, Thyme Leaf Oil, Lemongrass Oil, Lemon Peel Oil, Citric Acid, Tocopherol Vitamin E, Grape Seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After showering, spritz a generous amount evenly through damp, towel-dried hair. Let it sink in for a minute before styling as usual. Bonus: it can also be applied to dry hair to refresh lifeless locks.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>conditioners</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair conditioner</s:tag>
+    <s:tag>hair treatment</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>leave in conditioner</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868566529</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>EVOLVH-SmartVolVolumizConditioner8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868566529</id>
+      <title>2 fl oz / 59 ml</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>EVOLVH-SmartVolVolumizConditioner2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868510913</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartstart-leave-in-conditioner-uber-detangler"/>
+    <title>SmartStart Leave-in Conditioner + Uber Detangler</title>
+    <s:type>Hair Treatment</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/AMAZON_SmartStart.jpg?v=1524621624" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Treatment<br />
+        <strong>Price: </strong>
+            10.00 - 28.00
+            <a href="https://www.carbonbeauty.com/products/smartstart-leave-in-conditioner-uber-detangler">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, water-based formula is made with raw lecithin, a powerful natural extract that fortifies weak strands and prevents future breakage. A duo of rice bran and cumin seed oil guards against heat and UV damage, while bergamot fruit oil softens, detangles and prevents flyaways.</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Vegetable Glycerin, Rice Bran Extract, Black Cumin Seed Oil, Palm Kernel Oil, Lecithin, Pumpkin Seed Oil, Red Raspberry Seed Oil, Red Grape Seed Oil ,Cranberry Seed Oil, Citrus Orange Peel Oil, Grapefruit Peel Oil, Lavender Oil, Bergamot Fruit Oil, Patchouli Oil, Cinnamomum Oil, Geranium Flower Oil, Thyme Leaf Oil, Lemongrass Oil, Lemon Peel Oil, Citric Acid, Tocopherol Vitamin E, Grape Seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After showering, spritz a generous amount evenly through damp, towel-dried hair. Let it sink in for a minute before styling as usual. Bonus: it can also be applied to dry hair to refresh lifeless locks.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatment</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>leave in conditioner</s:tag>
+    <s:tag>leave-in</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868510913</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>EVOLVH-SmartStartLeaveInConditioner8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868510913</id>
+      <title>2.5 fl oz / 75 ml</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>EVOLVH-SmartStartLeaveInConditioner2.5oz</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868400321</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ultrarepair-masque"/>
+    <title>UltraRepair Masque</title>
+    <s:type>Hair Treatment</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_UltraRepair_Masque.jpg?v=1524622234" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Hair Treatment<br />
+        <strong>Price: </strong>
+            16.00 - 127.00
+            <a href="https://www.carbonbeauty.com/products/ultrarepair-masque">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An intensive treatment for hair that has been compromised by color or bleach processing, heat styling, or environmental factors. Highly effective for smoothing coarse, curly or frizz-prone hair, it leaves hair bouncy, more elastic (less prone to breakage and split ends), shiny and silky no matter its previous condition.</p>
+<p>Most other 'deep conditioners' and hair 'masques' act mainly on the <em>surface</em> of the hair, but UltraRepair penetrates <em>deep into </em>hair, which is a must for real, transformational repair and strengthening to occur. Hair doesn't heal overnight, so repeating the masque at regular intervals, as well using EVOLVh UltraShine Shampoo and UltraShine Conditioner between masque treatments, will yield significant long-term benefits.</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base) stearylkonium chloride, silk amino acids, glyceryl monostearate, palm oil, mango, lecithin, sunflower oil, soya, safflower oil, soy amino acids, vitamin C, wild pansy, sweet clover, apricot, nasturturm, nectarine, passion flower, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shampoo with EVOLVh UltraShine Moisture Shampoo, rinse and towel dry hair lightly until hair is damp. Proceed to apply UltraRepair until hair is modestly saturated (thin layer of saturation) and comb through with wide tooth comb for even distribution. Bag hair (shower cap style baggie) and wait 15 minutes before rinsing. After rinsing, towel dry hair and apply your favorite EVOLVh styling product or StartSmart Leave-in Conditioner Spray for heat protection and other benefits, then style as desired (air dry or style with heat/blow-dry).
+<p>Use UltraRepair Masque weekly, monthly or as-needed. One 8.5 oz bottle contains 8-24 applications (2-6 months of weekly use, depending on hair length and thickness). Average use per application is 0.75 oz.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair mask</s:tag>
+    <s:tag>hair masque</s:tag>
+    <s:tag>hair treatment</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868400321</id>
+      <title>8.5 oz / 250 ml</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>EVOLVH-UltraRepairMasque8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868400321</id>
+      <title>2 fl oz / 59 ml</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>EVOLVH-UltraRepairMasque2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868400321</id>
+      <title>33.8 oz / 1 liter</title>
+      <s:price currency="USD">127.00</s:price>
+      <s:sku>EVOLVH-UltraRepairMasque33.8oz</s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868189761</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ultrashine-moisture-conditioner"/>
+    <title>UltraShine Moisture Conditioner</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_UltraShine_Conditioner.jpg?v=1524623094" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Conditioner<br />
+        <strong>Price: </strong>
+            9.00 - 75.00
+            <a href="https://www.carbonbeauty.com/products/ultrashine-moisture-conditioner">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Versatile enough to tame a spectrum of hair types, from straight to curly, and fine to super thick, it detangles and adds shine, and is also safe for chemically treated or colored hair. Active ingredients include wild pansy, sweet clover, and apricot extracts, all of which contain nourishing antioxidants, plus amino and fatty acids which restore hair from the inside out and provide anti-aging benefits.</p>
+<p>• For dry, over-processed or frizzy hair that needs moisture, or fine hair that needs volume</p>
+<p>• For curly, thick or coarse hair that needs softness, manageability and less frizz</p>
+<p>• Prevents breakage and split-ends, and is a superb detangler</p>
+<p>• Silicone free, alcohol free, paraben free, gluten free and vegan</p>
+<p>• Safe for Keratin Smoothing Treatments</p>
+<p>• pH 4.5 to 5.5</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base) stearylkonium chloride, glyceryl monostearate, palm oil, mango, lecithin, sunflower oil, soya, safflower oil, soy amino acids, vitamin C, wild pansy, sweet clover, apricot, nasturtium, nectarine, passion flower, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After shampooing, apply UltraShine Moisture Conditioner to hair, focusing on mid-lengths and ends. Rinse immediately or leave on for up to five minutes for more intensive results, then rinse away with warm water.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>conditioners</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair conditioner</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868189761</id>
+      <title>8.5 oz / 250 ml</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistCONDITIONER8.5oz</s:sku>
+      <s:grams>482</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868189761</id>
+      <title>2.5 fl oz / 75 ml</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistCONDITIONER2.5oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868189761</id>
+      <title>33.8 fl oz / 1 liter</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistCONDITIONER33.8oz</s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3868079745</id>
+    <published>2016-01-12T13:29:00-05:00</published>
+    <updated>2016-01-12T13:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ultrshine-moisture-shampoo"/>
+    <title>UltraShine Moisture Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_UltraShine_Shampoo_8.5oz.jpg?v=1524623069" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            8.00 - 72.00
+            <a href="https://www.carbonbeauty.com/products/ultrshine-moisture-shampoo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color safe and great for all hair types, this shampoo is beloved by discerning stylists. It balances hair’s pH level in order to leave it strong and silky, contains ingredients such as seaweed extract, mango, and apricot to deliver crucial nutrients to thirsty strands, and allows amino and fatty acids to restore hair from the inside out, providing anti-aging benefits.</p>
+<p>• For dry hair that needs moisture, or fine hair that needs volume</p>
+<p>• For curly, thick or coarse hair that needs softness, manageability and less frizz</p>
+<p>• For color that's more vibrant, reduces fading</p>
+<p>• Sulfate free, paraben free, gluten free, vegan</p>
+<p>• Safe for Keratin Smoothing Treatments</p>
+<p>• pH 4.5 to 5.5</p>
+<p>All EVOLVh products are sulfate, paraben and sodium chloride (salt) free. They are also vegan, contain no animal products, and are never tested on animals.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, pHytoBlend (proprietary concentrate blend of 20 herbs in an aqueous base), decyl glucose, disodium sulfosuccinate, cocamidopropyl betaine, lauryl glucose, coco polyglucose, seaweed extract, citrus aurantifolia, mango, lecithin, sunflower oil, soya, safflower oil, soy amino acids, vitamin C, wild pansy, sweet clover, apricot, nasturtium, nectarine, passion flower, citrus seed extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Wet your hair in the shower, squeeze out a small amount of shampoo and massage into hair and scalp. If you don't get the explosive lather you desire, repeat with just a small amount of shampoo on the 2nd pass. Rinse away with warm water, and follow with conditioner.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>evolvh</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair wash</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>shampoos</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868079745</id>
+      <title>8.5 fl oz / 250 ml</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistureShampoo8.5oz</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868079745</id>
+      <title>2.5 fl oz / 75 ml</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistureShampoo2.5oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3868079745</id>
+      <title>33.8 fl oz / 1 liter</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>EVOLVH-UltraShineMoistureShampoo33.8oz</s:sku>
+      <s:grams>1191</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/wellness.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2019-04-09T09:14:16-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1753784057946</id>
+    <published>2019-04-09T09:14:16-04:00</published>
+    <updated>2019-04-09T09:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hemp-seed-oil-capsules"/>
+    <title>Hemp Seed Oil Capsules</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Tonik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hemp_Seed_Oil_FRONT.jpg?v=1554665524" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tonik<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With oceans more benefits than fish oil you need to hook into hemp seed oil stat! For those looking for a plant-based/vegan alternative to fish oil products, hemp seed oil is an excellent choice.*</p>
+<p>- Can assist in regenerating &amp; energizing the skin's protective layer*</p>
+<p>- Can assist in improving skin oxygenation &amp; hydration*</p>
+<p>- Can assist with fighting &amp; controlling inflammation*</p>
+<p>- Can assist vegetarians in getting the right balance of Omega-3 &amp; Omega-6 Fatty Acids*</p>
+<p>• 120 capsules | each capsule contains 1000mg of Hemp Seed Oil</p>
+<p>• Organic, Vegan, Gluten-free, Non-GMO, No Preservatives, No Preservatives</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Hemp Seed Oil, Vegetable Cellulose.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult with your doctor prior to using this product. Tonik recommends taking 3-6 capsules per day with food.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>hemp seed oil</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1753784057946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>Tonik-HempSeedOilCaps-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1753771999322</id>
+    <published>2019-04-09T09:14:16-04:00</published>
+    <updated>2019-04-09T09:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/turmeric-capsules"/>
+    <title>Turmeric Capsules</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Tonik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Turmeric_FRONT.jpg?v=1554665531" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tonik<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curcumin has more health benefits than a whole medicine chest. Curcumin is the active compound in turmeric, a bright yellow, ancient spice and a traditional remedy that has been used for health &amp; wellness dating back to more than 2000 years.*</p>
+<p>- Can assist with fighting + controlling inflammation*</p>
+<p>- Can assist with joint &amp; muscle health*</p>
+<p>- Can assist in boosting cognitive function*</p>
+<p>• 120 capsules | each capsule contains 750mg of Curcumin BCM 95</p>
+<p>• Organic, Gluten-free, Non-GMO, No Preservatives, No Artificial flavors or Preservatives</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Curcumin BCM 95 750mg, Capsule (gelatine, glycerol, E171, water)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult with your doctor prior to using this product. Tonik recommends taking 1-2 capsules per day.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1753771999322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>Tonik-TurmericCaps-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1753763545178</id>
+    <published>2019-04-09T09:14:15-04:00</published>
+    <updated>2019-04-09T09:14:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/coconut-oil-capsules"/>
+    <title>Coconut Oil Capsules</title>
+    <s:type>Supplement</s:type>
+    <s:vendor>Tonik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Coconut_Oil_Front.jpg?v=1554665528" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tonik<br />
+        <strong>Type: </strong>Supplement<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pure Organic Coconut Oil, coming to you in the form of an easy to swallow gel capsule, in a travel-friendly bottle. One of the secret treasures of the universe, Coconut Oil helps enhance your inner + outer radiance.*</p>
+<p>- Can assist collagen stimulation*</p>
+<p>- Can assist in reducing inflammation*</p>
+<p>- Can assist with improving digestion*</p>
+<p>• 120 capsules | each capsule contains 850mg of Coconut Oil</p>
+<p>• Organic, Gluten-free, Non-GMO, No Preservatives, No Artificial flavors or Preservatives</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Coconut Oil, Gelatin, Sunflower Oil, Glycerin, Water, Titanium Dioxide (color).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult with your doctor prior to using this product. Tonik recommends taking 1-2 capsules per day.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1753763545178</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Tonik-CoconutOilCaps-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1753751519322</id>
+    <published>2019-04-09T09:14:15-04:00</published>
+    <updated>2019-04-09T09:14:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/apple-cider-vinegar-capsules"/>
+    <title>Apple Cider Vinegar Capsules</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Tonik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Apple_Cider_Vinegar_FRONT.jpg?v=1554665475" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tonik<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All of the benefits of organic apple cider vinegar now delivered in an easy-to-digest gel capsule, for the best detoxifying benefits (and countless others) for your body + complexion.*</p>
+<p>- Can assist in toning, clarifying, &amp; clearing skin*</p>
+<p>- Can assist in aiding indigestion &amp; promote a healthy digestive system*</p>
+<p>- Can assist in detoxing the body &amp; boosting natural energy levels*</p>
+<p>• 120 capsules | each capsule contains 600 mg of apple cider vinegar</p>
+<p>• Organic, Gluten-free, Non-GMO, No Preservatives, No Artificial flavors or Preservatives</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Apple Cider Vinegar, Soybean Oil, Gelatin, Glycerin, Soy Lecithin, Beeswax, Water, Titanium Dioxide (color).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult with your doctor prior to using this product. Tonik recommends taking 1-2 capsules per day.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>apple cider vinegar</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1753751519322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Tonik-AppCidVinCaps-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1741655408730</id>
+    <published>2019-04-07T13:45:52-04:00</published>
+    <updated>2019-04-07T13:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nootro-focus"/>
+    <title>Nootro-Focus</title>
+    <s:type>Supplement</s:type>
+    <s:vendor>The Nue Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Nootro-Focus.jpg?v=1554231988" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Nue Co.<br />
+        <strong>Type: </strong>Supplement<br />
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A cognitive supplement designed to heighten mental clarity + sharpen your focus. Nootro-Focus uses natural nootropics and patented ingredient technology to support your brain health now, and in the future.</p>
+<p>Cognitive supplements fall into two camps: they’re either instant effect with no long-lasting impact, or have no immediate results and little reassurance that your mind is improving over time. The ingredients in Nootro-Focus are clinically proven to increase neurotransmitter activity and fuel the brain, while improving memory, attention + focus*.</p>
+<p>Short term, Nootro-Focus works to reduce restlessness and sharpen mental clarity, increasing Alpha brain waves, helping you zone in on the task in front of you*. Within six weeks, the ingredients in the formula have been clinically proven to increase the production of crucial “brain fuel” ATP (adenosine triphosphate) by 13.6%, and increase the formation of brain cell membranes by 26%*.</p>
+<p>Clinical studies show that memory + recall is improved within six weeks, while nerve growth factor (NGF), which aids neurogenesis and protects the brain, is sustained in the long-term*.</p>
+<p>• 60 capsules per container = one month supply</p>
+<p>• 100% caffeine-free and designed for daily use.</p>
+<p>• Free from fillers, bulking agents, flavorings, colorings and sweeteners. Non-GMO. Gluten-Free. Dairy-Free. Vegan. Caffeine-Free. Soy-Free.</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lion's Mane Mushroom (organic) 500mg, Citicoline (Cognizin) 250mg, Bacopa Monniere Leaf Extract 225mg, L-Theanine (Suntheanine) 100mg, Ginkgo Bilobaleaf Extract 60mg, Rhodiola Rosearoot Extract 50mg. Other Ingredients: hypromellose, organic rice extract, organic rice hulls, organic gum arabic, organic sunflower oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult with your doctor prior to using this product. The Nue Co. recommends taking two capsules every morning with breakfast.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>attention</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>focus</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1741655408730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>NueCo-NootroFocus-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1730517172314</id>
+    <published>2019-04-02T12:54:19-04:00</published>
+    <updated>2019-04-02T12:54:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/variety-pack-marine-collagen-bar-3-bar-box"/>
+    <title>Variety Pack Marine Collagen Bar (3 Bar Box)</title>
+    <s:type>Collagen</s:type>
+    <s:vendor>Kalumi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Variety_Pack.jpg?v=1554057398" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kalumi<br />
+        <strong>Type: </strong>Collagen<br />
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A full serving of skin-nourishing collagen that actually tastes good, to support hydrated, glowing skin, plus age-defying antioxidants essential for collagen absorption and retention.</p>
+<p><strong>Cocoa Kiss</strong>: A rich, chocolate brownie fortified with marine collagen and crunchy cacao nibs.</p>
+<p><strong>Lemon Love</strong>: Zesty, savory and sweet!</p>
+<p><strong>Sweetie Pie</strong>: Mixed with sweet potato, coconut, vanilla and spices that will remind you of gingerbread cookies and crackling fires all year round.</p>
+<p>• 3 Bar Box | One of each flavor</p>
+<p>• Each bar contains a FULL 12 gram serving of Marine Collagen</p>
+<p>• Marine Collagen can help hydrate the skin from within and has anti-aging properties*</p>
+<p>• Marine Collagen can help combat cellulite*</p>
+<p>• Marine Collagen absorbs faster than other Collagen sources*</p>
+<p>• High Fiber can support regularity*</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Cocoa Kiss</strong>: Almond, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Cocoa, Tapioca, Cocoa Butter, Cacao Nibs, Sweet Potato, Sea Salt.</p>
+<p><strong>Lemon Love</strong>: Cashew, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Sweet Potato, Cocoa Butter, Tapioca, Vanilla, Rosemary, Lemon, Sea Salt.</p>
+<p><strong>Sweetie Pie</strong>: Cashew, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Sweet Potato, Cocoa Butter, Tapioca, Coconut, Vanilla, Cinnamon, Sea Salt.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Please consult with your physician before using this product.</p>
+<p>For best results, Kalumi recommends a daily dose of Kalumi BEAUTYfood. Their exclusive protein-packed formula has a full serving of hydrolyzed marine collagen, slow-releasing carbs (sweet potatoes) and healthy fats (cocoa butter, nuts), which means you’ll stay satiated longer.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>collagen</s:tag>
+    <s:tag>kalumi</s:tag>
+    <s:tag>marine collagen</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>protein bar</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1730517172314</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Kalumi-VarietyPack3Bar-SFA</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1730429845594</id>
+    <published>2019-04-02T12:54:19-04:00</published>
+    <updated>2019-04-02T12:54:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/kalumi-beauty-food-collagen-protein-bar"/>
+    <title>Beauty Food Collagen Protein Bar</title>
+    <s:type>Collagen</s:type>
+    <s:vendor>Kalumi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cocoa_Kiss.jpg?v=1554057301" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kalumi<br />
+        <strong>Type: </strong>Collagen<br />
+        <strong>Price: </strong>
+            53.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A full serving of skin-nourishing collagen that actually tastes good, to support hydrated, glowing skin, plus age-defying antioxidants essential for collagen absorption and retention.</p>
+<p><strong>Cocoa Kiss</strong>: A rich, chocolate brownie fortified with marine collagen and crunchy cacao nibs.</p>
+<p><strong>Lemon Love</strong>: Zesty, savory and sweet!</p>
+<p><strong>Sweetie Pie</strong>: Mixed with sweet potato, coconut, vanilla and spices that will remind you of gingerbread cookies and crackling fires all year round.</p>
+<p><strong>Cheeky Chai</strong>: Reminiscent of our favorite vanilla chai latte!</p>
+<p>• 9 Bar Box</p>
+<p>• Each bar contains a FULL 12 gram serving of Marine Collagen</p>
+<p>• Marine Collagen can help hydrate the skin from within and has anti-aging properties*</p>
+<p>• Marine Collagen can help combat cellulite*</p>
+<p>• Marine Collagen absorbs faster than other Collagen sources*</p>
+<p>• High Fiber can support regularity*</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Cocoa Kiss</strong>: Almond, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Cocoa, Tapioca, Cocoa Butter, Cacao Nibs, Sweet Potato, Sea Salt.</p>
+<p><strong>Lemon Love</strong>: Cashew, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Sweet Potato, Cocoa Butter, Tapioca, Vanilla, Rosemary, Lemon, Sea Salt.</p>
+<p><strong>Sweetie Pie</strong>: Cashew, Hydrolyzed Marine Collagen Peptides, Yacon Syrup, Sweet Potato, Cocoa Butter, Tapioca, Coconut, Vanilla, Cinnamon, Sea Salt.</p>
+<p><strong>Cheeky Chai</strong>: Sunflower Seed Butter, Hydrolyzed Marine Collagen Peptides, Organic Yacon Syrup, Sweet Potato, Cocoa Butter, Tapioca, Vanilla, Cinnamon, Ginger, Sea Salt, Turmeric, Clove, Black Pepper, Cardamom.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Please consult with your physician before using this product.</p>
+<p>For best results, Kalumi recommends a daily dose of Kalumi BEAUTYfood. Their exclusive protein-packed formula has a full serving of hydrolyzed marine collagen, slow-releasing carbs (sweet potatoes) and healthy fats (cocoa butter, nuts), which means you’ll stay satiated longer.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>collagen</s:tag>
+    <s:tag>collagen supplement</s:tag>
+    <s:tag>kalumi</s:tag>
+    <s:tag>marine collagen</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1730429845594</id>
+      <title>Cocoa Kiss</title>
+      <s:price currency="USD">53.91</s:price>
+      <s:sku>Kalumi-CocoaKiss9Bar-SFA</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1730429845594</id>
+      <title>Lemon Love</title>
+      <s:price currency="USD">53.91</s:price>
+      <s:sku>Kalumi-LemonLove9Bar-SFA</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1730429845594</id>
+      <title>Sweetie Pie</title>
+      <s:price currency="USD">53.91</s:price>
+      <s:sku>Kalumi-SweetiePie9Bar-SFA</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1730429845594</id>
+      <title>Cheeky Chai</title>
+      <s:price currency="USD">53.91</s:price>
+      <s:sku>Kalumi-CheekyChai9Bar-SFA</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616097149018</id>
+    <published>2019-01-16T10:55:40-05:00</published>
+    <updated>2019-01-16T10:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bincho-teapot"/>
+    <title>Bincho Teapot</title>
+    <s:type>teapot</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Teapot_1.jpg?v=1546544619" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>teapot<br />
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sort of Coal's heat-resistant glass teapot features a beautifully minimalist aesthetic with two sticks of Kishu Binchotan.</p>
+<p>The water used to brew tea has a real effect on its taste. White Charcoal naturally purifies water by adsorbing chlorine and adding minerals to it; softening its taste and turning it into mineral water. In collaboration with MATIAS MOELLENBACH, Sort of Coal has combined the ancient Japanese tradition of Kishu Binchotan with various elements of contemporary Danish design. 650 ml.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Binchotan: Activated White Charcoal</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Start by rinsing the Binchotan under cold tap water. In order to sterilize the Binchotan, it needs to be boiled before use. Place the binchotan in a pot of water and let it rise to a boil for 5 minutes. Turn off the heat, drain the water and let the Binchotan cool in the pot. The teapot is dishwasher safe.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>teapot</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>water bottle</s:tag>
+    <s:tag>water purifiers</s:tag>
+    <s:tag>water vessels + purifiers</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616097149018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>SOC-BinchoTeapot-SFA</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616071524442</id>
+    <published>2019-01-16T10:55:22-05:00</published>
+    <updated>2019-01-16T10:55:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sleep-kit"/>
+    <title>Sleep Kit</title>
+    <s:type>Travel Kit</s:type>
+    <s:vendor>The Nue Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sleep_Kit.jpg?v=1546540135" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Nue Co.<br />
+        <strong>Type: </strong>Travel Kit<br />
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnesium Ease and Sleep Drops work together to calm the body + mind, delivering a restful sleep. Drift off naturally, with no next day effects.</p>
+<p><strong>Sleep Drops</strong></p>
+<p>Valerian root + passionflower induce a sense of tranquility, while catnip + chamomile work together to calm your central nervous system, even at 30,000 feet. Alcohol-free + non habit-forming, this formula will help you fall asleep and stay asleep, without any residual drowsy feelings the next day.</p>
+<p><strong>Magnesium Ease</strong></p>
+<p>Recent studies have shown that up to 80% of Americans are deficient in magnesium. This essential mineral is vital for over 325 biochemical reactions in the body and lack of it has been shown to negatively impact sleep quality, muscle, nerve + heart function. Magnesium sprays like The Nue Co.'s are five times more effective than taking a traditional supplement. They pair high quality magnesium chloride with lavender and arnica oil, which contains helanalin — a potent anti-inflammatory. Together the three ingredients efficiently aid relaxation + reduce muscle tension. Don't be surprised if you feel a slight tingling sensation after your first application—it's totally normal and a good sign that it's working!</p>
+<p>• Natural + Organic Ingredients</p>
+<p>• Made in the UK</p>
+<p>• The Nue Co. does not dilute their products with anything, which includes natural thickeners or flavorings.</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Magnesium Ease</strong>: Water, Magnesium Chloride, Polyglyceryl-4 Laurate/Sebacate*, Polyglyceryl-6 Caprylate/Caprate*, Lavender Oil, Arnica Oil, Dehydroacetic acid, Benzyl alcohol.</p>
+<p><strong>Sleep Drops</strong>: Purified water, glycerine, Valerian root tincture, catnip tincture, german chamomile flower tincture, passionflower tincture, citric acid*, potassium sorbate*.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take up to 30 minutes before bedtime to ease tension and help with relaxation. Place the Sleep Drops directly under the tongue for absorption. Then 3 sprays of Magnesium Ease delivers 45mg of magnesium. 6-12 drops of Sleep Drops under the tongue and 3 sprays of Magnesium Ease on aching muscles before bed.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>cold + flu</s:tag>
+    <s:tag>cold + flu remedies</s:tag>
+    <s:tag>sleep</s:tag>
+    <s:tag>sleep remedy</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616071524442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>NueCo-SleepKit-SFA</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615261040730</id>
+    <published>2019-01-04T18:03:46-05:00</published>
+    <updated>2019-01-04T18:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/travel-kit-1"/>
+    <title>Travel Kit</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Travel_Kit_d6aab90e-d18f-4e65-ab03-68c85479c69b.jpg?v=1546378443" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plant-based remedies kit for the modern traveler.</p>
+<p>No matter how far you travel or how many places you go, this kit will provide a sense of calm, relief and wellbeing during your journey. Designed to fix the five most recurrent imbalances of the frequent traveler: jet lag, flight distress, poor digestion, weakened immune system and the occasional cheeky hangover. Formulated using only botanical extracts, minerals and vitamins of superlative quality. See you on the road, wanderer.</p>
+<p><strong>THIS KIT CONTAINS</strong>:</p>
+<p>• something® for dreaming (1 spray x 30ml)</p>
+<p>• something® for a mini-rehab (10 capsules)</p>
+<p>• something® for bloated tums (10 tablets)</p>
+<p>• something® for immunity (2 shots x 15ml)</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>{Something For a Mini Rehab}</strong>: milk thistle extract, artichoke extract, dandelion extract, black radish extract, boldo extract, rosemary extract, zinc gluconate, choline Bitartrate, fumitory extract, manganese gluconate, Inositol, hydroxypropyl methylcellulose, titanium dioxide, sílica, magnesium stearate, maltodextrin.</p>
+<p><strong>{Something For Dreaming}</strong>: passiflora extract, lemon balm extract, lemon essential oil, vitamin b6, vitamin b1, melatonin, potassium sorbate, citric acid, polysorbate 80, sorbitol.</p>
+<p><strong>{Something For Immunity}</strong>: echinacea extract, propolis extract, shiitake extract, acerola extract, copper (cupric sulfate), selenium (sodium selenite), demineralized water, potassium sorbate, citric acid, glycerin, sorbitol.</p>
+<p><strong>{Something For Bloated Tums}</strong>: acacia fiber gum, fructooligosaccharides, pineapple extract (ananas comosus l.), papaya extract (carica papaya l.), charcoal, ginger extract (zingiber officinale roscoe), green anise extract (pimpinella anisum L.), fennel extract (foeniculum vulgare), lactobacillus acidophilus microencapsulated, lactobacillus rhamnosus microencapsulated, bifidobacterium longum microencapsulated.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615261040730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BiocolLabs-TravelKit-SFA</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615260024922</id>
+    <published>2019-01-04T18:03:46-05:00</published>
+    <updated>2019-01-04T18:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-bloated-tums"/>
+    <title>Something For Bloated Tums</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Digestion_1.jpg?v=1546378372" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Most digestive remedies are made of synthetic ingredients that our bodies were not made to absorb. Thus, attacking a problem with another problem. Your bloated tummies don’t need that. Biocol Labs created the post-chemical digestion helper. Something® for bloated tums is a plant-based fix made of probiotics, ginger and chloride, that contributes to normal digestion. It also contains fennel and green anise, which contributes to the normal function of the intestinal tract. Wrapped in a beautiful pocket-size box. Phew.</p>
+<p>• Vegan | GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 1 Blister Pack Containing 10 Capsules</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">acacia fiber gum, fructooligosaccharides, pineapple extract (ananas comosus l.), papaya extract (carica papaya l.), charcoal, ginger extract (zingiber officinale roscoe), green anise extract (pimpinella anisum L.), fennel extract (foeniculum vulgare), lactobacillus acidophilus microencapsulated, lactobacillus rhamnosus microencapsulated, bifidobacterium longum microencapsulated.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take two when bloated or when digestion problems or discomfort occurs. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615260024922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>BiocolLabs-Digestion-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615259238490</id>
+    <published>2019-01-04T18:03:46-05:00</published>
+    <updated>2019-01-04T18:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-a-mini-rehab"/>
+    <title>Something For a Mini Rehab</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Liver_1.jpg?v=1546378347" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drinking nights are fun. Mornings after aren't. Something® for a mini-rehab contains milk thistle, artichoke and choline, which contributes to the maintenance of normal liver function, helping to break down harmful alcohol-induced toxins and restore lost vitamins and minerals. You'll wake up feeling great.</p>
+<p>• Vegan | GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: Blister Pack Containing 10 Capsules.</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">milk thistle extract, artichoke extract, dandelion extract, black radish extract, boldo extract, rosemary extract, zinc gluconate, choline Bitartrate, fumitory extract, manganese gluconate, Inositol, hydroxypropyl methylcellulose, titanium dioxide, sílica, magnesium stearate, maltodextrin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take 2 capsules before drinking. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615259238490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>BiocolLabs-Liver-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615258386522</id>
+    <published>2019-01-04T18:03:46-05:00</published>
+    <updated>2019-01-04T18:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-a-cactus-throat"/>
+    <title>Something For a Cactus Throat</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Throat_1.jpg?v=1546378247" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Throats are very sensitive. Sexy outfits, a couple of drinks, hanging out in smoky environments, long nights with friends or just the usual flu season are just a few examples of things that can upset it. Something® for a cactus throat is a refreshing and effective mixture of copper, propolis and icelandic moss that helps to soothe and make peace with that annoying throat of yours. Be angry no more, senõra cactus.</p>
+<p>• GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 50 ml spray.</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">propolis extract, iceland moss extract (cetraria islandica), lemon essential oil (citrus limon), peppermint essential oil (mentha piperita), copper (cupric sulfate), demineralized water, citric acid, potassium sorbate, maltitol, glycerin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Spray 5 times onto the back of your throat, up to 8 times a day - as long as needed. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>cold + flu</s:tag>
+    <s:tag>cold + flu remedies</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615258386522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BiocolLabs-Throat-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615257763930</id>
+    <published>2019-01-04T18:03:46-05:00</published>
+    <updated>2019-01-04T18:03:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-dreaming"/>
+    <title>Something For Dreaming</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sleeping_1.jpg?v=1546378388" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>You’re restless and you can’t sleep, right? Something® for dreaming contains melatonin, passion flower and lemongrass, which helps to reduce the time it takes to fall asleep and supports your mental and physical relaxation, both of which are essential for a good night’s sleep. Goodnight and sweet dreams.</p>
+<p>• Vegan | GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 30 ml oral spray.</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">passiflora extract, lemon balm extract, lemon essential oil, vitamin b6, vitamin b1, melatonin, potassium sorbate, citric acid, polysorbate 80, sorbitol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">To sleep or fix jetlag: 2 sprays under your tongue before bedtime / To wind down: one spray under your tongue when stressed. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615257763930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>BiocolLabs-Sleeping-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615256518746</id>
+    <published>2019-01-04T18:03:45-05:00</published>
+    <updated>2019-01-04T18:03:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-the-knackered"/>
+    <title>Something For The Knackered</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Tired_1.jpg?v=1546378430" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our lives can be pretty hectic nowadays. The last thing we want is to burn out. Something® for the knackered contains magnesium, which helps to reduce tiredness and fatigue, as well as ginseng, which contributes to vitality. In case of extreme tiredness, Biocol Labs recommends taking two packs and a good rest over the weekend. Say no to knackered.</p>
+<p>• Vegan | GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 5 x 15ml glass ampoule</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">ginseng extract (panax ginseng), magnesium (magnesium bisglycinate), royal jelly, glucoronalactone, vitamin c (l-ascorbic acid), vitamin b3 (nicotinamide), vitamin b6 (pyridoxine hydrochloride), vitamin b2 (riboflavin), vitamin b1 (thiamine hydrochloride), demineralized water, potassium sorbate, citric acid, sorbitol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take one ampoule every morning for 5 days. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615256518746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>BiocolLabs-Tiredness-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615255470170</id>
+    <published>2019-01-04T18:03:45-05:00</published>
+    <updated>2019-01-04T18:03:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-immunity"/>
+    <title>Something For Immunity</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Immunity_aa2cd822-136b-4362-8d81-c7b29ea2f3e1.jpg?v=1546378427" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Every season comes with sneezes, stuffy noses and a thermometer stuck in your mouth. To keep you out of your sick bed, something® for immunity contains an optimized mixture of shiitake, echinacea and copper, which contributes to the normal function of the immune system.</p>
+<p>• Flavor: Shiitake Mushroom With A Sprinkle Of Honey</p>
+<p>• GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 7 x 15ml glass ampoule</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">echinacea extract, propolis extract, shiitake extract, acerola extract, copper (cupric sulfate), selenium (sodium selenite), demineralized water, potassium sorbate, citric acid, glycerin, sorbitol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take one ampoule every morning for seven days. Drink by itself or dilute it in water or juice. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>cold + flu</s:tag>
+    <s:tag>cold + flu remedies</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615255470170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>BiocolLabs-Immunity-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1615254585434</id>
+    <published>2019-01-04T18:03:45-05:00</published>
+    <updated>2019-01-04T18:03:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/something-for-a-detox-week"/>
+    <title>Something For a Detox Week</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Biocol Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Detox_1.jpg?v=1546370848" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Biocol Labs<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Something® for a detox week contains a purifying blend of ingredients, such as chicory, artichoke and choline, that contributes to the maintenance of a normal liver function and supports the detoxification and elimination of additives, food excesses, and pollution effects. Biocol Labs recommends taking one pack per month together with a plant-based, whole food diet. That’s right, show your liver some love.</p>
+<p>• Flavor: Green Apple</p>
+<p>• Vegan | GMO free | Refined Sugar Free | Gluten Free | Lactose Free</p>
+<p>• Size: 7 x 15ml glass ampoule</p>
+<p>• These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">artichoke extract (cynara scolymus), fennel extract (foeniculum vulgare), choline (as choline bitartrate), chicory extract (cichorium intybus l.), rosemary extract (rosmarinus officinalis), l-arginine hydrochloride, inositol, bromelain, papain, manganese ( as manganese sulfate), zinc ( as zinc sulfate), demineralized water, citric acid, potassium sorbate, sorbitol, glycerin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Take one ampoule every morning for seven days. Drink by itself or dilute it in water or your favorite juice. A plant-based, wholefood diet is recommended. Please consult your physician or other health care professional before using this product.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1615254585434</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>BiocolLabs-Detox-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1488165044314</id>
+    <published>2018-10-30T11:36:15-04:00</published>
+    <updated>2018-10-30T11:36:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/chloe-eye-mask-in-monochrome-stripe"/>
+    <title>Chloe Eye Mask in Monochrome Stripe</title>
+    <s:type>eye mask</s:type>
+    <s:vendor>Louvelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Chloe_Eye_Mask_Monochrome.jpg?v=1540428296" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Louvelle<br />
+        <strong>Type: </strong>eye mask<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This luxury padded eye mask made from high-quality cotton silk has a soft, cool feel on the skin. Designed with directional prints and soft adjustable elastic for a comfortable fit.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>eye mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1488165044314</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Louvelle-ChloeEyeMaskMonochrome-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1488163864666</id>
+    <published>2018-10-30T11:36:15-04:00</published>
+    <updated>2018-10-30T11:36:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/chloe-eye-mask-in-cactus-garden"/>
+    <title>Chloe Eye Mask in Cactus Garden</title>
+    <s:type>Hair Towel</s:type>
+    <s:vendor>Louvelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Chloe_Eye_Mask_Cactus_Garden.jpg?v=1540428934" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Louvelle<br />
+        <strong>Type: </strong>Hair Towel<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This luxury padded eye mask made from high-quality cotton silk has a soft, cool feel on the skin. Designed with directional prints and soft adjustable elastic for a comfortable fit.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>eye masks</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1488163864666</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Louvelle-ChloeEyeMaskCactus-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1348496752730</id>
+    <published>2018-10-07T12:20:21-04:00</published>
+    <updated>2018-10-07T12:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nourish"/>
+    <title>Nourish</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>BEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Nourish_685d8f07-17e3-4505-9358-0e7c8c8c7018.jpg?v=1533774329" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BEAR<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>NOURISH</strong> - <em>with Green Australian Lady Finger Bananas</em></p>
+<p><strong>FOR RADIANCE</strong></p>
+<p>NOURISH contains 100% certified organic + biodynamic green Australian Lady Finger bananas. One of the world’s richest sources of Resistant Starch, NOURISH acts as a prebiotic multi-fiber supplement, helping to increase levels of probiotic cultures in the gut.*</p>
+<p>The fermentable fiber helps maintain healthy blood glucose levels in normal individuals and a healthy balance of gut microbiome important for general well-being, energy production and glowing skin.*</p>
+<p>• Vegan, GMO-Free, Gluten Free, Certified Organic</p>
+<p>• Made in Australia</p>
+<p>• 10.58 oz | 300 g Net Weight</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% certified organic and biodynamic green Australia lady finger banana (as dried powder)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Blend 1 tbsp with your morning smoothie, enjoy with nut milk or add to your favorite healthy recipe. Please recycle packaging after use. Consult with your doctor prior to use.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1348496752730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>BEAR-Nourish-SFA</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364990263386</id>
+    <published>2018-10-02T18:05:17-04:00</published>
+    <updated>2018-10-02T18:05:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/planted-plant-based-protein"/>
+    <title>Planted - Plant-Based Protein</title>
+    <s:type>Supplement</s:type>
+    <s:vendor>Vitalfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Protein.jpg?v=1537823953" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitalfit<br />
+        <strong>Type: </strong>Supplement<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VitalFit Planted is a carefully assembled plant-protein made from organic cold-pressed pumpkin seeds and designed to help you move from workday to workout sans stomach aches, bloating, and all things artificial.</p>
+<p>- 24 grams of plant-based protein per serving.</p>
+<p>- Easy to digest, easy on the stomach &amp; allergen-free.</p>
+<p>- Eight essential vitamins &amp; minerals missing from most diets.</p>
+<p>- A full serving of branch-chained amino acids (BCAAs).</p>
+<p><strong>The most complete, most digestible plant protein on the planet.</strong></p>
+<p>VitalFit Planted combines the nutritional properties of organic pumpkin seeds with eight essential ingredients, branch-chained amino acids &amp; digestive enzymes into a complete plant protein. Carefully paired natural ingredients help energize, alkalize, detoxify and fight inflammation throughout your body; all while delivering high-quality protein.*</p>
+<p><strong>Easy on the stomach as it is to drink.</strong></p>
+<p>Other plant proteins combine multiple sources of protein (hemp, soy, pea, etc), making them difficult for our bodies to digest. Vitalfit uses just one source, hydraulically-pressed, organic pumpkin seeds. This all-natural, single-source formula is gluten, grain, sugar, soy, wheat, and dairy free.*</p>
+<p>The result is an easily digestible, hypoallergenic formula-bloating need not apply.*</p>
+<p>• Gluten, grain, sugar, soy, wheat, dairy &amp; GMO-free</p>
+<p>• A raw, vegan, paleo, non-GMO &amp; organic product made in the USA</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Cold-Pressed Pumpkin Seeds, Organic Xylitol (natural sugar alternative), Natural Vanilla Flavors, Guar Gum (natural legume), Stevia Extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitalfit suggests mixing or blending one serving (42g) with 8-12 oz water, almond milk (with a little ice), coffee, yogurt, or favorite smoothie.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>plant protein</s:tag>
+    <s:tag>plant protein powder</s:tag>
+    <s:tag>protein</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364990263386</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>Vitalfit-Planted-SFA</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364989182042</id>
+    <published>2018-10-02T18:05:04-04:00</published>
+    <updated>2018-10-02T18:05:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/red-root-energizing-endurance"/>
+    <title>Red Root - Energizing Endurance</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Vitalfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Red_Root_1.jpg?v=1537823539" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitalfit<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Energizing Endurance From Red-Violet Beets &amp; Raw Red Spinach</strong></p>
+<p>Redroot is an oxygenating, pre-training blend to help prime your body for the workout ahead. Red-violet beets are combined with raw red spinach to deliver stamina-boosting nitrates that keep your muscles feeling fresh and carry you through every circuit, interval, and rep thrown your way.*</p>
+<p>RedRoot is made of two plant-based ingredients shown to:</p>
+<p>- Improve cardio endurance.*</p>
+<p>- Fight muscle fatigue.*</p>
+<p>- Increase energy.*</p>
+<p>- Enhance athletic performance.*</p>
+<p>- Protect your heart.*</p>
+<p><strong>Vitalfit's Plant-Based Take On "Pre-Workout"</strong></p>
+<p>Sans sketchy ingredients, tingly sensations, and a jittery crash. The natural nitrates in RedRoot are the key to letting your inner athlete shine. Your body converts these nitrates to nitric oxide, improving blood flow, reducing lactic acid, and transporting oxygen to your muscles. The endurance-building, fatigue-fighting effect allows you to ramp up the intensity, for longer, and without burning out—it's perfect for high-intensity cardio, functional strength, and challenging stability workouts.</p>
+<p>• No sugar. No sweeteners, &amp; No artificial flavors. Gluten, grain, wheat &amp; dairy free. Vegan.</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Red-Violet Beetroot Extract ~ Beta Vulgaris (3.5g), Raw Red Spinach Extract ~ Amaranthus Dubius (1g).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitalfit suggests mixing 1 loosely packed tbsp in cold water 30 minutes before working out. Try adding a dash of fresh lemon juice for taste.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364989182042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>Vitalfit-RedRoot-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364988133466</id>
+    <published>2018-10-02T18:04:47-04:00</published>
+    <updated>2018-10-02T18:04:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/wildly-omega-a-hyperlocal-non-industrialized-fish-oil"/>
+    <title>Wildly Omega - A Hyperlocal, Non-Industrialized Fish Oil</title>
+    <s:type>Supplement</s:type>
+    <s:vendor>Vitalfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Wildly_Omega_1.jpg?v=1537823461" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitalfit<br />
+        <strong>Type: </strong>Supplement<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A Hyperlocal, Non-Industrialized Fish Oil Made From Wild-Caught New England (Winter) Skate.</strong></p>
+<p>Wildy Omega is a novel, environmentally friendly fish oil made from locally caught skate fish; Wildly Omega isn't just better for the planet, it's better for you, delivering more Omega-3s &amp; DHA than most other fish species used to make fish oil.</p>
+<p>- A daily fish oil that's as good for you as it is for the environment and local New England fisheries.*</p>
+<p>- 675 mg of purified, molecularly distilled Omega-3s per serving. Clean as can be without any heavy metals, PCBs &amp; microbial bacterias.*</p>
+<p>- Burp-free formula sans added colors, flavors or scents - nothin fishy.*</p>
+<p><strong>Fresh from the sea, a stones throw away, better for the planet.</strong></p>
+<p>Vitalfit usually sticks to plants, but when they heard about a pair of sustainable food entrepreneurs making waves with a new type of fish oil... and breathing new life into New England fisheries, they needed to find out more.</p>
+<p>Everything they heard was true. Turns out winter skate is a popular menu item in New England restaurants, but only a small portion of the skate ever makes it to the kitchen. The team at MassOMEGA figured out a way to transform a part of fish usually thrown away (the liver), into a high-quality fish oil.</p>
+<p>Even better, skate oil has higher levels of Omega-3s, DHA, essential and non-essential fatty acids than salmon, tuna, cod, and krill oil combined.* Between supporting local fisherman, eliminating waste, and delivering a great product they were hooked.</p>
+<p>• 25 servings per bottle</p>
+<p>• Gluten-Free, Non-GMO</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Purified, New England Winter Skate Liver Oil (Fish). Water, Gelatin, Glycerin, Rosemary Hips Extract, Green Tea Extract, Sunflower Oil, &amp; Natural Tocopherols For Freshness.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitalfit suggests taking two softgels every morning with your breakfast or water.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>fish oil</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>omega 3</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364988133466</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>Vitalfit-WildlyOmega-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364987052122</id>
+    <published>2018-10-02T18:04:29-04:00</published>
+    <updated>2018-10-02T18:04:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/adapted-adaptogenic-repair-for-a-balanced-mind-body"/>
+    <title>Adapted - Adaptogenic Repair For A Balanced Mind &amp; Body</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Vitalfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Adapted_1.jpg?v=1537823418" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitalfit<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adapted is a plant-based, adaptogenic blend to manage the effects of mental burnout and promote a seamless mind-body connection. Lion's Mane, Lemon Balm, and Holy Basil work together to help balance cortisol levels and regulate adrenal activity, keeping your mind present and your head in the game.*</p>
+<p>Adapted is made of three plant-based ingredients shown to help your body:</p>
+<p>- Manage stress, strain, and burnout.*</p>
+<p>- Replenish energy levels and kick sluggishness.*</p>
+<p>- Boost mood, focus, and awareness.*</p>
+<p>- Improve exercise efficiency.*</p>
+<p>- Counter exercise plateaus.*</p>
+<p><strong>Mindful Movement, Higher Awareness &amp; Headstrong Drive.</strong></p>
+<p>Begin with a bright, balanced mind. But when the stress of the day turns into the strain on the brain, imbalances start to leave their mark: more fatigue, less focus, and that foggy feeling you can’t seem to shake. This stabilizing, adaptogenic blend addresses mental strain and burnout at the source. Adapted helps replenish overworked adrenals, manage cortisol production, and protect the central nervous system. The result? More energy, greater awareness, and seamless mind-body connection.</p>
+<p>• No sugar. No sweeteners, &amp; No artificial flavors. Gluten, grain, wheat &amp; dairy free. Vegan.</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Certified Organic Lion's Mane (1.5g), Certified Organic Holy Basil (1.5g), Certified Organic Lemon Balm (45mg)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitalfit suggests mixing 1-2 teaspoons (about 3 grams) with your water (hot or cold), tea, nut milk, or favorite smoothie.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adaptogens</s:tag>
+    <s:tag>all wellness</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>supplement</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364987052122</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Vitalfit-Adapted-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364985348186</id>
+    <published>2018-10-02T18:04:13-04:00</published>
+    <updated>2018-10-02T18:04:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/source-adaptogenic-plant-based-energy"/>
+    <title>Source - Adaptogenic Plant-Based Energy</title>
+    <s:type>Herbal Supplement</s:type>
+    <s:vendor>Vitalfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Source_1.jpg?v=1537823397" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitalfit<br />
+        <strong>Type: </strong>Herbal Supplement<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Adaptogenic Plant-Based Energy &amp; Vitality For Greater Athletic Performance</strong></p>
+<p>VitalFit Source is an invigorating, functional mushroom-adaptogen blend to help your body produce its own jitter-free, crash-resistant energy and improve athletic endurance.*</p>
+<p>- Helps your body restore &amp; produce sustainable energy.*</p>
+<p>- Boosts athletic endurance &amp; exercise stamina.*</p>
+<p>- Counters adrenal fatigue &amp; exercise burnout.*</p>
+<p>- Improves immune &amp; cardiovascular function.*</p>
+<p><strong>Adaptogen Driven Energy, Stamina &amp; Endurance</strong></p>
+<p>VitalFit Source balances the energizing effect of wild cultured cordyceps with the rejuvenating properties of high-altitude pine pollen to help generate stable, day to day energy and rep-defying resilience.</p>
+<p>• No sugar. No sweeteners, &amp; No artificial flavors. Gluten, grain, wheat &amp; dairy free. Vegan.</p>
+<p>• *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Certified Organic Wild-Cultured Cordyceps (1.5g), Additive Free High-Altitude Pine Pollen (1g)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitalfit suggests mixing 1-2 teaspoons (about 3 grams) with hot water, tea, coffee, nut milk, or favorite smoothie. For exercise endurance, drink 30-60 minutes before working out. For jitter-free energy, drink as needed throughout the day.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adaptogen</s:tag>
+    <s:tag>adaptogenic</s:tag>
+    <s:tag>all wellness</s:tag>
+    <s:tag>energy</s:tag>
+    <s:tag>energy supplement</s:tag>
+    <s:tag>herbs + supplements</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364985348186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Vitalfit-Source-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

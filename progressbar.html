@@ -1,0 +1,101 @@
+6<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="9,URL=login page.html" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<style>
+body{
+		background-color:#262626;
+	}
+#1{
+	color:black;
+}
+#a{
+		margin-top:35vh;
+	}
+#b{
+	text-align:center;
+	font-size:4.3vh;
+	color: white;
+	background-repeat: no-repeat;
+	background: linear-gradient(90deg,#000,#fff,#000);
+	animation: animate 3s linear infinite;
+	background-size: 80%;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	padding:1vw;
+}
+#c{
+	font-size:6vw;
+	color:#6666ff;
+}
+
+@keyframes animate 
+{
+	0%{
+		background-position: -500%;
+	}
+	100%{
+		background-position: 500%;
+		}
+}
+</style>
+</head>
+<body>
+      <div class="container">
+        <p id="c">MyAI.com</p>
+		</div>
+<div id="a" class="container">
+  <div class="progress" >
+    <div id="1" class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" style="width:0%;color:black;">starting_service</div>
+  </div>
+	<div class="row">
+		<div class="col-sm-4"></div>
+		<div class="col-sm-4">
+			<p id="b">Sending Data To Server....</p>
+		</div>
+		<div class="col-sm-4"></div>
+	</div>
+</div>
+<script>
+	$("document").ready(function() {
+	var i=1;
+	setInterval(function(){
+		$("#1").attr({"style":'width:'+i+'%'});		
+		$("#1").html(i+"% Loading");
+		$("#1").css({'color':'black'});
+		if(i!=100)
+		{
+			if(i==20)
+			{
+				$('#b').html("Gathering Information....");
+				i=i+1;
+			}
+			else if(i==35)
+			{
+				$('#b').html("Securing Server....");
+				i=i+1;
+			}
+			else if(i==65)
+			{
+				$('#b').html("Creating Profile....");
+				i=i+1;
+			}
+			else if(i==90)
+			{
+				$('#b').html("Finalizing....");
+				i=i+1;
+			}
+			else
+			i=i+1;
+		}
+			},91);			
+	});
+</script>
+</body>
+</html>

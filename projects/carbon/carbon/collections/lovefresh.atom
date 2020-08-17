@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/lovefresh.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-06-07T17:17:02-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306965704794</id>
+    <published>2018-06-07T17:17:02-04:00</published>
+    <updated>2018-06-07T17:17:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/unscented-deodorant"/>
+    <title>Unscented Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Unscented_2.jpg?v=1528405304" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda), Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306965704794</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-UnscentedDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306964525146</id>
+    <published>2018-06-07T17:17:02-04:00</published>
+    <updated>2018-06-07T17:17:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sweet-orange-patchouli-deodorant"/>
+    <title>Sweet Orange Patchouli Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sweet_Orange_Patchouli.jpg?v=1528406137" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda), Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Sweet Orange and Patchouli Essential Oil Blend.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306964525146</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-SwtOrngPatchDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306963378266</id>
+    <published>2018-06-07T17:17:02-04:00</published>
+    <updated>2018-06-07T17:17:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/moroccan-rose-deodorant"/>
+    <title>Moroccan Rose Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Moroccan_Rose.jpg?v=1528406085" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            7.50 - 24.00
+            <a href="https://www.carbonbeauty.com/products/moroccan-rose-deodorant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz Full Size | .65 oz Travel Size</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda) Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Moroccan Rose Essential Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306963378266</id>
+      <title>3.7 oz Full Size</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-MoroccanRoseDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306963378266</id>
+      <title>.65 oz Travel Size</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Lovefresh-MorocRoseDeodTRAV-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306962329690</id>
+    <published>2018-06-07T17:17:02-04:00</published>
+    <updated>2018-06-07T17:17:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/mandarin-lime-deodorant"/>
+    <title>Mandarin Lime Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Mandarin_Lime.jpg?v=1528406037" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Natural Beeswax, Bicarbonate (Non-Aluminum Baking Soda) Mandarin and Lime Essential Oil Blend.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306962329690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-MandarinLimeDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306961739866</id>
+    <published>2018-06-07T17:17:01-04:00</published>
+    <updated>2018-06-07T17:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/super-strength-deodorant-cedar-saffron"/>
+    <title>Super Strength Deodorant (Cedar &amp; Saffron)</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Super_Strength.jpg?v=1528406187" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            7.50 - 24.00
+            <a href="https://www.carbonbeauty.com/products/super-strength-deodorant-cedar-saffron">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>Lightly scented with cedar &amp; saffron this unisex deodorant is perfect for the men in your life!</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz Full Size | .65 oz Travel Size</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda), Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Essential Oil Blend.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306961739866</id>
+      <title>3.7 oz Full Size</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-SuperStrengthDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306961739866</id>
+      <title>.65 oz Travel Size</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Lovefresh-SupStrngthDeodTRAV-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306958823514</id>
+    <published>2018-06-07T17:17:01-04:00</published>
+    <updated>2018-06-07T17:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lemon-deodorant"/>
+    <title>Lemon Verbena Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lemon_Verbena.jpg?v=1528406003" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda), Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Lemon Essential Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306958823514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-LemonDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306958200922</id>
+    <published>2018-06-07T17:17:01-04:00</published>
+    <updated>2018-06-07T17:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lavender-tea-tree-deodorant"/>
+    <title>Lavender Tea Tree Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lavender_Tea_Tree.jpg?v=1528405965" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            7.50 - 24.00
+            <a href="https://www.carbonbeauty.com/products/lavender-tea-tree-deodorant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz Full Size | .65 oz Travel Size</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda),Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Lavender and Tea Tree Essential Oil Blend.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306958200922</id>
+      <title>3.7 oz Full Size</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-LavTeaTreeDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306958200922</id>
+      <title>.65 oz Travel Size</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>Lovefresh-LavTeaTreeDeodTRAV-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306957054042</id>
+    <published>2018-06-07T17:17:01-04:00</published>
+    <updated>2018-06-07T17:17:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/grapefruit-deodorant"/>
+    <title>Grapefruit Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Grapefruit_151ab922-8b90-464e-9d50-8026085c0f47.jpg?v=1528405926" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda) Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Grapefruit Essential Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306957054042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-GrapefruitDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1306955120730</id>
+    <published>2018-06-07T17:17:00-04:00</published>
+    <updated>2018-06-07T17:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/eucalyptus-spearmint-deodorant"/>
+    <title>Eucalyptus Spearmint Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Lovefresh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eucalytpus_Spearmint.jpg?v=1528405733" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lovefresh<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A Natural Cream Deodorant That Actually Works!</p>
+<p>This natural deodorant will keep you smelling fresh all day long, we promise! By using this effective deodorant you will feel comfortable that you are not putting any harsh chemicals under a very *vulnerable* part of your body.</p>
+<p>• Aluminum free</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Handmade in Toronto</p>
+<p>• 3.7 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Theobroma Cacao (Cocoa) Seed Butter, Maranta Arundincea Root (Arrowroot Powder), Natural Beeswax, Sodium Bicarbonate (Non-Aluminum Baking Soda)Kaolin Clay, Fractionated Coconut Oil, Zinc Oxide, Eucalyptus and Spearmint Essential Oil Blend.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>If you’ve never tried a natural deodorant before you may find that your body needs some time to adjust. If you’ve previously suffered from sensitive skin, we suggest taking the time to test the product in a small patch on your underarm for a couple days. It’s also best to make sure you never apply our product directly after shaving.</p>
+<p>All of LOVEFRESH's deodorants are handmade in Toronto, therefore the consistency of the product may vary between batches. If you notice your deodorant is too firm, you may need to put it in a warm place to soften up. This simply means there was more wax added to keep the deodorant firm in the warmer weather. The more you use the product, the smoother and creamier it will become!</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:tag>men&apos;s deodorant</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1306955120730</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Lovefresh-EucSpearmintDeod-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

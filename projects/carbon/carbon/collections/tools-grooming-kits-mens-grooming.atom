@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/tools-grooming-kits-mens-grooming.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2015-09-24T13:52:00-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1744726657</id>
+    <published>2015-09-24T13:52:00-04:00</published>
+    <updated>2015-09-24T13:52:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/shave-brush-no-43"/>
+    <title>Shave Brush No. 43</title>
+    <s:type>Shave Brush</s:type>
+    <s:vendor>Hudson Made</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Shave_Brush_43.jpg?v=1438803959" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hudson Made<br />
+        <strong>Type: </strong>Shave Brush<br />
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Elite Series No. 43 shaving brush is packed with premium High Mountain silver tip badger hair. The 48mm tall handle fits perfectly in the hand. This brush is firm, dense and was designed with the ultimate shave in mind.</p>
+<p>A shave brush is one of the best solutions for improving shaving results. It generates more lather, lifts facial hair, uses less shaving cream or soap, opens up pores, naturally exfoliates skin, provides a closer shave, creates less irritation and razor burn, and helps alleviates ingrown hairs.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">High Mountain silver tip badger hair.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use in conjunction with our Hudson Made Beard &amp; Shave Soap to enhance your daily grooming ritual.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all men&apos;s</s:tag>
+    <s:tag>all men&apos;s grooming</s:tag>
+    <s:tag>all shave + beard care</s:tag>
+    <s:tag>grooming</s:tag>
+    <s:tag>hudson made</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s accessories</s:tag>
+    <s:tag>men&apos;s all shave + beard care</s:tag>
+    <s:tag>men&apos;s beard</s:tag>
+    <s:tag>men&apos;s beard care</s:tag>
+    <s:tag>men&apos;s brushes</s:tag>
+    <s:tag>men&apos;s shave + beard care</s:tag>
+    <s:tag>men&apos;s shaving</s:tag>
+    <s:tag>men&apos;s tools + grooming kits</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>shave</s:tag>
+    <s:tag>shave + beard care</s:tag>
+    <s:tag>smooth shave</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1744726657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>HudsonMade-ShaveBrush43</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1745884033</id>
+    <published>2015-09-24T13:31:00-04:00</published>
+    <updated>2015-09-24T13:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/shave-brush-no-26"/>
+    <title>Shave Brush No. 26</title>
+    <s:type>Shave Brush</s:type>
+    <s:vendor>Hudson Made</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Shave_Brush_26.jpg?v=1438813511" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hudson Made<br />
+        <strong>Type: </strong>Shave Brush<br />
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Professional Series No. 26 shaving brush is firm, dense, and designed with shaving in mind. The brush is handcrafted from fine ivory acrylic to fit perfectly in your hand. Authentic High Mountain White badger hair makes for a nirvana-inducing shaving experience.</p>
+<p>A shave brush is one of the best solutions for improving shaving results. It generates more lather, lifts facial hair, uses less shaving cream or soap, opens up pores, naturally exfoliates skin, provides a closer shave, creates less irritation and razor burn, and helps alleviates ingrown hairs.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">High Mountain silver tip badger hair, Ivory Acrylic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use in conjunction with our Hudson Made Beard &amp; Shave Soap to enhance your daily grooming ritual.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all men&apos;s grooming</s:tag>
+    <s:tag>all shave + beard care</s:tag>
+    <s:tag>close shave</s:tag>
+    <s:tag>grooming</s:tag>
+    <s:tag>hudson made</s:tag>
+    <s:tag>men&apos;s all shave + beard care</s:tag>
+    <s:tag>men&apos;s shave + beard care</s:tag>
+    <s:tag>men&apos;s shaving</s:tag>
+    <s:tag>men&apos;s tools + grooming kits</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>shave</s:tag>
+    <s:tag>shave + beard care</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>smooth shave</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1745884033</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>HudsonMade-ShaveBrush26</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

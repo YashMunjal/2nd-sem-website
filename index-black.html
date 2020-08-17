@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="css/darktheme.css">
+  <title>MyAI.com</title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </head>
+  
+  <body id="bo" >
+
+  <div id="loading" style="position:fixed;top:0;height:100vh;width:100vw;z-index:99999;display:none;margin:0;padding:0;background:#333;text-align:center;">
+  <div style="position:fixed; top: 50vh; left:50vw; transform: translate(-50%,-50%)">
+      <div class="bar bar1"></div>
+      <div class="bar bar2"></div>
+      <div class="bar bar3"></div>
+      <div class="bar bar4"></div>
+      <div class="bar bar5"></div>
+      <div class="bar bar6"></div>
+      <div class="bar bar7"></div>
+      <div class="bar bar8"></div>
+    <div><p id="bar" style="font-family: 'Lora', serif;" >LOADING</p></div>
+  </div>
+  </div>
+
+    <!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" id="dark1" >
+      <div class="container" id="dark2">
+         <a class="navbar-brand" href="index.html">MyAI.com</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+          <span class="navbar-toggler-icon"></span></button>
+        <div id="dark4" class="search-box">
+          <input id="search1" type="text" class="search-txt" placeholder="Type here to search" />
+          <a id="btn1" class="search-btn" href="#"  target="_blank" style="text-decoration:none"><i class="fas fa-search"></i></a>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+        <a class="nav-link" href="#" onClick="redir('about')" id="1">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onClick="redir('contact')">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Other Pages
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="#" onClick="redir('faq')" id="1">FAQ</a>
+                <a class="dropdown-item" href="#" onClick="redir('pricing')" id="1">Pricing Table</a>
+              </div>
+            </li>
+        <li class="nav-item">
+        <div id="dark5" style="margin-top:10px;margin-left:4px;margin-right:35px;display:flex;font-family:sans-serif;">
+        <label>
+          <input id="dark" type="checkbox" checked="checked">
+          <span class="check"></span> 
+          <span class="text on">OFF</span>
+          <span class="text off">ON</span>
+        </label>
+        </div>
+      </li>
+         <li class="nav-item dropdown" style="margin-left:1vw">
+              <a class="nav-link" id="secret" >Logout</a>
+      </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header>
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('images/drone.jpg');">
+            <div class="carousel-caption d-none d-md-block" style="background-color:rgba(0,0,0,0.5);">
+              <h3>Artificial Drone supervision</h3>
+              <p>Drone Transversal and investigation using Deep Learning Algorithm</p>
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('images/MarsRover.jpg')">
+            <div class="carousel-caption d-none d-md-block" style="background-color:rgba(0,0,0,0.5);">
+              <h3>Space Research (Mars Rover)</h3>
+              <p>Martian Rover transcending the planet using Machine Learning</p>
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('images/AIcode.jpg')">
+            <div class="carousel-caption d-none d-md-block" style="background-color:rgba(0,0,0,0.5);">
+              <h3>Statistics and Stock Market Prediction</h3>
+              <p>Accurately Predict the ups and downs of stock market with carefully researched Dataset</p>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- Page Content -->
+    <div id="d1" class="container" style="padding:18px;">
+
+      <h1 class="my-4" style="padding:2vw;" data-aos="zoom-in-down" data-aos-duration="3000" data-aos-offset="-100">Welcome to My Artificial Intelligence. We are the business leaders in solving all of your AI needs, with dedicated 24x7 support and dataset gathering</h1>
+
+      <!-- Marketing Icons Section -->
+      <div class="row">
+        <div class="col-lg-4 mb-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="card h-100">
+            <h4 class="card-header">Drone Supervision using Deep Learning</h4>
+            <div class="card-body">
+              <p class="card-text">One of the main projects in our corp. includes having a hands-on industrial expertise on providing rover and drone supervision in case of major events and public rallys. </p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="card h-100">
+            <h4 class="card-header">Mars Rover project using machine learning module</h4>
+            <div class="card-body">
+              <p class="card-text">one of our acheivement includes the use of deep learning module as a part of the space program. Our preset modules are being used in the Indian Mars Mission.</p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4" data-aos="fade-down" data-aos-duration="1200">
+          <div class="card h-100">
+            <h4 class="card-header">Statistical calculations</h4>
+            <div class="card-body">
+              <p class="card-text">Statistical Calculations and stock market prediction including one of our leading Artificial Intelligence: Generation 343, to accurately measure the ups and downs of the market</p>
+            </div>
+            <div class="card-footer">
+              <a href="#" class="btn btn-primary">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Portfolio Section -->
+      <h2>Our current Projects</h2>
+
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="fade-right" data-aos-duration="1500" >
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/kiddos.png" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="projects/myaikids/myaikids/index.html" target="_blank">MyAI.com<sup><font color="#1bafb7">Kids</font></sup></a>
+              </h4>
+              <p class="card-text">In order to help children get a good introduction to Machine learning modules and python, we have developed a new branch to our existing modules to enlighten them with the basic knowledge of machine learning</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="flip-up"  data-aos-duration="1500">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/lightgazer.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="chatbot.html" target="_blank">LightGazer</a>
+              </h4>
+              <p class="card-text">Another one of our projects includes using Deep learning directives to create a chatbot to handle client side messaging</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="fade-left" data-aos-duration="1500">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/mdb.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="black-dashboard-master\examples\Dashboard.html" target="_blank">Material Dashboard</a>
+              </h4>
+              <p class="card-text">Good console for admin purposes</p>
+            </div>
+          </div>
+        </div>
+      <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="fade-right" data-aos-duration="1500">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/game.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="blog posts/blog-post.html" target="_blank">AI Gaming</a>
+              </h4>
+              <p class="card-text">AI can revolutionize the gaming world, hence we at MyAI.com has taken an initiative to help the world get the best gaming experience.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="flip-up"  data-aos-duration="1500">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/carbon.jpg" height="195px" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="projects/carbon/carbon/index.html" target="_blank">Carbon </a>
+              </h4>
+              <p class="card-text">Chemical industry is one amongst the most sought after industry, hence to give a helping hand MyAI.com has launched <b>CARBON</b> to provide AI assistance in the field. </p>
+            </div>
+          </div>
+        </div>
+         <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="fade-left" data-aos-duration="1500">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/horizon.JPG" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="projects/horizon/horizon/index.html" target="_blank">Horizon</a>
+              </h4>
+              <p class="card-text">Photography is a stream which is gianing popularity in the recent years so with the advancement in it MyAI.com has launched Horizon a photoGallery to boast off the use of AI in photography</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item" data-aos="fade-right" data-aos-duration="1500" >
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="images/crypton.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="projects/crypton/crypton/index.html" target="_blank">Crypton</a>
+              </h4>
+              <p class="card-text">Another aspect of the influenced world is money. AI can be used in making a better bet on the crypto-currency market</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <!-- Features Section -->
+       <div class="row">
+        <div class="col-lg-6" id="1" data-aos="fade-right" data-aos-duration="3000">
+          <h2>Our correspondence address</h2>
+          <p>You can find us at</p>
+          <ul>
+            <li>
+              <strong>Yash Munjal and Anmol Bansal</strong>
+            </li>
+            <li>The 115 and 108</li>
+            <li>Marco Polo</li>
+            <li>Chitkara University,Rajpura,Punjab</li>
+            <li>+91 9466031964,+91 7015524012</li>
+          </ul>
+          <p></p>
+        </div>
+        <div class="col-lg-6" style="position: relative;">
+          <div data-aos="fade-right" data-aos-duration="3000">
+          <img class="img-fluid rounded" src="images/chitkara.jpg" alt="">
+          </div>
+          <div data-aos="fade-left" data-aos-duration="3000" data-aos-offset="-200">
+          <img class="img-fluid rounded" src="images/chitkara.jpg" alt="" style="transform: translateY(-100%);position: absolute;">
+        </div>
+      </div>
+      </div>
+      <!-- /.row -->
+
+      <hr>
+
+      <!-- Call to Action Section -->
+       <div class="row mb-4">
+        <div class="col-md-8">
+          <p>The site content is provided by &copy; MyAI.com</p>
+        </div>
+        <div class="col-md-4">
+          <a class="btn btn-lg btn-secondary btn-block" href="tel:9466031964">Call to Action</a>
+        </div>
+      </div>
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5" style="background-color:#0d0d0d;">
+      <div id="dark6" class="container">
+        <p class="m-0 text-center text-white">&copy;MyAI.com</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script>
+    function redir(a){
+      $(document).ready(function(){
+        $("#loading").css("display","block").fadeOut(10000);
+        setInterval(function(){
+          window.location = a+".html";
+        },4000);
+      });
+    }
+    $("#btn1").click(function(){
+      a=$("#search1").val();
+      a=$("#btn1").attr("href","https://www.google.com/search?source=hp&ei=C3xlXPHUFZG2rQGeor_YCA&q="+a+"&btnK=Google+Search&oq="+a+"&gs_l=psy-ab.3..35i39j0l9.72.265..554...0.0..0.271.905.0j2j2......0....1..gws-wiz.....0..0i67j0i131.b4ZIInDtfmg")
+    });
+    $("#dark").click(function(){
+        if ($('#dark').is(':checked')) {
+          $('#dark').removeAttr('checked');
+      
+      $("div").css({"color":"black"});
+      $("div").css({"background-color":"white"});
+      $(".carousel-caption").attr({"style":"background-color:rgba(0,0,0,0.5);"});
+      $("#dark1,#dark2,#navbarResponsive,#dark4").attr({"style":"background-color:#404040;"});
+      $("#dark6").attr({"style":"background-color:#0d0d0d;"});
+      $("#dark5").attr({"style":"margin-top:10px;margin-left:4px;margin-right:35px;display:flex;font-family:sans-serif;background-color:#404040;"});
+      $("#1").attr("onClick","redir('about-black')");
+        $("#2").attr("onClick","redir('contact-black')");
+        $("#3").attr("onClick","redir('faq-black')");
+        $("#4").attr("onClick","redir('pricing-black')");
+        } 
+        
+        else {
+          $('#dark').attr('checked', 'checked');      
+      $("#bo").attr({"style":"background-color:black;"});
+      $("#dark1").attr({"style":"background-color:black;"});
+      $("div").css({"color":"white"});
+      $("div").css({"background-color":"#0d0d0d"});
+      $(".carousel-caption").attr({"style":"background-color:rgba(0,0,0,0.5);"});
+         $("#1").attr("onClick","redir('about-black')");
+        $("#2").attr("onClick","redir('contact-black')");
+        $("#3").attr("onClick","redir('faq-black')");
+        $("#4").attr("onClick","redir('pricing-black')");  
+      }
+    });
+  </script>
+  </body>
+</html>
+  

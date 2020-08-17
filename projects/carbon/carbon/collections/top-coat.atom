@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/top-coat.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2016-04-26T10:30:00-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5671154689</id>
+    <published>2016-04-26T10:30:00-04:00</published>
+    <updated>2016-04-26T10:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fast-drying-top-coat"/>
+    <title>Fast Drying Top Coat</title>
+    <s:type>nail polish</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Top_Base_Coat.jpg?v=1461608097" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>nail polish<br />
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Durable and glossy coating, seals color quickly for less dry time</em></p>
+<p>Formulated without Toluene, DBP, Camphor, Formaldehyde or Formaldehyde Resin.</p>
+<p>Treat collection's fast drying top coat dries up to four coats of nail polish to a high gloss shine in less than five minutes. When applied, it hides any imperfections in the application of nail polish. It also contains a UV inhibitor which prevents nail polish from yellowing and fading.</p>
+<p>Apply 60 seconds after last color application, allow five minutes to dry.</p>
+<p>• Made in the USA</p>
+<p>• Cruelty free</p>
+<p>• Suitable for vegans</p>
+<p>• 15 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class='"c-accordion-item_content' js-accordion-content="">Butyl Acetate, Ethyl Acetate, Cellulose Acetate Butyrate, Isopropyl Alcohol, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Etocrylene, Trimethyl Pentanyl Diisobutyrate, Triphenyl Phosphate, Acrylates Copolymer, CI 60725</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class='"c-accordion-item_content' js-accordion-content="">Apply 60 seconds after last color application, allow five minutes to dry.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all nails</s:tag>
+    <s:tag>top coat</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5671154689</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Treat-FastDryingTopCoat</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

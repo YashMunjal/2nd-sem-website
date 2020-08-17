@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/home-cleaning.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2015-11-30T11:52:00-05:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/2037860737</id>
+    <published>2015-11-30T11:52:00-05:00</published>
+    <updated>2015-11-30T11:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/eau-pour-garcon"/>
+    <title>Eau Pour Garcon - Deodorizing Spray</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Graydon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eau_Pour_Garcon.jpg?v=1505875528" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Graydon<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eau Pour Garçon translates to "Water for Boys" and this spray is the non-toxic solution for keeping the men in your life smelling fresh. Whether sports clothes, gym bag, sneakers or locker, sometimes our guys need a little extra help. Spray it directly on the odored items to help clean and refresh, feeling good knowing that it is safe for skin contact as well. The active ingredients in this formulation are potent (but non-toxic) germ exterminators with an aroma that will appeal to everyone.</p>
+<p>• 120 ml / 4.0 fl oz</p>
+<p>• Gluten-free</p>
+<p>• NO nut derived ingredients</p>
+<p>Made <strong>WITHOUT</strong> Artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">aqua (purified water), ethanol (ethyl alcohol), hydrogen peroxide, *ricinus communis (castor) wax, cinnamomum cassia (cinnamon) leaf oil, citrus aurantium dulcis (orange) peel oil, eucalyptus globulus (eucalyptus) leaf oil, pelargonium graveolens flower (geranium) oil, juniperus communis fruit (juniper) oil, lavandula angustifolia (lavender) oil, citrus limon (lemon) peel oil, cymbopogon schoenanthus (lemongrass) oil, myristica fragrans (nutmeg) kernel oil, citrus paradisi (grapefruit) peel oil, mentha piperita (peppermint) oil, rosmarinus officinalis (rosemary) leaf oil *plant based</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">As a Body Deodorizer: 2-3 sprays over body will do the trick to smell fresh and clean. On your Stuff: Use on counter tops, gym/hockey bags, stinky shoes, and in your locker. On your Hands + Feet: Apply onto dirty, sticky hands and/or feet. Brush together lightly to let dry. Re-apply as needed.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all home + gifts</s:tag>
+    <s:tag>all men&apos;s body</s:tag>
+    <s:tag>all men&apos;s grooming</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>graydon</s:tag>
+    <s:tag>grooming</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>home &amp; gifts</s:tag>
+    <s:tag>home cleaning</s:tag>
+    <s:tag>men&apos;s accessories</s:tag>
+    <s:tag>men&apos;s body</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>men&apos;s grooming</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/2037860737</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Graydon-EauPourGarçon</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1241996225</id>
+    <published>2015-06-23T15:41:00-04:00</published>
+    <updated>2015-06-23T15:41:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hakutan-white-charcoal"/>
+    <title>Hakutan White Charcoal (Medium)</title>
+    <s:type>Home Cleaning</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hakutan.jpg?v=1434668025" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>Home Cleaning<br />
+        <strong>Price: </strong>
+            108.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This aesthetically pleasing piece of powerful White Charcoal made from hard Korean Holm oak is a natural and electricity-free air freshener. Working especially well in the bathroom or kitchen where it will effectively regulate humidity levels, Hakutan cleanses the air of pollution, steam and odors.</p>
+<p>White Charcoal, or "active charcoal" has long been known for its purifying, enriching and restorative benefits. In Japan a Hakutan is often placed next to the computer, where the negative ions that it emits help to neutralize the harmful effects of electromagnetic waves.</p>
+<p>• A single sculptural piece of White Charcoal</p>
+<p>• Size: Medium</p>
+<p>• Made in Denmark</p>
+<p><strong>Sort of Coal</strong> products have an efficient, waste-free lifecycle. A Hakutan sculpture will last for a lifetime of use, provided it is kept clean and occasionally revitalized in direct sunlight. Should you wish to discard it, nature will gladly take it back. Acting as an excellent fertilizer, crush and mix with potting soil where it will add nourishment, regulate the PH balance, and assist in absorbing carbon dioxide from the atmosphere.</p>
+<p>• White Charcoal contains more than 90 percent pure carbon and has a powerful ability to absorb due to its extremely porous surface. It is at the heart of centuries-old Asian traditions surrounding well-being and purification</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Korean Holm oak</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Handle Hakutan with care, placing it directly on any dry surface in a room you wish to purify. Keep the Hakutan free of dust with a vacuum cleaner. Occasionally expose to direct sunlight and let it dry completely to revitalize its ability to adsorb impurities and moisture from the air.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air freshener</s:tag>
+    <s:tag>all home &amp; gifts</s:tag>
+    <s:tag>all home cleaning</s:tag>
+    <s:tag>charcoal</s:tag>
+    <s:tag>deodorizer</s:tag>
+    <s:tag>home &amp; gifts</s:tag>
+    <s:tag>home cleaner</s:tag>
+    <s:tag>home cleaning</s:tag>
+    <s:tag>odor</s:tag>
+    <s:tag>purifier</s:tag>
+    <s:tag>purify</s:tag>
+    <s:tag>purifying</s:tag>
+    <s:tag>smell</s:tag>
+    <s:tag>sort of coal</s:tag>
+    <s:tag>white charcoal</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1241996225</id>
+      <title>Default Title</title>
+      <s:price currency="USD">108.75</s:price>
+      <s:sku>SortofCoal-HakutanMEDIUM</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/450170393</id>
+    <published>2015-04-07T17:42:00-04:00</published>
+    <updated>2015-04-07T17:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/char-essence-multipurpose-pure-matured-oak-wood-vinegar"/>
+    <title>Char Essence Multipurpose Oak Wood Vinegar</title>
+    <s:type>Multipurpose Home Product</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Char_Essence.jpg?v=1505678222" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>Multipurpose Home Product<br />
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> CHAR ESSENCE</strong> from Sort Of Coal is the purest oak wood vinegar free from artificial ingredients. A distillate of baking wood, it is a natural by-product from the traditional Japanese production of White Charcoal. The condensed steam from the heated wood is collected from the kiln, matured for six months and filtered several times with White Charcoal to achieve the highest level of purity, thereby creating the intriguing smoky scent that has become the signature fragrance of Sort Of Coal.</p>
+<p>• Wood vinegar has been used for medicinal purposes throughout Asia for centuries and is highly valued for its deodorizing and deep cleansing effects, as well as for its delicious skin softening properties. Char Essence is likely to become your most essential and useful household product!</p>
+<p>• 8.5 oz / 250 ml</p>
+<p>• Char essence (100% oak wood vinegar) is highly concentrated and should be dissolved in water or other liquid by up to 500 times. So you only need 5 small drops for 3.38 oz / 100 ml water.</p>
+<p><strong>USES</strong></p>
+<p><strong>For a Revitalizing Home Spa Experience</strong> - Add 10-20 ml to the bathtub for a revitalizing and soothing home spa experience that will purify and moisten your skin as well as help boost your blood circulation.</p>
+<p><strong>For a Moisturizing + Purifying Facial Wash</strong> - Mix 5 ml with a liter of water, and use a soaked wash cloth or sponge to wash.</p>
+<p><strong>For a Deodorizing, Deep Cleansing Foot Bath</strong> - Add a little more than 5 ml with a liter of water, then soak your feet for a relaxing half hour.</p>
+<p><strong>To Rinse Dandruff + Smells From Your Hair</strong> - Mix 5 ml with 1 liter of water and use it to rinse your hair to help remove dandruff and any smells from your hair. Finish by washing your hair as normal.</p>
+<p><strong>To Freshen + Soften Your Laundry</strong> - Add 10 ml in the soap dispenser or wash ball and wash as normal to benefit from a natural, chemical-free and non-polluting fabric softener. For smelly or dirty laundry such as dishtowels or a tablecloth, add 10 ml to 1 liter of warm water. Soak the cloth overnight, then wash as normal.</p>
+<p><strong>To Disinfect + Remove Odors</strong> - Mix with water 1:10, and pour this natural cleansing agent into a spray bottle. For a deodorizing treatment, simply spray wherever bacteria and odors are at play, such as inside shoes, inside your car, in the kitchen or bathroom or even in the trash can.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% pure matured oak wood vinegar and nothing else</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Your CHAR ESSENCE will be perfectly active for at least 30 months after opening. If you wish to discard a leftover, nature will gladly take it back. An excellent garden fertilizer, you might occasionally add a few drops to your watering can to provide extra nourishment to the soil and help regulate the PH balance - so your plants can thrive and flourish and do an even better job of absorbing carbon dioxide from the atmosphere around this planet that we love so much.</p>
+<p>Store in room temperature and not in sunlight. Always use a patch test before using this concentrated product.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all home &amp; gifts</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>best sellers home + gifts</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>earthy</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatment</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>home &amp; gift</s:tag>
+    <s:tag>home + gifts</s:tag>
+    <s:tag>home cleaning</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>oak wood vinegar</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>smoky</s:tag>
+    <s:tag>sort of coal</s:tag>
+    <s:tag>summer pick</s:tag>
+    <s:tag>summer picks</s:tag>
+    <s:tag>woody</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450170393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>SortofCoal-CharEssence</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/379898105</id>
+    <published>2014-11-18T11:02:00-05:00</published>
+    <updated>2014-11-18T11:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/kuro-cube"/>
+    <title>Kuro Cube</title>
+    <s:type>Home Cleaning</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/Kuro_Cube_Resize.jpg?v=1416527054" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>Home Cleaning<br />
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> This neat little black cube efficiently purifies and refreshes the air in smaller spaces as it reduces odors. Try it in places such as drawers, closets, the car or your refrigerator. Kuro Cube remains active for one year.</p>
+<p>It can also be used to keep food fresh by adsorbing ethylene gas - try placing it in your fruit bowl and your fruit will stay fresher for longer.</p>
+<p>6 x 6 x 6 cm</p>
+<p>Tested and documented effect by Danish Technological Institute</p>
+<p>Sort Of Coal products have an efficient, waste-free lifecycle. Cross-cutting the wood to make White Charcoal is done in a thoughtful way such that the forests are restored rather than destroyed. And when you need to dispose of it, White Charcoal can be used as an excellent fertilizer.</p>
+<p>• Made with Organically produced White Charcoal powder, which is the highest grade of charcoal available.</p>
+<p>• White Charcoal contains more than 90 percent pure carbon and has a powerful ability to absorb due to its extremely porous surface. It is at the heart of centuries old Asian traditions surrounding well-being and purification</p>
+<p>• Made in Denmark</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% Organically Produced White charcoal.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Remove the plastic cover and place your Kuro Cube straight into your fridge or in any small space you want to deodorize. Occasionally exposing your Kuro Cube to sunlight allows it to dry out thoroughly and regain its ability to adsorb.</p>
+<p>A used Kuro Cube is an excellent fertilizer. Just crush it and mix with potting soil, in order to nourish it and regulate its PH levels.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all home &amp; gifts</s:tag>
+    <s:tag>charcoal</s:tag>
+    <s:tag>deodoriser</s:tag>
+    <s:tag>deodorizer</s:tag>
+    <s:tag>gift him</s:tag>
+    <s:tag>home &amp; gifts</s:tag>
+    <s:tag>home cleaner</s:tag>
+    <s:tag>home cleaning</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>odor</s:tag>
+    <s:tag>odour</s:tag>
+    <s:tag>smell</s:tag>
+    <s:tag>sort of coal</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379898105</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>SortofCoal-KuroCube</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

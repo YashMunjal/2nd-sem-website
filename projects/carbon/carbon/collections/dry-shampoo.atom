@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/dry-shampoo.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-08-21T10:30:45-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1352782381146</id>
+    <published>2018-08-21T10:30:45-04:00</published>
+    <updated>2018-08-21T10:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/refresh-dry-shampoo"/>
+    <title>Refresh Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Innersense</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Refresh_Dry_Shampoo.jpg?v=1534699943" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Innersense<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This foam to powder dry shampoo eliminates excess oil, builds body, creates texture and renews second day hair. Tapioca starch and witch hazel help pull oil, while Certified Organic honey adds body and imparts shine.</p>
+<p>• Formulated free of phthalates, ethoxylates, sulfates, silicones, 1,4 dioxane, parabens, petro compounds, propylene and butylene glycol, PEG, MEA, TEA, MIA, EDTA artificial dyes or synthetic fragrances</p>
+<p>• High concentrations of key ingredients mean less water</p>
+<p>• Gluten-free, cruelty-free and non-GMO</p>
+<p>• 2.37 oz | 70.1 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Aqua- EAU, Hamamelis Virginiana (Witch Hazel) Extract, Tapioca Starch, Caprylyl/Capryl Glucoside, Citrus Aurantium Dulcis Peel Oil, Caprylic/Capric Triglyceride, Zea Maize Starch, Decyl Glucoside, Dehydroacetic Acid, Benzyl Alcohol, Galactoarabinan, Pullulan, Plant Glycerin, Xanthan Gum, Potassium Sorbate, Hydroxypropyltrimonium Honey, Panthenol (Vitamin B-5), Hydrolyzed Rice Protein, Hydrolyzed Quinoa, Chamomilla Recutita (Matricaria) Flower Extract*, Eucalyptus Globulus Leaf Extract*, Ginkgo Biloba Leaf Extract*, Aspalathus Linearis Leaf Extract*, Honey Extract*, Tocopheryl Acetate (Vitamin E). *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shake well before use. Add 1-2 pumps of foam into palms. Lightly emulsify with fingertips. Apply to roots of dry hair, massage and work through. Allow to air dry. For added volume, lift and blow dry at roots. Style as desired. Use more as needed.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1352782381146</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Innersense-RefreshDryShampoo-SFA</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1347472457818</id>
+    <published>2018-08-06T16:52:34-04:00</published>
+    <updated>2018-08-06T16:52:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/she-s-like-the-wind-invisible-dry-shampoo-conditioner"/>
+    <title>She’s Like the Wind - Invisible Dry Shampoo &amp; Conditioner</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Voir</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dry_Shampoo_62166d6a-09ba-4d20-b258-e196fda9ff5d.jpg?v=1533518032" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voir<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An exhilarating rush of wind for your tresses, Voir's innovative micro powder is not your ordinary dry shampoo. The oil-absorbing formula is enriched with nourishing botanicals that soften your strands and withdraw impurities, while the aerosol-free pump releases poufs of the finely milled powder to blend beautifully with all hair colors and textures, leaving no white residue behind.</p>
+<p>A savior when you’re short on time, it instantly boosts volume, mattifies roots, and leaves hair feeling fresh and lifted between washes.</p>
+<p><strong>BENEFITS</strong></p>
+<p>- Instantly absorbs oil + impurities</p>
+<p>- Translucent powder leaves no residue or white streaks</p>
+<p>- Conditions hair + mattefies roots</p>
+<p>- Extends the life of your blowout</p>
+<p>- Restores bounce + volume to tired tresses</p>
+<p>- Leaves your hair feeling fresh + lifted between washes</p>
+<p>- Safe for color and keratin-treated hair</p>
+<p>- For all hair types</p>
+<p>• Created <strong>WITHOUT</strong>: silicones, parabens, phthalates, sulfates, TEA, artificial colors, mineral oil, animal testing.</p>
+<p>• 1.4 oz / 40 g</p>
+<p>• Made in Canada</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Zea Mays (Corn) Starch, Aluminum Starch Octenylsuccinate, Silica, Kaolin Clay, Magnesium Aluminum Silicate, Glycerin, Water (Aqua/ Eau), Hydroxyethylcellulose, Lauroyl Lysine, Tasmannia Lanceolata (Pepperberry) Fruit Extract, Alcohol Denat, Syzygium Leuhmanii (Riberry) Fruit Extract, Kunzea Pomifera (Muntai Berry) Fruit Extract, Terminalia Ferdinandiana (Kakadu Plum) Fruit Extract, Camellia Sinensis (Green Tea) Extract, Olea Europaea (Olive Leaf) Extract, Fragrance (Parfum).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Pump as needed onto dry hair, focusing on the roots. Lightly massage scalp and rake hands through hair for even distribution.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1347472457818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Voir-ShesLiketheWind-SFA</s:sku>
+      <s:grams>269</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1321391751258</id>
+    <published>2018-07-12T13:52:16-04:00</published>
+    <updated>2018-07-12T13:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/dry-shampoo-brunette"/>
+    <title>Dry Shampoo - Brunette</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>La Tierra Sagrada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dry_Shampoo_Brown.jpg?v=1531417755" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Tierra Sagrada<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Dry Shampoo powder absorbs oil from the scalp + hair, making it look and feel fresh between washes.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Gluten free, Vegan</p>
+<p>• 4 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sun Potion He Shou Wu, Sun Potion Mucuna Pruriens, Arrowroot Powder, Horsetail, Cacao, Orris Root, Sodium Bicarbonate, Lavender Flower, Palo Santo Essential Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Using your hands or a natural brush, apply the powder section by section to the roots and hairline to absorb all oil. Using your fingers or a brush, lightly massage through for texture and style.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1321391751258</id>
+      <title>Dry Shampoo With Brush</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>LTS-DryShampBrunWBrush-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1321367928922</id>
+    <published>2018-07-12T13:52:15-04:00</published>
+    <updated>2018-07-12T13:52:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/dry-shampoo-blonde"/>
+    <title>Dry Shampoo - Blonde</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>La Tierra Sagrada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dry_Shampoo_Blonde.jpg?v=1531417746" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Tierra Sagrada<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Dry Shampoo powder absorbs oil from the scalp + hair, making it look and feel fresh between washes.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• Gluten free, Vegan</p>
+<p>• 4 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sun Potion He Shou Wu, Sun Potion Mucuna Pruriens, Arrowroot Powder, Horsetail, Kaolin Clay, Orris Root, Sodium Bicarbonate, Lavender Flower, Rosemary Essential Oil, Palo Santo Essential Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Using your hands or a natural brush, apply the powder section by section to the roots and hairline to absorb all oil. Using your fingers or a brush, lightly massage through for texture and style.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1321367928922</id>
+      <title>Dry Shampoo With Brush</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>LTS-DryShampBlondeWBrush-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10257916865</id>
+    <published>2017-10-04T19:10:38-04:00</published>
+    <updated>2017-10-04T19:10:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pure-dry-shampoo"/>
+    <title>Pure Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Playa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pure_Dry_Shampoo.jpg?v=1507156884" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Playa<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This rare blend of botanicals and minerals refreshes and revitalizes hair instantly — no shower required. Rose powder invisibly absorbs excess oil at the roots while keeping hair soft; star anise extract treats the scalp and eliminates impurities. Breathe body and life back into your hair naturally, whenever you’d like.</p>
+<p>Besides absorbing excess sebum, the traces of rose oil in the rose petal powder keeps hair soft and doesn’t weigh down hair even if you use it several days in a row. Star anise is an antiseptic and antimicrobial agent that refreshes hair without disrupting the natural balance. Playa's organic herbal blend of white willow bark, horsetail, and neem leaf powders add a little extra magic.</p>
+<p>Playa uses hydrofluorocarbon 152a, a naturally derived propellant that’s effective and safe; in fact, it’s rated a 1 by EWG. Combined with their light and buildable formula, the softer-force propellant lets you be in charge of how you use the product (not the other way around).</p>
+<p>• 4 oz / 145 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Hydrofluorocarbon 152a, Isopentane, Alcohol Denat., Hexamethyldisiloxane, Dimethylimidazolidinone Rice Starch, Rosa Centifolia (Rose) Petal Powder, Shikimic Acid (Star Anise), Salix Alba (White Willow Bark) Extract, Biotin (Vitamin H), Panthenol (Provitamin B5), Magnesium Stearate, Equisetum Arvense (Horsetail) Extract, Phenyl Trimethicone, Azadirachta Indica (Neem) Leaf Powder, Fragrance. *Ingredients are naturally occuring or plant-derived.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Hold product 6 inches from hair and mist, working in 2-inch sections and focusing on the roots. Use fingertips to tousle strands. Use anytime, no chalky buildup or residue.</p>
+<p><strong>The Founder's Routine</strong>: "This product is my go-to: it’s lightweight but adds instant volume and a bit of I’ve-got-it-together-ness to your hair without having to resort to styling tools. I use it every day on my dry hair, sometimes twice if I’m going out at night."</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10257916865</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Playa-DryShampoo-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/8362558017</id>
+    <published>2016-10-31T19:24:00-04:00</published>
+    <updated>2016-10-31T19:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fortifying-frankincense-dry-shampoo"/>
+    <title>Fortifying Frankincense Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Frankincense_Dry_Shampoo_30ml.jpg?v=1477956285" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            25.00 - 45.00
+            <a href="https://www.carbonbeauty.com/products/fortifying-frankincense-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Forget the shower and embrace the power of dry shampooing your hair from absolutely anywhere. Handcrafted with fortifying frankincense, detoxifying Kaolin clay, balancing baking soda, proven probiotics, replenishing rosemary antioxidant extract, and effective essential oils, LL's dry shampoo powder dry-cleans hair, absorbs excess oil, dispels dandruff, sustains the scalp, and volumizes your mane in between your shower shampoo routine.</p>
+<p>Fortifying Frankincense Dry Shampoo works on all hair colors and types, and it may extend the life of color treated hair (because less shampooing is needed).</p>
+<p>Many dry shampoos are packed with polymers, parabens, corn, rice and aluminum starches, toxic talc, as well as flammable isobutene, propane and alcohols that inhibit healthy hair growth, dry the hair, attract residue and block the breathability of the scalp. Each ingredient in Living Libation's Fortifying Frankincense Dry Shampoo naturally optimizes hair health and beauty. Sacred frankincense resin balances and nourishes the scalp. Probiotics foster healthy hair growth. Balancing baking soda draws out toxins and absorbs excess oil. Kaolin clay works like a magnet to draw toxins and heavy metals from the body through the scalp. Essential oils of frankincense, rosemary verbenone, bergamot, vetiver and thyme linalool increase circulation to the scalp, stimulate hair growth, dissipate dandruff, and prevent hairline breakouts. Arrow root powder supports the absorption of all of these incredible nutrients, while LL's rosemary supercritical CO2 extract naturally stimulates the scalp and provides optimizing antioxidants.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Arrow Root (Maranta arundinacea), Kaolin Clay (Kaolinite, White Clay), Silk Peptides, Rosemary Antioxidant Extract (Rosmarinus officinalis, CO2), Baking Soda (Sodium bicarbonate), Probiotics (Bacillus subtilis), Chamomile Flowers (Anthemis nobilis), Lavender Flowers (Lavendula officinalis), Jasmine Sambac (Jasmine sambac), Ylang Ylang(Cananga odorata), Magnolia Blossom (Michelia champaca), Roman Chamomile (Anthemis nobilis), Alpine Lavender (Lavandula angustifolia).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Arrow Root (Maranta arundinacea), Kaolin Clay (Kaolinite, White Clay), Frankincense Resin (Boswellia carterii), Rosemary Antioxidant Extract (Rosmarinus officinalis, CO2), Baking Soda (Sodium bicarbonate), Probiotics (Bacillus subtilis), Frankincense carterii (Boswellia carterii), Bergamot (Citrus bergamia), Thyme Linalool (Thyme vulgaris linalool), Vetiver (Vetiveria zizanoides) and Rosemary Verbenone (Rosmarinus officinalis verbenone).</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/8362558017</id>
+      <title>1 oz / 30 ml</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>LivingLibations-FortFrankincenseDry30ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/8362558017</id>
+      <title>1.69 oz / 50 ml</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>LivingLibations-FortFrankincenseDry50ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/8362546113</id>
+    <published>2016-10-31T19:18:00-04:00</published>
+    <updated>2016-10-31T19:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/flowers-in-her-hair-dry-shampoo"/>
+    <title>Flowers in Her Hair Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Flowers_in_Her_Hair_30ml.jpg?v=1477955845" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            25.00 - 45.00
+            <a href="https://www.carbonbeauty.com/products/flowers-in-her-hair-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There is no need for a shampoo-shower when you have the flower power of all natural minerals, botanicals, and essentials oils in the palm of your hand. Invite pristine petals to clean and restore your hair’s natural pert. Living Libations has woven garlands of botanicals into a powder-based dry shampoo that absorbs excess oil, dispels dandruff, soothes the scalp, increases shine, and saves you time.</p>
+<p>Flowers in Her Hair works on all hair colors and types, and it may extend the life of color treated hair (because less shampooing is needed).</p>
+<p>Many dry shampoos are packed with polymers, parabens, toxic talc, corn, rice and aluminum starches, as well as flammable isobutene, propane and alcohols. These synthetic substitutions inhibit healthy hair growth, dehydrate hair, attract residue, and block the breathability of the scalp. Every ingredient in Flowers in Her Hair Dry Shampoo is masterfully mixed to optimize hair health and beauty. Probiotics foster healthy hair growth. Balancing baking soda absorbs excess oil. Kaolin clay works like a magnet to draw toxins and heavy metals from the body through the scalp. Silk peptides create a protective silky sheath around each hair follicle to lock in moisture and detangle strands.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Arrow Root (Maranta arundinacea), Kaolin Clay (Kaolinite, White Clay), Silk Peptides, Rosemary Antioxidant Extract (Rosmarinus officinalis, CO2), Baking Soda (Sodium bicarbonate), Probiotics (Bacillus subtilis), Chamomile Flowers (Anthemis nobilis), Lavender Flowers (Lavendula officinalis), Jasmine Sambac (Jasmine sambac), Ylang Ylang(Cananga odorata), Magnolia Blossom (Michelia champaca), Roman Chamomile (Anthemis nobilis), Alpine Lavender (Lavandula angustifolia).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sprinkle a dime size amount into the palm of your hand and massage it into the roots of the hair and work your way downward toward the ends. Let the powder sit in your hair for a few minutes to absorb and activate all the nourishing plant botanicals. With a wood comb or natural bristle brush, comb through the hair to evenly distribute the shampoo and stimulate scalp circulation. Style your hair as usual. Repeat as necessary throughout the day or week.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/8362546113</id>
+      <title>1 oz / 30 ml</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>LivingLibations-FlowersinHairDry30ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/8362546113</id>
+      <title>1.69 oz / 50 ml</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>LivingLibations-FlowersinHairDry50ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7851760897</id>
+    <published>2016-09-15T10:21:00-04:00</published>
+    <updated>2016-09-15T10:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lavender-cocoa-dry-shampoo"/>
+    <title>Lavender + Cocoa Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Fat and The Moon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lavender_Cocoa_Dry_Shampoo.jpg?v=1473709312" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fat and The Moon<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fat and the Moon admits to having a slight preoccupation with dry shampoos.It isn’t great for the health of your hair + scalp to wash your hair every day, and so dry shampoo absorbs oil and adds body so ‘no shower day’ can be ‘awesome hair day’. Yet upon inspection of the dry shampoos out there on the shelf, even the products deeming themselves ‘natural’ are loaded with aluminum. Applying aluminum to your armpits is bad, but to your head- where your brain lives, is just crazy. And breathing aluminum powder in? Faa-get about it. Any powder you are applying that close to your grill should damn well be edible.</p>
+<p>Cocoa adds a yum smell and adds a little color so your hair doesn’t look dull and powdery, while the starch and clay absorb excess oil. The light brown color will work with all hair shades. A little lavender essential oil promotes a healthy scalp. Beware, the combination of lavender and chocolate may send you on an expensive chocolate bar binge!</p>
+<p>• All Natural + Organic Ingredients</p>
+<p>• Paraben free, Cruelty free, Aluminum Free</p>
+<p>• 2 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">cocoa powder*, arrowroot starch*, kaolin clay, lavender essential oil*. *organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">To use, dip a makeup brush into the powder and tap off the excess. Part your hair at its oiliest sections and apply the powder using the brush. You may want to wrap a towel around your shoulders as not to get powders on you threads. Once you’ve applied the powder to your satisfaction, turn your head upside don and brush through. Viola! You are now a chocolate crowned goddess/god! 2 oz will last you a long time, even with regular use.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>arrowroot</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>kaolin</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7851760897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>FatMoon-LavenderCocoaDryShampoo2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/2252268097</id>
+    <published>2015-10-26T10:38:00-04:00</published>
+    <updated>2015-10-26T10:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/mermaid-dry-shampoo"/>
+    <title>Mermaid Dry Shampoo</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Captain Blankenship</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dry_Shampoo_2_oz.jpg?v=1464100272" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Captain Blankenship<br />
+        <strong>Type: </strong>Dry Shampoo<br />
+        <strong>Price: </strong>
+            14.00 - 24.00
+            <a href="https://www.carbonbeauty.com/products/mermaid-dry-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A miracle worker. A powerful combination of organic powders masks grease and adds volume + life to unwashed hair. Organic arrowroot powder, kaolin clay and baking soda absorb oil and mattify hair while organic essential oils of Rose Geranium and Palmarosa create a beachy rose smell.</p>
+<p>• Made with organic and wild-harvested ingredients</p>
+<p>• 100% All Natural &amp; Non-GMO</p>
+<p>• Cruelty-free</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, aluminum, lead, parabens, harsh chemicals, dyes, synthetic fragrances, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Arrowroot Powder, Kaolin Clay, Rice Powder, Aluminum Free Baking Soda, Organic essential oils of Rose Geranium &amp; Palmarosa.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sprinkle throughout roots and work through with your fingers. Reapply as necessary. We recommend using Mermaid Mane Sea Salt Hair Spray after Dry Shampoo for double trouble, in our world it is an indispensable duo.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>arrowroot</s:tag>
+    <s:tag>baking soda</s:tag>
+    <s:tag>dry hair shampoo</s:tag>
+    <s:tag>dry shampoo</s:tag>
+    <s:tag>dry shampoos</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>kaolin clay</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>rose geranium</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/2252268097</id>
+      <title>2.0 oz</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CptnBlankenship-DryShampoo2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/2252268097</id>
+      <title>4.0 oz</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CptnBlankenship-DryShampoo4oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

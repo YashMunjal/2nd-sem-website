@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/concealer-corrector.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-07-06T12:41:43-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1317379276890</id>
+    <published>2018-07-06T12:41:43-04:00</published>
+    <updated>2018-07-06T12:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/camouflage-creme"/>
+    <title>Camouflage Creme</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Camo_Nude.jpg?v=1529612906" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NU Evolution's camouflage cream can be used as a concealer and doubles as a buildable medium to full coverage foundation that covers breakouts and discoloration. This cream foundation is jam-packed with nourishing ingredients that soothe, hydrate and heal the skin.</p>
+<p><strong>Shades</strong></p>
+<p><strong>Nude</strong>: For fair to light skin with neutral undertones.</p>
+<p><strong>Fresh</strong>: Fair to light skin coloring with cool or neutral undertones.</p>
+<p><strong>Flawless</strong>: A concealer for medium skin with warm golden undertones.</p>
+<p><strong>Natural</strong>: A concealer for medium skin with peachy pink undertones.</p>
+<p><strong>Disguise</strong>: Disguise Camouflage Cream is a color corrector, and, or a concealer depending on the skin tone. Best color corrector out there with repairing and hydrating ingredients.</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Phenoxyethanol, Dimethicone, Talc, Propylene Glycol, Bismuth Oxychloride, Artificial Dyes, Synthetic Fragrances, Phthalates, Mineral Oil.</p>
+<p>• Cruelty free, Vegan, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Ricinus Communis (Castor) Seed Oil*, Cocos Nucifera (Coconut) Oil*, Euphorbia Cerifera (Candelilla) Wax, Simmondsia Chinensis (Jojoba) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter*, Butyrospermum Parkii (Shea Butter) Fruit*.</p>
+<p>May Contain: Titanium Dioxide (CI-77891), Iron Oxides (CI-77491), (CI-77492), (CI-77499), Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract*.</p>
+<p>*Certified Organic</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>concealers</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Nude</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeNude-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Fresh</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeFresh-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Flawless</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeFlawless-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeNatural-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Disguise</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeDisguise-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9999911873</id>
+    <published>2017-08-07T14:11:44-04:00</published>
+    <updated>2017-08-07T14:11:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/arnica-concealer-1"/>
+    <title>Arnica Concealer</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Concealer_Latte.jpg?v=1502129454" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ere Perez has worked hard to create the best cream concealer that covers over dark circles and blemishes – big, small, red or nasty. Did you know what you put over your little spot can actually make it worse? Not this everyday concealer with natural arnica, considered to be antiseptic and anti-inflammatory. It covers up while calming the inflamed area. It also covers pigmentation and inconsistencies in skin tone. Full coverage, even you’ll forget what’s hiding underneath.</p>
+<p><strong>Latte</strong> - This lightest shade is best suited for very fair complexions and porcelain skin, naturally pink cheeks and freckles.</p>
+<p><strong>Honey</strong> - This light shade is best suited to fair skin with gentle yellow undertones.</p>
+<p><strong>Chai</strong> - This versatile shade is for light to medium skin.</p>
+<p><strong>Caramel</strong> - Best shade for warmer skin tones that tan golden in the sun. A medium option suitable for olive skin.</p>
+<p><strong>Brew</strong> - Like the name suggests, this shade suits skin with a lot of natural warmth and color. Perfect for medium to darker complexions.</p>
+<p><strong>Mocha</strong> - This shade suits deep skins – for medium to dark complexions.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 5 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">diisopropyl sebacate, mica, candelilla (euphorbia cerifera) wax, carnauba (copernicia cerifera) wax, cocoa (theobroma cacao) seed butter, c12-15 alkyl benzoate, sunflower (helianthus annuus) seed oil, arnica (arnica montana) flower extract, tocopherol (vitamin E), stearalkonium hectorite, ascorbyl palmitate, tocopheryl acetate, propylene carbonate. May contain +/- iron oxides, ci77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use Ere Perez's eco vegan concealer and lip brush for best cover up results. Apply in smooth lines under the eyes and on trouble areas or visible blemishes or skin variation. Blend lightly around the edges of applied concealer.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>arnica</s:tag>
+    <s:tag>cocoa butter</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Latte</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcLatte</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Honey</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcHoney</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Chai</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcChai</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Caramel</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcCaramel</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Brew</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcBrew</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Mocha</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcMocha</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9398747905</id>
+    <published>2017-05-10T13:49:21-04:00</published>
+    <updated>2017-05-10T13:49:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/natural-contour-highlight-duo"/>
+    <title>Natural Contour + Highlight Duo</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Contour_Duo_2e2fb8a5-5988-4e71-af4a-4fc7375764fe.jpg?v=1494438677" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Natural Contour + Highlight Duo is the answer to complicated, over-the-top contouring palettes. Sculpt &amp; visibly slim the face by highlighting and defining features in two easy steps with this lightweight, dynamic duo. The creamy good-for-you formulas are packed with therapeutic organic botanicals that help repair + rejuvenate skin, while emphasizing your best features. Create the illusion of higher cheekbones, slimmer nose, softer jawline and a smaller forehead.</p>
+<p>• Nourishes + protects with organic Green Tea &amp; Olive</p>
+<p>• Sculpts + defines your best features</p>
+<p>• Optically diffuse fine lines + imperfections</p>
+<p>• Absorbs excess oil while softening fine lines</p>
+<p>• Hypoallergenic, Chemical Free, Noncomedogenic</p>
+<p>• EWG Verified for non-toxic health &amp; safety</p>
+<p>• Free From: Parabens, Gluten, GMO, Phthalate, Sulfate, Fragrance, Synthetic Dyes, PEG, Propylene Glycol, Talc</p>
+<p>• Made in the USA with love</p>
+<p>• Not tested on animals OR robots</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Highlight: Tri-Isostearyl Citrate, Caprylic/Capric Triglyceride, Cera Alba (Beeswax), Acacia Decurrens/Jojoba/Sunflower Seed Wax/Polyglyceryl-3 Esters, Hydrolyzed Jojoba Proteins, Silica Silylate, Ricinus Communis (Castor) Seed Oil, Tocopherol, Olea Europaea (Olive) Fruit Oil, Carthamus Tinctorius, Camellia Sinensis Seed (Green Tea) Oil*, Aloe Barbadensis (Oil) Leaf Extract, Synthetic Fluorphlogopite [+/-: Mica (CI 77019), Iron Oxides (CI 77491, 77492, 77499), Titanium Dioxide (CI 77891)] *USDA Organic Contour: Tri-Isostearyl Citrate, Caprylic/ Capric Triglyceride, C12-C15 Alkyl Benzoate, Beeswax (Cera Alba), Ethyl Macadamiate, Ricans Communis (Castor) Seed Oil, Silica Silylate, Acacia Decurrens/Jojoba/Sunflower Seed Wax/Polyglyceryl-3 Esters, Hydrogenated Jojoba Oil, Aloe (oil) Leaf Extract, Polyglyceryl-6 Distearate, Tocopherol, Olea Europaea (Olive) Fruit Oil, Camellia Senisis (Green Tea) Seed Oil*, Carthamus Tinctorius (Safflower) Oil. [+/-: Mica, Iron Oxides (CI 77491, 77492, 77499) Titanium Dioxide (CI 77891)]. *USDA Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">To highlight, blend brightener cream onto the highest point of cheekbones, bridge of nose, and peak of forehead. •To add depth, lightly blend bronzer cream onto contour of cheeks, temples, sides of nose and jawline</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:tag>summer arrivals</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9398747905</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>W3LL-ContourHighlightDuo</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7598089857</id>
+    <published>2016-08-29T11:29:00-04:00</published>
+    <updated>2016-08-29T11:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/concealer"/>
+    <title>Concealer</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Evelyn Iona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Flawless.jpg?v=1472484490" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Evelyn Iona<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This all-natural, certified organic CONCEALER easily conceals your dark little secrets with a silky smooth, natural and dewy look. Your crease free, flake free under eye will love the Vitamin E (natural moisturizer), Cocoa Butter (an antioxidant that helps sooth sensitive skin), Coconut (helps fight signs of aging), Jojoba (contains fatty acids that gives skin a smooth appearance) and Castor Oil (improves the look of dark circles under the eye) this concealer is formulated with.</p>
+<p><strong>NAKED</strong> - For light skin with pink undertones</p>
+<p><strong>FLAWLESS</strong> - For medium skin with beige undertones</p>
+<p>• 100% Natural, 88% Organic</p>
+<p>• Vegan, Cruelty free, Gluten Free</p>
+<p>• Made in the USA</p>
+<p>• .11 oz / 3 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Ricinus Communis (Castor) Seed Oil, *Cocos Nucifera (Coconut) Oil, Euphorbia Cerifera (Candelilla) Wax, *Simmondsia chinensis (Jojoba) Seed Oil, *Theobroma Cacao (Cocoa) Seed Butter, *Butyrospermum Parkii (Shea Butter) Fruit, May contain [+/-]: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, CI 77492, CI 77499), Tocopherol, *Rosmarinus Officinalis Leaf Extract. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7598089857</id>
+      <title>Flawless</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>EvelynIona-ConcealerFlawless</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7598089857</id>
+      <title>Naked</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>EvelynIona-ConcealerNaked</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3551090881</id>
+    <published>2016-06-15T17:12:00-04:00</published>
+    <updated>2016-06-15T17:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/translucent-corn-perfecting-powder-one-for-all"/>
+    <title>Translucent Corn Perfecting Powder One For All</title>
+    <s:type>Shine Control</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Translucent_Corn_Powder.jpg?v=1466025131" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Shine Control<br />
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Banish shine with this ultra-light translucent powder that naturally absorbs oil from the face. Made with corn, it combats excessive moisture and is multi-functional, so you can use alone to control shine or over foundation as a finisher. Use lightly over eyeshadow and lipstick for prolonged wear.</p>
+<p>• Free of harsh chemicals such as parabens, phthalates, propylene glycol, paraffin, lead, nanoparticles and more.</p>
+<p>• Compatible with even the most sensitive skin types</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">native corn (zea mays) starch, native rice (oryza sativa) starch, zinc stearate, caprylic /capric triglyceride, triheptanoin, potassium sorbate, May contain: +/- iron oxides, CI77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use on clean, bare skin to control shine or over makeup to set your look. Simply gather powder with the brush and apply all over the face. Then, even out the application with wide, sweeping brush strokes until you get that flawless finish.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>face powder</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>sensitive skin</s:tag>
+    <s:tag>shine</s:tag>
+    <s:tag>shine control</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3551090881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>ErePerez-TranslucentCornPerfPowder</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4158449473</id>
+    <published>2016-02-14T12:46:00-05:00</published>
+    <updated>2016-02-14T12:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bio-correct-multi-action-concealer"/>
+    <title>Bio Correct Multi-Action Concealer</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fair_Concealer.jpg?v=1455471853" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>W3LL PEOPLE's latest conventional-busting cosmetic, Bio Correct Multi-action Concealer. This power-packed natural wonder provides serious coverage to banish any skin imperfections or blemishes. The difference is its ultra light, mousse texture that blends onto skin with minimal effort. It sets like a dream without creasing or budging for all day wear.</p>
+<p><strong>Bonus</strong>: it actually depuffs, brightens and improves skin texture while it conceals with a robust cocktail of organic algae, coffee, pomegranate and anti-aging peptides! You’ll especially love the dramatic improvement to your appearance by diminishing darkness around the eye for a fresh, bright-eyed, rested look. Like all W3LL PEOPLE cosmetics, it is free from harsh artificial chemicals like parabens, propylene glycol and dimethicone.</p>
+<p>• Blends easily to instantly camouflage imperfections and redness</p>
+<p>• Provides maximum coverage for up to 8 hours with no streaking or creasing</p>
+<p>• Improves texture and smoothes fine lines with advanced peptide complex</p>
+<p>• Brightens and combats hyperpigmentation with organic algae extracts</p>
+<p>• Soothes and calms sensitive skin with organic aloe, calendula and chamomile</p>
+<p>• Depuffs with caffeine</p>
+<p>• Made in the USA with love</p>
+<p>• Petroleum-free, Phthalate-free, Talcum-free, Paraben-free, No Fragrance Added</p>
+<p>• Not tested on animals OR robots</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Caster Isostearate Beeswax Succinate, Coco-Caprylate, Caprylic/Capric Triglyceride, Isononyl Isononanoate, Glyceryl Dibehenate, Silica, Isostearyl Alcohol, Aloe Barbadensis Leaf Juice*, Glyceryl Behenate, Butylene Glycol Cocoate, Ethylcellulose, Alaria Esculenta Extract, Glyceryl Caprylate, Glyceral Undecylenate, C12-15 Alkyl Benzoate, Ceramide NG, Palmitoyl Hexapaptide 12, Coffea Arabica (Coffee) Seed Oil, Punica Gerantum (Pomegranate) Seed Oil*, Cocos Nucifera (Coconut) Oil*, Cucurbita Pepo (Pumpkin) Seed Oil*, Water Camellia Oleifera (Green Tea) Leaf Extract*, Glycerin, Ginsing Root Extract*, Calendula Officinalis Flower Extract*, Chamomila Recutita (Matricaris) Flower Extract*, Algae Extract*, Trihydroxystearin, Hexylene Glycol, Caprylyl Glycol, Xanthum Gum, triethoxycaprylylsilane, Tribehenin. [+/- Titanium, Dioxide (CI 77891), Iron Oxides (CI77492, 77491, 77499)] *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Apply onto under eye and eye lids to conceal dark circles and brighten eyes. Use as a spot corrector to promote an even skin tone and reduce redness. Warm and blend onto the face using fingertips, or W3LL PEOPLE Foundation brush. Gently tap and blend product onto the complexion until desired effect is achieved. <strong>TIPS</strong>: 1) Dust with W3LL PEOPLE Bio Brightener Invisible Powder for long-last wear. 2) Use as eyeshadow primer. 3) Add a small dab to tinted moisturizer or liquid foundation to boost coverage</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alaria esculenta</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>pomegranate</s:tag>
+    <s:tag>pumpkin oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4158449473</id>
+      <title>FAIR</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>W3LL-BioCorrectConcealerFAIR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4158449473</id>
+      <title>LIGHT</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>W3LL-BioCorrectConcealerLIGHT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4158449473</id>
+      <title>MEDIUM</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>W3LL-BioCorrectConcealerMEDIUM</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4158449473</id>
+      <title>MEDIUM DARK</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>W3LL-BioCorrectConcealerMEDIUMDARK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/370330605</id>
+    <published>2014-10-02T17:10:00-04:00</published>
+    <updated>2014-10-02T17:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/narcissist-foundation-stick"/>
+    <title>Narcissist Foundation + Concealer Stick</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Nar0.jpg?v=1426798219" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This feel good, creamy foundation instantly melts into skin giving it a fresh, healthy glow. The modern stick design is ideal for portability and mess-proof application on the go. W3ll People's breakthrough formula delivers a weightless, satin, soft-focus finish while balancing skin tone and diminishing imperfections. Made with pure, natural and organic ingredients, so there’s no film, no grease, no crease just diva-friendly perfection.</p>
+<p>• Achieves natural radiance with creamy supernatural pigments that move and breathe with skin</p>
+<p>• Controls shine with oil absorbing silica</p>
+<p>• Nourishes with rich, organic omega oils</p>
+<p>• Rejuvenates and nourishes with powerful organic aloe, green tea and chamomile</p>
+<p>• Natural Ingredients</p>
+<p>• Made in the USA with love</p>
+<p>• Not tested on animals OR robots</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Helianthus Annuus (Sunflower) Oil*, Ricinus Communis (Castor) Seed Oil, Cera Alba (Beeswax)*, Silica, Castor Isostearate Beeswax Succi- nate **, Mica (CI 77019), Carthamus Tinctorius (Safflower) Seed Oil (and) Organic Aloe Barbadenis (Aloe) Extract, Lysine, Tocopherol (Natural Vitamin E), Pro- prietary Essential Oil blend, Camellia Sinensis (Green Tea)*, Roman Anthemis Nobilis (Chamomile)** [+/-: Titanium Dioxide (CI 77891), Iron Oxides (CI 77491, 77492, 77499)] *Certified Organic, **Eco-cert</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Warm and blend onto the face using fingertips, or W3LL PEOPLE Foundation brush</p>
+<p>Use for spot correction, or over entire face to balance and even skin tone for a natural appearance</p>
+<p>Build to the desired level of coverage</p>
+</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face</s:tag>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>face</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>made in the usa</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>tinted moisturizer</s:tag>
+    <s:tag>w3ll people</s:tag>
+    <s:tag>well people</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Pale Ivory</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickPaleIvory</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Fair Pink</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickFairPink</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Fair Golden</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickFairGolden</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Medium Neutral</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickMedNeutral</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Medium Pink</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickMedPink</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Dark Golden</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickDarkGolden</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Dark Neutral</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickDarkNeutral</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370330605</id>
+      <title>Rich Mocha</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3ll-NarcissistStickRichMocha</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+</feed>

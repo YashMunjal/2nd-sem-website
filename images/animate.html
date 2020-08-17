@@ -1,0 +1,33 @@
+<hmtl>
+	<body>
+		<style type="text/css">
+@keyframe animate{
+	0%{
+		background-position:0%;
+	}
+	100%{
+		background-position: 400%
+	}
+}
+.glow:before{
+	content: '';
+	position: absolute;
+	top: -5px;
+	left: 0px;
+	right: 0px;
+	bottom: -5px;
+	z-index: -1;
+	background: linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+	background-size: 400%;
+	border-radius: 40px;
+	opacity: 0;
+	transition: 0.5s;
+}
+.glow:hover:before{
+	filter: blur(20px);
+	opacity: 1;
+	animation: animate 5s linear infinite;
+}
+</style>
+</body>
+</hmtl>

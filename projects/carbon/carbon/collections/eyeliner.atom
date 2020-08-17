@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/eyeliner.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2017-04-16T15:52:09-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9142742081</id>
+    <published>2017-04-16T15:52:09-04:00</published>
+    <updated>2017-04-16T15:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/eye-tint"/>
+    <title>Eye Tint</title>
+    <s:type>Eyeshadow</s:type>
+    <s:vendor>Gressa Skin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eye_Tint_Neve.jpg?v=1492371268" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gressa Skin<br />
+        <strong>Type: </strong>Eyeshadow<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Organic + Extraordinary Performance = Gressa's Eye Tint</p>
+<p>An innovative Vegan formula that transforms from cream to velvet, instantly enveloping the eyelid and providing fault-proof and smudge-free wear. Versatile and buildable, it can be worn as an eyeliner or eyeshadow.</p>
+<p>• Vegan</p>
+<p>• 0.24 oz / 7 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Coconut Alkanes (and) Coco-Caprylate/Caprate, Candelilla (Euphorbia Cerifera) Wax, Silica, Mica, Laurel Lysine, and may contain: [+/- Titanium Dioxide CI 77891, Iron Oxides CI 77491, CI 77492, CI 77499, Mica CI 77019 100% Formula of Natural Origin</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Depending on the shade, use as an all over lid shade, as a lower lid shade or as a highlighter. Best applied on bare lids using the Cream Shadow Brush (sold separately). For more sheer application, use fingertips. For longer wear set with a transparent powder. Remove with Balancing Cleanser.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eye makeup</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eye shadow</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Neve</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintNeve</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Aureo</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintAureo</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Bronce</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintBronce</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Obscur</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintObscur</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Envie</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintEnvie</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142742081</id>
+      <title>Charbon</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>GRESSA-EyeTintCharbon</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/8658415489</id>
+    <published>2017-01-18T19:09:00-05:00</published>
+    <updated>2017-01-18T19:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/liquid-eyeliner"/>
+    <title>Liquid Eyeliner</title>
+    <s:type>eyeliner</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Expressionist_Eyeliner_Black.jpg?v=1484784545" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>eyeliner<br />
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fine felt-tip liquid liner that delivers ultimate precision in a premium, natural formula that doesn’t fade, flake or smudge. Organic rosemary and eyebright nourish and soothe sensitive eye area and an easy to use felt tip applicator glides evenly without dragging or tugging.</p>
+<p>• Hyper pigmented for inky color that lasts long into the night</p>
+<p>• Smudge-proof + Water resistant / No flaking</p>
+<p>• EWG Verified for non-toxic health &amp; safety</p>
+<p>• NO creepy adhesives and petrochemicals typically found in conventional liquid eye liners</p>
+<p>• Free From: Parabens, Gluten, GMO, Phthalates, Sulfates, Fragrance, Pheonoxyethanol, Dimethicone, PEG, Propylene Glycol, Butylene Glycol, Lead, Mineral Oil, Talc</p>
+<p>• Made in the USA with love</p>
+<p>• Not tested on animals OR robots</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Iron Oxides (CI 77499), Brassica Campestris/Aleurites Fordi Oil Copolymer, glyceryl Oleate Citrate, Glycerin, Methyl Dihydroabietate, Sodium Cocoyl Glutamate, Cystine, Laurel Arginine, Bentonite Clay, Lactobacillue Ferment, Caprylyl Glycol, Caprylic/Capric Triglyceride, Xanthum Gum, Caprylhydroxamic, Acid, Aloe Barbadensis Leaf Juice*, Tocopherol (Natural Vitamin E), Rosmarinus Officials (Rosemary) Leaf Extract*, Euphrasia Officianalis Extract*, Leuconostoc Ferment Filtrate. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Place felt tip as close to the lash line as possible for perfectly defined eyes. For ultra precise application draw short dashes along your lash line in lieu of one long swoop. The dashes should extend slightly past the outer corners of your eyes for a classic eye, and beyond for a dramatic cat eye.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eye makeup</s:tag>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/8658415489</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>W3LL-LiquidEyeLiner</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7598323585</id>
+    <published>2016-08-29T11:29:00-04:00</published>
+    <updated>2016-08-29T11:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/gel-eyeliner-black"/>
+    <title>Gel Eyeliner - Black</title>
+    <s:type>eyeliner</s:type>
+    <s:vendor>Evelyn Iona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Gel_Liner_Black.jpg?v=1472484517" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Evelyn Iona<br />
+        <strong>Type: </strong>eyeliner<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>No matter what situation you find yourself in, you know that your Evelyn Iona GEL LINER won't smudge, budge or run. This highly blendable, easy glide, gel liner is infused with Grape (protects the skin from the suns rays), Castor oil (improves the look of dark circles under the eye), Candelilla wax (vegan and natural alternative to beeswax), Oregano (works as an antioxidant) and Vitamin E (natural moisturizer) isn't going anywhere, unless you want it to.</p>
+<p>• 95% Natural, 70% Organic</p>
+<p>• Waterproof, Easy-Glide</p>
+<p>• Vegan, Cruelty free, Gluten Free</p>
+<p>• Made in the USA</p>
+<p>• .11 oz / 3 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Ricinus Comminis (Caster) Seed Oil, *Cocos Nucifera (coconut) Oil, *Vitis Vinifera (Grape) Seed Oil, Carnauba Copernica Cerifera (Carnauba) Wax, Bis-Diglyceryl Polyacyladpate-2, Silica, * Euphorbia Cerifera (Candelilla) Wax, Tocopherol (Vitamin E), Origanum Vulgare (Oregano) Leaf Extract, Thymus Vulgaris (Thyme) Extract, Cinnamomum Zeylancum (Cinnamon) Bark Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Hydrastic Canadensis (Goldenseal) Root Extract. May Contain: Iron Oxides. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eye liner</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7598323585</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>EvelynIona-GelEyelinerBlack</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3568247873</id>
+    <published>2015-12-02T17:03:00-05:00</published>
+    <updated>2015-12-02T17:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/jojoba-eye-pencil"/>
+    <title>Jojoba Eye Pencil</title>
+    <s:type>Eye Pencil</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eye_Pencil_Black.jpg?v=1507667830" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Eye Pencil<br />
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Long-lasting &amp; soothing formulation of oils including jojoba, designed to help protect your eyelid + stimulate lash growth. Gentle on eyes, suitable for sensitivities. Simple and elegant pencil design for easy application. Achieve sharp classic lines or smudge before drying for a smoky look. This eye pencil won’t fail you.</p>
+<p>• Free of harsh chemicals such as parabens, phthalates, propylene glycol, paraffin, lead, nanoparticles and more.</p>
+<p>• Compatible with even the most sensitive skin types</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">octyldodecyl stearoyl stearate, coconut (cocos nucifera) oil, C10-18 triglycerides, hydrogenated vegetable (olus) oil, mica, carnauba (copernicia cerifera) wax, candelilla (euphorbia cerifera) wax, polyglyceryl-3 diisostearate, oryzanol, jojoba (simmondsia chinensis) seed oil, tocopherol, glyceryl caprylate. May Contain +/- iron oxides, CI 77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">First, sharpen eye pencil with Ere Perez's eco sharpener to achieve a round point for a smooth application. To apply eye pencil to the top eyelid, make dots along the lash line where the lashes meet the skin. Next, connect the dots in a sweeping line along the eyelid. For a smudged effect use our eco vegan smudge &amp; shade eye brush over line to blur edges. Apply one or more layered lines for a darker look. For lower eyelid, apply on the inner rim as close to the lashes as possible.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eyes</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eye pencil</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Black</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilBLACK</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Brown (Dark Brown)</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilBROWN</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Clay (Light Brown)</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilClay</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Bronze</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilBronze</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Copper</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilCopper</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Gold</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilGold</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Stone (Slate Grey)</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilStone</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568247873</id>
+      <title>Forest (Deep Forest Green)</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-EyePencilForest</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/370567869</id>
+    <published>2014-11-20T18:12:00-05:00</published>
+    <updated>2014-11-20T18:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hypnotist-eyeliner"/>
+    <title>Hypnotist Eyeliner</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Black_Hypnotist_Eyeliner_16473576-c45d-410c-b45f-93f883945d2d.jpg?v=1436292695" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional performance in an natural eyeliner! This lustrous velvety eye pencil, available in black and brown, glides on like a dream and offers a smooth, precise line for a perfectly defined eye. Easily blends to create a seductive, smoky eye. Hypnotist is designed to be moisturizing and nourishing to the eye area without the harsh chemicals and skin-aging adhesives found in most eye cosmetics.</p>
+<p>• Kohl/Lead free</p>
+<p>• Natural Ingredients</p>
+<p>• Made in the USA with love</p>
+<p>• Not tested on animals OR robots</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles and bad mojo</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Hydrogenated Vegetable Oil, Rhus Verniciflica Peel Wax, Hydrogenated Vegetable Glycerides, Hydrogenated Coco Glycerides, Simmondsia Chinensis (Jojoba) Seed Oil, Cetyl Palmitate, Caprylic/Capric Triglyceride, Soy Lecithin, [+/-: Titanium Dioxide (CI 77891), Ultramarines CI 77-7, CI 77013, Chromium Hydroxide Green CI 77289, Chromium Hydroxide Green CI 77289, Mica (CI 77019), Iron Oxides CI 77489, CI 77491, CI 77492, CI 77499]</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">For big, round eyes, apply liner to upper and lower lids without touching at the corner. For almond-shaped eyes/smaller eyes, apply liner only to the upper lids and lash line.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eyes</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>chemical free</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyeliner</s:tag>
+    <s:tag>eyes</s:tag>
+    <s:tag>fallpicks</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>lead free</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>stocking stuffers</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>w3ll people</s:tag>
+    <s:tag>well people</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370567869</id>
+      <title>Black</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>W3ll-HypnotistBlack</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370567869</id>
+      <title>Brown</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>W3ll-HypnotistBrown</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

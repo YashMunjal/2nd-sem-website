@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/all-hair-care-1.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-10-03T20:02:42-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1478272712794</id>
+    <published>2018-10-03T20:02:42-04:00</published>
+    <updated>2018-10-03T20:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pomade-no-1"/>
+    <title>Pomade No. 1</title>
+    <s:type>pomade</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pomade.jpg?v=1538517823" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>pomade<br />
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Olio E Osso's first pomade has a mid-weight hold with a matte finish, is hydrating, non-greasy and adds beautiful texture and thickness. It can be used on both wet or dry hair and is easily washed out.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• 4 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Bentonite, Boswellia Serrata (Frankincense) Gum Resin Oil, Cedrus Deodara (Cedarwood) Bark Oil, Cupressus Sempervirens (Cypress) Leaf Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Rub a small amount evenly between palms before working into hair. Distribute evenly through damp or dry hair for shorter styles or concentrate on ends for longer hair to add texture.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all men&apos;s hair care</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>men&apos;s hair care</s:tag>
+    <s:tag>men&apos;s styling products</s:tag>
+    <s:tag>pomade</s:tag>
+    <s:tag>styling products</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478272712794</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>Olio-PomadeNo1-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/2037563521</id>
+    <published>2015-11-30T11:52:00-05:00</published>
+    <updated>2015-11-30T11:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hair-smoothie"/>
+    <title>Hair Smoothie</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Graydon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Full_Size_Hair_Smoothie.jpg?v=1505875840" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Graydon<br />
+        <strong>Type: </strong>Conditioner<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hair Smoothie nourishes your lovely locks with nutrient-rich ingredients, including broccoli seed oil, while infusing your scalp with healthy hair growth essential oils of parsley, sage, rosemary and thyme. This silicone-free formulation will leave your hair super soft and smooth, but not weighed down. Great for all hair types!</p>
+<p>• 240 ml / 8.0 fl oz</p>
+<p>• Gluten-free</p>
+<p>• NO nut derived ingredients</p>
+<p>Made <strong>WITHOUT</strong> Artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">aqua (purified water), cetearyl alcohol, distearoylethyl dimonium chloride, coco-caprylate, glycerin, lauryl glucoside, polyglyceryl-2 dipolyhydroxystearate, chlorophyll, cocos nucifera (coconut) oil, citric acid, *glyceryl caprylate, *glyceryl undecylenate, hydrolyzed jojoba esters, jojoba esters, brassica oleracea italica (broccoli) seed oil, camellia sinensis (matcha green tea) leaf extract, helianthus annuus (sunflower) seed oil, olea europaea (olive) fruit oil, tocopherol (vitamin e) oil, citrus medica limonum (lemon) oil, carum petroselinum (parsley) oil, salvia sclarea (sage) oil, rosmarinus officinalis (rosemary) oil, thymus vulgaris (thyme) oil *natural vegetable preservative</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After shampooing with All Over Soap, apply this light conditioner to scalp and hair. Leave on for a few minutes or rinse out immediately if for fine, thin hair. If you require deeper conditioning, leave Hair Smoothie for a few hours or over night. If you have super thick, coarse hair, you can use it as a ‘leave in’ treatment to groom and style your hair.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all men&apos;s hair care</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>broccoli seed oil</s:tag>
+    <s:tag>chlorophyll</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>conditioner</s:tag>
+    <s:tag>detangling</s:tag>
+    <s:tag>graydon</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair conditioner</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s conditioner</s:tag>
+    <s:tag>men&apos;s hair conditioner</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>winter picks</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/2037563521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Graydon-HairSmoothie</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1215423041</id>
+    <published>2015-06-15T17:19:00-04:00</published>
+    <updated>2015-06-15T17:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/natural-styling-pomade"/>
+    <title>Natural Styling Pomade</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>Crux Supply Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_CRUX_Styling_Pomade.jpg?v=1434403949" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crux Supply Co<br />
+        <strong>Type: </strong>Hair Styling<br />
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Free of petroleum, fragrances and dyes, <strong>CRUX Supply Co.'s</strong> Styling Pomade slicks and shapes hair of all types while gently infusing the scent of clary sage, rosewood, and bergamot. Made of all natural ingredients and fortified with moisturizing coconut oil, this pomade delivers a firm hold with a gentle hand. Good for your hair, your scalp, and your style.</p>
+<p>• Made in the USA</p>
+<p>• 2 oz</p>
+<p>Formulated <strong>WITHOUT</strong>: Parabens, Sulfates, Artificial Fragrances, Silicones, Synthetic Dyes, Artificial Colors, Petrochemicals, &amp; Animal Testing</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Beeswax, Coconut Oil, Avocado Oil, Jojoba Oil, Clary Sage, Rosewood &amp; Bergamot FCF Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Work into hair as needed</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all men&apos;s hair care</s:tag>
+    <s:tag>crux</s:tag>
+    <s:tag>crux supply co</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s all hair care</s:tag>
+    <s:tag>men&apos;s grooming</s:tag>
+    <s:tag>men&apos;s hair</s:tag>
+    <s:tag>men&apos;s hair care</s:tag>
+    <s:tag>men&apos;s styling products</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>petroleum free</s:tag>
+    <s:tag>pomade</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1215423041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>CRUX-StylingPomade</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/379902753</id>
+    <published>2014-11-18T11:22:00-05:00</published>
+    <updated>2014-11-18T11:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/shiro-shampoo"/>
+    <title>Shiro Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Shiro_Shampoo_250ml.jpg?v=1505678313" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            12.00 - 43.00
+            <a href="https://www.carbonbeauty.com/products/shiro-shampoo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Shiro Shampoo smells deliciously earthy and smoky and provides an addictive invigorating sensation on your scalp while leaving behind a deliciously fresh scent. Shiro Shampoo is suitable for fine, dry or normal hair.</p>
+<p>Shiro Shampoo is handmade in Japan and is dermatologically tested.</p>
+<p>Sort Of Coal products have an efficient, waste-free lifecycle. Cross-cutting the wood to make White Charcoal is done in a thoughtful way such that the forests are restored rather than destroyed. And when you need to dispose of it, White Charcoal can be used as an excellent fertilizer.</p>
+<p>• Made with organically produced White Charcoal powder, which is the highest grade of charcoal available.</p>
+<p>• White Charcoal contains more than 90 percent pure carbon and has a powerful ability to absorb due to its extremely porous surface. It is at the heart of centuries-old Asian traditions surrounding well-being and purification</p>
+<p>• Made in Denmark</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Cocamidopropyl Betaine, Sodium, Coco-Sulfate, Oak Vinegar, Glycerin, Caprylyl Glycol, Glyceryl Caprylate, Phenylpropanol, Hydroxypropyl Guar, Hydroxypropyltrimonium Chloride, Sodium Chloride</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all men&apos;s hair care</s:tag>
+    <s:tag>charcoal</s:tag>
+    <s:tag>detoxiifying</s:tag>
+    <s:tag>dry hair</s:tag>
+    <s:tag>earthy</s:tag>
+    <s:tag>gift him</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair rinse</s:tag>
+    <s:tag>hair wash</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s hair care</s:tag>
+    <s:tag>men&apos;s shampoo</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>normal hair</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>purifying</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>sort of coal</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>white charcoal</s:tag>
+    <s:tag>woodsy</s:tag>
+    <s:tag>woody</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379902753</id>
+      <title>8.45 oz / 250 ml</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SortofCoal-ShiroShampoo</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379902753</id>
+      <title>16.9 oz / 500 ml</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>SortofCoal-ShiroShampoo500ml</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379902753</id>
+      <title>3.38 oz / 100 ml</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SortofCoal-ShiroShampoo100ml</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/379900921</id>
+    <published>2014-11-18T11:17:00-05:00</published>
+    <updated>2014-11-18T11:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/kuro-shampoo"/>
+    <title>Kuro Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Kuro_Shampoo_250ml.jpg?v=1505678305" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            12.00 - 43.00
+            <a href="https://www.carbonbeauty.com/products/kuro-shampoo">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> The Kuro Shampoo is for normal and oilier hair types with White Charcoal absorbing all dirt and excess oil and leaving hair feeling perfectly clean. Kuro Shampoo is also excellent at removing impurities from hair.</p>
+<p>Kuro Shampoo is handmade in Japan and is dermatologically tested.</p>
+<p>Sort Of Coal products have an efficient, waste-free lifecycle. Cross-cutting the wood to make White Charcoal is done in a thoughtful way such that the forests are restored rather than destroyed. And when you need to dispose of it, White Charcoal can be used as an excellent fertilizer.</p>
+<p>• Made with Organically produced White Charcoal powder, which is the highest grade of charcoal available.</p>
+<p>• White Charcoal contains more than 90 percent pure carbon and has a powerful ability to absorb due to its extremely porous surface. It is at the heart of centuries-old Asian traditions surrounding well-being and purification</p>
+<p>• Made in Denmark</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Cocamidopropyl Betaine, Sodium, Coco-Sulfate, Oak Vinegar, Glycerin, Caprylyl Glycol, Glyceryl Caprylate, Phenylpropanol, Hydroxypropyl Guar, Hydroxypropyltrimonium Chloride, charcoal powder, Sodium Chloride.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all men&apos;s hair care</s:tag>
+    <s:tag>best sellers hair care</s:tag>
+    <s:tag>charcoal</s:tag>
+    <s:tag>detoxifying</s:tag>
+    <s:tag>earthy</s:tag>
+    <s:tag>gift him</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair rinse</s:tag>
+    <s:tag>hair wash</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s hair</s:tag>
+    <s:tag>men&apos;s shampoo</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>normal hair</s:tag>
+    <s:tag>oily hair</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>purifying</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>sort of coal</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>white charcoal</s:tag>
+    <s:tag>woodsy</s:tag>
+    <s:tag>woody</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379900921</id>
+      <title>8.45 oz / 250 ml</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>SortofCoal-KuroShampoo</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379900921</id>
+      <title>16.9 oz / 500 ml</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>SortofCoal-KuroShampoo500ml</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/379900921</id>
+      <title>3.38 oz / 100 ml</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SortofCoal-KuroShampoo100ml</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+</feed>

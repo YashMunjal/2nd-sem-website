@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/sea-buckthorn.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2017-07-09T13:31:59-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9850584001</id>
+    <published>2017-07-09T13:31:59-04:00</published>
+    <updated>2017-07-09T13:31:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bio-booster-facial-serum"/>
+    <title>Bio Booster Facial Serum</title>
+    <s:type>Facial Serum</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bio_Booster_Serum.jpg?v=1499624256" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Facial Serum<br />
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Repair, rejuvenate, calm, hydrate, and protect your complexion with this incredibly powerful all-in-one active botanical serum! A seven-in-one everything formula powered by organic botanicals. Turmeric &amp; Seabuckthorn strengthen the skin, organic Rose Hip &amp; Pomegranate repair + rejuvenate, while Algae Complex &amp; Rose Hip brighten + correct uneven skin tone.</p>
+<p>• Primes + perfects skin surface with Broccoli Seed</p>
+<p>• Soothes sensitive skin &amp; calms Rosacea with Calendula + Carrot Seed</p>
+<p>• Combats breakouts with organic Red Raspberry + Black Cumin</p>
+<p>• Natural Ingredients</p>
+<p>• Made in the USA with love</p>
+<p>• Not tested on animals OR robots</p>
+<p>• .34 oz / 10 ml</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulphates, petroleum, talc, bismuth oxychloride, nanoparticles and bad mojo</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Rosa Moschata (Rose hip) seed oil*, Simmondsia Chinensis (Jojoba) Seed Oil, Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil*, Rubus Idaeus (Red Raspberry) Seed Oil*, Jojoba Oil/Macadamia Seed Oil Esters (and) Squalene (and) Phytosteryl Macadamiate (and) Phytosterols, Tocopherol (Vitamin E), Brassica Oleracea Italica (Broccoli) Seed Oil, Camellia Sinensis (Green Tea) Leaf Extract*, Daucus Carota Sativa (Carrot) Seed Oil*, Calendula Officinalis Flower Oil*, Melaleuca Leucadendron Cajaputi (Cajaput) Oil*, Curcuma Longa (Turmeric) Oil*, Nigella sativa (Black Cumin) Seed Oil, Urtica Dioica (Nettle) Extract*, Amyris Balsamifera (Amyris) Oil, Pelargonium Roseum Leaf (Rose Geranium) Oil, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Dulcis (Neroli) Flower Oil, Citrus Aurantium Amara (Petitgrain) Leaf Oil, Pogostemon Cablin (Patchouli) Oil, Aniba Rosaeodora (Rosewood) Wood Oil, Santalum Album (Sandalwood) Oil, Canaga Odorata (Ylang Ylang) Flower Oil, Myroxylon Pereira (Balsam Peru) Resin. *Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to freshly cleansed face morning and night. Add a drop or two to Bio Tint Multi-action Moisturizer for boosted skin treatment and flawless application. For a radiant finish and extra long wear, set with Bio Brightener Invisible Powder.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>broccoli seed oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>facial serum</s:tag>
+    <s:tag>rose hip oil</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>turmeric</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9850584001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W3LL-BioBoosterSerum</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9728814401</id>
+    <published>2017-06-20T14:14:49-04:00</published>
+    <updated>2017-06-20T14:14:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/06-body-perfecting-gel"/>
+    <title>06 Body Perfecting Gel</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Body_Perfecting_Gel.jpg?v=1497982443" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This exhilarating gel is rich in antioxidants to moisturize, revitalize + retexturize the skin. Containing sea buckthorn, kigelia, baobab, orange flower (neroli) and patchouli, the 06 Body Perfecting Gel is a light yet decadent formula that visibly tightens + firms skin all over the body, giving it a silky, lustrous feel. Ideal for use post-gym or yoga, the restorative aroma of patchouli acts as a soft base scent for your perfume or cologne.</p>
+<p>• Suitable for all skin types</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<p>• 6.76 oz / 200 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Glycerin, Polysorbate 20, Hippophae Rhamnoides (Sea Buckthorn) Oil, Adansonia Digitata (Baobab) Seed Oil, Kigelia Africana Fruit Extract, Olea Europaea (Olive) Fruit Extract, Aloe Barbadensis Leaf Juice Powder, Daucus Carota Sativa (Carrot) Seed Oil, Citrus Aurantium Amara (Bitter Orange) Flower Oil, Pogostemon Cablin (Patchouli) Oil, Carbomer, Triethanolamine, Alcohol Denat., Phenoxyethanol, Ethylhexylglycerin, Limonene+, Linalool+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use all over after showering.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>baobab</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>kigelia</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9728814401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>DrJackson-06BodyPerfGel</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9142696385</id>
+    <published>2017-04-16T15:52:09-04:00</published>
+    <updated>2017-04-16T15:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/minimalist-illuminating-serum"/>
+    <title>Minimalist Illuminating Serum</title>
+    <s:type>Highlighter</s:type>
+    <s:vendor>Gressa Skin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Illuminating_Serum.jpg?v=1491771798" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gressa Skin<br />
+        <strong>Type: </strong>Highlighter<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Accentuates and highlights with a pearlized glow. Achieves sheer, natural-looking highlights with a luminous, shimmering finish.</p>
+<p>GRESSA Healing Complex<sup>TM</sup> is a proprietary powerhouse blend of carefully selected botanical extracts that care for your skin by providing it with overall balance, radiance and clarity. Minerals provide an illuminating effect and natural finish.</p>
+<p>• .5 oz / 15 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Brassica oleracea (Broccoli) Seed Oil, Caprylic/Capric Triglyceride, Silica, GRESSA Healing ComplexTM *Silymarin, *Neem (Azadirachta indica) Extract,*Horsetail (Equisetum arvense) Extract, *Lemon Balm (Melissa officianalis) Extract, *Barberry (Berberis vulgaris) Extract, *Sea Buckthorn (Hippophae rhamnoides) Seed Extract, *Elder Flower (Sambucus nigra) Extract, *Bitter Melon (Momordica charantia) Extract, Licorice Root (Glycyrrhiza glabra) Extract, Tocopheryl Acetate Non-GMO, Coenzyme Q10, Ascorbyl tetraisopalmitate, (Vitamin C), *lecithin, *glycerin, mica, iron oxides, titanium oxide. *CERTIFIED ORGANIC</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shake well to ensure a perfect mix. Drop 1-2 drops in the palm of your hand. Rapidly spread the Illuminating Serum and gently pat onto desired areas. Use it to highlight and contour brow bones, cheeks, and Cupid's bow for a look that's refreshed and radiant. Use the Immaculate Buffing Brush to flawlessly buff and blend the serum out for a radiant glow.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>broccoli seed oil</s:tag>
+    <s:tag>coq10</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>foundation + tinted moisturizers</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>neem</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142696385</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>GRESSA-MinIlluminatingSerum</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9142685505</id>
+    <published>2017-04-16T15:52:09-04:00</published>
+    <updated>2017-04-16T15:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/minimalist-contouring-serum-bronzer"/>
+    <title>Minimalist Contouring Serum Bronzer</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>Gressa Skin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Contouring_Serum_Bronzer.jpg?v=1491771647" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gressa Skin<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer tinted infusion of antioxidant-rich extracts perfectly contours your face. Applies weightlessly on the skin and naturally warms all skin tones with stunning radiance + a bronzed glow.</p>
+<p>GRESSA Healing Complex<sup>TM</sup> is a proprietary powerhouse blend of carefully selected botanical extracts that care for your skin by providing it with overall balance, radiance and clarity. Minerals provide a sun-kissed glow natural finish.</p>
+<p>• .5 oz / 15 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Brassica oleracea (Broccoli) Seed Oil, Caprylic/Capric Triglyceride, Silica, GRESSA Healing ComplexTM *Silymarin, *Neem (Azadirachta indica) Extract,*Horsetail (Equisetum arvense) Extract, *Lemon Balm (Melissa officianalis) Extract, *Barberry (Berberis vulgaris) Extract, *Sea Buckthorn (Hippophae rhamnoides) Seed Extract, *Elder Flower (Sambucus nigra) Extract, *Bitter Melon (Momordica charantia) Extract, Licorice Root (Glycyrrhiza glabra) Extract, Tocopheryl Acetate Non-GMO, Coenzyme Q10, Ascorbyl tetraisopalmitate, (Vitamin C), *lecithin, *glycerin, mica, iron oxides, titanium oxide. *CERTIFIED ORGANIC</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shake well to ensure a perfect mix. Drop 1-2 drops in the palm of your hand. Rapidly spread the Contouring Serum and gently pat onto upper forehead, cheeks, chin, and nose—where the sun naturally kisses the skin. Use the Immaculate Buffing Brush to flawlessly buff and blend the serum out for a sun-kissed glow.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>blush + bronzer</s:tag>
+    <s:tag>broccoli seed oil</s:tag>
+    <s:tag>bronzers</s:tag>
+    <s:tag>contouring</s:tag>
+    <s:tag>contouring serum</s:tag>
+    <s:tag>coq10</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>foundation + tinted moisturizers</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:tag>neem</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>summer 2017</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142685505</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>GRESSA-MinContSerBronzer</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9142596673</id>
+    <published>2017-04-16T15:52:09-04:00</published>
+    <updated>2017-04-16T15:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-boost"/>
+    <title>Lip Boost</title>
+    <s:type>Lip Sheer</s:type>
+    <s:vendor>Gressa Skin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Boost_MAIN.jpg?v=1492370423" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gressa Skin<br />
+        <strong>Type: </strong>Lip Sheer<br />
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glam your pout with Gressa Lip Boost. Light, non-sticky and moisturizing, it feels like a balm yet looks like a gloss.</p>
+<p><strong>Aux Rouge</strong> - “The red”. Classic statement of strength, sensuality your own feminine signature.</p>
+<p><strong>Bare</strong> - Sheer, nude, and sexy, Your lips but better.</p>
+<p><strong>Brilliant</strong> - Minimalistic, light with specks of sophisticated shimmer.</p>
+<p><strong>Lavish</strong> - Sheer, sexy, and sultry. Luxurious, velvety, plum.</p>
+<p><strong>Radiant</strong> - Bright, glowing and lustrous. Modern, timeless, seductive and playful.</p>
+<p><strong>Regal</strong> - Suitable for a queen. A deep dark plum, warm and voluptuous.</p>
+<p>• .24 oz / 7 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Ricinus Communis (Castor) Seed Oil, *Butyrospermum (Shea) parkii Butter, Magnifera Indica (Mango) Butter, *Copernicia Cerifera (Carnauba) Wax, *Seabuckthorn Seed Oil, Ubiquinone (CoEnzyme Q10),*Rosmarinus Officinalis (Rosemary) Extract, Tocopherol (Vitamin E) Non-GMO, Mica, Iron Oxides. *CERTIFIED ORGANIC</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Wear alone or over any lip color of your preference.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>castor oil</s:tag>
+    <s:tag>coq10</s:tag>
+    <s:tag>lip gloss</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>shea butter</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Aux Rouge</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostAuxRouge</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Bare</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostBare</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Brilliant</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostBrilliant</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Dahlia</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostDahlia</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Jolie</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostJolie</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Regal</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostRegal</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Lavish</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostLavish</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Radiant</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostRadiant</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Faris</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostFaris</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9142596673</id>
+      <title>Belia</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>GRESSA-LipBoostBelia</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7000208193</id>
+    <published>2016-08-02T14:37:00-04:00</published>
+    <updated>2016-08-02T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/happy-gum-drops-oil-swishing-serum"/>
+    <title>Happy Gum Drops + Oil Swishing Serum</title>
+    <s:type>Oral Hygiene Products</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Happy_Gums_Swishing_Serum.jpg?v=1470163013" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Oral Hygiene Products<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A natural mouthwash alternative, every ingredient is selected to balance, protect, refresh, and invigorate the mouth.</p>
+<p>Swishing with oil is an ancient Ayurvedic practice used throughout ancient India and Egypt. This deep dental clean involves swishing botanical oil in the mouth for 10 minutes. The oil draws impurities to itself, detoxifying the mouth and restoring balance to the entire oral environment. When the oil is released, toxins, and unwanted bacteria go with it!</p>
+<p>Swishing with CoQ10 gets it deep between the teeth and into gum pockets, increasing concentration where it is needed most, suppressing inflammation and encouraging happy, pink gums. Medium chain triglycerides, or MCT oil, is an ultra-concentrated coconut oil. By infusing your oral ecology with nourishing MCT the detoxification process deepens, and the mouth achieves optimal balance.</p>
+<p>• 1.69 oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Coconut MCT Oil, Seabuckthorn Berry, Rose Otto (Rosa damascene), Peppermint (Mentha piperita), Thyme Linalool (Thymus officinalis linalool), Tea Tree Oil (Malaleuca alternifolia), Cinnamon (Cinnamomum verum), Clove Bud (Eugenia carophyllata), Co-enzyme Q10 (CoQ10), Oregano (Origanum vulgare).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Since time immemorial, oil swishing has been used to achieve healthy teeth and gums without a toothbrush or toothpaste! Simply swish a squirt of these action-ready drops for 10 minutes for a deep clean and extra purifying oral care regimen. This swishing serum is brimming with botanical-biotics ready to bolster the home of your mouth’s microbiome.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>coq10</s:tag>
+    <s:tag>jancb</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>men&apos;s oral care</s:tag>
+    <s:tag>mouth wash</s:tag>
+    <s:tag>mouthwash</s:tag>
+    <s:tag>oil pulling</s:tag>
+    <s:tag>oral care</s:tag>
+    <s:tag>oregano</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:tag>thyme</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7000208193</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LL-HappyGumsOilSwishingSerum</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/6494942657</id>
+    <published>2016-06-06T14:55:00-04:00</published>
+    <updated>2016-06-06T14:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/rose-lip-polish"/>
+    <title>Rose Lip Polish</title>
+    <s:type>lip polish</s:type>
+    <s:vendor>French Girl Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Rose_Lip_Polish.jpg?v=1508450937" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French Girl Organics<br />
+        <strong>Type: </strong>lip polish<br />
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An invigorating rose &amp; mint-infused sugar scrub formulated with nourishing butters to gently remove dry skin leave lips supple and hydrated.</p>
+<p>• 100% Plant Ingredients / 80-100% Organic</p>
+<p>• 100% Vegan Friendly</p>
+<p>• 1 oz / 30 ml</p>
+<p>Formulated <strong>WITHOUT</strong> Parabens, Sulfates, Artificial Fragrances, Silicones, Synthetic Dyes, Artificial Colors, Petrochemicals, &amp; Animal Testing</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Sucrose (Natural Cane Sugar)* Butyrospermum Parkii (Shea) Butter* Helianthus Annuus (Sunflower) Oil* Euphorbia Antisyphilitica (Candelilla) Wax, Cocos Nucifera (Coconut) Oil* Theobroma Cacao (Cocoa) Butter* Ricinus communis (Castor) Seed Oil* Beta Vulgaris (Beet) Powder, Essential Oils of Pelargonium Graveolens (Rose Geranium)*, Mentha Spicata (Spearmint)*, Mentha Piperita (Peppermint)* *Certified Organic/Wildcrafted</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Gently massage a pea-sized amount onto damp lips; rinse</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>cane sugar</s:tag>
+    <s:tag>chapped lips</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>dry lips</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>lip exfoliator</s:tag>
+    <s:tag>lip polish</s:tag>
+    <s:tag>lip scrub</s:tag>
+    <s:tag>rosehip oil</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/6494942657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>FGO-RoseLipPolish</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/370048953</id>
+    <published>2016-06-06T14:53:00-04:00</published>
+    <updated>2016-06-06T14:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nail-cuticle-repair-serum"/>
+    <title>Cuticle Repair Oil</title>
+    <s:type>Nail and Cuticle</s:type>
+    <s:vendor>French Girl Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cuticle.jpg?v=1508450270" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French Girl Organics<br />
+        <strong>Type: </strong>Nail and Cuticle<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An enriching blend of dynamic extracts and essential oils to improve the health of nails and cuticles.</p>
+<p>• 100% Plant Ingredients / 80-100% Organic</p>
+<p>• 100% Vegan Friendly</p>
+<p>• 9ml Roll On</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Simmondsia Chinensis (Jojoba) Oil* Helianthus Annuus (Sunflower) Oil* Ricinus Communis (Castor) Oil* Argania Spinosa (Argan) Oil* Rosa Mosqueta (Rosehip) Oil* Cannabis Sativa (Hemp) Oil* Punica Granatum (Pomegranate) Oil* Calophyllum Inophyllum (Tamanu) Oil* Limnanthes Alba (Meadowfoam) Oil, Hippophae (Sea Buckthorn)* Essential Oils of Rosmarinus Officinalis (Rosemary)* Pelargonium Graveolens (Rose Geranium)*, Citrus Limonum (Lemon) *Certified OrganIc/Wildcrafted</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to nails and cuticles as desired.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all nails</s:tag>
+    <s:tag>argan oil</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>evening primrose oil</s:tag>
+    <s:tag>french girl</s:tag>
+    <s:tag>french girl organics</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>men&apos;s all body</s:tag>
+    <s:tag>men&apos;s hands + feet</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>pomegranate</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>tamanu oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370048953</id>
+      <title>CUTICLE</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FGO-CuticleOil</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1767229313</id>
+    <published>2015-09-04T10:17:00-04:00</published>
+    <updated>2015-09-04T10:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/best-skin-ever-chocolate-oil"/>
+    <title>Best Skin Ever: Chocolate Body Oil</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BSE_Chocolate.jpg?v=1491434482" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Body Oil<br />
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libation's Best Skin Ever: Chocolate Oil is a sensual, silky body oil, rich in lipids that sink into the skin. Use for massage, or after bathing to melt away stress and soothe dry skin. This beautiful body oil is perfect for the skin after swimming and sunning.</p>
+<p>• 100 ml / 3.38 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Seabuckthorn Oil, Fresh Vanilla and Cacao Beans infused in Virgin Coconut Oil, Golden Jojoba Oil, Rose Otto, Lemon, Ylang Ylang Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Directions for using Best Skin Ever to Wash the Face:</strong> Wet a small portion of a washcloth with water. Squeeze it out. Apply one to two squirts of Best Skin Ever to the dampened portion of the washcloth. Gently massage the face and/or body with the moistened cloth. Wash gently or vigorously, depending on if you would like an exfoliating effect. Rinse cloth. Rinsing face/body is optional. Moisturize skin following cleansing.</p>
+<p><strong>Directions for Using Best Skin Ever on the body after a Bath or Shower:</strong> With skin still damp after a bath/shower, wet a washcloth with water. Squeeze it out. Apply a few squirts onto the wet washcloth. Massage the entire body - head to toe - with the cloth. Use a more vigorous approach for more exfoliation or for problem areas.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>anti inflammatory</s:tag>
+    <s:tag>anti-aging / fine lines / wrinkles</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body cream</s:tag>
+    <s:tag>body lotion</s:tag>
+    <s:tag>body moisturizer</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>body oil</s:tag>
+    <s:tag>body oils</s:tag>
+    <s:tag>cacao</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:tag>ylang ylang</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1767229313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>LivingLibations-BSEChocolate</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1759460609</id>
+    <published>2015-09-04T10:17:00-04:00</published>
+    <updated>2015-09-04T10:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/best-skin-ever-rose-oil"/>
+    <title>Best Skin Ever: Rose Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BSE_Rose.jpg?v=1485205662" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libation's Best Skin Ever: Rose Oil is the foundation for achieving radiant skin. This all-in-one body and face product is perfect for cleansing, toning and moisturizing the skin. Suitable for all skin types, its formula of organic, pure, and wildcrafted ingredients leaves you with a glowing and gorgeous complexion.</p>
+<p>• 50 ml / 1.69 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Seabuckthorn Oil, Golden Jojoba Oil, Virgin Coconut Oil, Rose Otto, Lavender, Ylang Ylang, Vetiver, Grapefruit and Palmarosa Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Directions for using Best Skin Ever to Wash the Face:</strong> Wet a small portion of a washcloth with water. Squeeze it out. Apply one to two squirts of Best Skin Ever to the dampened portion of the washcloth. Gently massage the face and/or body with the moistened cloth. Wash gently or vigorously, depending on if you would like an exfoliating effect. Rinse cloth. Rinsing face/body is optional. Moisturize skin following cleansing.</p>
+<p><strong>Directions for Using Best Skin Ever on the body after a Bath or Shower:</strong> With skin still damp after a bath/shower, wet a washcloth with water. Squeeze it out. Apply a few squirts onto the wet washcloth. Massage the entire body - head to toe - with the cloth. Use a more vigorous approach for more exfoliation or for problem areas.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftersummer</s:tag>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>all skincare</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>face cleanser</s:tag>
+    <s:tag>face moisturizers</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>face wash</s:tag>
+    <s:tag>facial moisturizers</s:tag>
+    <s:tag>facial oil</s:tag>
+    <s:tag>facial oils + serums</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>moisturizer</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>skincare</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>wildcrafted</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1759460609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>LivingLibations-BSERose50ML</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1759053889</id>
+    <published>2015-09-04T10:17:00-04:00</published>
+    <updated>2015-09-04T10:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/scalp-tonic"/>
+    <title>Scalp Tonic</title>
+    <s:type>Hair Treatment</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Scalp_Tonic.jpg?v=1441313419" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Hair Treatment<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations’ Scalp Tonic is deeply nourishing for the health of the scalp and hair. Formulated with all organic ingredients, this scalp treatment helps heal as well as prevent damage starting at the roots to create shiny, strong, naturally fortified locks.</p>
+<p>• 30 ml / 1 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Seabuckthorn Berry, Mustard Seed Oil, Jojoba Oil, Essential Oils of Rosemary, Peppermint, Eucalyptus, Geranium and Pine. All organic.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Massage into scalp before washing hair or apply and leave on overnight.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>dry hair</s:tag>
+    <s:tag>dry hair treatment</s:tag>
+    <s:tag>dry scalp</s:tag>
+    <s:tag>flakey scalp</s:tag>
+    <s:tag>hair and scalp</s:tag>
+    <s:tag>hair and scalp serum</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>mustard</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>rosemary</s:tag>
+    <s:tag>scalp</s:tag>
+    <s:tag>scalp oil</s:tag>
+    <s:tag>scalp serum</s:tag>
+    <s:tag>scalp treatment</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>seabuckthorn</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1759053889</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LivingLibations-ScalpTonic</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/637014273</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/healthy-gums-clay-toothpaste"/>
+    <title>Happy Gums Clay Toothpaste</title>
+    <s:type>Oral Hygiene Products</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Happy_Gums_Toothpaste.jpg?v=1518135254" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Oral Hygiene Products<br />
+        <strong>Price: </strong>
+            16.00 - 24.00
+            <a href="https://www.carbonbeauty.com/products/healthy-gums-clay-toothpaste">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations' Happy Gums Clay Toothpaste polishes teeth and invigorates healthy gums with its essential oils-infused clay formula.</p>
+<p>• 15 ml / 0.5 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Rose, Peppermint, Clove, Oregano, Cinnamon, Seabuckthorn, Tea Tree, Thyme, Clay, Zeolite, Coconut Oil, Saponified Olive Oil, and Sodium Bicarbonate.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a small pearl size to a dry toothbrush and brush.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all men&apos;s body</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cinnamon</s:tag>
+    <s:tag>clay toothpaste</s:tag>
+    <s:tag>healthy gums</s:tag>
+    <s:tag>healthy teeth</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s body</s:tag>
+    <s:tag>men&apos;s oral care</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>natural toothpaste</s:tag>
+    <s:tag>oral care</s:tag>
+    <s:tag>oregano</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:tag>toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/637014273</id>
+      <title>15 ml</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>LivingLibations-HealthyClayToothpaste-1</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/637014273</id>
+      <title>25 ml</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>LL-HealthyClayToothpaste25ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/595768705</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/everybody-loves-the-sunshine-body-oil"/>
+    <title>Everybody Loves The Sunshine Body Oil</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Everybody_Loves_The_Sunshine.jpg?v=1432407344" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations' Everybody Loves The Sunshine is an organic formula, rich in essential oils, that harmonizes your time in the sun. It promotes healthy Vitamin D absorption from the sun while limiting the free radical damage associated with the sun's rays. While it is not an SPF, the potent herbal and plant ingredients prohibit burns and other damage to your skin. It can even prolong the life of your tan.</p>
+<p>• 50 ml / 1.7 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Desert Jojoba Plant, Virgin Coco-Creme, Red Raspberry Seed Oil, Seabuckthorn Berry Oil, Tamanu Berry, Essential Oils Of Schizandra Berry, Immortelle, Carrot Seed, Rose Otto, Cape-Chamomile, Frankincense, Sandalwood, Ginger, Lavender, Turmeric, Calendula and Palmarosa.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply every 30 minutes when outside in the sun. For extended periods in the sun, a hat, shade and/or cotton clothing may be necessary</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all men&apos;s skin care</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>getaway</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>men&apos;s grooming</s:tag>
+    <s:tag>men&apos;s skin care</s:tag>
+    <s:tag>men&apos;s sun protection</s:tag>
+    <s:tag>men&apos;s sun protection + outdoors</s:tag>
+    <s:tag>sandalwood</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:tag>spring picks 2017</s:tag>
+    <s:tag>summer pick</s:tag>
+    <s:tag>summer picks</s:tag>
+    <s:tag>sun care + outdoors</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:tag>tanning oil</s:tag>
+    <s:tag>turmeric</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/595768705</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LivingLibations-EverybodyLovesSunshine</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/595620609</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/best-skin-ever-lavish-abundance-body-oil"/>
+    <title>Best Skin Ever: Lavish Abundance Body Oil</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BSE_Lavish_Abundance.jpg?v=1485205705" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Body Oil<br />
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations' Best Skin Ever: Lavish Abundance body oil is a luxurious balm of beauty to refine the body. It is an adoring massage oil to apply after bathing's grace, and nourishes and inspires the skin to be its best. The body will drink in the silky, sumptuous elegance of life’s Lavish Abundance.</p>
+<p>• 100 ml / 3.38 fl oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Seabuckthorn Oil, Virgin Coconut Oil Infused with Jasmine Flowers and Vanilla Beans, Golden Jojoba Oil, Tamanu Oil, Marula, Lavender, Vetiver, Grapefruit, Palmarosa and Lime Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Directions for Using Best Skin Ever on the body after a Bath or Shower:</strong> With skin still damp after a bath/shower, wet a washcloth with water. Squeeze it out. Apply a few squirts onto the wet washcloth. Massage the entire body - head to toe - with the cloth. Use a more vigorous approach for more exfoliation or for problem areas.</p>
+<p><strong>Directions for using Best Skin Ever to Wash the Face:</strong> Wet a small portion of a washcloth with water. Squeeze it out. Apply one to two squirts of Best Skin Ever to the dampened portion of the washcloth. Gently massage the face and/or body with the moistened cloth. Wash gently or vigorously, depending on if you would like an exfoliating effect. Rinse cloth. Rinsing face/body is optional. Moisturize skin following cleansing.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>anti inflammatory</s:tag>
+    <s:tag>anti-aging / fine lines / wrinkles</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body cream</s:tag>
+    <s:tag>body lotion</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>body oil</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>palmarosa</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>vetiver</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/595620609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>LivingLibations-BestSkinLavishAbundance</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/581491521</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/maiden-fern-blushing-balm"/>
+    <title>Maiden Fern Blushing Balm</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Maiden_Fern.jpg?v=1485205719" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations’ Maiden Fern Blushing Balm is an innovative blush made from warming botanicals that naturally increase circulation to the cheeks and lips, delivering a playful, rosy hue where you need it most. This lovely tint has been enriched with extractions of juicy roots, replenishing seabuckthorn berries, and special essential oils to create a warm, rosy hue that is gorgeous on any skin tone.</p>
+<p>• 5 ml / 0.17 oz</p>
+<p>Made <strong>WITHOUT</strong> Artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Golden Jojoba, Seabuckthorn Berry, Beeswax, Stone Root, Rose Otto, Neroli, Lavender, Immortelle, Carrot, Ginger, Cinnamon, Peppermint, Cayenne, and Turmeric Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Dab a dollop of our blushing balm onto cheekbones, or add a pinch to upper and lower lips.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>all natural</s:tag>
+    <s:tag>best sellers makeup</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>blush + bronzer</s:tag>
+    <s:tag>blushing balm</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>ginger</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>turmeric</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/581491521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>LivingLibations-BlushingBalm</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/580652609</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/rose-glow-serum"/>
+    <title>Rose Glow Serum</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Rose_Glow.jpg?v=1491441468" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations’ Rose Glow Serum restores, adores, and harmonizes every face. A few drops of this silky smooth face serum alights the skin with a dewy, radiant, rosy glow.</p>
+<p>• 30 ml / 1 oz</p>
+<p>Made <strong>WITHOUT</strong> Artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Organic Seabuckthorn, Jojoba, Rose Otto, Geranium, Immortelle, Neroli, Lavender, Palmarosa.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content" js-accordion-content="">Apply a few drops to cleansed skin, morning and night.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne / blemishes / blackheads</s:tag>
+    <s:tag>all natural</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>anti aging</s:tag>
+    <s:tag>anti-aging / fine lines / wrinkles</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>immortelle</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>rose serum</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:tag>wrinkles</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/580652609</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>LivingLibations-RoseGlowSerum</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/578980929</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/seabuckthorn-shampoo"/>
+    <title>Seabuckthorn Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Seabuckthorn_Shampoo_120ml.jpg?v=1491441945" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Shampoo<br />
+        <strong>Price: </strong>
+            25.00 - 40.00
+            <a href="https://www.carbonbeauty.com/products/seabuckthorn-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libations’ Seabuckthorn Shampoo brings out the best in all hair types without the chemical suds! Filled with a bounty of nature's botanical essences and herbs, Seabuckthorn Shampoo will nourish and harmonize your hair without weighing down your mane. Indulge in a cascade of botanical delights showering upon your lovely locks. This shampoo will glorify your luscious locks, is safe for babies and children, and doubles as bubble bath and body wash too.</p>
+<p>Made <strong>WITHOUT</strong> Artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Pure Spring Water, Herbal Infusions Of Calendula, Red Clover, Oats, Coltsfoot, Horsetail, Comfrey, Nettles, Chamomile, And Bladderwrack Seaweed In Golden Jojoba Oil; Yucca And Coco-Protein; Orange Wax; Extracts Of Seabuckthorn Berry, Sage, And Rosemary; And Essential Oils Of Grapefruit, Peppermint, Vetiver, And Lime.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Massage a small amount into wet hair. Add water as necessary to create lather. Rinse. Apply hair conditioner. May be diluted further to use as a body wash and a bubble bath.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all natural</s:tag>
+    <s:tag>bladderwrack</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>horsetail</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>nettle</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:tag>seabuckthorn</s:tag>
+    <s:tag>shampoo</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>wildcrafted</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/578980929</id>
+      <title>120 ml</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>LivingLibations-SeabuckthornShampoo</s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/578980929</id>
+      <title>240 ml</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LivingLibations-SeabuckthornShampoo240ml﻿</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/578652801</id>
+    <published>2015-05-26T09:56:00-04:00</published>
+    <updated>2015-05-26T09:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/best-skin-ever-seabuckthorn-oil"/>
+    <title>Best Skin Ever: Sea Buckthorn Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Living Libations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BSE_Sea_Buckthorn.jpg?v=1491430588" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Living Libations<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            31.00 - 58.00
+            <a href="https://www.carbonbeauty.com/products/best-skin-ever-seabuckthorn-oil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Living Libation's Best Skin Ever: Sea Buckthorn Oil is the foundation for the creation of radiant skin. This body and face product is all-in-one for cleansing, toning and moisturizing the skin. Suitable for all skin types, Sea Buckthorn Oil's formula of organic, pure, and wildcrafted ingredients gives you a glowing and gorgeous complexion.</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sea Buckthorn Oil, Golden Jojoba Oil, Virgin Coconut Oil, Tamanu Oil, Lavender, Vetiver, Grapefruit, And Palmarosa Essential Oils.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Directions for using Best Skin Ever to Wash the Face:</strong> Wet a small portion of a washcloth with water. Squeeze it out. Apply one to two squirts of Best Skin Ever to the dampened portion of the washcloth. Gently massage the face and/or body with the moistened cloth. Wash gently or vigorously, depending on if you would like an exfoliating effect. Rinse cloth. Rinsing face/body is optional. Moisturize skin following cleansing.</p>
+<p><strong>Directions for Using Best Skin Ever on the body after a Bath or Shower:</strong> With skin still damp after a bath/shower, wet a washcloth with water. Squeeze it out. Apply a few squirts onto the wet washcloth. Massage the entire body - head to toe - with the cloth. Use a more vigorous approach for more exfoliation or for problem areas.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>best sellers skin care</s:tag>
+    <s:tag>combination skin</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>face wash</s:tag>
+    <s:tag>facial cleansers</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>lavender oil</s:tag>
+    <s:tag>living libations</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>seabuckthorn</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spring pick</s:tag>
+    <s:tag>spring picks 2017</s:tag>
+    <s:tag>tamanu oil</s:tag>
+    <s:tag>wildcrafted</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/578652801</id>
+      <title>50 ml</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>LivingLibations-SeaBuck50ML</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/578652801</id>
+      <title>100 ml</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>LivingLibations-SeaBuck100ML</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/aftershave-mens-grooming.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2015-06-15T17:42:00-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/354902677</id>
+    <published>2015-06-15T17:42:00-04:00</published>
+    <updated>2015-06-15T17:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/post-shave-tonic"/>
+    <title>Post Shave Tonic</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Crux Supply Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/postshave_square_1.jpg?v=1413947589" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crux Supply Co<br />
+        <strong>Type: </strong>Aftershave<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This aftershave soothes, conditions, and cleans your post-shave skin with a powerful boost of witch hazel, a natural antiseptic, in addition to carrying CRUX Supply Co's signature notes of rosewood, clary sage, and bergamot. This aftershave leaves even the most sensitive of skin irritation-free and gleaming.</p>
+<p>Made in the USA - 4 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Witch Hazel, Purified Water, Alcohol, Clary Sage, Rosewood, &amp; Bergamot Essential Oils, Glycerin</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a modest amount to post shave area.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne</s:tag>
+    <s:tag>acne / blemishes / blackheads</s:tag>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>all shave + beard care</s:tag>
+    <s:tag>antiseptic</s:tag>
+    <s:tag>bergamot</s:tag>
+    <s:tag>best sellers men&apos;s grooming</s:tag>
+    <s:tag>calming</s:tag>
+    <s:tag>clary sage</s:tag>
+    <s:tag>crux supply co</s:tag>
+    <s:tag>gift him</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s aftershave</s:tag>
+    <s:tag>men&apos;s shave + beard care</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>post shave</s:tag>
+    <s:tag>razor bumps</s:tag>
+    <s:tag>red bumps</s:tag>
+    <s:tag>redness</s:tag>
+    <s:tag>rosewood</s:tag>
+    <s:tag>sensitive skin</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving irritation</s:tag>
+    <s:tag>skin irritation</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>soothing</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>witch hazel</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/354902677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRUX-PostShaveTonic4oz</s:sku>
+      <s:grams>313</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/nails-cuticles.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-02-28T21:19:05-05:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451611459615</id>
+    <published>2018-02-28T21:19:05-05:00</published>
+    <updated>2018-02-28T21:19:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/papaya-sos-marmalade"/>
+    <title>Papaya SOS Marmalade</title>
+    <s:type>All Purpose Balm</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Papaya_Marmalade.jpg?v=1519770908" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>All Purpose Balm<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Skin rehab in a vital, soothe-all marmalade balm. Rescue your skin with this nourishing cocktail of coconut, hemp, chia, grapefruit oil &amp; fermented papaya that helps to hasten the delivery of essential antioxidants &amp; vitamins to the skin. An ultra-repairing formula to soothe any little abrasions, skin freakouts, dryness, insect bites or scars, this wonder balm melts into skin and is useful to heal + protect.</p>
+<p>Designed for face + hands + feet + body + hair. An all-in-one remedy rich in zinc, magnesium &amp; potassium. Calendula calms inflammation to aid in your skin’s healing, while chia adds omegas. Use a lot or a little, ideal for travel and all of life’s adventures, big &amp; small.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 1 oz / 30 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">caprylic/capric triglyceride, sweet almond (prunis amygdalus dulcis) oil, coconut (cocos nucifera) oil, candelilla (euphorbia cerifera) wax, mango (mangifera indica) seed butter, jojoba (simmondsia chinensis) seed oil, hemp (cannabis sativa) seed oil, shea (butyrospermum parkii) butter, vegetable squalane, tocopherol (vitamin e), buriti (mauritia flexuosa) fruit oil, papaya (carica papaya) fermented extract, chia (salvia hispanica) seed oil, grapefruit (citrus grandis) seed extract, olive (olea europaea) fruit oil, glycerin, ascorbic acid, calendula (calendula officinalis) flower extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to improve, protect lips, hands, scars, cuticles, heels, hair, insect bites, scrapes, bruises or any dry skin. Rub until the product has fully absorbed. Also gently removes makeup.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>balms</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid &amp; pain relief</s:tag>
+    <s:tag>hand balm</s:tag>
+    <s:tag>hand cream</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails &amp; cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451611459615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>ErePerez-PapayaSOSMarm-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/433487478815</id>
+    <published>2018-02-21T12:56:36-05:00</published>
+    <updated>2018-02-21T12:56:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/restore-healing-balm"/>
+    <title>RESTORE Healing Balm</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Doctor Rogers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_.5oz_tube.jpg?v=1518669787" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Doctor Rogers<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            15.00 - 80.00
+            <a href="https://www.carbonbeauty.com/products/restore-healing-balm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soothe and heal dry, damaged skin, lips and nails with the long lasting hydration and protection of Doctor Rogers RESTORE™ Healing Balm. RESTORE™ has been clinically tested to reduce irritation and aid in the healing of irritated skin.</p>
+<p>Perfectly blended with only the purest plant-based ingredients proven to support the skin’s natural healing process.</p>
+<p><strong>Uses</strong>: Chapped lips, dry nails &amp; cuticles, eczema, post-procedure healing such as skin surgery, lasering, and tattoos, cuts &amp; scrapes, burns, diaper cream, to gloss lips, style eyebrows, tame flyaways and any other dry/damaged areas in need of healing!</p>
+<p>• Made in the USA with FDA clearance using 3 sustainably grown, plant-based ingredients.</p>
+<p>• Free of petroleum, lanolin, parabens, phthalates, sulfates, fragrance and common allergens</p>
+<p>• Safe for sensitive and injured skin</p>
+<p>• Vegan and cruelty-free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Glycerin, Castor Oil, Castor Wax.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply as often as needed to dry or damaged skin to protect and promote healing.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all mom &amp; baby</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>cuticle balm</s:tag>
+    <s:tag>cuticle cream</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid &amp; pain relief</s:tag>
+    <s:tag>lip balm</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>multipurpose</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>.5 oz tube</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DRog-Restore.5ozTube-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>.5 oz jar</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DRog-Restore.5ozJar-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>8 oz jar</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DRog-Restore8oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>Singe Use Packets (15)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRog-RestorePacket15-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/370048953</id>
+    <published>2016-06-06T14:53:00-04:00</published>
+    <updated>2016-06-06T14:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nail-cuticle-repair-serum"/>
+    <title>Cuticle Repair Oil</title>
+    <s:type>Nail and Cuticle</s:type>
+    <s:vendor>French Girl Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cuticle.jpg?v=1508450270" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French Girl Organics<br />
+        <strong>Type: </strong>Nail and Cuticle<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An enriching blend of dynamic extracts and essential oils to improve the health of nails and cuticles.</p>
+<p>• 100% Plant Ingredients / 80-100% Organic</p>
+<p>• 100% Vegan Friendly</p>
+<p>• 9ml Roll On</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Simmondsia Chinensis (Jojoba) Oil* Helianthus Annuus (Sunflower) Oil* Ricinus Communis (Castor) Oil* Argania Spinosa (Argan) Oil* Rosa Mosqueta (Rosehip) Oil* Cannabis Sativa (Hemp) Oil* Punica Granatum (Pomegranate) Oil* Calophyllum Inophyllum (Tamanu) Oil* Limnanthes Alba (Meadowfoam) Oil, Hippophae (Sea Buckthorn)* Essential Oils of Rosmarinus Officinalis (Rosemary)* Pelargonium Graveolens (Rose Geranium)*, Citrus Limonum (Lemon) *Certified OrganIc/Wildcrafted</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to nails and cuticles as desired.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all nails</s:tag>
+    <s:tag>argan oil</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>evening primrose oil</s:tag>
+    <s:tag>french girl</s:tag>
+    <s:tag>french girl organics</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>men&apos;s all body</s:tag>
+    <s:tag>men&apos;s hands + feet</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>pomegranate</s:tag>
+    <s:tag>sea buckthorn oil</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>tamanu oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/370048953</id>
+      <title>CUTICLE</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>FGO-CuticleOil</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5671234433</id>
+    <published>2016-04-26T15:25:00-04:00</published>
+    <updated>2016-04-26T15:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/more-more-cuticle-oil"/>
+    <title>More &amp; More Cuticle Oil</title>
+    <s:type>Nail and Cuticle</s:type>
+    <s:vendor>treat collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_More_More_Cuticle_Oil.jpg?v=1461608168" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>treat collection<br />
+        <strong>Type: </strong>Nail and Cuticle<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>Formulated without Toluene, DBP, Camphor, Formaldehyde or Formaldehyde Resin.</em></p>
+<p>A deeply nourishing oil enriched with Argan + Almond oil as well as Vitamins A, C and E to promote healthy cuticles.</p>
+<p>• Made in the USA</p>
+<p>• Cruelty free</p>
+<p>• Suitable for vegans</p>
+<p>• 15 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class='"c-accordion-item_content' js-accordion-content="">Prunus Amygdalus Dulcis (Sweet Almond) Oil, Helianthus Annuus (Sunflower Seed) Oil, Argana Spinoa (Argan) Kernel Oil, Tocopheryl Acetate, Panthenyl Riacetate, Tocopherol, Retinyl Palmitate, Ethyl Acetate, Aesculus Hippocastanum (Horse Chestnut) Seed Extract, Dimethyl Oxobenzo Dioxasilane</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class='"c-accordion-item_content' js-accordion-content="">Apply a small amount onto the cuticle and nail bed as often as needed.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all nails</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5671234433</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Treat-MoreAndMoreCuticleOil</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/5556812289</id>
+    <published>2016-04-22T10:00:00-04:00</published>
+    <updated>2016-04-22T10:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ultimate-multi-purpose-coconut-oil-balm"/>
+    <title>Ultimate Multi-Purpose Coconut Oil Balm</title>
+    <s:type>All Purpose Balm</s:type>
+    <s:vendor>everbelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Everbelle.jpg?v=1459279810" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>everbelle<br />
+        <strong>Type: </strong>All Purpose Balm<br />
+        <strong>Price: </strong>
+            19.00 - 38.00
+            <a href="https://www.carbonbeauty.com/products/ultimate-multi-purpose-coconut-oil-balm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The creators of everbelle set out to combine the luxurious and organic attitude of California, which resulted in the creation of a 100% natural body balm that can be used anywhere and everywhere! Their ultimate body balm epitomizes the perfect, all-around product for people on the go who love multi-use products. A dollop will moisturize your entire body. A dab will create shiny hair. Just a bit will smooth your lips, rejuvenate tired feet, or smooth those over worked hands + cuticles!</p>
+<p>The Ultimate Body Balm imparts moisture to your skin using the finest ingredients nature has to offer. This fast-absorbing balm ensures that your skin stays hydrated day and night.</p>
+<p><strong>Great for</strong>: Body, hands, knees, elbows, feet, legs, elbows, lips, flyaway hair, anywhere your heart desires!</p>
+<p>• Available in 2 oz and 4 oz formats</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">cocos nucifera (organic virgin coconut) oil, theobroma cacao (organic cocoa butter), cera alba (organic beeswax), rosa mosqueta (rosehip) seed oil-organic, lavandula angustifolia (lavender) essential oil, pelargonium graveolens (geranium) essential oil, aniba roseodora (rosewood) essential oil, cananga odorata var genuina (ylang ylang II) essential oil</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Dip into into the everbelle goodness and rub it between your palms to warm it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all purpose balm</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizer</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>cuticle cream</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>multi purpose balm</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>summer pick</s:tag>
+    <s:tag>summer picks</s:tag>
+    <s:tag>winter picks</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5556812289</id>
+      <title>2 oz</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>Everbelle-OriginalBodyBalm2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/5556812289</id>
+      <title>4 oz</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>Everbelle-OriginalBodyBalm4oz</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/337599937</id>
+    <published>2014-07-01T20:22:00-04:00</published>
+    <updated>2014-07-01T20:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nail-cuticle-salve"/>
+    <title>Nail + Cuticle Salve</title>
+    <s:type>Nail and Cuticle</s:type>
+    <s:vendor>FIG+YARROW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/FIG_YARROW_NailCuticleSalve_.5oz.jpg?v=1404260687" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FIG+YARROW<br />
+        <strong>Type: </strong>Nail and Cuticle<br />
+        <strong>Price: </strong>
+            10.00 - 20.00
+            <a href="https://www.carbonbeauty.com/products/nail-cuticle-salve">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>F+Y Nail &amp; Cuticle Salve is a highly nourishing blend of herbs, oils and botanical essences for enhanced strength + appearance of nails.</p>
+<p>Formulated <strong>WITHOUT</strong>: Parabens, Sulfates, Artificial Fragrances, Silicones, Synthetic Dyes, Artificial Colors, Petrochemicals, &amp; Animal Testing</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Olea europea (olive) oil*†, Cannabis sativa (hemp) seed oil*†, Butyrospermum parkii (shea) butter*†, Simmondsia chinensis (jojoba) oil*, Cera alba (beeswax)*, Azadirachta indica (neem) oil*, Equisetum arvense (horsetail)*, Avena sativa (oatstraw)*, Urtica dioica (nettle)*, Rosmarinus officinalia (rosemary)*, Arcticum lappa (burdock) root*, Tocopherol (vitamin E, non-GMO), Rosmarinus officinalis (rosemary) leaf extract*, essential oils of: Citrus limon (lemon), Lavandula angustifolia (lavender)*, Cymbopogon flexuosus (lemongrass), Pelargonium graveolens (geranium), Commiphora myrrha (myrrh), Melaleuca alternifolia (tea tree), Daucus carota (carrot seed). *certified organic, †virgin</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Regularly massage small amount into nail and cuticle of both fingers and toes; disburse excess over hands and feet to provide added benefit.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all natural</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>carrot seed</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>feet</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>hands</s:tag>
+    <s:tag>healer</s:tag>
+    <s:tag>hemp oil</s:tag>
+    <s:tag>lotion</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s body</s:tag>
+    <s:tag>men&apos;s hands + feet</s:tag>
+    <s:tag>moisturizer</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>neem oil</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>remedy</s:tag>
+    <s:tag>rosemary</s:tag>
+    <s:tag>salve</s:tag>
+    <s:tag>shea butter</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>stocking stuffers</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/337599937</id>
+      <title>.85 oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>F+Y-NailSalve.5</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/337599937</id>
+      <title>1.7 oz</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>F+Y-NailSalve1.7</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/337540597</id>
+    <published>2014-07-01T18:12:00-04:00</published>
+    <updated>2014-07-01T18:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hair-scalp-tonic"/>
+    <title>Hair + Scalp Tonic</title>
+    <s:type>Hair Treatment</s:type>
+    <s:vendor>FIG+YARROW</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/FIG_YARROW_HairScalp_Tonic_4oz.jpg?v=1409600984" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FIG+YARROW<br />
+        <strong>Type: </strong>Hair Treatment<br />
+        <strong>Price: </strong>
+            12.00 - 34.00
+            <a href="https://www.carbonbeauty.com/products/hair-scalp-tonic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>F+Y Hair &amp; Scalp Tonic is a wonderfully nourishing, conditioning and stimulating treatment, enhancing quality and appearance of hair and scalp (and beard and 'stache and dome…). As a complete multi-tasker, this product can also be used as a post-shave, skin-soothing moisture serum, nail strengthener as well as an oil cleanser.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">oils of: Persea gratissima (avocado) seed*†, Olea europaea (olive)*†, Cannabis sativa (hemp) seed*†, Cocus nucifera (coconut)*†, Argania spinosa (argan)*†, Limnanthes alba (meadowfoam), Azadirachta indica (neem)*; Equisetum arvense (horsetail)*, Avena sativa (oat) straw*, Urtica dioica (stinging nettle) leaf*, Rosemaryinus officinalis (rosemary) leaf*, Arctium lappa (burdock) root*, Tocopherol (vitamin E, non-GMO), Rosmarinus officinalis (rosemary) leaf extract, essential oils of: Rosmarinus officinalis (rosemary), Lavandula angustifolia (lavender)*, Cananga odorata (ylang ylang), Pimento racemosa (bay rum). *certified organic, †virgin</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply and disperse over scalp with dropper; massage in and draw out through length of hair; saturate dry ends. Follow with a steaming towel wrap for deeper penetration; thoroughly shampoo and condition as normal. For persistently dry hair: try adding small amount (using your discretion) to shampoo or conditioner.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all hair care</s:tag>
+    <s:tag>all natural</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>argan oil</s:tag>
+    <s:tag>avocado oil</s:tag>
+    <s:tag>chemical free</s:tag>
+    <s:tag>color safe</s:tag>
+    <s:tag>color treated hair</s:tag>
+    <s:tag>colored hair</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>damage / split ends</s:tag>
+    <s:tag>dandruff</s:tag>
+    <s:tag>detangling</s:tag>
+    <s:tag>dry hair</s:tag>
+    <s:tag>fig and yarrow</s:tag>
+    <s:tag>fig+yarrow</s:tag>
+    <s:tag>fragrance free</s:tag>
+    <s:tag>frizz</s:tag>
+    <s:tag>frizzy</s:tag>
+    <s:tag>hair care</s:tag>
+    <s:tag>hair color</s:tag>
+    <s:tag>hair corrector</s:tag>
+    <s:tag>hair growth</s:tag>
+    <s:tag>hair loss</s:tag>
+    <s:tag>hair mask</s:tag>
+    <s:tag>hair oil</s:tag>
+    <s:tag>hair product</s:tag>
+    <s:tag>hair serum</s:tag>
+    <s:tag>hair treatment</s:tag>
+    <s:tag>hair treatments</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>hemp seed oil</s:tag>
+    <s:tag>homepage trending</s:tag>
+    <s:tag>hydrating</s:tag>
+    <s:tag>leave-in</s:tag>
+    <s:tag>meadowfoam</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>neem</s:tag>
+    <s:tag>oily</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>safe</s:tag>
+    <s:tag>scalp</s:tag>
+    <s:tag>scalp serum</s:tag>
+    <s:tag>sheen</s:tag>
+    <s:tag>shine</s:tag>
+    <s:tag>silicone free</s:tag>
+    <s:tag>smoothing</s:tag>
+    <s:tag>split ends</s:tag>
+    <s:tag>straightening / smoothing</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:tag>women&apos;s hair</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/337540597</id>
+      <title>1 oz</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>F+Y-HairScalp</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/337540597</id>
+      <title>4 oz</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>F+Y-HairScalp4oz</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+</feed>

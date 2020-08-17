@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/moisturizers.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2019-04-23T15:29:39-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774695776346</id>
+    <published>2019-04-23T15:29:39-04:00</published>
+    <updated>2019-04-23T15:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/olive-oil-all-purpose-rescue-balm-gel"/>
+    <title>Olive Oil All Purpose Rescue Balm Gel</title>
+    <s:type>Face Balm</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Olive_Oil.jpg?v=1556046386" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Face Balm<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A Gentle, Skin-Saver (96.77% Organic) 2-in-1 For</strong>:</p>
+<ul>
+<li>Diaper rash prevention</li>
+<li>For nursing Moms as a nipple balm gel</li>
+<li>Also great for chapped lips, rough rosy cheeks, &amp; cradle cap</li>
+</ul>
+<p>This ultra-nourishing balm-gel magically transforms into a super soothing cream on contact with skin’s own water content to bring instant relief to children’s skin &amp; a parent’s mind! Formulated for face, lips &amp; the delicate diaper area prone to dryness &amp; irritation, this heroic skin-saver is boosted with Organic, Cold Pressed, Extra Virgin Olive Oil from Greece providing multiple skin benefits. Loaded with nutrients &amp; antioxidants like Vitamin E, Organic Sunflower &amp; Sweet Almond Oils elevate the formula’s soothing properties. Shields the skin with essential moisture &amp; provides the mildest nutritional value due to little-to-no processing.</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Vegan, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 2.53 oz | 75 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*, GLYCERIN*, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL*, SUCROSE LAURATE, OLEA EUROPAEA (OLIVE) FRUIT OIL*, SUCROSE STEARATE, CITRUS AURANTIUM DULCIS (ORANGE) FRUIT WATER*, TOCOPHEROL.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>100% ingredients of natural origin.</p>
+<p>96.77% ingredients from organic farming**.</p>
+<p>96.77% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">For diaper rash prevention: apply a very small amount to diaper area once or twice a day after washing. As a nipple gel for nursing Moms: apply a very small amount before breastfeed. No need for rinsing. Great for chapped lips, rough rosy cheeks and cradle cap. Apply to clean skin a small amount of the balm-gel as often as needed. Avoid eye area.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774695776346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>VIV-OliveOilRescBalm-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774667497562</id>
+    <published>2019-04-23T15:29:39-04:00</published>
+    <updated>2019-04-23T15:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/apricot-oil-nourishing-face-body-lotion"/>
+    <title>Apricot Oil Nourishing Face &amp; Body Lotion</title>
+    <s:type>Baby Lotion</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Apricot.jpg?v=1556046377" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Baby Lotion<br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fast absorbing, non-greasy, lightweight lotion</strong></p>
+<p>This around-the-clock nourishing lotion pampers, protects, &amp; promotes a happier baby! For baby massage or anytime baby needs pampering this Ayurvedic inspired blend of organic oils &amp; extracts creates a lightweight, nourishing texture ideal for delicate baby skin. Organic Apricot Kernel Oil helps maintain healthy moisture balance, combat rash &amp; may soothe minor hypersensitive skin conditions such as eczema.</p>
+<p>All organic and natural ingredients used are carefully selected and sourced in order to create effective products to the highest standards possible, resulting in elevated textures ideal for precious littlies ones (and us).</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 3.4 fl oz | 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>AQUA/WATER, ALOE BARBADENSIS LEAF WATER*, PRUNUS ARMENIACA (APRICOT) KERNEL OIL*, HEPTYL UNDECYLENATE, CUCUMIS SATIVUS(CUCUMBER) FRUIT WATER*, CETEARYL OLIVATE, SORBITAN OLIVATE, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL*, PULLULAN, GLYCERYL CAPRYLATE, MICROCRYSTALLINE CELLULOSE, GLYCERIN, CERA ALBA/BEESWAX*, TAPIOCA STARCH*, OLEA EUROPAEA (OLIVE) OIL UNSAPONIFIABLES, AVENA SATIVA (OAT) KERNEL OIL*, PARFUM, CELLULOSE GUM, GLYCERYL UNDECYLENATE, TOCOPHEROL, XANTHAN GUM, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, GLYCYRRHIZA GLABRA (LICORICE) ROOT EXTRACT*, TILIA PLATYPHYLLOS (LINDEN) FLOWER EXTRACT*, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>99.89% ingredients of natural origin.</p>
+<p>26.96% ingredients from organic farming**.</p>
+<p>65.60% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a small amount of lotion after bathing or anytime moisture is needed. Use it for face &amp; body.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774667497562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>VIV-ApricotFacBodLotion-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682412011610</id>
+    <published>2019-03-11T21:56:34-04:00</published>
+    <updated>2019-03-11T21:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-balm-face-stick-spf-30"/>
+    <title>Lip Balm + Face Stick SPF 30</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Balm_Face_Stick.jpg?v=1551984212" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer, multi-use Lip Balm and Face Stick provides broad spectrum UV protection, and works to nourish + hydrate skin.</p>
+<p>This SPF 30 jumbo stick is 3x the size of a normal lip balm, and with its multi-tasking abilities, the only one you’ll need to throw in your bag!</p>
+<p>Cocoa Butter is an antioxidant powerhouse, and is also rich in fatty acids, providing deep hydration. Soothing Calendula Flower Extract can help balance the appearance of redness, irritation, and inflammation from free radical damage. Zinc Oxide provides the safest broad spectrum SPF protection, and has natural anti-bacterial properties.</p>
+<p>Nutrient-dense Avocado and Sea Buckthorn Oils are high in Vitamin E and antioxidants, keeping your cheeks and lips nourished in the sun.</p>
+<p>• .56 oz | 17 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredients: ﻿non-nano Zinc Oxide (13%). Ingredients: *Calendula Officinalis (Calendula) Flower Extract, *Calophyllum Inophyllum (Tamanu) Oil, *Cera Flava (Beeswax), *Cocos Nucifera (Coconut) Oil, *Hippophae Rhamnoides (Sea Buckthorn) Oil, Natural Flavor, *Persea Gratissima (Avocado) Oil, *Ricinus Communis (Castor) Seed Oil, *Theobroma Cacao (Cocoa) Seed Butter, Mixed Tocopherols (Vitamin E). *Certified Organic Ingredients</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply liberally 15 minutes prior to sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682412011610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>AKT-LipBalmFaceStick</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682403983450</id>
+    <published>2019-03-11T21:56:34-04:00</published>
+    <updated>2019-03-11T21:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/d-luxe-daily-bronzer-spf30"/>
+    <title>D-Luxe Daily Bronzer SPF 30</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_D-Luxe_Bronzer.jpg?v=1551984183" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky, lightweight D-Luxe Daily Bronzer protects skin from UV damage, while providing a healthy, natural bronze glow.</p>
+<p>For a luminous foundation with a luxurious, barely-there finish, use this SPF 30 Daily Bronzer to nourish and protect your skin.</p>
+<p>Extra Virgin Olive Oil delivers decadent softness and hydration. Zinc Oxide provides the safest broad spectrum SPF protection, has natural anti-bacterial properties, and may also help balance the appearance of redness, irritation, and inflammation from free radical damage.</p>
+<p>And the best part? It’s fortified with essential Vitamin D. (Since sunscreens are designed to filter out the sun’s rays, they also block the UVB light that our body needs to make Vitamin D.) The body uses Vitamin D to maintain many aspects of its overall health, from bones and teeth to the brain and immune system.</p>
+<p>• 1 oz | 30 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredients: non-nano Zinc Oxide (25%). Ingredients: Aqua (Water), *Olea Europaea (Extra Virgin Olive) Fruit Oil, *Cera Alba (Beeswax), ‡Tocopherol (Vegetable Vitamin E), Cholecalciferol (Vitamin D3), Iron Oxides (Iron Oxide). *Organic ‡Non-GMO</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply liberally 15 minutes prior to sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682403983450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AKT-DLuxeBronzer</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682391892058</id>
+    <published>2019-03-11T21:56:33-04:00</published>
+    <updated>2019-03-11T21:56:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/elemental-sun-balm-spf30"/>
+    <title>Elemental Sun Balm SPF 30</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sun_Balm.jpg?v=1555423742" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moisturizing, mineral-based Elemental Sun Balm provides nourishment and broad spectrum UV protection. With a natural tint that blends sheer, it’s truly the best of all worlds: a balm, a block, and a base.</p>
+<p>Extra Virgin Coconut Oil locks in moisture, keeping skin plump and hydrated. It contains Vitamin E, essential amino acids, and lauric and caprylic acid, which form part of the natural barrier function of skin. Zinc Oxide provides the safest broad spectrum SPF protection, has natural anti-bacterial properties, and may also help reduce the appearance of redness, irritation, and inflammation. With a boost in antioxidants from Vanilla Extract, this luscious layer of protection will leave skin feeling refreshed and petal soft.</p>
+<p>Skip a step by using Elemental Sun Balm instead of foundation as part of your daily beauty regimen.</p>
+<p>• 1 oz | 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredient: **Zinc Oxide USP 25%. Inactive Ingredients: *Cocos Nucifera (Coconut) Oil, *Cera Alba (Beeswax), *Vanilla Extract (Aqua (and) *Ethanol (and) *Vanilla Planifolia Fruit Extract), Iron Oxides. *Certified Organic by USDA/NOP, **Non-nano, Uncoated</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Prep clean skin with 1-2 drops of Rad Daily Defense Face Oil. Apply a small amount of balm with fingertips and blend evenly into face, neck and decollete. Wear alone or as a primer to your foundation. Apply liberally 15 minutes before sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spf 30</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:tag>sunscreen</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682391892058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>AKT-ElementalSunBalm</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1681302388826</id>
+    <published>2019-03-10T18:55:17-04:00</published>
+    <updated>2019-03-10T18:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/plantgenius-melt-moisturizer"/>
+    <title>PlantGenius Melt Moisturizer</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Alpyn Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Melt_Moisturizer.jpg?v=1551983895" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpyn Beauty<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A weightless super-hydrator that melts into skin leaving a fresh, velvety finish. Makeup glides on, compliments roll in.</p>
+<p>Ceramides and squalane help fortify the moisture barrier; vitamin C brightens and protects against free radical damage; a non­irritating retinal helps kick-start collagen production and diminishes the appearance of fine lines. Wild actives nourish with essential vitamins.</p>
+<p><strong>What's inside</strong>:</p>
+<p>• A sophisticated cocktail of natural hydrators— hyaluronic acid, ceramides, olive fruit oil, linoleic acid, coconut, apricot kernel oil, squalane—fortify, maintain, and repair skin’s all-important moisture barrier.</p>
+<p>• Antioxidants — vitamin C, centella asiatica—brighten and provide protection from free radical damage.</p>
+<p>• Bakuchiol (a non-irritating bioavailable retinol) and Tripeptide-29 encourage collagen production and diminish the appearance of fine lines.</p>
+<p>• Glycolic acid gently exfoliates and promotes cell turnover.</p>
+<p>• Aloe soothes</p>
+<p><strong>Formulated WITHOUT</strong>:</p>
+<p>• Parabens, Formaldehyde Donors, MEA/DEA/TEA, Palm Ingredients, Sulfates, Synthetic Dyes, Colors &amp; Fragrance, Phthalates, Petrochemicals, PEG’s/ PPG’s, Metallic Aluminum, Triclosan, Talc, Mineral Oil, Petrolatum, Toluene, Fragrance Free, Gluten Free, Soy Free, Vegan</p>
+<p>• 1.7 fl oz | 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Sodium Hyaluronate, Cetyl Alcohol, Coconut Alkanes, Glycerin, Pyrus Mal us (Apple) Fruit Extract, Potassium Cetyl Phosphate, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Pru nus Armeniaca {Apricot) Kernel Oil, Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/ Caprate, Diheptyl Succinate, Centella Asiatica Meristem Cell Culture, Xanthan Gum, Sorbitan Stea rate, Dehydroacetic Acid, Benzyl Alcohol, Squalane, Tripeptide-29, Olea Europaea (Olive) Fruit Oil, Glycolic Acid, Mica, Titanium Dioxide, Potassium Sorbate, Butyrospermum Parkii (Shea) Butter*, Tocopherol, Linoleic Acid, Coenochloris Signiensis Extract, Maltodextrin, Lecithin, Bakuchiol, Hydrolyzed Sodium Hyaluronate, Eclipta Prostrata Extract, Melia Azadirachta Leaf Extract, Moringa Pterygosperma Seed Oil, Ceramide NG, Ascorbic Acid (Vitamin C), Simmondsia Chinensis (Jojoba) Seed Oil, Salvia Officinalis (Sage) Leaf Extract, Arni ca Montana (Arni ca) Flower Extract, Baraga Officinalis (Bo rage) Flower Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Dulcis (Orange) Oil. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Smooth onto clean skin AM and PM. For added benefits, layer on top your favorite serum.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1681302388826</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Alpyn-MeltMoisturizer</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614944763994</id>
+    <published>2019-01-16T10:54:34-05:00</published>
+    <updated>2019-01-16T10:54:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cell-power-neck-decollete-cream"/>
+    <title>Cell–Power Neck &amp; Decolleté Cream</title>
+    <s:type>neck treatment</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cell_Power_Neck_Decollete_Cream.jpg?v=1546304931" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>neck treatment<br />
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Smoothing Cell Activator”</p>
+<p>A rich, intensely nourishing cream with a rejuvenating effect on the stem cells. An improved microcirculation enables the regeneration process. Cell-Power Neck &amp; Decolleté Cream protects the skin against premature aging, such as UV ray induced damage. Nourishing components deeply hydrate the skin, increase the ability to retain moisture and improve the skin’s surface structure noticeably. The delicate skin of the neck and décolleté feels immediately firmed, smooth and supple.</p>
+<p>• Rejuvenates stem cells</p>
+<p>• Protects against UV ray induced cell DNA damage</p>
+<p>• Improves microcirculation, enabling regeneration</p>
+<p>• Balances moisture content and increases ability to retain moisture</p>
+<p>• Smoothes and firms skin’s surface structure with a silky soft feel</p>
+<p>- 100 ml | 3.4 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shea Butter, Olive Oil, Meadowfoam Oil, Crambe Abyssinian Oil, Argan Oil, Pentavitin®, Niacin (Vitamin B3), Phytosan, Tocopherol (Vitamin E), Hyaluronic Acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Cell-Power Neck &amp; Decolleté Cream by gently massaging it in upward motions. For optimal results, apply after serum of your choice. Tip: For an intensive treatment, use as a mask twice a month or as desired. Apply Cell-Power Neck &amp; Decolleté Cream evenly to the entire neck and décolleté and allow to penetrate for 10-15 minutes. Massage in the remaining mask in upward motions or remove with cosmetic tissue. For optimal results, use after serum of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>decollete</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>neck cream</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614944763994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>MBR-CellPowerNeckCream3.4oz-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614931689562</id>
+    <published>2019-01-16T10:54:32-05:00</published>
+    <updated>2019-01-16T10:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cytoline-cream-100"/>
+    <title>Cytoline Cream 100</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cytoline_Cream_100.jpg?v=1546305188" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Nourishing Cell Regeneration”</p>
+<p>A high performing nourishing cream that increases the skin’s functions and cell metabolism. CytoLine® Cream 100 stimulates the cell proliferation and regenerates the fibroblastic structures. Rebuilds the lipid barrier of the skin, maintaining resiliency. Skin cells are strengthened, resulting in a significant reduction of wrinkle depth. Collagen and elastin levels are replenished, revealing visibly firmer, younger skin.</p>
+<p>• Stimulates natural cell proliferation</p>
+<p>• Regenerates fibroblastic structures</p>
+<p>• Promotes elasticity and reduces wrinkle depth</p>
+<p>• Provides intense moisturization</p>
+<p>• Protects and rebuilds lipid barrier</p>
+<p>• Smoothes and softens the skin’s surface structure</p>
+<p>- 50 ml | 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Meadowfoam Oil, Crambe Abyssinian Oil, Tocopherol Acetate (Vitamin E Acetate), Avocado Oil, Shea Butter, MPC™ Complex, Hyaluronic Acid, Tocopherol (Vitamin E), Kalpariane®, Sea Mayweed.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply CytoLine® Cream 100 by gently massaging it in. For optimal results, apply after serum of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614931689562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>MBR-CytolineCream100-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616513826906</id>
+    <published>2019-01-14T12:20:16-05:00</published>
+    <updated>2019-01-14T12:20:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cupu-cool-jelly-balm-cleanse-mask-moisturize"/>
+    <title>Cupu-Cool Jelly Balm | Cleanse Mask Moisturize</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>LILFOX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cupu-Cool_Jelly_Balm.jpg?v=1546725141" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LILFOX<br />
+        <strong>Type: </strong>Facial Mask<br />
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cupu-Cool Rainforest Moisture Jelly Balm is a three-in-one gel-to-balm hybrid that is a cleanser, moisture-surge mask, and overnight treatment balm.</p>
+<p>It works its multi-tasking magic as a deep-cleansing gel to milk that melts away the day’s impurities while locking in moisture and nourishing cells as a treatment mask or protective overnight balm. Formulated with herbaceous, pungent and potent botanicals from the jungles of the Amazon, rainforest moisture jelly balm gets is name from the exhilarating combination of ultra moisturizing cupuacu butter blended with healing hemp seed oil and a hit of refreshing basil, peppermint, and lemon that leave skin tingling fresh. Vegan hyaluronic acid locks in moisture while antioxidant-rich camellia seed oil blocks out free radicals. A base of natural butters and oils impart day-long hydration. This is one both men and women will be addicted to.</p>
+<p>• Formulated without parabens, synthetic fragrances, sodium sulfates</p>
+<p>• 1.7 oz | 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Astrocaryum murumuru butter, Cannabis sativa oil*, Cetearyl olivate + Sorbitan olivate wax, Phospholipids &amp; Citrus limon extract+Yeast extract + Sodium chondroitin sulfate+Hyaluronic acid+tocopherol+tripeptide-29, Decyl glucoside, Theobroma grandiflorum butter, Orbignya oleifera seed oil*, Ricinus communis oil*, Camellia sinensis oil*, Helianthus annuus oil+ Lonicera japonica flower extract, Ocimum basilica oil*, Cymbopogon martini oil*, Ocimum sanctum oil, Citrus auranitum amara leaf oil*, Citrus bergamia (FCF) oil*, Rosmarinus offiicinalis oil*, Mentha piperata oil*, Mentha spicata oil*, Rosmarinus officianlis extract + Brassica napus oil*, Geraniol**, Linalool**, Limonene**, Citral**, Farnesol**, Eugenol**. *Certified organic, **Naturally occurring in essential oils</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>For a deep cleanse, massage a dime sized amount onto wet or dry face. Take a deep breath enjoying the aromatics, then rinse with water.</p>
+<p>As a moisture mask treatment, apply a dime sized amount all over cleansed face for 10 minutes (or more), then rinse with water.</p>
+<p>For overnight intensive replenishment, apply a half of a pea sized amount onto cleansed damp skin and finish with toning mist.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>face masks</s:tag>
+    <s:tag>facial cleansers</s:tag>
+    <s:tag>facial mask</s:tag>
+    <s:tag>facial masks</s:tag>
+    <s:tag>gel cleansers</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>night moisturizer</s:tag>
+    <s:tag>night treatment</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616513826906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>LILFOX-CupuCoolBalm-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1568411811930</id>
+    <published>2018-11-29T19:39:32-05:00</published>
+    <updated>2018-11-29T19:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-face-balm"/>
+    <title>Lip &amp; Face Balm</title>
+    <s:type>Lip Balm</s:type>
+    <s:vendor>Kahina Giving Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Face_Balm.jpg?v=1543537868" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kahina Giving Beauty<br />
+        <strong>Type: </strong>Lip Balm<br />
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicately scented with geranium and neroli, this restorative lip &amp; face balm soothes and protects chapped lips and dry skin. The velvety base includes shea butter, coconut oil, olive oil, beeswax, and mango nut butter to deeply moisturize while preventing future moisture loss. Infused with calendula, known for its powerful healing, soothing, and calming properties.</p>
+<p>• Immortelle aids in healing and cell turnover and is known to relieve headaches and bruising</p>
+<p>• Blue Tansy, sourced from a women’s cooperative in Morocco, is a powerful anti-inflammatory</p>
+<p>• Carrot seed oil, argan oil and sea buckthorn seed oil deliver antioxidants, tocopherols and essential fatty acids to nourish skin</p>
+<p>• .4 fl oz | 12 ml</p>
+<p>• Gluten free, Non-GMO, Certified Organic</p>
+<p>• Kahina Giving Beauty products are made with premium quality, certified organic argan oil and other antioxidant-rich byproducts of the argan tree. The argan nuts are cracked by hand using centuries-old techniques by Berber women in Morocco’s argan region. The oil is then cold-pressed using modern methods that preserve the integrity of the oil.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">olea europaea (olive) fruit oil*, argania spinosa (argan) oil*, apis mellifera (beeswax) wax*, cocos nucifera (coconut) nut oil*, butyrospermum parkii (shea) nut butter*, mangifera indica (mango) nut butter, daucus carota (carrot) seed oil, helichrysum italicum (immortelle) flower oil*, tanacetum annuum (blue tansy) flower oil*, citrus aurantium amara (neroli) flower oil*, lavandula angustifolia P. Miller (lavender) flower/leaf oil, pelargonium graveolens (geranium) leaf flower oil*, schizandra sphenanthera fruit extract, hippophae rhamnoides (sea buckthorn) fruit extract*, cymbopogon martinii (palmarosa) leaf oil, bisabolol, calendula officinalis (calendula) flower extract*, citrullus lanatus (watermelon) seed oil, rosmarinus officinalis (rosemary) leaf extract*, helianthus annuus (sunflower) seed oil*. *Ingredient from Organic Farming, 100% of the total ingredients are from natural origin; 95.57% of the total ingredients are from Organic Farming.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Kahina Lip &amp; Face Balm should be used as needed on dry, chapped lips, and skin in need of recovery. Use as a lip treatment as needed, especially overnight. After cleansing, apply as needed to face and/or ­décolletage May be used as a layer over oils/serums for the driest skin types.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>lip balm</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1568411811930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>Kahina-LipandFaceBalm-SFA</s:sku>
+      <s:grams>238</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1568407847002</id>
+    <published>2018-11-29T19:39:32-05:00</published>
+    <updated>2018-11-29T19:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/facial-lotion"/>
+    <title>Facial Lotion</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Kahina Giving Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Facial_Lotion.jpg?v=1543537845" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kahina Giving Beauty<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now with Raspberry Seed Oil, lightweight and naturally-scented Kahina Facial Lotion combines high concentrations of 100% organic argan oil with other beneficial ingredients including organic shea butter, sodium hyaluronate, and organic beeswax to:</p>
+<p>• Optimally hydrate</p>
+<p>• Protect against harmful environmental stressors</p>
+<p>• Provide suppleness and radiance</p>
+<p>• Prep skin for makeup applications</p>
+<p>• 1.6 fl oz | 50 ml</p>
+<p>• Gluten free, Non-GMO, Certified Natural</p>
+<p>• Kahina Giving Beauty products are made with premium quality, certified organic argan oil and other antioxidant-rich byproducts of the argan tree. The argan nuts are cracked by hand using centuries-old techniques by Berber women in Morocco’s argan region. The oil is then cold-pressed using modern methods that preserve the integrity of the oil.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">water/aqua/eau, argania spinosa (argan) oil*, glycerin**, butyrospermum parkii (shea) nut butter*, behenyl alcohol, glyceryl caprylate, betaine, cetearyl alcohol, maltooligosyl glucoside/hydrogenated starch hydrolysate, cetearyl olivate, sorbitan olivate, glyceryl undecylenate, acacia senegal gum, xanthan gum, apis mellifera (beeswax) wax*, sodium hyaluronate, argania spinosa (arganyl) leaf extract, maltodextrin, Rubus idaeus (raspberry) seed extract*, phospholipids, glycine soja (soybean) oil, glycine soja sterolds, rosmarinus officinalis (rosemary) leaf extract*, helianthus annus (sunflower) seed oil*, hydrogenated lecithin, PCA, arginine, levulinic acid, sodium levulinate, sodium anisate. *Ingredient from Organic Farming, **Made using Organic Ingredients, 100% Natural; 17.75% of the total ingredients are from Organic farming.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to face morning and evening after cleansing to replenish lost moisture. May be used following Kahina Serum to maximize skin benefits.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face lotion</s:tag>
+    <s:tag>facial lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1568407847002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>Kahina-FacialLotion-SFA</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1568404013146</id>
+    <published>2018-11-29T19:39:31-05:00</published>
+    <updated>2018-11-29T19:39:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/face-cream-1"/>
+    <title>Face Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Kahina Giving Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Face_Cream_64a2e23d-fb34-4a09-bc6c-b6eb6996227b.jpg?v=1543537826" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kahina Giving Beauty<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Two of nature’s most potent anti-aging ingredients – argan oil and red wine grapes – combine in this rich, restorative moisturizing face cream. With clinically proven concentrations of resveratrol and polyphenols derived from vitis vinifera (red wine grapes), KAHINA™ Face Cream addresses all signs of aging:</p>
+<p>• Builds collagen to firm and lift</p>
+<p>• Improves tone and texture for more even, radiant skin</p>
+<p>• Minimizes appearance of fine lines and wrinkles</p>
+<p>• Soothes irritation and decreases redness</p>
+<p>• Hydrates and moisturizes for smoother, softer skin</p>
+<p>• Protects skin from environmental free radical damage that causes further aging</p>
+<p>• 1.6 fl oz | 50 ml</p>
+<p>• Gluten free, Non-GMO, Vegan, Certified Organic</p>
+<p>• Kahina Giving Beauty products are made with premium quality, certified organic argan oil and other antioxidant-rich byproducts of the argan tree. The argan nuts are cracked by hand using centuries-old techniques by Berber women in Morocco’s argan region. The oil is then cold-pressed using modern methods that preserve the integrity of the oil.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">aloe barbadensis (aloe vera) leaf juice*, argania spinosa (argan) oil*, cetearyl alcohol, lactobacillus ferment, water/aqua/eau, helianthus annuus (sunflower) seed oil*, glyceryl stearate citrate,propanediol, glycerin**, butyrospermum parkii (shea) nut butter*, glyceryl caprylate, cetyl esters, p-anisic acid, pichia/resveratrol ferment extract, lactic acid, sclerotium gum, xanthan gum, bisabolol, pelargonium graveolens (geranium) leaf/flower oil*, rosmarinus officinalis (rosemary) leaf extract*, lavandula angustifolia (lavender) flower oil*, santalum spicatum (sandalwood) wood oil, gluconolactone, sodium hyaluronate, citrus aurantium (petitgrain bigarade) leaf/bud oil, vitis vinifera (grape) juice extract, disodium rutinyl disulfate, hordeum distichon extract, melissa officinalis leaf extract, tanacetum annuum flower oil*, rosa damascena (rose) flower oil*, calcium gluconate, sodium benzoate, citronellol†, linalool†, geraniol†, farnesol†. *Ingredient from Organic Farming, **Made using Organic Ingredients, †Potential allergen in essential oils in formula. Not an added ingredient. 99.98% of the total ingredients are from natural origin; 78.68% of the total ingredients are from Organic Farming.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply nightly after cleansing. For additional hydration, layer over or mix with KAHINA™ Argan Oil, Serum or Prickly Pear Seed Oil.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1568404013146</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>Kahina-FaceCream-SFA</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1478252200026</id>
+    <published>2018-10-03T20:01:45-04:00</published>
+    <updated>2018-10-03T20:01:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/balm-jars"/>
+    <title>Balm Jars</title>
+    <s:type>Skin Balm</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Jar_No._0.jpg?v=1538592267" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Skin Balm<br />
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Olio E Osso's balms utilize an all-natural base of nourishing olive and shea oils, bound together with natural beeswax and grapefruit essential oil. Nourishing on lips and cheeks, soothing on skin and hair, and adored by all who discover them.</p>
+<p><strong>No. 0 Netto</strong> - This natural menthol balm is useful all over the body. It tingles on the lips, clears nasal and chest congestion, and stimulates tired temples.</p>
+<p><strong>No. 1 Clear</strong> - Olio E Osso's most versatile balm is useful all over the body, its emollient texture melts into lips, tames split ends, flyaway hair, stray eyebrows and beards, and conditions cuticles, elbows and dry patches.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• 2 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>No. 0 Netto</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Menthol (Natural), Eucalyptus Radiata (Eucalyptus) Leaf Oil</p>
+<p><strong>No. 1 Clear</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>No. 0 Netto</strong>: Apply to lips, chest, temples and sore muscles. New balm jars can have a natural, stiffer protective top that accrues from cooling. Simply warm it up with fingertips to expose the softer emollient balm below.</p>
+<p><strong>No. 1 Clear</strong>: Apply to lips, hair and dry skin. New balm jars can have a natural, stiffer protective top that accrues from cooling. Simply warm it up with fingertips to expose the softer emollient balm below.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all purpose</s:tag>
+    <s:tag>all purpose balm</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>balms</s:tag>
+    <s:tag>lip balms</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>multipurpose</s:tag>
+    <s:tag>multipurpose balm</s:tag>
+    <s:tag>skin balms</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478252200026</id>
+      <title>No. 0 Netto</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>Olio-BalmJARNo0Netto-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478252200026</id>
+      <title>No. 1 Clear</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>Olio-BalmJARNo1Clear-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358940766298</id>
+    <published>2018-09-06T19:45:18-04:00</published>
+    <updated>2018-09-06T19:45:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hydrating-face-cream"/>
+    <title>Hydrating Face Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>gallinee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hydrating_Face_Cream.jpg?v=1536011744" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gallinee<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Your best ally for a healthy glow</strong></p>
+<p>Hydrates, tones, and leaves skin looking luminous. Helps support your skin’s good bacteria, evening out the complexion, while nourishing and protecting your skin.</p>
+<p>Gallinée light and creamy Hydrating Face Cream nourishes the skin with a high-performance hydrating formula that soothes, protects and brightens.</p>
+<p>A patented Triple Biotic Complex of prebiotics, probiotics and postbiotics helps to support your skin’s microbiome in the most gentle and effective way possible, combined with the antioxidant actions of organic myrtle extract.</p>
+<p>Fun Fact: You may detect a faint smell of gingerbread due to the high concentration of natural active ingredients, especially in prebiotics.</p>
+<p>Non-perfumed</p>
+<p>• 1 fl oz | 30 ml</p>
+<p>• 98% natural origin ingredients</p>
+<p>• <strong>Physiological pH</strong>: All Gallinée products are made to match the optimal pH of the skin and the microbiome.</p>
+<p>• No products of animal origin - Never tested on animals.</p>
+<p>• Made <strong>WITHOUT</strong>: Doesn’t contain colorants, parabens, mineral oils, silicones, microbeads, phenoxyethanol or methylisothiazolinone.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua (Water)*, Glycerin*, Caprylic/Capric Triglyceride*, Hydrogenated Coconut Oil*, Isopropyl Palmitate*, Sucrose Stearate*, Dicaprylyl Ether*, Alpha-glucan Oligosaccharide*, Glyceryl Stearate*, Glyceryl Stearate Citrate*, Inulin*, Lactic Acid*, Polymnia Sonchifolia Root Juice*, Lactobacillus*, Maltodextrin*, Myrtus Communis Leaf Extract*, Arginine*, Capryloyl Glycine*, Potassium Cetyl Phosphate, Butyl Methoxydibenzoylmethane (Avobenzone), Ethylhexyl Salicylate (Octisalate), Carbomer, Tocopheryl Acetate*, Undecylenoyl Glycine*, Tocopherol*, Ethylhexylglycerin, Styrene/acrylates Copolymer, Tetrasodium Glutamate Diacetate, Xanthan Gum*, Sodium Hydroxide*, Sodium Benzoate.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply over your face and neck morning and evening, after cleansing. It creates an ideal make-up base. As the Gallinée Hydrating Face Cream is highly concentrated in active ingredients, a little goes a long way. For the best care, follow with sun protection.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cream</s:tag>
+    <s:tag>face creams</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358940766298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Gallinee-HydFaceCream-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1353343172698</id>
+    <published>2018-08-21T10:25:08-04:00</published>
+    <updated>2018-08-21T10:25:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/face-cream"/>
+    <title>Face Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>OY-L</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Face_Cream.jpg?v=1534796925" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OY-L<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A restorative, healing + detoxifying blend, OY-L face cream naturally restores natural beauty. Empowered by squalane, this face cream rapidly penetrates your skin to deliver age-defying antioxidants, promoting skin renewal.</p>
+<p>• No Phthalates, No Parabens, No DEA/TEA/MEA, No Color Pigments, No Formaldehyde, No Preservatives, No Isopropyl Alcohol, No Mineral Oil, No PEGs, No Propylene Glycols, No Sodium Lauryl Sulfate, No Triclosan, No Talc, No Petrolatum.</p>
+<p>• Never tested on animals</p>
+<p>• 1 oz | Glass Jar</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">sweet almond oil, avocado oil, hemp seed oil, jojoba oil, vitamin E, squalane, evening primrose oil, seabuckthorn oil, rosehip oil, carrot oil, apricot kernel oil, lavender oil, frankincense oil, hemp seed butter, Abyssinian oil, pomegranate oil, prickly pear oil, lecithin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to face and under eyes morning and night after washing and toning. You won’t need much because a little goes a long way!</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1353343172698</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>OYL-FaceCream1oz-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1340247736410</id>
+    <published>2018-07-25T16:35:06-04:00</published>
+    <updated>2018-07-25T16:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/clarifying-cream"/>
+    <title>Clarifying Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Zyderma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Zyderma_Clarifying_Cream.jpg?v=1532550873" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zyderma<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The unique combination of skin nurturing ingredients and MicroSilver BG helps support the skins healthy appearance, while cleansing the skin of harmful bacteria.</p>
+<p><strong>For</strong>: All skin types &amp; all ages who suffer from acne-prone (mild-moderate) and problem skin (eczema, rosacea, psoriasis).</p>
+<p>The porous MicroSilver BG™﻿ particles in Zyderma's Clarifying Cream formula provide a high and sustained microbial cleansing action by continuously releasing silver ions. This reduces the impact of bacteria and microorganisms and supports the skin’s natural healing process.</p>
+<p>While Zyderma HS safely cleanses the bacteria from the skin, it also produces a calming effect on areas with a tendency for inflammation (it is very effective in reducing redness and inflammation associated with hormonal breakouts and flare-ups). MicroSilver BGTM has been proven to be effective on acne prone &amp; problem skin. Studies have shown that Microsilver BGTM helps the skin show significant improvement in as early as 3-4 days.</p>
+<p>Helps regulate the skin’s microflora &amp; strengthens the skin’s resistance to colonization of bacteria</p>
+<div style="padding-left: 20px;">- Supports the skin’s natural healing process</div>
+<div style="padding-left: 20px;">- Perfectly suited for daily skincare</div>
+<div style="padding-left: 20px;">- Supports the skin even under makeup</div>
+<div style="padding-left: 20px;">- Lasts up to 24 hrs, or until rinsed off</div>
+<div style="padding-left: 20px;"></div>
+<p> </p>
+<p>• Leaping Bunny &amp; PETA approved</p>
+<p>• Rates clean “0” on ThinkDirty</p>
+<p>• All ingredients are Eco-Certified</p>
+<p>• Free of nano particles, parabens, propylene glycol, oils, alcohol, gluten, animal by-products, fragrances &amp; dyes.</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Cetearyl Olivate, Sorbitan Olivate, Propanediol, Silver, Xanthum Gum.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>We recommend using Zyderma Clarifying Cream for at least a week to see the full benefit of the cream on your skin. Please do not combine with products containing harsh ingredients (eg. salicylic acid, benzoyl peroxide, etc.).</p>
+<p>To be applied twice a day, morning and night (before going to bed): Prepare the skin by removing makeup and other product residues. Wash face with a mild, or gentle cleanser. Pat the skin dry with a clean towel. Apply a thin layer of Clarifying Cream, gently massaging into skin until product disappears. No need to over apply, as a little goes a long way. Do not rinse off. Note: Any serums should be applied before Zyderma HS; whereas all other products, such as moisturizers, anti-aging creams, sunscreens and makeup can be applied after.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne</s:tag>
+    <s:tag>acne cream</s:tag>
+    <s:tag>acne lotion</s:tag>
+    <s:tag>acne treatment</s:tag>
+    <s:tag>all men&apos;s skin care</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>footcare</s:tag>
+    <s:tag>men&apos;s hands</s:tag>
+    <s:tag>men&apos;s skincare</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1340247736410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>Zyderma-ClarifyingCream-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1310432133210</id>
+    <published>2018-06-13T18:27:22-04:00</published>
+    <updated>2018-06-13T18:27:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/babe-balm-universal-beauty-balm"/>
+    <title>Babe Balm - Universal Beauty Balm</title>
+    <s:type>All Purpose Balm</s:type>
+    <s:vendor>BYBI Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Babe_Balm_30_ml.jpg?v=1528928695" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BYBI Beauty<br />
+        <strong>Type: </strong>All Purpose Balm<br />
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There are 101 ways to use Babe Balm, BYBI's universal beauty balm. Here are their top 3:</p>
+<p>Super moisturizing night cream for the face, neck and chest. Coenzyme Q10, a compound with powerful antioxidant properties, restores and regenerates for supple soft complexions. All you have to do is lay there and let it work its magic.</p>
+<p>Nourishing + protective treatment for areas of severe dehydration. Calendula and hibiscus get to work on dry legs, hands, feet, elbows, knees, bums and tums.</p>
+<p>Makeup hybrid for lips, cheeks and brows. We’ve seen it used as a highlighter, illuminator or all-out lip gloss. It’s dreamy creamy texture means you can even mix with your mineral makeup to create bespoke blushes and stains.</p>
+<p>• Paraben free, Sulfate free</p>
+<p>• Vegan &amp; Cruelty Free</p>
+<p>• 1 oz / 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Butyrospermum Parkii (Shea) Butter, Rhus Verniciflua Peel (Berry) Cera Squalane (Olive), Camellia Oleifera (Camellia) Seed Oil, Helianthus Annus (Sunflower) Seed Oil, Cocos Nucifera (Coconut) Oil, Caryocar (Pequi) Coriaceum Oil, Calendula Officinalis (Flower) Extract, Gardenia Taitensis (Monoi) Flower Extract, Vanilla Planifolia (Vanilla) Fruit Extract, Hibiscus Sabdariffa (Hibiscus) Seed Oil , Tocopherol (Vitamin E), Ubiquinone 50 (Coenzyme Q10), Distarch Phosphate (Sweet Potato Extract), Anthocyanins (Sweet Potato Extract), Citric (Fruit) Acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">There are many ways to use Babe Bam - it’s truly multipurpose. It was designed to be a natural version of a very well known 8 hour cream. Most commonly, people use it as a rich night cream or super moisturizing treatment for any dry area on the body.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1310432133210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>BYBI-BabeBalm30ml-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/746442489946</id>
+    <published>2018-04-09T15:43:43-04:00</published>
+    <updated>2018-04-09T15:43:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pink-cloud-rosewater-moisture-creme"/>
+    <title>PINK CLOUD Rosewater Moisture Creme</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Herbivore Botanicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pink_Cloud.jpg?v=1523303817" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herbivore Botanicals<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Finally, the perfect moisturizer. Pink Cloud hydrates, plumps and smooths skin leaving it with a glowing + slightly dewy finish. Includes Rosewater, Aloe Water, and White Tea Extract to moisturize, soothe and reduce appearance of redness. Formulated for all skin types — never greasy, oily, or sticky. Perfect under make-up or worn alone to let your skin breathe.</p>
+<p>A lightweight, 100% natural, truly synthetic-free moisturizing cream with a dewy finish that easily blends into skin leaving it perfectly moisturized.</p>
+<p>High in active natural ingredients like Rose Water, Aloe Water, Kukui Oil and White Tea Extract, Pink Cloud melts into skin to create a dewy, bouncy, hydrated smooth canvas. Never heavy, greasy, sticky or oily. Welcome to the future of skin care. Truly Natural. Very Effective. Good for you.</p>
+<p>• All Natural Ingredients</p>
+<p>• All of Herbivore's oils are cold-pressed or steam distilled, yielding premium-quality oils</p>
+<p>• Cruelty free | Made in small batches in the USA</p>
+<p>• 1.7 oz | 50 ml glass jar</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe barbadensis (aloe vera) leaf juice*, Helianthus annuus (sunflower) seed oil*, diheptyl succinate, capryloyl glycerin/sebacic acid, glyceryl stearate citrate, cetearyl alcohol, Populus tremuloides (aspen) bark extract, Rosa damascena (rose) flower water*, Aleurites moluccana (kukui) nut oil*, glycerin*, cetyl palmitate, Cocos nucifera (coconut) extract*, Oryza sativa (rice) seed extract*, Camellia sinensis (white tea) leaf extract*, Butyrospermum parkii (shea) nut butter*, propanediol, Myrothamnus flabellifolia extract, ascorbic acid, sodium hyaluronate, Eclipta prostrata extract, melia azadirrachta leaf extract, moringa pterygosperma seed oil, Rosmarinus officinalis (rosemary) leaf extract*, Rosa damascena (rose) flower oil, sodium phytate, xanthan gum, Lonicera caprifolium (honeysuckle) flower extract, Lonicera japonica (honeysuckle) flower extract, sodium anisate, glyceryl caprylate, alcohol, citric acid. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After cleansing and toning, thoroughly massage a small amount into skin. Apply more as needed for an extra dose of hydration depending on your skin’s current moisture needs. Allow Pink Cloud Creme to absorb for 1-2 minutes before applying facial oil or makeup. Be sure to apply serums before Pink Cloud Creme, facial oil can be applied after for additional benefits.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>creams</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>pink cloud</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/746442489946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Herbivore-PinkCloud</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/738492219482</id>
+    <published>2018-03-31T15:28:21-04:00</published>
+    <updated>2018-03-31T15:28:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/mmxv-infinitude"/>
+    <title>Universal Facial Treatment</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>MMXV Infinitude</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_MMXV_Infinitude_Jar_1.jpg?v=1522523624" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MMXV Infinitude<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MMXV INFINITUDE is a universal face treatment, one product with seven solutions. It is a single product that works for all skin types, for all genders and at all times of day. MMXV Infinitude makes existing serums, eye creams, day and night creams, moisturizers, brighteners and neck or decollete creams redundant.</p>
+<p>MMXV INFINITUDE provides clinically tested skincare that optimizes the way skin looks, feels, and acts in just one simple step. Instantly and over time, skin is deeply replenished and restored; signs of chronological and environmental aging virtually disappear as skin becomes brighter, even-toned and more luminous than ever before.</p>
+<p>Its revolutionary cytomimetic technology reads and synchronizes skin on contact, allowing each ingredient to work where and when it is needed most. A proprietary infusion comprised of fermented white truffle, falernum grape extract, and pure olive extract, together with a triad of hyaluronic acids, optimize the macro-molecular universe that exists in the skin, allowing INFINITUDE to efficiently be used around the eye, face, or décolleté, day and night.</p>
+<p>MMXV INFINITUDE's globally sourced ingredients have been scientifically shown to:</p>
+<p>- Improve hydration levels by infusing skin with unprecedented levels of the purest triad of hyaluronic acids</p>
+<p>- Resynchronize skin’s circadian clock</p>
+<p>- Increase synthesis of collagen and elastin</p>
+<p>- Mimic skin’s intercellular lipids and accelerate epidermal turnover</p>
+<p>- Restore skin’s mitochondrial energy</p>
+<p>- Brighten and reduce the appearance of dark spots and prevent glycation</p>
+<p>- Shield and revitalize the skin against environmental and chronological stressors</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water (Aqua), Glyceryl Polyacrylate, Glycerin, Olea Europaea (Olive) Fruit Oil, Polyacrylate-13, Stearoxymethicone/Dimethicone Copolymer, Polymethylsilsesquioxane, HDI/Trimethylol Hexyllactone Crosspolymer, Polyisobutene, Hydrolyzed Yeast Extract, Tuber Magnatum Extract, Sodium Hyaluronate, Trichosanthes Kirilowii Root Extract, Kappaphycus Alvarezii Extract, Diglucosyl Gallic Acid, Echium Plantagineum Seed Oil, Betula Alba Bark Extract, Copper Gluconate, Boswellia Serrata Extract, Lens Esculenta (Lentil) Seed Extract, Hydroxyproline , Olea Europaea (Olive) Leaf Extract, Larix Sibirica Wood Extract, Copper Lysinate/Prolinate, Polygonum Cuspidatum Root Extract, Hexapeptide- 48 HCL, Tremella Fuciformis (Mushroom) Extract , Vitis Vinifera (Grape) Fruit Extract, Arginine/Lysine Polypeptide, Kefiran, Methylglucoside Phosphate, Proline, Magnesium Aspartate, Zinc Gluconate, Glycine, Centella Asiatica Extract, Cholesteryl Nonanoate, Hydrogenated Lecithin, Rosmarinus Officinalis (Rosemary) Extract, Polysorbate 20, Cholesteryl Chloride, Sodium Acrylates Copolymer, Cholesteryl Oleyl Carbonate, Sodium Acrylate/Acrylonitrogens Copolymer, Silica, Butylene Glycol, Methyl Methacrylate Crosspolymer, Carbomer, Xanthan Gum, Phenoxyethanol, Potassium Sorbate, Ethylhexylglycerin, Sodium Benzoate, Disodium EDTA, BHT, Fragrance, Hexyl Cinnamal, Hydroxycitronellal, Alpha-Isomethyl Ionone.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Gently massage onto cleansed skin, applying around all facial contours, including eye area, neck, and décoletté; no additional skin care treatment needed.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>anti aging</s:tag>
+    <s:tag>anti aging cream</s:tag>
+    <s:tag>day cream</s:tag>
+    <s:tag>face creams</s:tag>
+    <s:tag>facial cream</s:tag>
+    <s:tag>mmxv infinitude</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>night cream</s:tag>
+    <s:tag>night treatment</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/738492219482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>MMXV-Infinitude</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/460891750431</id>
+    <published>2018-03-11T17:02:25-04:00</published>
+    <updated>2018-03-11T17:02:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/three-sixty-five-spf-28"/>
+    <title>Three Sixty Five SPF 28</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Kari Gran</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_365.jpg?v=1520801960" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kari Gran<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Three Sixty Five is a physical, broad-spectrum, facial sunscreen designed to be used 365 days of the year — rain or shine. Broad-spectrum sunscreens protect against both UVA, rays that age the skin, and UVB, rays that burn skin. Both types of UV radiation have been linked to cancer. Not all sunscreens protect the skin from UVA rays so, if you want to ensure maximum protection, use a broad-spectrum sunscreen like Three Sixty Five.</p>
+<p>• Crafted with organic, non-GMO and wild harvested ingredients</p>
+<p>• Paraben free, Sulfate free, Phthalate free, Cruelty free</p>
+<p>• Handmade in Seattle</p>
+<p>• 1 oz / 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredient: Non-Nano Zinc Oxide 17%, Non-GMO Rubus Ideaus (Red Raspberry Seed) Oil, Non-GMO Prunus Domestica (French Plum Seed) Oil, Organic Macadamia Ternifolia (Macadamia Nut Seed) Oil, Non-GMO Aleurites, Moluccana (Kukui Seed) Oil, Organic Persea Gratissima (Avocado) Oil, Organic Simmondsia Chinensis (Jojoba Seed) Oil, Organic Beeswax, Tocopherol (Non-GMO Vitamin E from Sunflower).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to skin daily.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/460891750431</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>KariG-ThreeSixtyFiveSPF28-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/460885164063</id>
+    <published>2018-03-11T17:02:25-04:00</published>
+    <updated>2018-03-11T17:02:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/essential-balm"/>
+    <title>Essential Balm</title>
+    <s:type>Skin Balm</s:type>
+    <s:vendor>Kari Gran</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Essential_Balm.jpg?v=1520801379" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kari Gran<br />
+        <strong>Type: </strong>Skin Balm<br />
+        <strong>Price: </strong>
+            60.00 - 98.00
+            <a href="https://www.carbonbeauty.com/products/essential-balm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A velvety soft, eco-luxe skin balm, Kari Gran has reformulated their ultra-hydrating Essential Serum into a multi-tasking balm. Perfect for the face, delicate areas around the eyes or for treating dry skin on the neck, décolleté — and even lips.</p>
+<p>• Crafted with organic, non-GMO and wild harvested ingredients</p>
+<p>• Paraben free, Sulfate free, Phthalate free, Cruelty free</p>
+<p>• Handmade in Seattle</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Camellia Oleifera (Camellia Seed) Oil, Organic Rosa Canina Fruit (Rosehip Seed) Oil, Organic Helianthus Annuus (Sunflower) Oil, Organic Simmondsia Chinensis (Jojoba) Oil, Organic Beeswax, Organic Persea Gratissima (Avocado) Oil, Organic Prunus Amygdalus Dulcis (Sweet Almond) Oil, Organic Olea Europaea (Olive), Organic Helianthus Annuus (Sunflower), Organic Calendula Officinalis (Calendula) Oil, Organic Olea Europaea (Olive), Organic Arnica Montana (Arnica) Oil, Organic Hippophae Rhamnoides (Sea Buckthorn) Extract, Organic Lavandula Hybrida (Lavender) Oil, Wildharvested Boswellia Sacra (Frankincense) Oil, Rosa Damascena (Rose) Oil, Jasminum Sambac (Jasmine) Oil, Organic Cananga Odorata (Ylang Ylang) Oil, Tocopherol (Non-GMO Vitamin E from Sunflower).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Can be used in the morning and evening. For your evening treatment, double the amount you use during the day. It can also be used on the neck, décolleté and eye areas. In addition, for those who use mineral powder foundation, the Essential Serum can be mixed in the hand with the powder to create a tinted moisturizer.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>healing balm</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin balm</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/460885164063</id>
+      <title>1 oz | 30 ml</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>KariG-EssentialBalm30ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/460885164063</id>
+      <title>1.69 oz | 50 ml</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>KariG-EssentialBalm-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/458805739551</id>
+    <published>2018-03-10T14:46:03-05:00</published>
+    <updated>2018-03-10T14:46:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/healing-hydrating-cream"/>
+    <title>Healing Hydrating Cream</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>CHUDA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Healing_Hydrating_Cream.jpg?v=1520537065" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHUDA<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            80.00 - 150.00
+            <a href="https://www.carbonbeauty.com/products/healing-hydrating-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rooted in the centuries-old, skin-healing Remedea Compound™ and boosted by the most scientifically advanced, medical grade actives, Chuda™ Healing Hydrating Cream deeply hydrates and rapidly heals dry, damaged and compromised skin.</p>
+<p>A highly active, fast-acting formula, skin is quickly restored to its healthiest state — soft, smooth supple, plump, hydrated and radiant.</p>
+<p>Chuda’s foundation is the <strong>Remedea Compound</strong>, a proven medicinal remedy used for generations in Georgia to heal the skin. The compound is comprised of indigenous ingredients that grow in mineral-rich soil atop Georgia’s breathtaking Caucasian mountain range. The compound’s exact formulation is a guarded family secret, passed down from generation to generation, and never revealed to any outsider.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Purified Water, Cyclopentasiloxane, Petrolatum, Sorbitol, Dromiceius Oil, Cetearyl Alcohol, Sodium Hyaluronate Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone Crosspolymer, Tocopheryl Acetate, Remedea Compound (Olea Europaea (Olive) Fruit Oil, Rosa Damascena Flower Oil, Calcium Carbonate, Beeswax, Pollen, Propolis), PEG-40 Castor Oil, Potassium Cetyl Phosphate, Polysorbate 60, Urea, Mannitol, Dimethicone, Panthenyl Ethyl Ether, Hydrogenated Polyisobutene, Glycerin, Butyrospermum Parkii (Shea) Butter, Butylene Glycol, Oenothera Biennis (Evening Primrose) Root Extract, Magnesium Ascorbyl Phosphate, Carbomer, Glucosamine HCl, Allantoin, Chamomilla Recutita (Matricaria) Flower Extract, Punica Granatum Extract, Tetrasodium EDTA, Aminomethyl Propanol, Pisum Sativum (Pea) Extract, Saccharomyces Lysate Extract, Glycosaminoglycans, Bambusa Vulgaris Leaf/Stem Extract, Xylitylglucoside, Anhydroxylitol, Xylitol, Yeast Extract, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mornings and evenings, warm a pea-size amount of Chuda Healing Hydrating Cream between fingers and apply all over the face, including the under eyes, neck and décolleté. Can be applied directly to clean skin or layered as the finishing step in your skincare routine. Additionally, use to spot-treat areas on the face or body experiencing extreme dryness or redness associated with sunburn or a non-invasive cosmetic procedure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>creams</s:tag>
+    <s:tag>face creams</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/458805739551</id>
+      <title>50 ml</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>CHUDA-HealHydCream50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/458805739551</id>
+      <title>30 ml</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>CHUDA-HealHydCream30ml-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/459537842207</id>
+    <published>2018-03-10T14:45:13-05:00</published>
+    <updated>2018-03-10T14:45:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sheer-hydrating-lotion-broad-spectrum-spf-30"/>
+    <title>Sheer Hydrating Lotion Broad Spectrum SPF 30</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>CHUDA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sheer_Hydrating_Lotion.jpg?v=1520537092" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHUDA<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The healing power of Chuda’s exclusive Remedea Compound in addition to their curated blend of anti-aging, medical grade actives combine with a powerful broad spectrum SPF 30 to deliver invisible, yet intense hydration. Skin feels beautifully hydrated with a smooth, velvety finish — the perfect base for makeup application.</p>
+<p>Daily use protects skin from environmental aggressors, heals damage, increases hydration and restores radiance.</p>
+<p>Chuda’s foundation is the Remedea Compound, a proven medicinal remedy used for generations in Georgia to heal the skin. The compound is comprised of indigenous ingredients that grow in mineral rich soil atop Georgia’s breathtaking Caucasian mountain range. The compound’s exact formulation is a guarded family secret, passed down from generation to generation, and never revealed to any outsider.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Active Ingredients</strong>: Homosalate, Octinoxate, Octisalate, Avobenzone.</p>
+<p><strong>Ingredients</strong>: Purified Water, Cyclopentasiloxane, Polymethylsilsesquioxane, Polysilicone-15, Cetyl PEG/PPG-10/1 Dimethicone, Trimethylsiloxysilicate, Tribehenin, Remedea Compound (Olea Europaea (Olive) Fruit Oil, Rosa Damascena Flower Oil, Calcium Carbonate, Beeswax, Pollen, Propolis), Silica, Tocopheryl Acetate, Phenoxyethanol, Dimethicone/Vinyl Dimethicone Crosspolymer, Sodium Dehydroacetate, Dimethicone, Sodium Hyaluronate, Panthenol, Dimethiconol, Tetrasodium EDTA, Aminomethyl Propanol, Allantoin, Magnesium Aluminum Silicate, Sodium Ascorbate.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Each morning, to hydrate, prime and protect skin from damaging UVA and UVB rays, apply an even layer over face, neck and décolletage.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spf 30</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:tag>sunscreen</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/459537842207</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>CHUDA-SheerHydLotionSPF30</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451611459615</id>
+    <published>2018-02-28T21:19:05-05:00</published>
+    <updated>2018-02-28T21:19:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/papaya-sos-marmalade"/>
+    <title>Papaya SOS Marmalade</title>
+    <s:type>All Purpose Balm</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Papaya_Marmalade.jpg?v=1519770908" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>All Purpose Balm<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Skin rehab in a vital, soothe-all marmalade balm. Rescue your skin with this nourishing cocktail of coconut, hemp, chia, grapefruit oil &amp; fermented papaya that helps to hasten the delivery of essential antioxidants &amp; vitamins to the skin. An ultra-repairing formula to soothe any little abrasions, skin freakouts, dryness, insect bites or scars, this wonder balm melts into skin and is useful to heal + protect.</p>
+<p>Designed for face + hands + feet + body + hair. An all-in-one remedy rich in zinc, magnesium &amp; potassium. Calendula calms inflammation to aid in your skin’s healing, while chia adds omegas. Use a lot or a little, ideal for travel and all of life’s adventures, big &amp; small.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 1 oz / 30 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">caprylic/capric triglyceride, sweet almond (prunis amygdalus dulcis) oil, coconut (cocos nucifera) oil, candelilla (euphorbia cerifera) wax, mango (mangifera indica) seed butter, jojoba (simmondsia chinensis) seed oil, hemp (cannabis sativa) seed oil, shea (butyrospermum parkii) butter, vegetable squalane, tocopherol (vitamin e), buriti (mauritia flexuosa) fruit oil, papaya (carica papaya) fermented extract, chia (salvia hispanica) seed oil, grapefruit (citrus grandis) seed extract, olive (olea europaea) fruit oil, glycerin, ascorbic acid, calendula (calendula officinalis) flower extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to improve, protect lips, hands, scars, cuticles, heels, hair, insect bites, scrapes, bruises or any dry skin. Rub until the product has fully absorbed. Also gently removes makeup.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>balms</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid &amp; pain relief</s:tag>
+    <s:tag>hand balm</s:tag>
+    <s:tag>hand cream</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails &amp; cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451611459615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>ErePerez-PapayaSOSMarm-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/449109131295</id>
+    <published>2018-02-25T13:21:19-05:00</published>
+    <updated>2018-02-25T13:21:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ambar-soothing-moisture-fluid"/>
+    <title>AMBAR Soothing Moisture Fluid</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Ambar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Soothing_Moisture_Fluid.jpg?v=1519582892" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambar<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pure + calming sprayable lotion, especially well-suited for ultra-sensitive skin types.</p>
+<p>Oatmeal is naturally rich in ceramides and beta glucans, imparting a delightful oat scent and is perfect for daily hydration!</p>
+<p>• 1.86 oz / 55 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water/Aqua, Avena Sativa (Oat) Oil, Echium Plantagineum Seed Oil, Radish Root Ferment Filtrate, Avena Sativa Powder, Sorbitan Laurate, Polyglyceryl-4 Laurate, Dilauryl Citrate, Avena Sativa Extract Powder*, Calendula Officinalis Flower Extract*, Dehydroxanthan Gum, Rosmarinus Officinalis (Rosemary) Leaf Extract, Potassium Sorbate</p>
+<p>* Organic/Wildcrafted</p>
+<p>100% non-toxic, safe and gentle ingredients</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>*Shake well.* Spray onto forehead and cheeks. Massage in.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>facial oil</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>sensitive skin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/449109131295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>AMBAR-SoothMoistFluid-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

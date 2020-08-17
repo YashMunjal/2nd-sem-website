@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/first-aid-and-pain-relief.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-02-28T21:19:05-05:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451611459615</id>
+    <published>2018-02-28T21:19:05-05:00</published>
+    <updated>2018-02-28T21:19:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/papaya-sos-marmalade"/>
+    <title>Papaya SOS Marmalade</title>
+    <s:type>All Purpose Balm</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Papaya_Marmalade.jpg?v=1519770908" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>All Purpose Balm<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Skin rehab in a vital, soothe-all marmalade balm. Rescue your skin with this nourishing cocktail of coconut, hemp, chia, grapefruit oil &amp; fermented papaya that helps to hasten the delivery of essential antioxidants &amp; vitamins to the skin. An ultra-repairing formula to soothe any little abrasions, skin freakouts, dryness, insect bites or scars, this wonder balm melts into skin and is useful to heal + protect.</p>
+<p>Designed for face + hands + feet + body + hair. An all-in-one remedy rich in zinc, magnesium &amp; potassium. Calendula calms inflammation to aid in your skin’s healing, while chia adds omegas. Use a lot or a little, ideal for travel and all of life’s adventures, big &amp; small.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 1 oz / 30 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">caprylic/capric triglyceride, sweet almond (prunis amygdalus dulcis) oil, coconut (cocos nucifera) oil, candelilla (euphorbia cerifera) wax, mango (mangifera indica) seed butter, jojoba (simmondsia chinensis) seed oil, hemp (cannabis sativa) seed oil, shea (butyrospermum parkii) butter, vegetable squalane, tocopherol (vitamin e), buriti (mauritia flexuosa) fruit oil, papaya (carica papaya) fermented extract, chia (salvia hispanica) seed oil, grapefruit (citrus grandis) seed extract, olive (olea europaea) fruit oil, glycerin, ascorbic acid, calendula (calendula officinalis) flower extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to improve, protect lips, hands, scars, cuticles, heels, hair, insect bites, scrapes, bruises or any dry skin. Rub until the product has fully absorbed. Also gently removes makeup.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>balms</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid &amp; pain relief</s:tag>
+    <s:tag>hand balm</s:tag>
+    <s:tag>hand cream</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails &amp; cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451611459615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>ErePerez-PapayaSOSMarm-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/433487478815</id>
+    <published>2018-02-21T12:56:36-05:00</published>
+    <updated>2018-02-21T12:56:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/restore-healing-balm"/>
+    <title>RESTORE Healing Balm</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Doctor Rogers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_.5oz_tube.jpg?v=1518669787" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Doctor Rogers<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            15.00 - 80.00
+            <a href="https://www.carbonbeauty.com/products/restore-healing-balm">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soothe and heal dry, damaged skin, lips and nails with the long lasting hydration and protection of Doctor Rogers RESTORE™ Healing Balm. RESTORE™ has been clinically tested to reduce irritation and aid in the healing of irritated skin.</p>
+<p>Perfectly blended with only the purest plant-based ingredients proven to support the skin’s natural healing process.</p>
+<p><strong>Uses</strong>: Chapped lips, dry nails &amp; cuticles, eczema, post-procedure healing such as skin surgery, lasering, and tattoos, cuts &amp; scrapes, burns, diaper cream, to gloss lips, style eyebrows, tame flyaways and any other dry/damaged areas in need of healing!</p>
+<p>• Made in the USA with FDA clearance using 3 sustainably grown, plant-based ingredients.</p>
+<p>• Free of petroleum, lanolin, parabens, phthalates, sulfates, fragrance and common allergens</p>
+<p>• Safe for sensitive and injured skin</p>
+<p>• Vegan and cruelty-free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Glycerin, Castor Oil, Castor Wax.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply as often as needed to dry or damaged skin to protect and promote healing.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all mom &amp; baby</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>balm</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>cuticle</s:tag>
+    <s:tag>cuticle balm</s:tag>
+    <s:tag>cuticle cream</s:tag>
+    <s:tag>cuticles</s:tag>
+    <s:tag>first aid</s:tag>
+    <s:tag>first aid &amp; pain relief</s:tag>
+    <s:tag>lip balm</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>multipurpose</s:tag>
+    <s:tag>nail + cuticles</s:tag>
+    <s:tag>nails + cuticles</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>.5 oz tube</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DRog-Restore.5ozTube-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>.5 oz jar</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DRog-Restore.5ozJar-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>8 oz jar</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DRog-Restore8oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/433487478815</id>
+      <title>Singe Use Packets (15)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>DRog-RestorePacket15-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/413242125</id>
+    <published>2015-03-07T17:49:00-05:00</published>
+    <updated>2015-03-07T17:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/resurrection-bath"/>
+    <title>Resurrection Bath</title>
+    <s:type>Bath Accessories</s:type>
+    <s:vendor>Pursoma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Resurrection_Bath.jpg?v=1425768522" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pursoma<br />
+        <strong>Type: </strong>Bath Accessories<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Resurrection Bath is a revitalizing and deeply stimulating treatment made from pure, raw and vegan ingredients that rescue the body from environmental toxins and irritants, overindulgence, and technological pollution.</p>
+<p>• 14.5 oz</p>
+<p>• One bag = one rejuvenating treatment</p>
+<p>• BPA-Free Packaging</p>
+<p>• Product of France. Packaged in the United States</p>
+<p>Formulated <strong>WITHOUT</strong>: Parabens, Sulfates, Artificial Fragrances, Silicones, Synthetic Dyes, Artificial Colors, Petrochemicals, &amp; Animal Testing</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">French green clay (Montmorillonite), French grey sea salt, wild-crafted brown seaweed (Laminaria), algae (Spirulina). <br>Untreated natural clay from the ancient volcanic peaks situated in the Haute-Loire region. Salt hand- harvested from the ancient salt beds of Brittany using a traditional method. Seaweed harvested from the seashores of the North Atlantic Ocean. Algae farmed using sustainable and eco-friendly methods.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">As a pre- and post-bathing ritual, drink 8-16oz of spring water to stay hydrated. Fill your tub with warm water and add sea salt and algae and stir with a wooden spoon to fully dissolve ingredients. Hop into the tub and then add the clay powder. Soak for 15-20 minutes, immersing your body, keeping the water at a consistent temperature and relax while the minerals go to work. Rinse the clay off thoroughly and pat dry. Immediately wrap yourself in a towel and relax under a warm blanket for 15-30 minutes as your body continues to detoxify through perspiration. Rest. <br>Note: Clay will leave sediment in the tub after water is drained. Discard excess clay to avoid drain clog.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>algae</s:tag>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all wellness</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath soak</s:tag>
+    <s:tag>bath treatment</s:tag>
+    <s:tag>body treatment</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>green clay</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>pain relief</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>pursoma</s:tag>
+    <s:tag>sea salt</s:tag>
+    <s:tag>seaweed</s:tag>
+    <s:tag>seaweed extract</s:tag>
+    <s:tag>spring picks 2017</s:tag>
+    <s:tag>staycation</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/413242125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>Pursoma-Resurrection</s:sku>
+      <s:grams>581</s:grams>
+    </s:variant>
+  </entry>
+</feed>

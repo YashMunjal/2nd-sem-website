@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/shamanuti.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2016-02-16T15:49:00-05:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109769537</id>
+    <published>2016-02-16T15:49:00-05:00</published>
+    <updated>2016-02-16T15:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sunbutter-for-face-body"/>
+    <title>Sunbutter (For Face + Body)</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sunbutter.jpg?v=1455655713" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lovely, sheer UV blocking moisturizer packed with B Vitamins to protect your skin, keeping it radiant + youthful.</p>
+<p>• 4 fl oz / 118 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe barbadensis (Organic Aloe) Juice, Cocos nucifera (Organic Coconut) Oil, Emulsifying Wax, Palm Stearic Acid, Vegetable Glycerin, Simmondsia chinensis (Jojoba) Oil, Vitis vinifera (Grapeseed) Oil, Persea americana (Avocado) Oil, Hamamelis virginiana (Witch Hazel), Tocopherol (Vitamin E), Phenoxyethanol, Shea Butter (Naturally Refined), Mangifera indica (Mango) Butter, Para-Aminobenzoic Acid (PABA), Zinc Oxide, Titanium Dioxide, Xanthan Gum (Polysaccharide Gum), Salix alba (Willow Bark) Extract, Azadirachta indica (Neem) Oil, Rosmarinus officinalis (Rosemary) Extract, (May contain sodium bicarbonate and/or citric acid as pH adjusters)E</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use this UV blocking moisturizer all over face and body. Reapply every two hours or as necessary.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftersummer</s:tag>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>aloe</s:tag>
+    <s:tag>avocado oil</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body lotion</s:tag>
+    <s:tag>body moisturizer</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>grapeseed oil</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>mango butter</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109769537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Shamanuti-Sunbutter4oz</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109742465</id>
+    <published>2016-02-16T15:48:00-05:00</published>
+    <updated>2016-02-16T15:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pumpkin-enzyme-masque"/>
+    <title>Pumpkin Enzyme Masque</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pumpkin.jpg?v=1455655675" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Facial Mask<br />
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pumpkin Enzyme Masque is rich in natural antioxidants, enzymes and over 100 beneficial nutrients, which increase the rate of cell renewal, transforming dull complexions to bright and healthy skin. Comparable to the effects of alpha hydroxy acids, this organic face masque rejuvenates skin while preserving its natural protective mantle.</p>
+<p>• 4 fl oz / 118 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cucurbita Pepo (Pumpkin) Fruit, Aqua (Deionized Water), Vaccinium Myrtillus (Organic Bilberry) Fruit Extract, Saccharum Officinarum (Organic Sugar Cane) Extract, Acer Saccharinum (Organic Sugar Maple) Extract, Citrus Aurantium Dulcis (Organic Orange) Peel Extract, Citrus Medica Limonum (Organic Lemon) Peel Extract, Glycerin, Tetrasodium EDTA, Tocopherol (Vitamin E), Phenoxyethanol, Limnanthes Alba (Meadowfoam) Seed Oil, Xanthan Gum, Ascorbic Acid (Vitamin C), Glycolic Acid, Azadirachta Indica (Neem) Seed Oil, Rosmarinus Officnalis (Rosemary) Leaf Extract, Cinnamomum Zeylanicum (Cinnamon) Bark Powder, Zingiber Officinale (Ginger) Root Powder, Pimenta Officinalis (Allspice) Powder, Myristica Fragrans (Nutmeg) Powder, (May contain sodium bicarbonate and/or citric acid as pH adjusters).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a thin layer to cleansed skin, avoiding eyes. Rinse off after 5 to 10 minutes. Tingling may occur.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>allspice</s:tag>
+    <s:tag>bilberry</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>facial mask</s:tag>
+    <s:tag>meadowfoam</s:tag>
+    <s:tag>nutmeg</s:tag>
+    <s:tag>pumpkin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sugar</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109742465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>Shamanuti-PumpkinEnzymeMasque4oz</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109723713</id>
+    <published>2016-02-16T15:48:00-05:00</published>
+    <updated>2016-02-16T15:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/chamomile-cucumber-eye-gel"/>
+    <title>Chamomile + Cucumber Eye Gel</title>
+    <s:type>Eye Serum</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cucumber_Eye_Gel.jpg?v=1455655623" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Eye Serum<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chamomile and cold-pressed Cucumber soothe the skin while brightening, hydrating and reducing puffiness. Shamanuti's Eye Gel uses the synergistic effects of anti-inflammatory Chamomile and decongesting Cucumber to calm the sensitive eye area as well as diminish dark circles and awaken the eyes.</p>
+<p>• 1 fl oz / 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe barbadensis (Organic Aloe) Juice, Vegetable Glycerin, Hamamelis virginiana (Witch Hazel), Gluconolactone, Cranberry Seed Oil (CP), Cucumber Distillate, Chamomile Distillate, Carbomer, Triethanolamine (TEA), Sodium Benzoate</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Dab a small amount lightly around the orbital bone (the outer rim of eye socket) to calm, cool, hydrate and reduce puffiness.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>chamomile</s:tag>
+    <s:tag>cranberry</s:tag>
+    <s:tag>cucumber</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>eye gel</s:tag>
+    <s:tag>eye serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>summer pick</s:tag>
+    <s:tag>summer picks</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109723713</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Shamanuti-ChamomileCucumberEyeGel</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109275521</id>
+    <published>2016-02-16T15:48:00-05:00</published>
+    <updated>2016-02-16T15:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/creme-no-1"/>
+    <title>Crème No.1</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Creme_No_1.jpg?v=1455655653" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beloved creme works to balance color imperfections and shine while working on a cellular level to stimulate cell repair. It has a high percentage of silk peptides which, when encapsulated into the layers of the skin, create stronger, firmer + clearer skin. The proprietary seaweed complex in Crème No. 1 is a healing agent for scars, fine lines and wrinkles. Crème No. 1 is ideal for all skin types.</p>
+<p>• 1 fl oz / 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe Barbadensis (Organic Aloe) Leaf Juice, Rosa Damascena (Rose) Distillate, Butyrospermum Parkii (Organic Shea) Butter, Calendula Officinalis (Calendula) Extract, Theobroma Cacoa (Cocoa) Butter, Emulsifying Wax NF, Persae Gratissima (Avocado) Oil, Glycerin, Daucus Carota (Carrot) Seed Oil, Hydrolyzed Silk, Fucus Vesiculosus (Organic Sea Weed) Extract, Hammamelis Virginiana (Witch Hazel) Water, Tocopherol (Vitamin E), Garcinia Indica (Kokum0 Butter, Mangifera Indica (Mango) Seed Butter, Stearic Acid, Xanthan gum, Citrus Aurantium (Neroli) Essential Oil</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Moisturize your face and neck every day in upward motions.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>avocado oil</s:tag>
+    <s:tag>carrot seed oil</s:tag>
+    <s:tag>face moisturizer</s:tag>
+    <s:tag>facial moisturizer</s:tag>
+    <s:tag>mango butter</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>neroli oil</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>silk</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>winter picks</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109275521</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Shamanuti-CremeNo1</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109200449</id>
+    <published>2016-02-16T15:48:00-05:00</published>
+    <updated>2016-02-16T15:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/seaweed-toner"/>
+    <title>Seaweed Toner</title>
+    <s:type>Facial Toner</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Seaweed_Toner_4oz.jpg?v=1455655693" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Facial Toner<br />
+        <strong>Price: </strong>
+            10.00 - 28.00
+            <a href="https://www.carbonbeauty.com/products/seaweed-toner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your skin will love this delicious, nutrient and mineral-rich toner! It adjusts pH and refines the pores, and will nourish + hydrate the skin while removing any residual make-up or cleanser.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe Barbadensis (Organic Aloe) Leaf Juice, Ascophyllum Nodosum (Organic Kelp) Extract, Aphanizomenon Flos-Aquae (Organic Blue Green Algae) Extract, Sodium Benzoate, Glucolactone, Sodium Hyaluronate (Hyaluronic Acid), Salix Alba (Organic White Willow) Bark Extract, Sodium Chloride (Dead Sea Salt), Polysorbate, Melaleuca Alternifolia (Tea Tree) Leaf Essential Oil, Citric acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">After cleansing, pour a small amount into the palm of the hands and press into the skin. With the 1 oz Seaweed Toner use spray mister to lightly coat the skin of the face.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>black willowbark</s:tag>
+    <s:tag>blue green algae</s:tag>
+    <s:tag>dead sea salt</s:tag>
+    <s:tag>face toner</s:tag>
+    <s:tag>facial toner</s:tag>
+    <s:tag>kelp</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:tag>toners</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109200449</id>
+      <title>4 oz</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Shamanuti-SeaweedToner4oz</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109200449</id>
+      <title>1 oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Shamanuti-SeaweedToner1oz</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/4109133441</id>
+    <published>2016-02-16T15:46:00-05:00</published>
+    <updated>2016-02-16T15:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/activated-charcoal-cleanser"/>
+    <title>Activated Charcoal Cleanser</title>
+    <s:type>Face Cleanser</s:type>
+    <s:vendor>Shamanuti</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Charcoal_Cleanser_6oz.jpg?v=1455655591" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shamanuti<br />
+        <strong>Type: </strong>Face Cleanser<br />
+        <strong>Price: </strong>
+            10.00 - 36.00
+            <a href="https://www.carbonbeauty.com/products/activated-charcoal-cleanser">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This unique cleanser utilizes the properties of activated charcoal to neutralize acidity and absorb impurities as well as gently exfoliate the skin with maple extract. This versatile product is beneficial for all skin types including sensitive or problem skin and is very effective as a treatment for reducing acne, rosacea and eczema. It also excellent as a shaving cream and deodorizing body wash.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua (Water), Lavandula angustifolia (organic Lavender) Distillate, Anthemis Nobilis (Roman Chamomile) Distillate, Sodium Cocoamphaecetate, Decyl Glucoside, Aspalathus Linearis (Organic Rooibos) Tincture, Vaccinium Myrtillus (Organic Bilberry) Extact, Saccharum Officinarum (Organic Sugar Cane) Extact, Acer Saccharum (Organic Sugar Maple) Extract, Citrus Aurantium Dulcis (Organic Orange) Peel Extract, Citrus Medica Limonum (Lemon ) Peel Extract, Sodium Benzoate, Glucolactone, Vaccinium Macrocarpon (Organic Cranberry) Extract, Vegetable Glycerin, Hydrolyzed Wheat Protein, Activated charcoal, Melalkeuca Alternifolia (Tea tree) Essential Oil, dl-Panthenol (pro-Vitamin B5), Dimethylaminoethanol (DMAE) Hydrogen Peroxide, Citric Acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">As a daily cleanser, put a small amount in the palm of the hand, add just enough water to create a nice slip that you then work into the skin using gentle upward circles and strokes. Let set for a moment and rinse off with hands or a damp cloth.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activated charcoal</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bilberry</s:tag>
+    <s:tag>charcoal</s:tag>
+    <s:tag>cleaners</s:tag>
+    <s:tag>cranberry</s:tag>
+    <s:tag>dmae</s:tag>
+    <s:tag>face cleanser</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>face wash</s:tag>
+    <s:tag>facial cleanser</s:tag>
+    <s:tag>facial wash</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>rooibos tea</s:tag>
+    <s:tag>shamanuti</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sugar maple</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109133441</id>
+      <title>6 oz</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Shamanuti-CharcoalCleanser6oz</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109133441</id>
+      <title>4 oz</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Shamanuti-CharcoalCleanser4oz</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/4109133441</id>
+      <title>1 oz</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Shamanuti-CharcoalCleanser1oz</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

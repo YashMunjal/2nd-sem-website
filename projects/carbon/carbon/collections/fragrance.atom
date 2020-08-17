@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/fragrance.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-09-04T17:13:15-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1359286042714</id>
+    <published>2018-09-04T17:13:15-04:00</published>
+    <updated>2018-09-04T17:13:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/los-angeles-candle"/>
+    <title>Los Angeles Candle</title>
+    <s:type>Candles</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Los_Angeles_Candle.jpg?v=1536095578" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Candles<br />
+        <strong>Price: </strong>
+            11.00 - 18.00
+            <a href="https://www.carbonbeauty.com/products/los-angeles-candle">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>As complex and rebellious as its hometown, Los Angeles wraps a warm, woody base with night blooming jasmine, unfolding a luxe fragrance with earthy undertones. Rejuvenating notes of sea salt, coastal sage, and deeply herbacious yarrow reveal a magnetic heart.</p>
+<p><strong>Top</strong>: Night Blooming Jasmine, Dry Desert Air, Lime</p>
+<p><strong>Heart</strong>: Sea Salt, Coastal Sage, Yarrow</p>
+<p><strong>Base</strong>: Redwood, Sea Salt, Beachwood</p>
+<p>• Hand poured in the USA into apothecary-inspired amber jars</p>
+<p>• 100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</p>
+<p>• Burn Time (7.2 oz): 40-50 hours | Burn Time (3.5 oz): 20-25 hours</p>
+<p>• Sizes: 7.2 oz, 2.75" x 3.75"</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Never leave candle burning unattended. Always trim your wick to 1/4" before each lighting.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>candles</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>scented candles</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1359286042714</id>
+      <title>Standard (7.2 oz)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Pf-LosAngeles7.2oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1359286042714</id>
+      <title>Mini (3.5 oz)</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>Pf-LosAngeles3.5oz-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358436466778</id>
+    <published>2018-09-01T13:59:26-04:00</published>
+    <updated>2018-09-01T13:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/dude-no-1-cologne"/>
+    <title>Dude No. 1 Cologne</title>
+    <s:type>Cologne</s:type>
+    <s:vendor>MCMC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Dude_No._1_Cologne.jpg?v=1535823446" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MCMC<br />
+        <strong>Type: </strong>Cologne<br />
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>VIRGINIA CEDARWOOD / PINK PEPPER / SANDALWOOD / MOROCCAN ROSE / GINGER</em></p>
+<p>Based on MCMC's wildly popular beard oil, this fragrance is the new classic manly scent that will make you want to get close. A blend of three woods - Virginia cedarwood, creamy sandalwood and smoky Haitian vetiver - accented by spicy ginger and pink peppercorn with a heart of Moroccan rose.</p>
+<p>• Paraben free, Sulfate free, Phthalate free</p>
+<p>• Never tested on animals</p>
+<p>• 1 fl oz | 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Denatured Alcohol, Essential Oils &amp; Absolutes, Fragrance, Distilled Water</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358436466778</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>MCMC-DudeNo1Cologne-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358435975258</id>
+    <published>2018-09-01T13:59:19-04:00</published>
+    <updated>2018-09-01T13:59:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/kept-perfume-oil"/>
+    <title>Kept Perfume Oil</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>MCMC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Kept_Perfume_Oil.jpg?v=1535823440" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MCMC<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>RED ROSES / BLACK TEA / LEATHER / CLOVE</em></p>
+<p>Kept is romantic with hints of rock n’ roll. Turning the notion of a kept woman on its head, the fragrance encourages women to look to themselves to evoke love. The long-lasting fragrance is built around red roses and black tea, with subtle notes of clove, leather, and amber.</p>
+<p>• Paraben free, Sulfate free, Phthalate free</p>
+<p>• Never tested on animals</p>
+<p>• 9 ml rollerball</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Essential Oils &amp; Absolutes, Fragrance</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358435975258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>MCMC-KeptPerfumeOil9ml-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358435614810</id>
+    <published>2018-09-01T13:59:13-04:00</published>
+    <updated>2018-09-01T13:59:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/maui-perfume-oil"/>
+    <title>Maui Perfume Oil</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>MCMC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Maui_Perfume_Oil.jpg?v=1535823430" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MCMC<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>YOUNG GINGER / STAR ANISE / FRANGIPANI / TUBEROSE / GREEN BAMBOO</em></p>
+<p>Inspired by the namesake Hawaiian island where ancient traditions mingle with modern surf culture. With top notes of young ginger and star anise and a heart of frangipani, tuberose, and green bamboo all wrapped in a light salty breeze, Maui is the essence of freedom with a laid-back vibe.</p>
+<p>• Paraben free, Sulfate free, Phthalate free</p>
+<p>• Never tested on animals</p>
+<p>• 9 ml rollerball</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Essential Oils &amp; Absolutes, Fragrance</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358435614810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>MCMC-MauiPerfumeOil9ml-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358435057754</id>
+    <published>2018-09-01T13:59:07-04:00</published>
+    <updated>2018-09-01T13:59:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/love-perfume-oil"/>
+    <title>Love Perfume Oil</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>MCMC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Love_Perfume_Oil.jpg?v=1535823425" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MCMC<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>YUZU CITRUS / FRENCH BASIL / MAGNOLIA / TEMPLEWOOD</em></p>
+<p>- From MCMC -</p>
+<p>"The first time I fell in love, it was all fireworks and sparks and a rush of crazy dancing. The second time I fell in love, it was in a field by the ocean. My love is infinite. Japanese yuzu citrus, French sweet basil and Magnolia flower blend gently with ancient templewood and gunpowder. The scent lasts forever, just like true love."</p>
+<p>• Paraben free, Sulfate free, Phthalate free</p>
+<p>• Never tested on animals</p>
+<p>• 9 ml rollerball</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Essential Oils &amp; Absolutes, Fragrance</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358435057754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>MCMC-LovePerfumeOil9ml-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1327177728090</id>
+    <published>2018-07-06T12:36:00-04:00</published>
+    <updated>2018-07-06T12:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-11-amber-moss-eau-de-parfum"/>
+    <title>No. 11: Amber &amp; Moss Eau de Parfum</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Amber_Moss.jpg?v=1530894960" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mossy and clean at the start, this fragrance's base of musk + amber evokes a damp, wooded forest floor layered with soft oakmoss. A hint of lavender and an infusion of sage + orange lend to this scent's brightness.</p>
+<p>Introducing P.F. Candle Co.'s unisex eau de parfum collection of subtle, intimate fine fragrances to accompany your everyday.</p>
+<p><strong>Top</strong>: Moss, Lavender</p>
+<p><strong>Heart</strong>: Sage, Lavandin, Orange</p>
+<p><strong>Base</strong>: Amber, Musk</p>
+<p>• 1.7 fl oz / 50 mL</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol denatured, parfum (fragrance), aqua (water).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>unisex fragrances</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1327177728090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>Pf-AmberMossEDP50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1317269766234</id>
+    <published>2018-06-20T15:39:16-04:00</published>
+    <updated>2018-06-20T15:39:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sleep-welle-calming-mist"/>
+    <title>Sleep Welle Calming Mist</title>
+    <s:type>Linen Spray</s:type>
+    <s:vendor>WelleCo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sleep_Welle_Mist.jpg?v=1529523534" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WelleCo<br />
+        <strong>Type: </strong>Linen Spray<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavender essential oil mist for Deep Sleeps. For Calming Nerves. For Composure. For Creating A Sense Of Peace.</p>
+<p>A few spritz of The Sleep Welle Calming Mist and you surround your self and your space with a gentle aromatherapy mist. Use as part of your bedtime routine and drift away to the soothing fragrance of lavender on your pillow. The aromas will help reduce tension and anxiety and encourage a beautiful sleep on Cloud Nine. We also love using it in-flight and take it with us when staying in hotels. We actually can’t live without this!</p>
+<p>• Made in Australia</p>
+<p>• 3.3 oz / 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Polysorbate, Lavender Hybrida, Fragrance, Phenoxyethanol, Benzyl alcohol, Chamomile Recutita (Matricaria) flower extract, Linalool, D-Limonene, Geraniol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use as part of your bedtime routine and drift away to the soothing fragrance of lavender on your pillow. The aromas will help reduce tension and anxiety and encourage a beautiful sleep on Cloud Nine. We also love using it in-flight and take it with us when staying in hotels.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all wellness</s:tag>
+    <s:tag>aromatherapy</s:tag>
+    <s:tag>aromatherapy sprays</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>home fragrance spray</s:tag>
+    <s:tag>home fragrance sprays</s:tag>
+    <s:tag>linen spray</s:tag>
+    <s:tag>linen sprays</s:tag>
+    <s:tag>room sprays</s:tag>
+    <s:tag>sleep mist</s:tag>
+    <s:tag>sleep spray</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317269766234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>WelleCo-SleepWelleMist-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762410729562</id>
+    <published>2018-04-23T14:58:20-04:00</published>
+    <updated>2018-04-23T14:58:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/dedcool-collection-sample-pack"/>
+    <title>DedCool Collection Sample Pack</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sample_Pack.jpg?v=1524509795" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sample Pack Includes: Mini Sprays of Fragrances 01 x 02 x 03 x 04 x 05</p>
+<p><strong>01 "Taunt" Notes</strong>: Top: Bergamot, Fresh Dew. Middle:Floral, Cassis. Bottom: Vanilla, Amber</p>
+<p><strong>02 Notes</strong>: Top: Juniper. Middle: Green Floral, Sheer woods, Patchouli. Bottom: Sandalwood</p>
+<p><strong>03 "Blonde" Notes</strong>: Top: Juniper Berries, Pomelo, Saffron. Middle: Accord Cuir, Black Violet, Cristal Rose. Bottom: Blonde Woods, Raspberry, Vetiver</p>
+<p><strong>04 Notes</strong>: Top: Fig, Pepper. Middle: Orange, Lemon. Bottom: Sandalwood, Patchouli</p>
+<p><strong>05 "Spring" Notes</strong>: Top: Bergamot, Cardamom, Star Anise. Middle: Geranium, Incense, Lavender. Bottom: Moss, Patchouli, Vetiver</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Please refer to individual fragrance pages for more detailed ingredient information.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762410729562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>DedCool-CollectionSamplePk</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762409320538</id>
+    <published>2018-04-23T14:57:57-04:00</published>
+    <updated>2018-04-23T14:57:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/roll-on-05-spring"/>
+    <title>Roll-On 05 &quot;Spring&quot;</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roll_On_5.jpg?v=1524509788" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stolen by your boyfriend, imagine that masculine scent that makes you weak in the knees. 05 holds nostalgic hints of star anise with moss and incense.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Bergamot, Cedar, Star Anise</p>
+<p><strong>Middle</strong>: Geranium, Incense, Lemon</p>
+<p><strong>Bottom</strong>: Oak Moss, Patchouli, Vetiver</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• .15 fl oz / 4 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Heptyl Undecylenate (Castor Seed Oil), Parfum (Fragrance), Benzyl Benzoate, Citronellol, Citral, Geraniol, Hydroxyisohexyl 3-cyclohexene carboxaldehyde, Linalool.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762409320538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DedCool-05SpringRollOn-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762405355610</id>
+    <published>2018-04-23T14:57:35-04:00</published>
+    <updated>2018-04-23T14:57:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/roll-on-04"/>
+    <title>Roll-On 04</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roll_On_4.jpg?v=1524509780" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gender neutral scent is potent with rich varieties of pepper, fig, and hints of patchouli. The musky-woodsy scent is rich and iconic.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Fig, Black Pepper</p>
+<p><strong>Middle</strong>: Bergamot, Lemon, Jasmin Freesia</p>
+<p><strong>Bottom</strong>: Sandalwood, Patchouli, Incense</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• .15 fl oz / 4 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Heptyl Undecylenate (Castor Seed Oil), Parfum (Fragrance), Cinnamyl Alcohol, Geraniol, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762405355610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DedCool-Frag04RollOn-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762402734170</id>
+    <published>2018-04-23T14:57:13-04:00</published>
+    <updated>2018-04-23T14:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/roll-on-03-blonde"/>
+    <title>Roll-On 03 &quot;Blonde&quot;</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roll_On_3.jpg?v=1524509771" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This dirty violet and saffron accord will lead into a crystal rose aroma, that faintly undertones the scent of blonde woods.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Juniper Berries, Pomelo, Saffron</p>
+<p><strong>Middle</strong>: Accord Cuir, Black Violet, Crystal Rose</p>
+<p><strong>Bottom</strong>: Blonde Woods, Raspberry, Vetiver</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• .15 fl oz / 4 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Heptyl Undecylenate (Castor Seed Oil), Parfum (Fragrance), Benzyl Benzoate, Citronellol, Citral, Geraniol, Hydroxyisohexyl 3-cyclohexene carboxaldehyde, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762402734170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DedCool-03BlondeRollOn-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762399588442</id>
+    <published>2018-04-23T14:56:56-04:00</published>
+    <updated>2018-04-23T14:56:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/roll-on-02"/>
+    <title>Roll-On 02</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roll_On_2.jpg?v=1524509764" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This roll-on embodies the dark aroma of juniper berries mixed with green floral and sandalwood, creating the unflawed musky blend of gender neutrality.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Juniper</p>
+<p><strong>Middle</strong>: Green Floral, Sheer woods, Patchouli</p>
+<p><strong>Bottom</strong>: Sandalwood</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• .15 fl oz / 4 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Heptyl Undecylenate (Castor Seed Oil), Parfum (Fragrance), Benzyl Benzoate, Coumarin, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762399588442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DedCool-Frag02RollOn-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762396344410</id>
+    <published>2018-04-23T14:55:34-04:00</published>
+    <updated>2018-04-23T14:55:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/roll-on-01-taunt"/>
+    <title>Roll-On 01 &quot;Taunt&quot;</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roll_On_1.jpg?v=1524509757" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>01 oil carries hints of vanilla, deep undertones of amber, and hues of musk. This scent will be your number one evening essential.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Bergamot, Fresh Dew</p>
+<p><strong>Middle</strong>: Floral, Cassis</p>
+<p><strong>Bottom</strong>: Vanilla, Amber</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• .15 fl oz / 4 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Heptyl Undecylenate (Castor Seed Oil), Parfum (Fragrance), Linalool, Cinnamaldehyde.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>perfume oil</s:tag>
+    <s:tag>perfume oils</s:tag>
+    <s:tag>roll on perfume</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762396344410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>DedCool-01TauntRollOn-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762391134298</id>
+    <published>2018-04-23T14:55:16-04:00</published>
+    <updated>2018-04-23T14:55:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fragrance-05-spring"/>
+    <title>Fragrance 05 &quot;Spring&quot;</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fragrance_5.jpg?v=1524427174" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Imagine that masculine scent that makes you weak in the knees. 05 holds nostalgic hints of star anise with moss and incense.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Bergamot, Cedar, Star Anise</p>
+<p><strong>Middle</strong>: Geranium, Incense, Lemon</p>
+<p><strong>Bottom</strong>: Oak Moss, Patchouli, Vetiver</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol Denat., Fragrance (Parfum), *Certified Organic Extracts of Borago Officinals (Borage)*, Sambucus Nigra (Elder) Flower Extract*, Camellia Sinesis (White Tea) Leaf Extract*, Equisetum Arvense (Horsetail) Extract*, Punica Granatum (Pomegranate) Extract*, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Ginkgo Biloba Extract*, Trifolium Pratense (Clover) Extract*, Althaea Officinalis (Marshmallow) Root Extract*, Rosa Canina Fruit (Rose Hip) Extract*, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile)*, Cucumis Sativus (Cucumber) Fruit Extract*, Humulus Lupulus (Hops) Extract*, Daucus Carota Sativa (Carrot) Extract*, Macrocystis Pyrifera (Kelp) Extract*, Panax (Ginseng) Root Extract*, Illex Paraguensis Leaf (Yerba Mate) Extract*, Citrus Grandis (Grapefruit) Fruit Extract*, Camellia Sinensis (White Tea) Extract*, Fucus Vesiculosus (Bladderwrack) (Seaweed) Extract*, Malva Sylvestris (Mallow) Extract*, and Porphyra Yezoensis (Seaweed) Extract*, Benzyl Benzoate, Citronellol, Citral, Geraniol, Hydroxyisohexyl 3-cyclohexene carboxaldehyde, Linalool.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762391134298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DedCool-Frag05Spring50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762389823578</id>
+    <published>2018-04-23T14:54:58-04:00</published>
+    <updated>2018-04-23T14:54:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fragrance-04"/>
+    <title>Fragrance 04</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fragrance_4.jpg?v=1524427167" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gender neutral scent is potent with rich varieties of pepper, fig, and hints of patchouli. The musky-woodsy scent is rich and iconic.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Fig, Black Pepper</p>
+<p><strong>Middle</strong>: Bergamot, Lemon, Jasmin Freesia</p>
+<p><strong>Bottom</strong>: Sandalwood, Patchouli, Incense</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol Denat., Fragrance (Parfum), *Certified Organic Extracts of Borago Officinals (Borage)*, Sambucus Nigra (Elder) Flower Extract*, Camellia Sinesis (White Tea) Leaf Extract*, Equisetum Arvense (Horsetail) Extract*, Punica Granatum (Pomegranate) Extract*, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Ginkgo Biloba Extract*, Trifolium Pratense (Clover) Extract*, Althaea Officinalis (Marshmallow) Root Extract*, Rosa Canina Fruit (Rose Hip) Extract*, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile)*, Cucumis Sativus (Cucumber) Fruit Extract*, Humulus Lupulus (Hops) Extract*, Daucus Carota Sativa (Carrot) Extract*, Macrocystis Pyrifera (Kelp) Extract*, Panax (Ginseng) Root Extract*, Illex Paraguensis Leaf (Yerba Mate) Extract*, Citrus Grandis (Grapefruit) Fruit Extract*, Camellia Sinensis (White Tea) Extract*, Fucus Vesiculosus (Bladderwrack) (Seaweed) Extract*, Malva Sylvestris (Mallow) Extract*, and Porphyra Yezoensis (Seaweed) Extract*, Cinnamyl Alcohol, Geraniol, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>wo</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762389823578</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DedCool-Fragrance0450ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762389430362</id>
+    <published>2018-04-23T14:53:49-04:00</published>
+    <updated>2018-04-23T14:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fragrance-03-blonde"/>
+    <title>Fragrance 03 &quot;Blonde&quot;</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fragrance_3.jpg?v=1524427161" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This dirty violet and saffron accord will lead into a crystal rose aroma, that faintly undertones the scent of blonde woods.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Juniper Berries, Pomelo, Saffron</p>
+<p><strong>Middle</strong>: Accord Cuir, Black Violet, Crystal Rose</p>
+<p><strong>Bottom</strong>: Blonde Woods, Raspberry, Vetiver</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol Denat., Fragrance (Parfum), *Certified Organic Extracts of Borago Officinals (Borage)*, Sambucus Nigra (Elder) Flower Extract*, Camellia Sinesis (White Tea) Leaf Extract*, Equisetum Arvense (Horsetail) Extract*, Punica Granatum (Pomegranate) Extract*, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Ginkgo Biloba Extract*, Trifolium Pratense (Clover) Extract*, Althaea Officinalis (Marshmallow) Root Extract*, Rosa Canina Fruit (Rose Hip) Extract*, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile)*, Cucumis Sativus (Cucumber) Fruit Extract*, Humulus Lupulus (Hops) Extract*, Daucus Carota Sativa (Carrot) Extract*, Macrocystis Pyrifera (Kelp) Extract*, Panax (Ginseng) Root Extract*, Illex Paraguensis Leaf (Yerba Mate) Extract*, Citrus Grandis (Grapefruit) Fruit Extract*, Camellia Sinensis (White Tea) Extract*, Fucus Vesiculosus (Bladderwrack) (Seaweed) Extract*, Malva Sylvestris (Mallow) Extract*, and Porphyra Yezoensis (Seaweed) Extract*, Benzyl Benzoate, Citronellol, Citral, Geraniol, Hydroxyisohexyl 3-cyclohexene carboxaldehyde, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>wo</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762389430362</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DedCool-Frag03Blonde50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762384482394</id>
+    <published>2018-04-23T14:53:30-04:00</published>
+    <updated>2018-04-23T14:53:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fragrance-02"/>
+    <title>Fragrance 02</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fragrance_2.jpg?v=1524427151" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fragrance 02 intermingles rich hues of sandalwood and juniper berries to craft the unflawed musky blend of gender neutrality.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Juniper</p>
+<p><strong>Middle</strong>: Green Floral, Sheer woods, Patchouli</p>
+<p><strong>Bottom</strong>: Sandalwood</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol Denat., Fragrance (Parfum), *Certified Organic Extracts of Borago Officinals (Borage)*, Sambucus Nigra (Elder) Flower Extract*, Camellia Sinesis (White Tea) Leaf Extract*, Equisetum Arvense (Horsetail) Extract*, Punica Granatum (Pomegranate) Extract*, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Ginkgo Biloba Extract*, Trifolium Pratense (Clover) Extract*, Althaea Officinalis (Marshmallow) Root Extract*, Rosa Canina Fruit (Rose Hip) Extract*, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile)*, Cucumis Sativus (Cucumber) Fruit Extract*, Humulus Lupulus (Hops) Extract*, Daucus Carota Sativa (Carrot) Extract*, Macrocystis Pyrifera (Kelp) Extract*, Panax (Ginseng) Root Extract*, Illex Paraguensis Leaf (Yerba Mate) Extract*, Citrus Grandis (Grapefruit) Fruit Extract*, Camellia Sinensis (White Tea) Extract*, Fucus Vesiculosus (Bladderwrack) (Seaweed) Extract*, Malva Sylvestris (Mallow) Extract*, and Porphyra Yezoensis (Seaweed) Extract*, Benzyl Benzoate, Coumarin, Linalool, d-Limonene.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrance</s:tag>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762384482394</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DedCool-Fragrance0250ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/762380779610</id>
+    <published>2018-04-23T14:53:02-04:00</published>
+    <updated>2018-04-23T14:53:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fragrance-01-taunt"/>
+    <title>Fragrance 01 &quot;Taunt&quot;</title>
+    <s:type>fragrance</s:type>
+    <s:vendor>DedCool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Fragrance_1.jpg?v=1524427143" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DedCool<br />
+        <strong>Type: </strong>fragrance<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The sensual notes of Fragrance 01 create a beautiful blend of amber, vanilla, and fresh dew that is sweet yet subtle.</p>
+<p>Notes:</p>
+<p><strong>Top</strong>: Bergamot, Fresh Dew</p>
+<p><strong>Middle</strong>: Floral, Cassis</p>
+<p><strong>Bottom</strong>: Vanilla, Amber</p>
+<p>• Unisex, Vegan, Cruelty-free</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Alcohol Denat., Fragrance (Parfum), *Certified Organic Extracts of Borago Officinals (Borage)*, Sambucus Nigra (Elder) Flower Extract*, Camellia Sinesis (White Tea) Leaf Extract*, Equisetum Arvense (Horsetail) Extract*, Punica Granatum (Pomegranate) Extract*, Aloe Barbadensis (Aloe Vera) Leaf Extract*, Ginkgo Biloba Extract*, Trifolium Pratense (Clover) Extract*, Althaea Officinalis (Marshmallow) Root Extract*, Rosa Canina Fruit (Rose Hip) Extract*, Chamomilla Recutita (Matricaria) Flower Extract (Chamomile)*, Cucumis Sativus (Cucumber) Fruit Extract*, Humulus Lupulus (Hops) Extract*, Daucus Carota Sativa (Carrot) Extract*, Macrocystis Pyrifera (Kelp) Extract*, Panax (Ginseng) Root Extract*, Illex Paraguensis Leaf (Yerba Mate) Extract*, Citrus Grandis (Grapefruit) Fruit Extract*, Camellia Sinensis (White Tea) Extract*, Fucus Vesiculosus (Bladderwrack) (Seaweed) Extract*, Malva Sylvestris (Mallow) Extract*, and Porphyra Yezoensis (Seaweed) Extract*, Cinnamaldehyde, Linalool.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<strong>CAUTION</strong>: Flammable. Keep Away From Flame or Heat. For External Use Only. Keep Out of Reach of Children. No animal testing or ingredients.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all fragrances</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:tag>men&apos;s fragrance</s:tag>
+    <s:tag>men&apos;s fragrances</s:tag>
+    <s:tag>unisex</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/762380779610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>DedCool-Frag01Taunt50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/449070989343</id>
+    <published>2018-02-23T13:50:53-05:00</published>
+    <updated>2018-02-23T13:50:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/mociun-2-perfume-oil"/>
+    <title>Mociun #2 Perfume Oil</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>MCMC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Mociun_2.jpg?v=1519411842" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MCMC<br />
+        <strong>Type: </strong>Perfume<br />
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em>WILD BLACK SPRUCE / PATCHOULI / BRAZILIAN ROSEWOOD</em></p>
+<p>Cold and crisp, the scent of evergreen, freshly fallen snow and sweet wood is reminiscent of a childhood spent in the mountains of northern California.</p>
+<p>• Paraben free, Sulfate free, Phthalate free</p>
+<p>• Never tested on animals</p>
+<p>• 10 ml rollerball</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil, Parfum/Fragrance</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>women&apos;s fragrance</s:tag>
+    <s:tag>women&apos;s fragrances</s:tag>
+    <s:tag>women&apos;s perfume</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/449070989343</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>MCMC-MociunNo2Oil10ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431318827039</id>
+    <published>2018-02-21T14:25:03-05:00</published>
+    <updated>2018-02-21T14:25:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-31-cannabis-diffuser"/>
+    <title>No. 31: Cannabis Diffuser</title>
+    <s:type>Diffusers</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cannabis_Diffuser.jpg?v=1519241083" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Diffusers<br />
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This heady fragrance celebrates California's 2018 legalization of P.F. Candle Co's favorite herb. Sultry base notes of sweet balsamic, leather, and vetiver harmonize with fragrant patchouli, piquant rhubarb, and uplifting lemon to create a uniquely elevating experience that soothes the mind. The fragrance doesn't contain the real deal, but the blend of notes still takes us into the zone.</p>
+<p><strong>Top</strong>: Spiced Cloves, Lemon, Cannabis Flower</p>
+<p><strong>Heart</strong>: Rhubarb, Patchouli</p>
+<p><strong>Base</strong>: Sweet Balsamic, Leather, Vetiver</p>
+<p>• Low maintenance + long lasting home fragrance</p>
+<p>• Naturally harvested rattan reeds absorb the scented oil, releasing it slowly through your surroundings</p>
+<p>• Lasts 2-3 months; flip reeds every 1-2 weeks</p>
+<p>• Size: 4.25" in height, reeds are 10" long</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Do not consume and keep away from children or pets. If the oil spills, clean up immediately.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:tag>diffusers</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431318827039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Pf-CannabisDiffuser-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431310340127</id>
+    <published>2018-02-21T14:24:57-05:00</published>
+    <updated>2018-02-21T14:24:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-30-irish-whiskey-diffuser"/>
+    <title>No. 30: Irish Whiskey Diffuser</title>
+    <s:type>Diffusers</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Irish_Whiskey_Diffuser.jpg?v=1519241072" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Diffusers<br />
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>P.F. Candle Co.'s ode to a barrel-aged, fine grain classic. Rich top notes of pear, honey and whiskey are wrapped in a warm base of vanilla and tonka. Robust and layered, this Jameson-inspired scent recalls all the good times - at least the ones we can remember.</p>
+<p><strong>Top</strong>: Pear, Honey, Whiskey</p>
+<p><strong>Heart</strong>: Cedarwood, Smoldering Cypress, Patchouli</p>
+<p><strong>Base</strong>: Vanilla, Tonka</p>
+<p>• Low maintenance + long lasting home fragrance</p>
+<p>• Naturally harvested rattan reeds absorb the scented oil, releasing it slowly through your surroundings</p>
+<p>• Lasts 2-3 months; flip reeds every 1-2 weeks</p>
+<p>• Size: 4.25" in height, reeds are 10" long</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Do not consume and keep away from children or pets. If the oil spills, clean up immediately.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:tag>diffusers</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431310340127</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Pf-IrishWhiskeyDiffuser-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431251488799</id>
+    <published>2018-02-21T14:24:13-05:00</published>
+    <updated>2018-02-21T14:24:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-31-cannabis-room-spray"/>
+    <title>No. 31: Cannabis Room Spray</title>
+    <s:type>Room Spray</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cannabis_Room_Spray.jpg?v=1519241040" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Room Spray<br />
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This heady fragrance celebrates California's 2018 legalization of P.F. Candle Co's favorite herb. Sultry base notes of sweet balsamic, leather, and vetiver harmonize with fragrant patchouli, piquant rhubarb, and uplifting lemon to create a uniquely elevating experience that soothes the mind. The fragrance doesn't contain the real deal, but the blend of notes still takes us into the zone.</p>
+<p><strong>Top</strong>: Spiced Cloves, Lemon, Cannabis Flower</p>
+<p><strong>Heart</strong>: Rhubarb, Patchouli</p>
+<p><strong>Base</strong>: Sweet Balsamic, Leather, Vetiver</p>
+<p>• Travel-friendly and perfect for creating a relaxing environment at home or away</p>
+<p>• Can be used on linens, furniture, apparel, and more!</p>
+<p>• Lasts 1-3 months (approximately 350 pumps)</p>
+<p>• 2 fl oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mt. Shasta spring water, phthalate-free premium fragrance oil</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Can be used on linens, furniture, apparel, and more!</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>home fragrance spray</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431251488799</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Pf-CannabisRmSpray-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431250800671</id>
+    <published>2018-02-21T14:24:04-05:00</published>
+    <updated>2018-02-21T14:24:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-30-irish-whiskey-room-spray"/>
+    <title>No. 30: Irish Whiskey Room Spray</title>
+    <s:type>Room Spray</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Irish_Whiskey_Room_Spray.jpg?v=1519241024" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Room Spray<br />
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>P.F. Candle Co.'s ode to a barrel-aged, fine grain classic. Rich top notes of pear, honey and whiskey are wrapped in a warm base of vanilla and tonka. Robust and layered, this Jameson-inspired scent recalls all the good times - at least the ones we can remember.</p>
+<p><strong>Top</strong>: Pear, Honey, Whiskey</p>
+<p><strong>Heart</strong>: Cedarwood, Smoldering Cypress, Patchouli</p>
+<p><strong>Base</strong>: Vanilla, Tonka</p>
+<p>• Travel-friendly and perfect for creating a relaxing environment at home or away</p>
+<p>• Can be used on linens, furniture, apparel, and more!</p>
+<p>• Lasts 1-3 months (approximately 350 pumps)</p>
+<p>• 2 fl oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mt. Shasta spring water, phthalate-free premium fragrance oil</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Can be used on linens, furniture, apparel, and more!</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fragrance</s:tag>
+    <s:tag>home fragrance spray</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431250800671</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Pf-IrishWhiskeyRmSpray-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431237103647</id>
+    <published>2018-02-21T14:23:27-05:00</published>
+    <updated>2018-02-21T14:23:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-31-cannabis"/>
+    <title>No. 31: Cannabis Candle</title>
+    <s:type>Candles</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cannabis_Candle_7.2oz.jpg?v=1519240982" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Candles<br />
+        <strong>Price: </strong>
+            11.00 - 32.00
+            <a href="https://www.carbonbeauty.com/products/no-31-cannabis">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This heady fragrance celebrates California's 2018 legalization of P.F. Candle Co's favorite herb. Sultry base notes of sweet balsamic, leather, and vetiver harmonize with fragrant patchouli, piquant rhubarb, and uplifting lemon to create a uniquely elevating experience that soothes the mind. The fragrance doesn't contain the real deal, but the blend of notes still takes us into the zone.</p>
+<p><strong>Top</strong>: Spiced Cloves, Lemon, Cannabis Flower</p>
+<p><strong>Heart</strong>: Rhubarb, Patchouli</p>
+<p><strong>Base</strong>: Sweet Balsamic, Leather, Vetiver</p>
+<p>• Hand poured in the USA into apothecary-inspired amber jars</p>
+<p>• 100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</p>
+<p>• Burn Time: 40-50 hours</p>
+<p>• Sizes: 7.2 oz, 2.75" x 3.75" OR 14 oz, 4.25" x 3.5" OR 3.5 oz, 2.25" x 2.75"</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Never leave candle burning unattended. Always trim your wick to 1/4" before each lighting.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>candles</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431237103647</id>
+      <title>Standard (7.2 oz)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Pf-CannabisCandle7.2oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431237103647</id>
+      <title>Double Wick (14 oz)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>Pf-CannabisCandle14oz-SFA</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431237103647</id>
+      <title>Mini (3.5 oz)</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>Pf-CannabisCandle3.5oz-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/431235989535</id>
+    <published>2018-02-21T14:22:38-05:00</published>
+    <updated>2018-02-21T14:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/no-30-irish-whiskey"/>
+    <title>No. 30: Irish Whiskey Candle</title>
+    <s:type>Candles</s:type>
+    <s:vendor>P.F. Candle Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Irish_Whiskey_Candle_7.2oz.jpg?v=1519240935" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P.F. Candle Co.<br />
+        <strong>Type: </strong>Candles<br />
+        <strong>Price: </strong>
+            11.00 - 32.00
+            <a href="https://www.carbonbeauty.com/products/no-30-irish-whiskey">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>P.F. Candle Co.'s ode to a barrel-aged, fine grain classic. Rich top notes of pear, honey and whiskey are wrapped in a warm base of vanilla and tonka. Robust and layered, this Jameson-inspired scent recalls all the good times - at least the ones we can remember.</p>
+<p><strong>Top</strong>: Pear, Honey, Whiskey</p>
+<p><strong>Heart</strong>: Cedarwood, Smoldering Cypress, Patchouli</p>
+<p><strong>Base</strong>: Vanilla, Tonka</p>
+<p>• Hand poured in the USA into apothecary-inspired amber jars</p>
+<p>• 100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</p>
+<p>• Burn Time: 40-50 hours</p>
+<p>• Sizes: 7.2 oz, 2.75" x 3.75" OR 14 oz, 4.25" x 3.5" OR 3.5 oz, 2.25" x 2.75"</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">100% natural soy wax, phthalate-free premium fragrance oil, cotton wick</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Never leave candle burning unattended. Always trim your wick to 1/4" before each lighting.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>candles</s:tag>
+    <s:tag>fragrance</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431235989535</id>
+      <title>Standard (7.2 oz)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Pf-IrishWhiskeyCandle7.2oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431235989535</id>
+      <title>Double Wick (14 oz)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>Pf-IrishWhiskeyCandle14oz-SFA</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/431235989535</id>
+      <title>Mini (3.5 oz)</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>Pf-IrishWhiskeyCandle3.5oz-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-bansal3/2nd_website.git"
+  },
+  "author": "anmol bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmol-bansal3/2nd_website/issues"
+  },
+  "homepage": "https://github.com/anmol-bansal3/2nd_website#readme",
+  "dependencies": {
+    "audit": "0.0.6",
+    "fix": "0.0.6",
+    "lite-server": "^2.5.4",
+    "save-dev": "0.0.1-security"
+  }
+}

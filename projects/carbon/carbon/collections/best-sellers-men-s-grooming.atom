@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/best-sellers-men-s-grooming.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2015-06-15T17:42:00-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/354902677</id>
+    <published>2015-06-15T17:42:00-04:00</published>
+    <updated>2015-06-15T17:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/post-shave-tonic"/>
+    <title>Post Shave Tonic</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Crux Supply Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/postshave_square_1.jpg?v=1413947589" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crux Supply Co<br />
+        <strong>Type: </strong>Aftershave<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This aftershave soothes, conditions, and cleans your post-shave skin with a powerful boost of witch hazel, a natural antiseptic, in addition to carrying CRUX Supply Co's signature notes of rosewood, clary sage, and bergamot. This aftershave leaves even the most sensitive of skin irritation-free and gleaming.</p>
+<p>Made in the USA - 4 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Witch Hazel, Purified Water, Alcohol, Clary Sage, Rosewood, &amp; Bergamot Essential Oils, Glycerin</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a modest amount to post shave area.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne</s:tag>
+    <s:tag>acne / blemishes / blackheads</s:tag>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>all shave + beard care</s:tag>
+    <s:tag>antiseptic</s:tag>
+    <s:tag>bergamot</s:tag>
+    <s:tag>best sellers men&apos;s grooming</s:tag>
+    <s:tag>calming</s:tag>
+    <s:tag>clary sage</s:tag>
+    <s:tag>crux supply co</s:tag>
+    <s:tag>gift him</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s aftershave</s:tag>
+    <s:tag>men&apos;s shave + beard care</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>post shave</s:tag>
+    <s:tag>razor bumps</s:tag>
+    <s:tag>red bumps</s:tag>
+    <s:tag>redness</s:tag>
+    <s:tag>rosewood</s:tag>
+    <s:tag>sensitive skin</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving irritation</s:tag>
+    <s:tag>skin irritation</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>soothing</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>witch hazel</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/354902677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>CRUX-PostShaveTonic4oz</s:sku>
+      <s:grams>313</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/454977741</id>
+    <published>2015-05-06T15:45:00-04:00</published>
+    <updated>2015-05-06T15:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/natural-deodorant-cream"/>
+    <title>Deodorant Cream</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Soapwalla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Deodorant_Cream.jpg?v=1430939271" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soapwalla<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soapwalla’s Deodorant Cream is all natural and uniquely powerful, utilizing superfine vegetable powders and clays, as well as lavender, peppermint and tea tree essential oils to absorb moisture, inhibit bacteria, and ensure a long-lasting and highly effective experience. The frosting-like consistency allows for easy manual application and rapid absorption, and is ideal for all skin types.</p>
+<p>• Cruelty Free + Vegan</p>
+<p>• 2 oz</p>
+<p>Made <strong>WITHOUT</strong> artificial preservatives, aluminum, parabens, harsh chemicals, dyes, fragrance, silicone, dimethicone, phthalates, sulfates, petroleum, talc, bismuth oxychloride, nanoparticles.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Simmondsia Chinensis (Jojoba) Oil*; Helianthus Annuus (Sunflower) Oil*; Rosehip Seed Oil*; Butyrospermun Parkii (Shea) Butter; Corn Starch*+; Sodium Bicarbonate+; Kaolin Clay; Vegan Kosher Glycerin*+; A Custom Blend Of Essential Oils, including: Lavandula Angustifolia (Lavender)*; Melaleuca Alternifolia (Tea Tree)*; Citrus Sinensis (Sweet Orange); Mentha Piperita (Peppermint)*; Citrus Aurantium Bergamia (Bergaptene-free Bergamot)*; Non-GMO Soy Lecithin*+; Non-GMO Vitamin E*+. <br>(*: certified organic, +: food-grade)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mix the deodorant cream prior to application. Scoop a small amount and very gently apply to the entire armpit area until completely absorbed. If you typically experience increased skin sensitivity on days when you shave, we’d suggest you refrain from using our Deodorant Cream on those days and resume use the following day. If you have a history of sensitive skin or allergic reactions, please be sure to test body products on a small area inside your wrist for 2-3 days prior to using.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>aluminum free</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>best sellers men&apos;s grooming</s:tag>
+    <s:tag>cruelty free</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>jojoba oil</s:tag>
+    <s:tag>kaolin clay</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>natural deodorant</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>peppermint</s:tag>
+    <s:tag>shea butter</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>soapwalla</s:tag>
+    <s:tag>soapwalla kitchen</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:tag>vitamin e</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/454977741</id>
+      <title>Original</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>Soapwalla-OrigDeodorantCream2oz</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/454977741</id>
+      <title>Citrus</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>Soapwalla-CITRUSDeodorant2oz</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/386365593</id>
+    <published>2014-12-12T11:52:00-05:00</published>
+    <updated>2014-12-12T11:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/gentlemens-grooming-comb"/>
+    <title>Gentlemen&apos;s Grooming Comb</title>
+    <s:type>Beard Comb</s:type>
+    <s:vendor>The Dandy Bear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/Dandy_1.jpg?v=1455501641" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Dandy Bear<br />
+        <strong>Type: </strong>Beard Comb<br />
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Dandy Bear Gentlemen's Grooming Comb came to fruition after its creator realized the overall lack of options for effective grooming combs. Inspired by the romance and simple elegance of the late 19th century, he created a heat tempered, hand carved, beard comb specifically designed to groom men’s facial hair (effectively!). The result is not just a practical and effective grooming comb, but rather, a true piece of beauty which depicts the quality of craftsmanship that has been absent from many of our lives for far too long.</p>
+<p>• Beautifully Handcrafted in Small Batches</p>
+<p>• A Wonderfully Unique Grooming Accessory</p>
+<p>• <strong>Use</strong>: You may submerge the metal comb into boiling water for one minute, or heat the metal comb over open flame for three seconds. With steady strokes, comb down and away from face. Heat and repeat as desired.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all shave + beard care</s:tag>
+    <s:tag>beard</s:tag>
+    <s:tag>beard comb</s:tag>
+    <s:tag>best sellers men&apos;s grooming</s:tag>
+    <s:tag>brushes</s:tag>
+    <s:tag>dandy bear</s:tag>
+    <s:tag>grooming comb</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s beard</s:tag>
+    <s:tag>men&apos;s beard care</s:tag>
+    <s:tag>men&apos;s beard comb</s:tag>
+    <s:tag>men&apos;s brushes</s:tag>
+    <s:tag>men&apos;s shave &amp; beard care</s:tag>
+    <s:tag>men&apos;s shaving</s:tag>
+    <s:tag>shave &amp; beard care</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/386365593</id>
+      <title>GOLD</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>DandyBear-GroomingCombGOLD</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/386365593</id>
+      <title>SILVER</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>DandyBear-GroomingCombSILVER</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/386365593</id>
+      <title>EBONY</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>DandyBear-GroomingCombEBONY</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/383358381</id>
+    <published>2014-12-05T10:18:00-05:00</published>
+    <updated>2014-12-05T10:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/beard-tonic-cedar-bergamot"/>
+    <title>Beard Tonic</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Herbivore Botanicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Beard_Tonic_Cedar_Bergamot.jpg?v=1514927227" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herbivore Botanicals<br />
+        <strong>Type: </strong>Body Oil<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These highly nourishing oil-based beard tonics combine natural plant oils that promote a healthier looking beard while moisturizing the skin beneath. These include light, natural scents that men (and women up-close) can enjoy.</p>
+<p><strong>Cedar + Bergamot</strong> - Combines the woodsy aroma of Cedar and the sweet and tangy citrus oil Bergamot.</p>
+<p><strong>Vetiver + Sage</strong> - Earthy and grounding. Sage is a popular herb and Vetiver is a grass native to India.</p>
+<p><strong>Palo Santo</strong> - is a unique and distinctive aromatic wood that translates to "holy wood" in Spanish. Strong wood notes and hints of mint and citrus create a scent that has been used ceremonially like incense and sage for hundreds of years.</p>
+<p>• All Natural + Organic Ingredients</p>
+<p>• All of Herbivore's oils are cold-pressed or steam distilled, yielding premium-quality oils</p>
+<p>• Cruelty free | Made in small batches in the USA</p>
+<p>• 1 oz | 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Cedar + Bergamot</strong>: Prunus armeniaca (Apricot) Kernel Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania spinosa (Argan) Nut Oil, Tocopherol (Vitamin E) Oil, Juniperus virginiana (Cedarwood) Oil, Citrus bergamia (Bergamot) Essential Oil</p>
+<p><strong>Vetiver + Sage</strong>: Prunus armeniaca (Apricot) Kernel Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania spinosa (Argan) Nut Oil, Tocopherol (Vitamin E) Oil, Andropogon zizanioides (Vetiver) Oil, Salvia sclarea (Clary Sage) Essential Oil</p>
+<p><strong>Palo Santo</strong>: Prunus armeniaca (Apricot) Kernel Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Argania spinosa (Argan) Nut Oil, Tocopherol (Vitamin E) Oil, Bursera Graveolens Wood (Palo Santo) Essential Oil, Andropogon zizanioides (Vetiver) Essential Oil</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">A little of this product goes a long way. Apply sparingly to palms and rub into beard for best results.</div>
+</article>
+</div>
+</div>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all natural ingredients</s:tag>
+    <s:tag>all shave &amp; beard care</s:tag>
+    <s:tag>beard care</s:tag>
+    <s:tag>beard oil</s:tag>
+    <s:tag>beard oils</s:tag>
+    <s:tag>best sellers men&apos;s grooming</s:tag>
+    <s:tag>dry skin</s:tag>
+    <s:tag>handcrafted</s:tag>
+    <s:tag>handcrafted / small batch</s:tag>
+    <s:tag>men&apos;s</s:tag>
+    <s:tag>men&apos;s beard oils</s:tag>
+    <s:tag>men&apos;s shaving</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>natural</s:tag>
+    <s:tag>natural / organic</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>paraben free</s:tag>
+    <s:tag>shave</s:tag>
+    <s:tag>shave + beard care</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>small batch</s:tag>
+    <s:tag>sulfate free</s:tag>
+    <s:tag>winter2016</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/383358381</id>
+      <title>Cedar + Bergamot</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>HerbBot-BeardTonicCedarBerg</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/383358381</id>
+      <title>Vetiver + Sage</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>HerbBot-BeardTonicVetiverSage</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/383358381</id>
+      <title>Palo Santo</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>HerbBot-BeardTonicPaloSanto</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

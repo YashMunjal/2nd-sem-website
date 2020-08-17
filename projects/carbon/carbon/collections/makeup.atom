@@ -1,0 +1,2166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/makeup.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-10-07T20:02:36-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1481988505690</id>
+    <published>2018-10-07T20:02:36-04:00</published>
+    <updated>2018-10-07T20:02:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hydra-highlighter-stick"/>
+    <title>Hydra Highlighter Stick</title>
+    <s:type>Highlighter</s:type>
+    <s:vendor>NOTO Botanics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hydra_Highlighter_Stick.jpg?v=1538956936" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOTO Botanics<br />
+        <strong>Type: </strong>Highlighter<br />
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All of NOTO's beautiful dewey glow in a stick form for easier application!</p>
+<p>Gloria Noto is coveted for her "no-makeup makeup look" that allows your beautiful skin to shine through. Discover the secret for yourself for a perfectly sheer, dewy glow that can hydrate and highlight.</p>
+<p>Perfect for temples, eyelids, cupids bow, collar bones, shoulders, and legs.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Olive Fruit Oil (Olea Europaea), Candelilla Wax (Euphorbia Cerifera), Organic Coconut Oil (Cocos Nucifera), Organic Shea Butter (Butyrospermum Parkii), Organic Jojoba Seed Oil (Simmondsia Chinensis), Rosehip Seed Oil (Rosa Canina), Vitamin E (Tocopherol), Sunflower Seed Oil (Helianthus Annuus), Organic Neem Seed Oil (Melia Azadirachta), Organic Rosemary Leaf Extract (Rosmarinus Officinalis), Organic Sunflower Seed Oil (Helianthus Annuus), Lavender (Lavandula Angustifolia Oil) Organic Sustainable (RSPO Certified) Palm Fruit Oil (Elaeis Guineensis), Mica.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Twist up and apply this product anywhere for a soft wash of shine and subtle shimmer. Can be used under makeup for a glowing foundation, or under eye or on lips for a shimmering balm.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>highlighting stick</s:tag>
+    <s:tag>luminizer</s:tag>
+    <s:tag>luminizers</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1481988505690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>NOTO-HydraHighlighterStick-SFA</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1478178963546</id>
+    <published>2018-10-03T19:59:12-04:00</published>
+    <updated>2018-10-03T19:59:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/tinted-balms"/>
+    <title>Tinted Balms</title>
+    <s:type>Skin Balm</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Balm_No._0.jpg?v=1538517367" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Skin Balm<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Olio E Osso's most essential, versatile product is nourishing on lips and cheeks, soothing on skin and hair, and adored by all who discover them. Swipe across lips or slide over cheekbones for a subtle glow.</p>
+<p><strong>No. 0 Netto</strong> - This natural menthol balm is useful all over the body. It tingles on the lips, clears nasal and chest congestion, and stimulates tired temples.</p>
+<p><strong>No. 1 Clear</strong> - Olio E Osso's most versatile balm is useful all over the body, its emollient texture melts into lips, tames split ends, flyaway hair, stray eyebrows and beards, and conditions cuticles, elbows and dry patches.</p>
+<p><strong>No. 2 French Melon</strong> - Perfectly pigmented balm for a blush of color on the lips or cheeks.</p>
+<p><strong>No. 3 Crimson</strong> - A sheer touch of classic crimson to brighten and enrich your lips and cheeks.</p>
+<p><strong>No. 4 Berry</strong> - Soft and luminous, this transparent aubergine stain adds depth to lips and highlights cheeks.</p>
+<p><strong>No. 5 Currant</strong> - Enhance your natural beauty with a perfect wash of warmth on lips and cheeks.</p>
+<p><strong>No. 6 Bronze</strong> - Never glittery, this is Olio E Osso's first balm with a hint of shimmer. Use as you would a bronzer or highlighter for a natural glow.</p>
+<p><strong>No. 7 Blush Shimmer</strong> - Slightly iridescent, this light pink shimmer can be worn on its own for subtle brightening on lips or cheeks. Great layered over any of Olio E Osso's other tinted balms for a deeper look.</p>
+<p><strong>No. 8 Persimmon</strong> - Rich, deep and toasty orange, this balm will give your cheeks and lips a subtle wash of warmth that is stunning on its own or layered with other balms.</p>
+<p><strong>No. 9 Spring</strong> - A breezy take on a spring bloom to add a bit of brightness to your lips and cheeks.</p>
+<p><strong>No. 10 Tea Rose</strong> - Graceful and grounded, this beautiful rose hue will enhance your natural glow.</p>
+<p><strong>No. 11 Féte</strong> - A truly beautiful celebration of light. Féte is perfect for layering, highlighting or wearing on its own.</p>
+<p><strong>No. 12 Plum</strong> - Warm and rich with a slight shimmer of gold, use Plum to deepen and enhance lips and cheeks.</p>
+<p><strong>No. 13 Poppy</strong> - A lovely red with subtle shining vibrance, brightens the lips and cheeks.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• .35 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>No. 0 Netto</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Menthol (Natural), Eucalyptus Radiata (Eucalyptus) Leaf Oil</p>
+<p><strong>No. 1 Clear</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil</p>
+<p><strong>No. 2 French Melon</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Red Lake 21 (CI 45380)</p>
+<p><strong>No. 3 Crimson</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Carmine (CI 75470)</p>
+<p><strong>No. 4 Berry</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Manganese Violet (CI 77742), Carmine (CI 75470), Titanium Dioxide (CI 77891), Iron Oxide (CI 77499)</p>
+<p><strong>No. 5 Currant</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Iron Oxide (CI 77491)</p>
+<p><strong>No. 6 Bronze</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Mica, Iron Oxide (CI 77491)</p>
+<p><strong>No. 7 Blush Shimmer</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Mica, Carmine (CI 75470), Titanium Dioxide (CI 77891)</p>
+<p><strong>No. 8 Persimmon</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Annatto (CI 75120), Carmine (CI 75470)</p>
+<p><strong>No. 9 Spring</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Titanium Dioxide (CI 77891), Carmine (CI 75470)</p>
+<p><strong>No. 10 Tea Rose</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Manganese Violet (CI 77742), Iron Oxide (CI 77492), Carmine (CI 75470)</p>
+<p><strong>No. 11 Féte</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Titanium Dioxide (CI 77891), Synthetic Fluorophlogopite, Tin Oxide (CI 77861), Limonene, Linalool, Citral</p>
+<p><strong>No. 12 Plum</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Mica (CI 77019), Manganese Violet (CI 77742), Iron Oxide (CI 77491) Carmine (CI 75470), Titanium Dioxide (CI 77891), Synthetic Fluorphlogopite, Tin Oxide (77861), Silica, Limonene, Linalool, Citral</p>
+<p><strong>No. 13 Poppy</strong>: Butyrospermum Parkii (Shea) Nut Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Citrus Paradisi (Grapefruit) Peel Oil, Mica (CI 77019) Titanium Dioxide (CI 77891), Manganese Violet (CI 77742), Carmine (CI 75470), Iron Oxide ( CI 77491), Limonene, Linalool, Citral</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>No. 0 Netto</strong>: Apply to lips, chest, temples and sore muscles.</p>
+<p><strong>No. 1 Clear</strong>: Apply to lips, hair and dry skin.</p>
+<p><strong>No. 2-5, 7-13</strong>: Apply to lips and cheeks.</p>
+<p><strong>No. 6 Bronze</strong>: Apply to lips, cheeks and skin. Great layered over any of our other tinted balms for a deeper look.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>cheek balm</s:tag>
+    <s:tag>cheek tint</s:tag>
+    <s:tag>lip and cheek tint</s:tag>
+    <s:tag>lip balms</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>lip tints</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup blush</s:tag>
+    <s:tag>skin balms</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>tinted lip balms</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 0 Netto</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo0Netto-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 1 Clear</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo1Clear-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 2 French Melon</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo2FrnchMelon-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 3 Crimson</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo3Crimson-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 4 Berry</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo4Berry-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 5 Currant</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo5Currant-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 6 Bronze</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo6Bronze-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 7 Blush Shimmer</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo7BlushShim-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 8 Persimmon</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo8Persim-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 9 Spring</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo9Spring-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 10 Tea Rose</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo10TeaRose-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 11 Féte</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo11Fete-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 12 Plum</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo12Plum-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478178963546</id>
+      <title>No. 13 Poppy</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>Olio-BalmStickNo13Poppy-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1364955594842</id>
+    <published>2018-09-23T16:05:49-04:00</published>
+    <updated>2018-09-23T16:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick-2"/>
+    <title>Lipstick</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>Y et Beaute</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bisou.jpg?v=1537725929" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Y et Beaute<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A premiere color collection inspired by the founder's travels and practicing yoga in India, these stunning, highly-pigmented lipsticks are crafted in Italy from natural &amp; certified organic ingredients.</p>
+<p><em>Shades</em></p>
+<p><strong>Bisou</strong>: A mellow earthy pink</p>
+<p><strong>Calme</strong>: A feminine fuchsia with a blue undertone</p>
+<p><strong>Edie</strong>: A violet with a vivid streak</p>
+<p><strong>James</strong>: A blackened plum</p>
+<p><strong>Lou</strong>: A tawny pink</p>
+<p><strong>No 11</strong>: An energetic pop of pink</p>
+<p><strong>No 21</strong>: An audacious pinky red</p>
+<p><strong>Soho</strong>: A deep dusty mauve</p>
+<p><strong>Vivienne</strong>: An elegant raspberry</p>
+<p><strong>Tranquille</strong>: A pale, whisper-weight rose</p>
+<p>• Crafted in Italy, all Y Et Beauté's products are Non-nano, Paraben-Free, Cruelty-Free, Sulfate-Free and Phthlate-Free</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Castor Seed Oil*, Sweet Almond Oil*, Beeswax*, Candelila Wax*, Cranberry Seed Oil*, Rice Bran Wax*, Jojoba Seed Oil*, Carnauba Wax*, Shea Butter Oil*, Kernel Oil*, Octyldodecanol, Stearalkonium Hectorite, Propylene Carbonate, Ascorbyl Palmitate, Ethyl Vanilin, Resveratrol. *Certified Organic Ingredients</p>
+<p>May Contain: Iron Oxides (CI 77491, CI 77492, CI 77499) Titanium Dioxide (CI 77891), Blue 1 Lake (CI 42090), Red 6 Lake (CI 15850), Red 7 Lake (CI 15850), Yellow 6 Lake (CI 15985)</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">This lipstick is highly pigmented. Wear over your favorite lip balm for a glossy look. Apply a layer and blot for a sheer matte effect. Apply multiple layers for bold lips.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lips</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Bisou</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickBisou-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Calme</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickCalme-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Edie</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickEdie-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>James</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickJames-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Lou</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickLou-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>No 11</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickNo11-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>No 21</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickNo21-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Soho</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickSoho-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Vivienne</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickVivienne-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1364955594842</id>
+      <title>Tranquille</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>YetBeaute-LipstickTranquille-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358794424410</id>
+    <published>2018-09-02T22:14:17-04:00</published>
+    <updated>2018-09-02T22:14:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ginkgo-micellar-water"/>
+    <title>Ginkgo Micellar Water</title>
+    <s:type>Makeup Remover</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Ginkgo_Micellar_Water.jpg?v=1535940446" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Makeup Remover<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A natural micellar water to gently remove face + eye makeup and cleanse skin. Featuring hydrating aloe vera and antioxidant-rich ginkgo biloba, it supports a balanced complexion and leaves skin feeling soft and smooth. An all-in-one that’s brilliant for your everyday beauty routine. Gentle and soothing for sensitive skin types. Non-drying, alcohol-free with 100% natural fragrance.</p>
+<p>• Vegan, Cruelty-free</p>
+<p>• 6.76 oz / 200 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Aloe Vera (Aloe Barbadensis) Leaf Juice Powder, ginkgo (ginkgo biloba) leaf extract, Glycerine, Caprylyl/Capryl Glucoside, citric acid, sodium benzoate, Potassium Sorbate.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup remover</s:tag>
+    <s:tag>makeup removers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358794424410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>ErePerez-GinkgoMicellarWater-SFA</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358783217754</id>
+    <published>2018-09-02T21:51:53-04:00</published>
+    <updated>2018-09-02T21:51:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bio-brightener-baked-powder"/>
+    <title>Bio Brightener Baked Powder</title>
+    <s:type>Highlighter</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bio_Baked_Brightener.jpg?v=1535937117" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Highlighter<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ultra-smooth baked powder is what dreams are made of. It provides invisible coverage with a matte radiance that blurs imperfections and minimizes pores. Brush it on for a soft, luminous, healthy glow that imparts a flawless, no-makeup makeup look. The feather light texture feels weightless on skin and blends effortlessly. Magnolia Bark and Squalane enliven and nourish the complexion for long term benefits.</p>
+<p>• Vegan, Gluten free, Cruelty-free</p>
+<p>• No Petrochemicals, Artificial Preservatives, GMO, Parabens, Dyes, Fragrance, Sulphates, Pthalates, Glycols, Nano Particles</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mica, Zea Mays Starch / Zea Mays (Corn) Starch*, Octyldodecanol, Pentylene Glycol, Hectorite, Squalane, Lauroyl Lysine, Plyglyceryl- 3 Diisostearate, Potassium Sorbate, Honokiol, Lactic Acid, Aqua/ Water. MAY CONTAIN +/-: CI 77891 / Titanium Dioxide, CI 77491 / Iron Oxides, CI 77492 / Iron Oxides, CI 77499 / Iron Oxides</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use W3LL PEOPLE Kabuki Brush. Swipe brush onto powder. Work powder evenly into brush by swirling it in makeup cap. Use confident, downward strokes moving from the outside in.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>luminizer</s:tag>
+    <s:tag>luminizers</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup highlighter</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358783217754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>W3LL-BioBrightBaked-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1358782267482</id>
+    <published>2018-09-02T21:51:41-04:00</published>
+    <updated>2018-09-02T21:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bio-baked-bronzer-powder"/>
+    <title>Bio Baked Bronzer Powder</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bio_Baked_Bronzer.jpg?v=1535937107" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ultra-smooth baked bronzer provides natural color with soft matte radiance. Wake up the complexion with a healthy glow. The modern, multi-dimensional finish imparts a hint of soft luminosity while balancing skin tone. Revolutionary baked powder formula adheres like a cream for long-lasting wear without oxidizing.</p>
+<p>• Vegan, Gluten free, Cruelty-free</p>
+<p>• No Petrochemicals, Artificial Preservatives, GMO, Parabens, Dyes, Fragrance, Sulphates, Pthalates, Glycols, Nano Particles</p>
+<p>• Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mica, Zea Mays Starch / Zea Mays (Corn) Starch*, Octyldodecanol, Pentylene Glycol, Hectorite, Squalane, Lauroyl Lysine, Plyglyceryl- 3 Diisostearate, Potassium Sorbate, Honokiol, Lactic Acid, Aqua/ Water MAY CONTAIN +/-: CI 77891 / Titanium Dioxide, CI 77491 / Iron Oxides, CI 77492 / Iron Oxides, CI 77499 / Iron Oxides</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use W3LL PEOPLE Kabuki Brush. Swipe brush onto powder. Work powder evenly into brush by swirling it in makeup cap. Apply below cheekbones and round up to temples in a “C” shape. Use alone or over foundation to balance skin tone and create a natural, healthy color with soft matte radiance.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>bronzer</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1358782267482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>W3LL-BioBakedBronzer-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1349779619930</id>
+    <published>2018-08-10T15:50:22-04:00</published>
+    <updated>2018-08-10T15:50:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pressed-powder-foundation"/>
+    <title>Pressed Powder Foundation</title>
+    <s:type>Foundation</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pressed_200.jpg?v=1533930589" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Foundation<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Best poreless formula for a flawless finish that combines the best natural ingredients available to cover sensitive or irritated skin.</p>
+<p>Made with natural &amp; organic ingredients with buildable Medium to Full Coverage.</p>
+<p><strong>Shades</strong></p>
+<p><strong>200</strong>: Cool Ivory with cool pink undertones for fair skin.</p>
+<p><strong>201</strong>: Cool beige pressed powder foundation with neutral undertones for medium skin tones.</p>
+<p><strong>202</strong>: Warm beige pressed powder foundation with pink undertones for medium skin tones.</p>
+<p><strong>203</strong>: Warm ivory pressed powder foundation with golden undertones for fair skin tones.</p>
+<p><strong>204</strong>: Rich brown pressed powder foundation with warm undertones for deep skin tones.</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Phenoxyethanol, Dimethicone, Talc, Propylene Glycol, Bismuth Oxychloride, Artificial Dyes, Synthetic Fragrances, Phthalates, Mineral Oil.</p>
+<p>• Cruelty free, Vegan, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mica (CI-77019), Silica (Amorphous), Boron Nitride, Buriti Oil, Zinc Stearate, Tocopherol (Vitamin E), Origanum Vulgare (Oregano) Leaf Extract, Thymus Vulgaris (Thyme) Extract, Cinnamomum Zeylanicum (Cinnamon) Bark Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Lavendula Angustifolia (Lavender) Flower Extract, Hydrastis Candensis (Goldenseal) Root Extract, Citrus Medica Limonum (Lemon) Peel Extract. May Contain: Titanium Dioxide (CI-77891), Zinc Oxides (CI-77947), Iron Oxides (CI-77499) (CI-77491) (CI-77492).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup foundation</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1349779619930</id>
+      <title>200 | Cool Ivory</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-PressedFoundation200-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1349779619930</id>
+      <title>201 | Cool Beige</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-PressedFoundation201-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1349779619930</id>
+      <title>202 | Warm Beige</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-PressedFoundation202-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1349779619930</id>
+      <title>203 | Warm Ivory</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-PressedFoundation203-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1349779619930</id>
+      <title>204 | Rich Brown</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-PressedFoundation204-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1331989479514</id>
+    <published>2018-07-09T21:38:25-04:00</published>
+    <updated>2018-07-09T21:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ono-ono-multi-benne-stain"/>
+    <title>Ono Ono - Multi-Benne Stain</title>
+    <s:type>Lip Stain</s:type>
+    <s:vendor>NOTO Botanics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Ono_Ono.jpg?v=1531185773" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOTO Botanics<br />
+        <strong>Type: </strong>Lip Stain<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LIPS + CHEEKS + EYES</strong></p>
+<p>Multi-use color that builds, nourishes + repairs. Now color is not only beautiful, but also food for the skin and senses.</p>
+<p><strong>COLOR</strong></p>
+<p><em>ONO ONO</em> - A burnt peachy orange</p>
+<p><strong>MULTI-USE</strong></p>
+<p>Apply anywhere desired for pop of natural flush.</p>
+<p>• Natural Ingredients, Cruelty-free</p>
+<p>• .25 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Candelilla Wax, Organic Coconut, Organic Jojoba Oil, Organic Shea Butter, Peppermint, Iron Oxide.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply anywhere desired for pop of natural flush.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blush</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lip stain</s:tag>
+    <s:tag>lip tint</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1331989479514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>NOTO-OnoMultBenStainJAR</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1331985481818</id>
+    <published>2018-07-09T21:38:14-04:00</published>
+    <updated>2018-07-09T21:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hydra-highlighter"/>
+    <title>Hydra Highlighter</title>
+    <s:type>Highlighter</s:type>
+    <s:vendor>NOTO Botanics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hydra_Highlighter.jpg?v=1531185764" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NOTO Botanics<br />
+        <strong>Type: </strong>Highlighter<br />
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FACE + BODY</strong></p>
+<p>For the famous NOTO Glow...</p>
+<p>Gloria Noto is coveted for her "no-makeup makeup look" that allows your beautiful skin to shine through. Discover the secret for yourself for a perfectly sheer, dewy glow that hydrates, highlights, and heals.</p>
+<p><strong>MULTI-USE</strong></p>
+<p>Scrape a bit out with your clean finger, then place the product on the back of hand to warm. Apply this product anywhere for a soft wash of shine and subtle shimmer. Perfect for temples, eyelids, cupids bow, collar bones, shoulders, and legs.</p>
+<p>• Natural Ingredients, Cruelty-free</p>
+<p>• .25 oz</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Olive Oil, Candelilla Wax, Organic Coconut, Organic Jojoba Oil, Organic Shea Butter, Lavender, Mica.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Scrape a bit out with your clean finger, then place the product on the back of hand to warm. Apply this product anywhere for a soft wash of shine and subtle shimmer. Perfect for temples, eyelids, cupids bow, collar bones, shoulders, and legs.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>highlighters</s:tag>
+    <s:tag>luminizer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1331985481818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>NOTO-HydraHighlighterJar</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1318160793690</id>
+    <published>2018-07-06T12:41:43-04:00</published>
+    <updated>2018-07-06T12:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pressed-eye-shadow"/>
+    <title>Pressed Eye Shadow</title>
+    <s:type>Eyeshadow</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eyeshadow_Chiffon.jpg?v=1529612960" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Eyeshadow<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pressed Eye Shadows made with natural + organic ingredients.</p>
+<p><strong>Shades</strong></p>
+<p><strong>Chiffon</strong>: Delicately classic matte beige eyeshadow that is always in style.</p>
+<p><strong>Chocolate Mousse</strong>: Sinfully rich deep chocolate eyeshadow with a matte finish.</p>
+<p><strong>Socialite</strong>: This metallic bronze is the fiercest shade…a stunning hue that will make you standout!</p>
+<p><strong>St. Tropez</strong>: Exotic sand eyeshadow with exquisite shimmer like sun reflecting on a brilliant gemstone.</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Artificial Dyes, BHA, Bismuth Oxychloride, Dimethicone, Mineral Oil, Phenoxyethanol, Phthalates, Propylene Glycol, Synthetic Fragrances, Talc, Triclosan.</p>
+<p>• Cruelty free, Vegan, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">mica (cl-77019), silica (amorphous), boron nitride, buriti oil, zinc stearate, palmitoyl oligopeptide, palmitoyl tetrapeptide-7, caffeine, origanum vulgare (oregano) leaf extract, thymus vulgaris (thyme) extract, cinnamomum zeylanicum (cinnamon) bark extract, rosmarinus officinalis (rosemary) leaf extract, lavendula angustifolia (lavender) flower extract, hydrastis canadensis (goldenseal) root extract, citrus medica limonum (lemon) peel extract, citrus grandis (grapefruit) seed extract. may contain: ultramarines (ci-77007), titanium dioxide (ci-77891), iron oxides (ci-77499), (ci-77491), (ci-77492).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eye makeup</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>eyeshadows</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318160793690</id>
+      <title>Chiffon</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>NuEv-EyeShadowChiffon-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318160793690</id>
+      <title>Chocolate Mousse</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>NuEv-EyeShadowChocoMousse-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318160793690</id>
+      <title>Socialite</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>NuEv-EyeShadowSocialite-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318160793690</id>
+      <title>St. Tropez</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>NuEv-EyeShadowStTropez-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1318157582426</id>
+    <published>2018-07-06T12:41:43-04:00</published>
+    <updated>2018-07-06T12:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bronzer-portofino"/>
+    <title>Bronzer - Portofino</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Bronzer.jpg?v=1529612942" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get that golden sun-kissed glow all year long with NU Evolution's natural pressed bronzer formula!</p>
+<p>Enhance your complexion with subtle hints of shimmer and a satiny smooth finish to create that youthful glow!</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Phenoxyethanol, Dimethicone, Talc, Propylene Glycol, Bismuth Oxychloride, Artificial Dyes, Synthetic Fragrances, Phthalates, Mineral Oil.</p>
+<p>• Cruelty free, Vegan, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Mica, Oryza Sativa (Rice) Powder, Boron Nitrite, Silica, Mauritia Flexuosa Fruit (Buriti) Oil, Zinc Stearate, Origanum Vulgare (Oregano) Leaf Extract*, Thymus Vulgaris (Thyme) Extract*, Cinnamomum Zeylancum (Cinnamon) Bark Extract*, Rosmarinus Officinalis (Rosemary) Leaf Extract*, Lavandula Angustifolia (Lavender) Flower Extract*, Hydrastis Canadensis (Goldenseal) Root Extract*, Citrus Medica Limonum (Lemon) Peel Extract*.</p>
+<p>May Contain: Titanium Dioxide, Yellow, Red or Black Oxide.</p>
+<p>*Certified Organic</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>bronzer</s:tag>
+    <s:tag>face bronzer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1318157582426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>NuEv-BronzerPortofino-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1317379276890</id>
+    <published>2018-07-06T12:41:43-04:00</published>
+    <updated>2018-07-06T12:41:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/camouflage-creme"/>
+    <title>Camouflage Creme</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>NU Evolution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Camo_Nude.jpg?v=1529612906" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NU Evolution<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NU Evolution's camouflage cream can be used as a concealer and doubles as a buildable medium to full coverage foundation that covers breakouts and discoloration. This cream foundation is jam-packed with nourishing ingredients that soothe, hydrate and heal the skin.</p>
+<p><strong>Shades</strong></p>
+<p><strong>Nude</strong>: For fair to light skin with neutral undertones.</p>
+<p><strong>Fresh</strong>: Fair to light skin coloring with cool or neutral undertones.</p>
+<p><strong>Flawless</strong>: A concealer for medium skin with warm golden undertones.</p>
+<p><strong>Natural</strong>: A concealer for medium skin with peachy pink undertones.</p>
+<p><strong>Disguise</strong>: Disguise Camouflage Cream is a color corrector, and, or a concealer depending on the skin tone. Best color corrector out there with repairing and hydrating ingredients.</p>
+<p>• Made <strong>WITHOUT</strong>: Parabens, Phenoxyethanol, Dimethicone, Talc, Propylene Glycol, Bismuth Oxychloride, Artificial Dyes, Synthetic Fragrances, Phthalates, Mineral Oil.</p>
+<p>• Cruelty free, Vegan, Gluten free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Ricinus Communis (Castor) Seed Oil*, Cocos Nucifera (Coconut) Oil*, Euphorbia Cerifera (Candelilla) Wax, Simmondsia Chinensis (Jojoba) Seed Oil*, Theobroma Cacao (Cocoa) Seed Butter*, Butyrospermum Parkii (Shea Butter) Fruit*.</p>
+<p>May Contain: Titanium Dioxide (CI-77891), Iron Oxides (CI-77491), (CI-77492), (CI-77499), Tocopherol, Rosmarinus Officinalis (Rosemary) Leaf Extract*.</p>
+<p>*Certified Organic</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>concealers</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Nude</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeNude-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Fresh</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeFresh-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Flawless</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeFlawless-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeNatural-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1317379276890</id>
+      <title>Disguise</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>NuEv-CamoCremeDisguise-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/3568531009</id>
+    <published>2018-02-28T15:41:37-05:00</published>
+    <updated>2018-02-28T15:41:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/organic-sesame-lip-liner"/>
+    <title>Sesame Lip Liner</title>
+    <s:type>Lip Liner</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sesame_Lip_Liner_Naughty.jpg?v=1519770811" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Lip Liner<br />
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A hero lip pencil to expertly outline and define your lips naturally. Can also fill in lips for a matte lipstick look. Featuring sesame oil to help protect + soften the skin around the lips, while delivering smooth contours and lines. A nourishing natural formula that compliments all skin tones.</p>
+<p>Easy application in a slimline pencil that blends and colors like a pro. Perfectly suits all Ere Perez lip products.</p>
+<p><strong>Naughty</strong> - Brown Rose</p>
+<p><strong>Shy</strong> - Nude</p>
+<p><strong>Sweet</strong> - Natural Pink</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">octyldodecyl stearoyl stearate, C10-18 triglycerides, hydrogenated vegetable (olus) oil, sweet almond (prunus amygdalus dulcis) oil, carnauba (copernicia cerifera) wax, vegetable (olus) oil, candelilla (euphorbia cerifera) wax, mica, sesame (sesamum indicum) oil, polyglyceryl-3 diisostearate, glyceryl caprylate, tocopheryl acetate (vitamin E), sorbic acid. May contain +/- iron oxides, CI 77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Starting with the top lip, trace the pencil around the outer skin of the lip. Repeat on the lower lip. Next, color your lips inside with the pencil line and then apply your favorite Ere Perez lip product. Define edges with Ere Perez's eco vegan lip &amp; conceal brush.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>lip liner</s:tag>
+    <s:tag>lip liners</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568531009</id>
+      <title>Naughty</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-SesameLipLinerNAUGHTY</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568531009</id>
+      <title>Shy</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-SesameLipLinerShy-SFA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/3568531009</id>
+      <title>Sweet</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>ErePerez-SesameLipLinerSweet-SFA</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451579936799</id>
+    <published>2018-02-28T14:05:39-05:00</published>
+    <updated>2018-02-28T14:05:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/chamomile-eye-palette"/>
+    <title>Chamomile Eye Palette</title>
+    <s:type>Eyeshadow</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_EP_Beautiful.jpg?v=1519770708" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Eyeshadow<br />
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyeshadow palette featuring 6 shades of natural color for day and night. Made with chamomile, traditionally known for its calming + soothing properties, ideal for sensitive eyes. Best applied with Ere Perez's must-have eco vegan eye brushes. Your eyes are important, give them the natural best!</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">native rice (oryza sativa) starch, mica, calcium silicate, zinc stearate, caprylic/capric/ lauric triglyceride, triheptanoin, chamomile (matricaria recutita) oil, carnauba (copernicia cerifera) wax, tocopheryl acetate (vitamin E), potassium sorbate. May contain: +/- iron oxides, CI77891, CI77019.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply foundation or concealer to the eyelid as part of your normal makeup routine. Use the eco vegan smudge &amp; shade eye brush to apply color from the eye palette. Pick a neutral tone, apply the lighter color with the shade end of the brush all over the skin of the eye socket. This will give you a great base to apply color. Next, apply a darker shade or a bolder colorful shade to complete your look. Use the darker tone with the flat, short smudge end of the brush. Apply color close to the lashes and upwards towards the crease. Now, blend the line between shades using the eco vegan line &amp; blend eye brush. Use the blend end of the brush to apply a layer of shimmer or to blend in existing eye makeup, erasing any visible lines. With the line end, apply a dark line close to the lashes of your darkest preferred shade – for a night look. Once your eyeshadow is in place, complete the look with a natural mascara and/or eye pencil.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eye makeup</s:tag>
+    <s:tag>all eyes</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>eye shadow</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451579936799</id>
+      <title>Beautiful</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-ChamPaletteBeautiful-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451579936799</id>
+      <title>Gorgeous</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-ChamPaletteGorgeous-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451579936799</id>
+      <title>Pretty</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-ChamPalettePretty-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451579936799</id>
+      <title>Lovely</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-ChamPaletteLovely-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451577970719</id>
+    <published>2018-02-28T13:54:14-05:00</published>
+    <updated>2018-02-28T13:54:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/almond-mascara-dark-brown"/>
+    <title>Almond Mascara (Dark Brown)</title>
+    <s:type>Mascara</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Brown_Mascara.jpg?v=1536768607" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Mascara<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ultimate brown natural mascara with conditioning almond &amp; sunflower oils considered to lengthen + strengthen lashes. Smudge-proof and water-resistant, its rich brown color compliments fair skins and hair.</p>
+<p>Designed as a nourishing formula that is especially kind to sensitive eyes, it is the perfect mascara for day wear, all seasons and occasions. Made with the highest quality ingredients it’s everything you’d want in a mascara (and then some).</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">beeswax (cera alba), carnauba (copernicia cerifera) wax, soybean (gyicine soja) seed oil, palm kernel (elaeis guineensis) wax, isoamyl laurate, calcium stearate, sun flower (helianthus annuus) oil, isopropyl palmitate, mamey (pouteria sapota) oil, avocado (persea gratissima) oil, sweet almond (prunus amygdalus dulcis) oil, palmitic acid, tocopheryl acetate (vitamin E), orange (citrus aurantium dulcis) oil, lemon (citrus medica limonum) oil, bergamot (citrus bergamia) oil, iron oxides.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply mascara as the last step in your makeup routine. Dip wand into container, wipe excess mascara on the rim and apply in upward strokes to the underside of your lashes. Apply several layers on top lashes to build color, and a single layer to bottom lashes.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eye makeup</s:tag>
+    <s:tag>eye makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>mascara</s:tag>
+    <s:tag>mascaras</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451577970719</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>ErePerez-AlmondMascaraBrown-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451573153823</id>
+    <published>2018-02-28T13:47:29-05:00</published>
+    <updated>2018-02-28T13:47:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/rice-powder-blush-bronzer-roma"/>
+    <title>Rice Powder Blush &amp; Bronzer (Roma)</title>
+    <s:type>Blush</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Roma.jpg?v=1519770459" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Blush<br />
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pressed rice powder blush &amp; bronzer for everyone! Made with non-GMO rice for a silky texture that blends beautifully on clean skin or over foundation. Universal duo shades that suits all complexions, adding healthy natural color to your face. Works great as a multitasking powder to apply as a contour, eyeshadow, lip color and all over the face to even skin tone. Its breathable formula doesn’t clog pores and even helps to absorb impurities.</p>
+<p>One of Ere Perez's most-loved products, packaged in a sleek compact. Best applied with their eco vegan blush &amp; bronze brush.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">mica, native rice (oryza sativa) starch, octyldodecyl stearoyl stearate, zinc stearate, boron nitride, isostearyl neopentanoate, native corn (zea mays) starch, sunflower (helianthus annuus) seed oil, rosemary (rosmarinus officinalis) leaf extract, phenylpropanol, caprylyl glycol, decylene glycol, silica, tin oxide. May contain + /- iron oxides, CI 77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ere Perez's natural powders can be worn on a clean face or over foundation. To apply, take the Ere Perez eco vegan blush &amp; bronzer brush and swish over both sides of the color palette. This will give a perfect blend of natural color. Shake off excess powder before applying to the cheeks. Next, add the colored powder to other areas such as the eyelids, forehead, chin. Use careful application here for a subtle look. These powders are made to be layered – you may like one application or more, depending on your desired look.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>blush + bronzer</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup blush</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451573153823</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-BlushBronzerRoma-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451570237471</id>
+    <published>2018-02-28T13:38:19-05:00</published>
+    <updated>2018-02-28T13:38:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/rice-powder-bronzer-tulum"/>
+    <title>Rice Powder Bronzer (Tulum)</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Tulum.jpg?v=1519770405" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Pressed Powder Bronzer is made with rice to produce the best natural color + healthy glow. A super-fine, smooth texture that adheres to the face and allows the skin to breathe that can be layered and worn on a fresh face or over foundation. Completes your look in the day and glistens at night, this bronzer gives you healthy-looking skin all year round.</p>
+<p>A versatile color duo that suits many makeup styles and complexions – everybody needs this bronzer. Apply with Ere Perez's eco vegan blush &amp; bronze brush.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">mica, native rice (oryza sativa) starch, octyldodecyl stearoyl stearate, zinc stearate, boron nitride, isostearyl neopentanoate, native corn (zea mays) starch, sunflower (helianthus annuus) seed oil, rosemary (rosmarinus officinalis) leaf extract, phenylpropanol, caprylyl glycol, decylene glycol, silica, tin oxide. May contain + /- iron oxides, CI 77891, CI 15850.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ere Perez's natural powders can be worn on a clean face or over foundation. To apply, take the Ere Perez eco vegan blush &amp; bronzer brush and swish over both sides of the color palette. This will give a perfect blend of natural color. Shake off excess powder before applying to the cheeks. Next, add the colored powder to other areas such as the eyelids, forehead, chin. Use careful application here for a subtle look. These powders are made to be layered – you may like one application or more, depending on your desired look.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>blush + bronzer</s:tag>
+    <s:tag>bronzer</s:tag>
+    <s:tag>bronzers</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup bronzer</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451570237471</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>ErePerez-BronzerTulum-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/451554017311</id>
+    <published>2018-02-28T13:24:10-05:00</published>
+    <updated>2018-02-28T13:24:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/oat-milk-foundation"/>
+    <title>Oat Milk Foundation</title>
+    <s:type>Liquid Foundation</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Latte.jpg?v=1519770380" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Liquid Foundation<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Better than ever cream foundation: non-greasy, natural finish and long-lasting formula. Unique, hydrating formula with star ingredients Oat milk, Peach &amp; Vitamin E to promote healthy skin. Buildable foundation that offers medium to full coverage, use sparingly or layer up, your skin will still be able to breathe.</p>
+<p>It won’t clog your pores and suits sensitive skin types. Moisturize before applying and use Ere Perez's eco vegan multipurpose brush to create a flawless finish.</p>
+<p><strong>Latte</strong> - For light porcelain skins</p>
+<p><strong>Honey</strong> - For light skin</p>
+<p><strong>Chai</strong> - For light to medium skin tones</p>
+<p><strong>Caramel</strong> - For golden warm skin</p>
+<p><strong>Brew</strong> - For medium to deeper skin tones</p>
+<p><strong>Mocha</strong> - For deeper skin tones</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">aqua (water), coco-caprylate/caprate, glycerin, polyglyceryl-6 polyricinolate, oat (avena sativa) kernel extract, peach (prunus persica) fruit extract, tocopherol (vitamin e), biosaccharide gum-1, sodium anisate, sodium levulinate, tocopheryl acetate, magnesium sulfate, sodium salicylate, ethylhexylglycerin, citric acid, glyceryl caprylate, aluminum starch octenylsuccinate. May contain +/- iron oxides, CI77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Put a little amount of product into your hand. For best finish, apply at the center of the face and stretch it outwards. Dot the product onto face with our eco vegan multipurpose brush on cheeks, forehead, chin and along the nose. Blend in with circle movements for an even coverage over the whole face.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>liquid foundation</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Latte</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkLatte-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Honey</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkHoney-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Chai</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkChai-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Caramel</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkCaramel-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Brew</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkBrew-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/451554017311</id>
+      <title>Mocha</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>ErePerez-OatMilkMocha-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/450810773535</id>
+    <published>2018-02-25T21:20:56-05:00</published>
+    <updated>2018-02-25T21:20:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-crayon"/>
+    <title>Lip Crayon</title>
+    <s:type>lip crayon</s:type>
+    <s:vendor>Axiology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Valor.jpg?v=1519610970" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axiology<br />
+        <strong>Type: </strong>lip crayon<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Axiology’s lip crayon formula is crafted with deeply replenishing ingredients that keep lips hydrated, all day long. These heavy pigmented shades sweep the lips in a luxurious matte finish—and never lose their luster. With a buttery-soft texture and all-natural + organic ingredients, this lip crayon line is made for the sophisticated and kind lipstick connoisseur.</p>
+<p>• 100% Natural, 100% Vegan, Cruelty free</p>
+<p>• Paraben free, Sulfate free, Gluten free, Palm Oil free</p>
+<p><em><strong>Shades</strong></em></p>
+<p><strong>Valor</strong> - Grounded in a velvety splash of marsala, Valor is impeccable for a sexy air of mystery—or a raucous flare of vivacity. No matter which secrets get spilled, this long-lasting shade keeps lips buttery and soft until the sun glows on the horizon.</p>
+<p><strong>Serene</strong> - Serene’s down-tempo fusion of burnished rosewood and brown sugar delicately glazes the lips. Perfect for roof-top lounging or board-room ruling, pair Serene with bold eye-shadow or a cat-eye swoop for a seductive effect.</p>
+<p><strong>Keen</strong> - Quirky and bold, Keen spins a spell of charisma on your smile. With a baseline color of caramelized grapefruit and the highlight of translucent watermelon, Keen’s sure to turn the heads of tastemakers, every time.</p>
+<p><strong>Enchant</strong> - Like blustery cliffs of wild heather, Enchant’s boysenberry stain alights your lips in finespun color. The base of cool mauve with a tilt of silver keeps your pout supple and shimmering—whether worn for snow-lit walks or festival romps.</p>
+<p><strong>Intrigue</strong> - For days when you need a deep + demure hue, Intrigue is perfectly suited. With a base of toasted cinnamon balanced by muted rose, this versatile shade will follow you from asana mornings through to dinner party evenings. No matter where you go, your look will be cultivated and you lips will stay silky.</p>
+<p><strong>Bliss</strong> - Subtle in its sensuality, Bliss is a dainty salmon pink braided with a shimmering arc of gold. Don’t be mistaken by Bliss’s pale luster: this hue is ride or die, lasting through the star-studded night to Sunday brunch...should you so desire.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Shea Butter*, Candelilla Wax*, Castor Oil, Organic Avocado Oil, Organic Avocado Butter, Organic Moringa Oil, Vitamin E Oil, Elderberry Extract, Neem Oil, Sweet Orange Essential Oil May Contain: Iron Oxide, Titanium Dioxide, Manganese Violet, Mica</p>
+<p>*Denotes Wild Harvested</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>lip crayon</s:tag>
+    <s:tag>lip liner</s:tag>
+    <s:tag>lip liners</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Valor | Deep Rustic Red</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-ValorLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Serene | Brown Lilac</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-SereneLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Keen | Coral Pop</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-KeenLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Enchant | Plum Purple</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-EnchantLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Intrigue | Brown</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-IntrigueLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450810773535</id>
+      <title>Bliss | Golden Pink</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>Axiology-BlissLipCrayon-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/450804711455</id>
+    <published>2018-02-25T21:09:10-05:00</published>
+    <updated>2018-02-25T21:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lipstick"/>
+    <title>Lipstick</title>
+    <s:type>Lipstick</s:type>
+    <s:vendor>Axiology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_True.jpg?v=1519610770" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Axiology<br />
+        <strong>Type: </strong>Lipstick<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Axiology’s deeply nourishing formula is comprised of all-natural ingredients that keep lips soft &amp; kissable—for hours on end. The comfortable, long-lasting pigments maintain their rich color while providing continuous moisture. With a silky-smooth finish and safe, delicious elements, their lip line is made for the conscious and kind lipstick devotee.</p>
+<p>• 100% Natural, 100% Vegan, Cruelty free</p>
+<p>• Paraben free, Sulfate free, Gluten free, Palm Oil free</p>
+<p><em><strong>Shades</strong></em></p>
+<p><strong>True</strong> - True is enduring romance; a rare jewel of plant-derived red. This succulent shade is a manifesto to possibility; the hue you slip on to write love letters and bucket lists. Like a wild sunrise, the deep base of vermillion crowns your pout and finishes with a canyon-coral touch.</p>
+<p><strong>Worth</strong> - Sometimes you need a fiery pout to suit your flirtatious smirk. Worth is a bittersweet red with undertones of warm tangerine that glides on with a creme-matte finish. No matter what your skin tone, Worth produces a sizzling effect that compliments both dazzling evening looks and carefree, daytime casuals.</p>
+<p><strong>Noble</strong> - A succulent, hybrid peach-pink coral tone that keeps lips looking glossy and fresh. Supremely wearable for a first date or an interview, this color highlights your smile in a classy, honeyed glow.</p>
+<p><strong>Attitude</strong> - Perfect for Spring and Summer, Attitude glides on as a hot, hibiscus-pink pop with a blush of blue undertones. Popular among both world-travelers and urbanites, this color evokes lustrous Indian saris and bright neon billboards—and will keep your lips loaded with moisture.</p>
+<p><strong>Fundamental</strong> - Has an earthy russet base with a hint of rose-gold finish. Punchy by day and a sexy choice for night; this creamy hue will boldly frame the words you speak—no matter when you’re wearing it.</p>
+<p><strong>Elusive</strong> - Keep them guessing with a burgundy-drenched tone that satiates your desire for stand-out color. Elusive pours onto your pout like a fine wine splash, matching an elegant ensemble or dressed-down jeans and a crisp t-shirt. Cream-based and demure, this color will enhance even the most sensual of secret rendezvous.</p>
+<p><strong>The Goodness</strong> - Dances on the lips in a playful, sea-shell shimmer that stays all day. The blush-pink base has a creamy finish highlighted with an added dimension of silvery sheen. Suitable for meeting your partner’s parents or ocean frolicking, this shade will keep your smile shining sweetly.</p>
+<p><strong>BAD</strong> - Dramatic and daring, this runway-ready hue pins to the lip in burnt chestnut with a copper tinge. We crafted this color with a nod to the fierce supermodels of the 90’s who first donned it—and to the mavericks like Lana Del Rey and Katy Perry who are bringing it back. BAD is best worn after the sun goes down.</p>
+<p><strong>Dimension</strong> - An earthy Fall and Winter shade, Dimension is a burnished brown sheer balm with a light shimmer finish. Ideal for everyday or special events, it’s rich and dynamic hue nourishes lips long after application. Pair it well with a blushed cheek and strong eyebrow.</p>
+<p><strong>Infinite</strong> - Flirt without words wearing Infinite’s rich mulberry stain. The intense dark violet base is cheered with subtle layers of black and brown, making it the perfect hue for complexions of all shades. Worn with a cool suit, it pulls an outfit together with precision—donned with a cocktail dress, it exudes passion and confidence.</p>
+<p><strong>Desire</strong> - With a base of royal purple shot through a lilac sheen, Desire is a dreamy shade fit for a bohemian queen. Great for fun weekend wear or a naughty evening of memorable trouble, this naturally glossy color brings out your cool, Coachella vibe.</p>
+<p><strong>Phenomenon</strong> - Deep cobalt like a midnight lagoon, Phenomenon wows with avant-garde style and sci-fi sass. This sheer balm with blue and black hues will rock your bold, brave lips—whether you wear it everyday, or save it for a blue moon.</p>
+<p><strong>Devotion</strong> - With a copper burnt-sugar base and an echo of rose quartz, Devotion is the girl-crush of natural-look lovers. Its buttery luster keeps lips flawlessly moisturized and supple. Pair Devotion with powerful eye-makeup for maximum effect, or apply every day for a nearly-bare look.</p>
+<p><strong>Intrinsic</strong> - Sheer, subtle, and shimmering-balm, this shade will make your lips look like a wind-swept beach at golden hour. Intrinsic is ultra-moisturizing with a high-gloss sheen, best paired with a dramatic eye for ultimate flair.</p>
+<p><strong>Theory</strong> - With a light brown base and a whisper of rose, Theory colors your lips with a matte finish. The versatility of the day-into-night hue is complemented by it’s long-lasting moisturizing properties, and works especially well with a sun-kissed complexion.</p>
+<p><strong>Virtue</strong> - A luminous, sheer spark of golden orange that’s great for balmy summer nights. With a glimmer of red, this lipstick possesses a quiet, fiery glow that’s sure to light up the room.</p>
+<p><strong>Philosophy</strong> - For both bold romantics and wall-flowers, Philosophy’s ultra-smooth pink blends with a twist of salmon—bringing to life even the shyest of lips. Like a pair of well-loved ballet slippers, this shade is soft, silky, and just-a-touch sweet.</p>
+<p><strong>Identity</strong> - Inspired by the rush of peony season, Identity is a glittering cool pink with a lavender lean. This dreamy hue is perfect for a look that needs a subtle touch of off-beat color—while staying classic and collected.</p>
+<p><strong>Vibration</strong> - A scarlet wash with a glint of pink, Vibration is a sunset glow on a desert rose. The matte-cream base loads your pout with moisture, keeping it punch-drunk in color. Vibration is best worn while road-tripping into the horizon, or blazing top-down through lit cityscapes.</p>
+<p><strong>Enlighten</strong> - Daydream up a storm in Enlighten’s mesmerizing gloss. Enlighten rolls on the lips as an amethyst glaze, lifted by a silver-glitter finish. Like a rain-soaked field of wild lilacs, this color keeps your pout perfectly drenched in nourishing moisture.</p>
+<p><strong>Instinct</strong> - Stripped of all pretensions, Instinct is an understated nude with a sandcastle glitter. Flaxen like a metallic meadow, Instinct’s shy sparkle stays mysterious and gifts your lips with lasting moisture. This versatile hue works well day or night, no matter where your fanciful spirit takes you.</p>
+<p><strong>Existential</strong> - Deep, dynamic, and dark: meet the siren-song of shades. Existential glides on with a matte obsidian tone and holds on tight to your pout while keeping it silky-soft. Whether you’re going full-on glam, gothic, or rock and roll, you can be sure your mouth will maintain the color of a black pearl, all night long.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Candelilla Wax, Organic Avocado Oil, Organic Castor Oil, Organic Avocado Butter, Organic Grape Seed Oil, Organic Coconut Oil, Vitamin E Oil, Elderberry Extract, Sweet Orange Oil, Neem Seed Oil; May Contain: Iron Oxide, Mica, Titanium Dioxide, Manganese Violet.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all lips</s:tag>
+    <s:tag>lip makeup</s:tag>
+    <s:tag>lipstick</s:tag>
+    <s:tag>lipsticks</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>True | True Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-TrueLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Worth | Orange Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-WorthLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Noble | Peachy Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-NobleLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Attitude | Hot Hibiscus Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-AttitudeLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Fundamental | Rose Gold</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-FundamentalLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Elusive | Burgundy Red</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-ElusiveLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>The Goodness | Pale Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-GoodnessLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>BAD | Deep Brown</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-BADLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Dimension | Brown Sparkle</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DimensionLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Infinite | Mulberry Stain</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-InfiniteLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Desire | Royal Purple</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DesireLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Phenomenon | Blue Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-PhenomenonLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Devotion | Nude Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-DevotionLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Intrinsic | Golden Clear</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-IntrinsicLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Theory | Light Brown</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-TheoryLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Virtue | Golden Orange</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-VirtueLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Philosophy | Salmon Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-PhilosophyLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Identity | Soft Pink</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-IdentityLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Vibration | Pink/Red Pop</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-VibrationLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Enlighten | Lilac Glitter</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-EnlightenLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Instinct | Nude</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-InstinctLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/450804711455</id>
+      <title>Existential | Matte Black</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>Axiology-ExistentialLipstick-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/449088520223</id>
+    <published>2018-02-25T13:19:42-05:00</published>
+    <updated>2018-02-25T13:19:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ambar-daily-antioxidant-primer"/>
+    <title>AMBAR Daily Antioxidant Primer</title>
+    <s:type>primer</s:type>
+    <s:vendor>Ambar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Antioxidant_Primer.jpg?v=1519582758" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambar<br />
+        <strong>Type: </strong>primer<br />
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A powerful daily protectant against pollution, UV light, and free radicals.</p>
+<p>Lightweight moisture sinks in instantly with synthetic antioxidants boasting numerous times the power of Vitamins C &amp; E against a broad spectrum of free radical species, plus greater stability.</p>
+<p>Bamboo extract and murumuru butter act like natural silicone and Tonka Bean bio ferment helps disperse light for a soft focus glow.</p>
+<p>• .98 oz / 29 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water/Aqua, Lactobacillus/Arundinaria Gigantea (Bamboo) Leaf Ferment Filtrate, Astrocaryum Murumuru Seed Butter*, Lactobacillus/Dipteryx Odorata Seed (Tonka Bean) Ferment Filtrate, Leuconostoc/Radish Root Ferment Filtrate, Mauritia Flexuosa Fruit Oil*, Dipalmitoyl Hydroxyproline, Coconut Acid, Salvia Hispanica Seed Extract, Dehydroxanthan Gum, Tamarindus Indica (Tamarind) Seed Extract, Sorbitan Laurate, Polyglyceryl-4 Laurate, Dilauryl Citrate, Dimethylmethoxy Chromanol, Citrus Bergamia (Bergamot) FCF Oil, Cymbopogon Martini (Palmarosa) Oil*, Kaempferia Galanga CO2 Extract*</p>
+<p>* Organic/Wildcrafted</p>
+<p>100% non-toxic, safe and gentle ingredients</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Apply sparingly to clean skin. Multi-functional as a primer, light moisturizer, sun protection booster, post-sun remedy and powerful anti-aging agent. Can also be used as a daily hydrating eye treatment.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup primer</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>primer</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/449088520223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>AMBAR-AntioxPrimer-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10287911105</id>
+    <published>2017-10-10T16:35:10-04:00</published>
+    <updated>2017-10-10T16:35:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/carrot-color-pot"/>
+    <title>Carrot Color Pot</title>
+    <s:type>Cheek &amp; Lip Tint</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Healthy.jpg?v=1507667678" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Cheek &amp; Lip Tint<br />
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This multitasking balm adds instant color to the cheeks without the use of any animal derivatives - making it the perfect vegan cheek &amp; lip balm. It also features an array of skin-healthy ingredients such as carrots and is chock-full of antioxidants, helping to keep skin soft + hydrated.</p>
+<p>A small pot of goodness that fits in your pocket with a practical mirror lid for touch ups so you can lift your look anytime, anywhere.</p>
+<p>• .22 oz / 6.5 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">hydrogenated olive (olea europea) oil, candelilla (euphorbia cerifera) wax, ozokerite, caprylic/capric triglyceride, avocado (persea gratissima) oil, carrot (daucus carota sativa) oil, tocopheryl acetate (vitamin E). May contain +/– Iron oxides, CI77019, CI77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply balm with Ere Perez's eco vegan multipurpose brush directly to the cheeks in round movements, blending as little or as much as you like. Repeat for deeper color. For lips, apply with the eco vegan concealer &amp; lip brush over top and bottom lip and rub lips together.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all lips</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>cheek tint</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>lip tint</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10287911105</id>
+      <title>Healthy (Creamy Caramel)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ErePerez-CarrotPotHealthy</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10287911105</id>
+      <title>Harmony (Dusty Pink)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ErePerez-CarrotPotHarmony</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10287911105</id>
+      <title>Holy (Rich Grape)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ErePerez-CarrotPotHoly</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10287911105</id>
+      <title>Hello (Poppy Flower)</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku>ErePerez-CarrotPotHello</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10287979457</id>
+    <published>2017-10-10T16:32:09-04:00</published>
+    <updated>2017-10-10T16:32:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/blush-bronze-brush"/>
+    <title>Blush &amp; Bronze Brush</title>
+    <s:type>Makeup Brush</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Blush_Bronze_Brush.jpg?v=1507667499" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Makeup Brush<br />
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A simple &amp; beautiful powder brush used to add color to your cheeks. The Eco Vegan Blush &amp; Bronze brush is designed for application of Ere Perez's rice powder blush &amp; bronzer products.</p>
+<p><strong>Made With Quality Materials That Last</strong>: Full round vegan bristles that feel soft on the skin and a sleek biodegradable corn resin handle. Designed to evenly distribute powder over the skin for a natural look that can be amplified with multiple layers. Take this brush with you everywhere and add a dash of color throughout the day!</p>
+<p>• Vegan Bristles</p>
+<p>• Never tested on animals</p>
+<p>• Biodegradable Corn Resin Handle</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all tools + accessories</s:tag>
+    <s:tag>brushes + applicators</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup brush</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10287979457</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-BlushBronzeBrush-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/10213512577</id>
+    <published>2017-09-25T22:01:25-04:00</published>
+    <updated>2017-09-25T22:01:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/nudist-multi-use-duo"/>
+    <title>Nudist Multi-Use Duo</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>W3ll People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Multi_Use_Duo.jpg?v=1506391270" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>W3ll People<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This magic, multi-tasking vegan cosmetic adds gorgeous sheer, natural color to cheeks, lips, and eyes. Rich in skin-soothing organic aloe + antioxidants to hydrate and improve overall skin quality. The creamy formula has a satiny smooth, weightless texture – free from all harsh, artificial chemicals and petroleum.</p>
+<p>Enjoy premium, high-performance organic botanicals that provide weightless all-day wear with no creasing.</p>
+<p>• Blush, eyeshadow and lip stain all-in-one</p>
+<p>• Flattering nude shades for all ages and skin tones</p>
+<p>• Quick &amp; easy application; blends beautifully with fingertips</p>
+<p>• Vegan, Hypoallergenic, Cruelty Free &amp; Noncomedogenic</p>
+<p>• EWG Verified for non-toxic health and safety</p>
+<p><strong>Free From</strong>: Parabens, Gluten, GMOs, Phthalates, Sulfates, Fragrance, Pheonoxyethanol, Dimethicone, PEG, Propylene Glycol, Butylene Glycol, Lead, Mineral Oil, Talc.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Helianthus Annus (Sunflower) Seed Oil*, Ricinus Communis (Castor) Seed Oil*, Candelilla (Euphorbia Cerifera) Wax, Copernica Cerifera (Carnauba) Wax*, Theobroma Cacao (Cocoa) Seed Butter*, Helianthus Annuus (Sunflower) Seed Wax, Shorea Robusta Resin, Rhus Verniciflua Peel Wax, Persea Gratissima (Avocado) Oil, Butyrospermum Parkii (Shea Butter) Fruit*, Silica, Sesamum Indicum (Sesame) Seed Oil*, Olea Europaea (Olive) Fruit Oil*, Zea Mays (Corn) Starch*, Camellia Sinensis (Green Tea) Leaf*, Matricaria Chamomilla (Chamomile) Flowers*, Aloe Barbadensis (Aloe Vera) Leaf*, Tocopherol, Phenethyl Alcohol, Ethyhexylglycerin, +/- Mica, Titanium Dioxide, Iron Oxide, Red 7</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Warm and blend product onto eyes, cheeks, or lips using fingertips, or W3LL PEOPLE Foundation Brush</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all eyes</s:tag>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all lips</s:tag>
+    <s:tag>all makeup</s:tag>
+    <s:tag>blush</s:tag>
+    <s:tag>eyeshadow</s:tag>
+    <s:tag>eyeshadows</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>lip stain</s:tag>
+    <s:tag>lip stains</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/10213512577</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>W3LL-NudistMultiUseDuo</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9999911873</id>
+    <published>2017-08-07T14:11:44-04:00</published>
+    <updated>2017-08-07T14:11:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/arnica-concealer-1"/>
+    <title>Arnica Concealer</title>
+    <s:type>Concealer</s:type>
+    <s:vendor>Ere Perez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Concealer_Latte.jpg?v=1502129454" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ere Perez<br />
+        <strong>Type: </strong>Concealer<br />
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ere Perez has worked hard to create the best cream concealer that covers over dark circles and blemishes – big, small, red or nasty. Did you know what you put over your little spot can actually make it worse? Not this everyday concealer with natural arnica, considered to be antiseptic and anti-inflammatory. It covers up while calming the inflamed area. It also covers pigmentation and inconsistencies in skin tone. Full coverage, even you’ll forget what’s hiding underneath.</p>
+<p><strong>Latte</strong> - This lightest shade is best suited for very fair complexions and porcelain skin, naturally pink cheeks and freckles.</p>
+<p><strong>Honey</strong> - This light shade is best suited to fair skin with gentle yellow undertones.</p>
+<p><strong>Chai</strong> - This versatile shade is for light to medium skin.</p>
+<p><strong>Caramel</strong> - Best shade for warmer skin tones that tan golden in the sun. A medium option suitable for olive skin.</p>
+<p><strong>Brew</strong> - Like the name suggests, this shade suits skin with a lot of natural warmth and color. Perfect for medium to darker complexions.</p>
+<p><strong>Mocha</strong> - This shade suits deep skins – for medium to dark complexions.</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 5 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">diisopropyl sebacate, mica, candelilla (euphorbia cerifera) wax, carnauba (copernicia cerifera) wax, cocoa (theobroma cacao) seed butter, c12-15 alkyl benzoate, sunflower (helianthus annuus) seed oil, arnica (arnica montana) flower extract, tocopherol (vitamin E), stearalkonium hectorite, ascorbyl palmitate, tocopheryl acetate, propylene carbonate. May contain +/- iron oxides, ci77891.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use Ere Perez's eco vegan concealer and lip brush for best cover up results. Apply in smooth lines under the eyes and on trouble areas or visible blemishes or skin variation. Blend lightly around the edges of applied concealer.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>arnica</s:tag>
+    <s:tag>cocoa butter</s:tag>
+    <s:tag>concealer</s:tag>
+    <s:tag>concealer + corrector</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Latte</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcLatte</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Honey</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcHoney</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Chai</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcChai</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Caramel</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcCaramel</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Brew</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcBrew</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9999911873</id>
+      <title>Mocha</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>ErePerez-ArnicaConcMocha</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

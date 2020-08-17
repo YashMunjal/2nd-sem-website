@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="css/lighttheme.css">
+  <title>MyAI.com</title>
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </head>
+
+  <body id="bo">
+  <div id="loading" style="position:fixed;top:0;height:100vh;width:100vw;z-index:99999;display:none;margin:0;padding:0;background:#333;text-align:center;">
+  <div style="position:fixed; top: 50vh; left:50vw; transform: translate(-50%,-50%)">
+      <div class="bar bar1"></div>
+      <div class="bar bar2"></div>
+      <div class="bar bar3"></div>
+      <div class="bar bar4"></div>
+      <div class="bar bar5"></div>
+      <div class="bar bar6"></div>
+      <div class="bar bar7"></div>
+      <div class="bar bar8"></div>
+    <div><p id="bar" style="font-family: 'Lora', serif;" >LOADING</p></div>
+  </div>
+  </div>
+  
+    <div style="background-color:white; margin-right: 60px; margin-left:60px; margin-top:-24px;">
+
+    <!-- Navigation -->
+     <nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top" id="dark1" >
+      <div class="container" id="dark2">
+         <a class="navbar-brand" href="index.html">MyAI.com</a>
+         <div id="dark4" class="navbar-brand search-box">
+          <input id="search1" type="text" class="search-txt" placeholder="Type here to search" />
+          <a id="btn1" class="search-btn" href="#"  target="_blank" style="text-decoration:none"><i class="fas fa-search"></i></a>
+        </div>
+        
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+   <span class="navbar-toggler-icon"></span></button>
+        
+         
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+        <a class="nav-link" href="#" onClick="redir('about')" id="1">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#" onClick="redir('contact')" id="2">Contact</a>
+            </li>
+            <li class="nav-item ">
+              <a class="nav-link " href="#" id="navbarDropdownBlog" data-toggle="dropdown">
+                Other Pages
+              </a>
+            </li>
+        <li class="nav-item">
+        <div id="dark5" style="margin-top:10px;margin-left:4px;margin-right:35px;display:flex;font-family:sans-serif;">
+        <label>
+          <input id="dark" type="checkbox" checked="checked">
+          <span class="check"></span> 
+          <span class="text on">OFF</span>
+          <span class="text off">ON</span>
+        </label>
+        </div>
+      </li>
+      <li class="nav-item dropdown" style="margin-left:1vw">
+              <a class="nav-link" id="secret" >Logout</a>
+      </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Pwage Content -->
+    <div class="container">
+
+      <!-- Page Heading/Breadcrumbs -->
+      <h1 class="mt-5 mb-3">Pricing
+        <small></small>
+      </h1>
+
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="index.html">Home</a>
+        </li>
+        <li class="breadcrumb-item active">Pricing</li>
+      </ol>
+
+      <!-- Content Row -->
+      <div class="row">
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h3 class="card-header">Basic</h3>
+            <div class="card-body">
+              <div class="display-4">$19.99</div>
+              <div class="font-italic">per month</div>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Machine Learning Modules</li>
+              <li class="list-group-item">Royality free license</li>
+              <li class="list-group-item">24x7 Customer support</li>
+			  <li class="list-group-item">
+                <a href="#" class="btn btn-primary">Buy Now!</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card card-outline-primary h-100">
+            <h3 class="card-header" id="card2">Plus</h3>
+            <div class="card-body">
+              <div class="display-4">$39.99</div>
+              <div class="font-italic">per month</div>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Basic package + Deep learning modules</li>
+              <li class="list-group-item">Customizable License with premium modules</li>
+              <li class="list-group-item">24x7 support with on-site engineer</li>
+              <li class="list-group-item">
+                <a href="#" class="btn btn-primary">Buy Now!</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <h3 class="card-header">Ultra</h3>
+            <div class="card-body">
+              <div class="display-4">$159.99</div>
+              <div class="font-italic">per month</div>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Basic + Plus Package</li>
+              <li class="list-group-item">Industry level on-site exposure</li>
+              <li class="list-group-item">Global certified licensing</li>
+              <li class="list-group-item">
+                <a href="#" class="btn btn-primary">Buy Now!</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+    </div>
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+     <footer class="py-5" style="background-color:#0d0d0d;">
+      <div id="dark6" class="container-fluid">
+        <p class="m-0 text-center text-white">&copy;MyAI.com</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script>
+      $(document).ready(function(){
+          $("#card2").css({"background-color":"blue","color":"white"})
+          });
+
+    function redir(a){
+      $(document).ready(function(){
+        $("#loading").css("display","block").fadeOut(10000);
+        setInterval(function(){
+          window.location = a+".html";
+        },4000);
+      });
+    }
+    $("#btn1").click(function(){
+      a=$("#search1").val();
+      a=$("#btn1").attr("href","https://www.google.com/search?source=hp&ei=C3xlXPHUFZG2rQGeor_YCA&q="+a+"&btnK=Google+Search&oq="+a+"&gs_l=psy-ab.3..35i39j0l9.72.265..554...0.0..0.271.905.0j2j2......0....1..gws-wiz.....0..0i67j0i131.b4ZIInDtfmg")
+    });
+
+     $("#secret").click(function(){
+        window.location.replace("login page.html");
+    }); 
+
+    $("#dark").click(function(){
+        if ($('#dark').is(':checked')) {
+          $('#dark').removeAttr('checked');
+      $("#bo").attr({"style":"background-color:white;"});
+      $("div,.list-group-item").css({"color":"black"});
+      $("div,.list-group-item").css({"background-color":"white"});
+      $(".carousel-caption").attr({"style":"background-color:rgba(0,0,0,0.5);"});
+      $("#dark1,#dark2,#navbarResponsive,#dark4").attr({"style":"background-color:#404040;"});
+      $("#dark6").attr({"style":"background-color:#0d0d0d;"});
+      $("#dark5").attr({"style":"margin-top:10px;margin-left:4px;margin-right:35px;display:flex;font-family:sans-serif;background-color:#404040;"});
+      $("#1").attr("onClick","redir('about')");
+        $("#2").attr("onClick","redir('contact')");
+        $("#3").attr("onClick","redir('faq')");
+        $("#4").attr("onClick","redir('pricing')");
+      $("#card2").css({"background-color":"blue","color":"white"});
+        } 
+        
+        else {
+          $('#dark').attr('checked', 'checked');      
+      $("#bo").attr({"style":"background-color:black;"});
+      $("#dark1").attr({"style":"background-color:black;"});
+      $("div,.list-group-item,#card2").css({"color":"white"});
+      $("div,.list-group-item,#card2").css({"background-color":"#0d0d0d"});
+      $(".carousel-caption").attr({"style":"background-color:rgba(0,0,0,0.5);"});
+          $("#1").attr("onClick","redir('about-black')");
+        $("#2").attr("onClick","redir('contact-black')");
+        $("#3").attr("onClick","redir('faq-black')");
+        $("#4").attr("onClick","redir('pricing-black')");
+      }
+    });
+  </script>
+  </body>
+
+</html>

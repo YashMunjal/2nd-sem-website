@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/bath-body-1.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2019-04-02T12:54:55-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1731585376346</id>
+    <published>2019-04-02T12:54:55-04:00</published>
+    <updated>2019-04-02T12:54:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/amethyst-exfoliating-body-polish"/>
+    <title>Amethyst Exfoliating Body Polish</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Herbivore Botanicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Amethyst_0a723836-14e8-417f-bf05-0c63801267ce.jpg?v=1554147184" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herbivore Botanicals<br />
+        <strong>Type: </strong>Body Scrub<br />
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reveal silky smooth skin with the Crystal Queen of Calmness. Gently exfoliating and purely magical, crushed Amethyst Gemstone combines with magnesium-rich salt, ultra-hydrating Organic Virgin Coconut Oil and night-blooming Jasmine Sambac to lavish your body with luxe moisture. Meet your new royal treatment.</p>
+<p>• Truly Natural | Vegan | Cruelty-Free</p>
+<p>• Herbivore products contain no synthetic ingredients — this includes no dyes, no fragrances, and no synthetic preservatives. Additionally, they are concentrated blends containing no fillers and using the minimum amount of ingredients necessary to achieve the maximum results.</p>
+<p>• 6.6 oz | 200 g glass jar</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sucrose (Sugar), Magnesium Sulfate (Epsom Salt), Cocos Nucifera (Virgin Coconut) Oil, Capric Triglycerides, Cetearyl Olivate, Sorbitan Olivate, Butyrospermum Parkii (Shea) Butter, Limnanthes Alba (Meadowfoam) Seed Oil, Kaolinite, Amethyst Powder, Jasminum Sambac (Jasmine), Eclipta Prostrata Extract, Melia Azadirachta Leaf Extract, Moringa Oleifera Seed Oil, Melia Azadirachta Leaf Extract (and) Melia Azadirachta Flower Extract (and) Amino Esters-1 (ex Mimosa Tenuiflora) (and) Coccinia Indica Fruit Extract (and) Solanum Melongena (Eggplant) Fruit Extract (and) Aloe Barbadensis Flower Extract (and) Ocimum Sanctum Leaf Extract (and) Ocimum Basilicum (Basil) Flower/Leaf Extract (and) Curcuma Longa (Turmeric) Root Extract (and) Corallina Officinalis Extract.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Directions</strong>: Massage a handful of body polish into the skin. Let sit for a minute or two for complete hydration. Rinse off.</p>
+<p><strong>Caution</strong>: May make bathtub/shower floor slippery. To keep the body polish fresh, please keep water out of the jar and store in a dry place when not in use.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body care</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>body scrubs</s:tag>
+    <s:tag>body scrubs + exfoliants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1731585376346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>Herb-AmethystBodPolish-SFA</s:sku>
+      <s:grams>414</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1641895592026</id>
+    <published>2019-02-05T13:44:39-05:00</published>
+    <updated>2019-02-05T13:44:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/holy-yoni"/>
+    <title>Holy Yoni</title>
+    <s:type>Feminine Care</s:type>
+    <s:vendor>Moon Juice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Holy_Yoni.jpg?v=1549392266" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Moon Juice<br />
+        <strong>Type: </strong>Feminine Care<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ADAPTOGENIC YONI OIL</strong></p>
+<p>Holy Yoni is an adaptogenic blend of Schisandra Berry Extract, Bulgarian Rose Oil, Vitamin E and Sweet Almond Oil.</p>
+<p>• Schisandra Berry Extract helps to improve skin elasticity while providing antioxidant protection</p>
+<p>• Bulgarian Rose Essential Oil has an arousing scent and soothes skin.</p>
+<p>• Vitamin E hydrates skin and is rich in antioxidants</p>
+<p>• Sweet Almond Oil helps keep skin soft and supple</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Prunus Amygdalus Dulcis (Sweet Almond) Oil, Rosa Damascena Flower (Bulgarian Rose Essential) Oil, Schizandra Sphenanthera (Schisandra Berry) Fruit Extract, Tocopheryl Acetate (Vitamin E)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply 3 drops topically. Use for passion, pleasure and daily maintenance!</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>body oils</s:tag>
+    <s:tag>feminine care</s:tag>
+    <s:tag>holy yoni</s:tag>
+    <s:tag>moon juice yoni</s:tag>
+    <s:tag>vagina moisturizer</s:tag>
+    <s:tag>vagina oils</s:tag>
+    <s:tag>yoni</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1641895592026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>MJ-HolyYoniOil-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614945583194</id>
+    <published>2019-01-16T10:54:34-05:00</published>
+    <updated>2019-01-16T10:54:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cell-power-hand-treatment"/>
+    <title>Cell-Power Hand Treatment</title>
+    <s:type>Hand Cream</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cell_Power_Hand_Treatment.jpg?v=1546304906" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Hand Cream<br />
+        <strong>Price: </strong>
+            109.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Exceptional Smoothing Protector” </p>
+<p>An intensely nourishing hand care and protection treatment. Deeply hydrating components balance the skin’s moisture content and increase the ability to retain moisture. The skin’s surface structure is noticeably improved, while deeply replenishing the lipid barrier. With gentle lightening properties, Cell-Power Hand Treatment relieves hyperpigmentation caused by factors such as age, hormonal changes and sun exposure. Pigments are balanced and regulated, preventing further darkening.</p>
+<p>• Well suited for even the most dry, sensitive and irritated skin.</p>
+<p>• Protects and rebuilds lipid barrier</p>
+<p>• Smoothes skin’s surface structure and maintains resilience</p>
+<p>• Lightens areas of hyperpigmentation, balances pigmentation</p>
+<p>• Prevents emergence of new pigmentation spots</p>
+<p>• Balances moisture content and increases ability to retain moisture</p>
+<p>- 100 ml | 3.4 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Olive Oil, Shea Butter, Urea, Apricot Kernel Oil, Avocado Oil, Meadowfoam Oil, Allantoin, Pentavitin®, Kalpariane®, Tocopherol (Vitamin E), Beta-White™.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily as needed. Apply Cell-Power Hand Treatment by gently massaging it in.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>hand creams &amp; soap</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614945583194</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.00</s:price>
+      <s:sku>MBR-CellPowerHandTreatment-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616578707546</id>
+    <published>2019-01-14T12:20:18-05:00</published>
+    <updated>2019-01-14T12:20:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/orange-blossom-ylang-bang-body-butter"/>
+    <title>Orange Blossom Ylang Bang Body Butter</title>
+    <s:type>Body Butter</s:type>
+    <s:vendor>LILFOX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Orange_Blossom_Ylang_Bang_Butter.jpg?v=1546725251" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LILFOX<br />
+        <strong>Type: </strong>Body Butter<br />
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in the sensual floral and citrus aromatics with a synergy of neroli, bitter orange, and ylang ylang. Nourishing mango and shea butters are blended with tropical oils of coconut and Brazilian maracuja to deliver a daily intensive deep moisturizing treatment.</p>
+<p>• Formulated with 99.34% Certified Organic ingredients</p>
+<p>• Formulated without parabens, synthetic fragrances, sodium sulfates</p>
+<p>• 6.76 oz | 200 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shea Butter */**, Mango Butter*, C.nucifera (Coconut) Oil*, P.incarnata (Maracuja Seed) Oil*, S.chinensis (Jojoba) Wax*, Tocopherols (vit.E/non-gmo), Essential Oil Blend Including, Neroli + Ylang Yang* + Bitter Orange*. *Organic, **Fair-Trade</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">During warm weather the lightly whipped and fluffy texture of this may settle during shipping. If it underwent a temperature increase, it may look like the jar is not full, but it has merely settled, and the net weight has not changed. The texture may be a little more dense but it's still skin softening and absolutely luscious for your skin.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body butter</s:tag>
+    <s:tag>body butters</s:tag>
+    <s:tag>body cream</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616578707546</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>LILFOX-OrngBlosYlgBodBut-SFA</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616577200218</id>
+    <published>2019-01-14T12:20:18-05:00</published>
+    <updated>2019-01-14T12:20:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/green-vetiver-deodorant-balm"/>
+    <title>Green Vetiver Deodorant Balm</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>LILFOX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Green_Vetiver_Deodorant.jpg?v=1546725166" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LILFOX<br />
+        <strong>Type: </strong>Deodorant<br />
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sensual blend of aromatic green vetiver, frankincense, and green mandarin blended into skin nourishing organic babbasu and maracuja. Earthy yet sexy and luxurious. A unisex essential oil blend that is long lasting and ultra effective. Will leave you smelling oh so fresh into the wee hours.</p>
+<p>• Formulated without parabens, synthetic fragrances, sodium sulfates</p>
+<p>• 1.7 oz | 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Orbignya oleifera (Babassu) Seed Butter*, Sodium Bicarbonate (Baking Soda), Maranta arundinacea (Arrowroot) Root Powder*, Euphorbia cerifera (Candelilla) Wax, Passiflora edulis (Maracuja) Oil*, Brassica campestris (Rapeseed) Oil*, Rosmarinus officinialis (Rosemary) Oil*, Proprietary Essential Oil Blend Including Vetiveria zizanoide (Vetiver) Oil*, Citrus riticulata (Green Mandarin) Oil. *Certifed Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>deodorants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616577200218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>LILFOX-GrnVetiverDeod-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1575656783962</id>
+    <published>2018-11-29T20:18:43-05:00</published>
+    <updated>2018-11-29T20:18:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hand-cream-1"/>
+    <title>Hand Cream</title>
+    <s:type>Hand Cream</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hand_Cream_dc49982d-cd82-4994-9ff2-d2cefc3c5502.jpg?v=1543540702" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Hand Cream<br />
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An exceptionally rich, nourishing hand cream that hydrates and soothes. Made without lanolin, using moisturizing shea butter and natural oils that protects skin, this cream gives hands a long-lasting, velvety smooth feel.</p>
+<p>• 2 oz | 57 g</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Butyrospermum Parkii (Shea Butter) Nut Oil, Oenothera Biennis (Evening Primrose) Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Natural Beeswax), Maranta Arundinacea (Arrowroot) Root Powder, Pelargonium Graveolens (Geranium) Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Peel Oil, Citrus Aurantium (Neroli) Flower Oil, Boswellia Serrata (Frankincense) Gum Resin Oil, Melaleuca Alternifolia (Tea Tree) Oil, Linalool, Limonene, Citronellol, Geraniol, Citral, Farnesol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use pointed end of cap to puncture tube opening. Expect hand cream to be stiff upon initial use due to its nutrient dense quality. A little goes a long way! Simply smooth a small amount of cream all over hands (or elbows, knees, heels or anywhere else needing attention) and allow time for it to absorb into skin.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>hand cream</s:tag>
+    <s:tag>hand creams + soap</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1575656783962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Olio-HandCream-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1569058881626</id>
+    <published>2018-11-29T19:39:35-05:00</published>
+    <updated>2018-11-29T19:39:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/moroccan-beldi-soap"/>
+    <title>Moroccan Beldi Soap</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Kahina Giving Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eucalyptus_Beldi_Soap.jpg?v=1543537902" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kahina Giving Beauty<br />
+        <strong>Type: </strong>Body Wash<br />
+        <strong>Price: </strong>
+            38.00 - 46.00
+            <a href="https://www.carbonbeauty.com/products/moroccan-beldi-soap">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moroccan Beldi Soap is a traditional cleansing and skin softening treatment direct from the Moroccan hammam. Naturally rich in Vitamin E, the gel-like soap can be used for cleansing or as a body masque to soften skin prior to exfoliating with the Kahina Kessa Mitt. Beldi means “traditional” or “authentic” in Moroccan.</p>
+<p>• 8.8 oz | 250 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p><strong>Moroccan Rose</strong>: saponified organic olive oil, aqua, rosa damascena essential oil.</p>
+<p><strong>Neroli</strong>: saponified olive oil, water, citrus aurantium amara (neroli) flower oil.</p>
+<p><strong>Eucalyptus</strong>: saponified olea europaea (olive) oil, eucalyptus globulus (eucalyptus) leaf oil.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">To cleanse: Massage a tablespoon of savon noir onto skin or washcloth in bath or shower and rinse off. For skin cleansing and softening: After 5-10 minutes in bath, shower, or steam, massage into skin and leave on for up to 10 minutes before rinsing with warm water. Skin will be softened and ready for exfoliating with mitt, glove, washcloth, or konjac sponge. For best results, use Kahina Giving Beauty Moroccan kessa glove. May also be used for simple cleansing as a deliciously scented soap replacement.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body cleansers</s:tag>
+    <s:tag>body wash</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1569058881626</id>
+      <title>Eucalyptus</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>Kahina-BeldiSoapEucalyptus-SFA</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1569058881626</id>
+      <title>Neroli</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>Kahina-BeldiSoapNeroli-SFA</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1569058881626</id>
+      <title>Moroccan Rose</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>Kahina-BeldiSoapMorocRose-SFA</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1569053966426</id>
+    <published>2018-11-29T19:39:34-05:00</published>
+    <updated>2018-11-29T19:39:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/essaouira-body-serum"/>
+    <title>Essaouira Body Serum</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Kahina Giving Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Essaouira_Body_Serum_200ml.jpg?v=1543537777" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kahina Giving Beauty<br />
+        <strong>Type: </strong>Body Oil<br />
+        <strong>Price: </strong>
+            98.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A moisturizing body oil rich in Vitamin E to replenish and restore dry skin and scented with a blend of pure steam distilled essential oils, Essaouira Body Serum is a fresh, crisp fragrance combining sophisticated floral notes with a hint of the exotic. Rose, lavender, herbaceous geranium and woodsy sandalwood provide a soft floral scent while petitgrain lifts and brightens. We love this lighter scent for spring and summer.</p>
+<p>• 6.7 fl oz | 200 ml</p>
+<p>• Kahina Giving Beauty products are made with premium quality, certified organic argan oil and other antioxidant-rich byproducts of the argan tree. The argan nuts are cracked by hand using centuries-old techniques by Berber women in Morocco’s argan region. The oil is then cold-pressed using modern methods that preserve the integrity of the oil.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">argania spinosa (argan) oil*, helianthus annuus (sunflower) seed oil*, olea europaea (olive) fruit oil*, caprylic/capric triglyceride, ocos nucifera (coconut) nut oil*, citrullus lanatus (watermelon) seed oil, pelargonium graveolens (geranium) leaf/flower oil*, rosa damascena (rose) flower oil*, lavandula angustifolia (lavender) flower oil*, santalum spicatum (sandalwood) wood oil, tanacetum annuum flower oil*, citrus aurantium (petitgrain bigarade) leaf/bud oil, bisabolol, rosmarinus officinalis (rosemary) leaf extract*. *Ingredient from Organic Farming, 100% of the total ingredients are from natural origin; 97.51% of the total ingredients are from Organic Farming.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply as needed to body and hands. For best results, massage into damp skin after bath or shower. Recommended especially after body exfoliation using Kahina Beldi Soap and Kessa Glove.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturiser</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>body oil</s:tag>
+    <s:tag>body oils</s:tag>
+    <s:tag>body serum</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1569053966426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.00</s:price>
+      <s:sku>Kahina-EssaouiraBodySerum-SFA</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1571675373658</id>
+    <published>2018-11-20T11:36:08-05:00</published>
+    <updated>2018-11-20T11:36:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/renew-coconut-body-polish"/>
+    <title>Renew - Coconut Body Polish</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Pursoma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Renew_Front.jpg?v=1542731784" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pursoma<br />
+        <strong>Type: </strong>Body Scrub<br />
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Slough away dull, dry, and dead skin to reveal glowing softness. The RENEW body polish instantly repairs rough spots and skin texture. Pursoma's farm partners in Jamaica provide fresh harvested coconuts, and on the northern coast of France they source raw Grey sea salt. Gentle exfoliation from these natural exfoliants delivers a dose of serious rejuvenation with added oils that moisturize, so you’ll feel refreshed, renewed and totally transformed.</p>
+<p>• detoxifying + exfoliating</p>
+<p>• polishing + smoothing</p>
+<p>• moisturizing + rejuvenating</p>
+<p>• 4 oz | 113 g</p>
+<p>- 1 Bag = 1 Resurfacing Treatment</p>
+<p>- Non-GMO, SLS, Paraben &amp; Dye-Free. BPA-Free, Pthalate-Free, Gluten-Free. Vegan &amp; Cruelty-Free.</p>
+<p>- Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">sodium chloride (sea salt), carthamus tinctorius (safflower) seed powder, cocos nucifera (coconut oil and powder), simmondsia chinensis (jojoba) seed oil, hydrolyzed avena sativa (oat), hydrolyzed quinoa, tapioca starch, cocos nucifera (coconut husk), tocopherol (vitamin e). Oryza sativa (rice bran) oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>DIGITAL WELLNESS begins here by putting your devices on airplane mode. BLEND the contents of the oil sachet into the scrub mixture. Mix well. SCRUB your body while still dry before turning shower on. Begin at your shoulders, working your way down to your feet applying the scrub in circular motions. Use the entire contents of the package to exfoliate anywhere you can reach. ACTIVATE the hydration phase. Apply small amounts of water in a circular motion, scrubbing the skin as you go. RINSE completely without soap or body cleanser.</p>
+<p>Not intended for medicinal use. Keep out of reach of children. For external use only. Contains iodine. If you are pregnant or have a medical condition consult your physician before use.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>body scrubs + exfoliants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1571675373658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>Pursoma-CoconutBodyPolish-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1571673899098</id>
+    <published>2018-11-20T11:35:27-05:00</published>
+    <updated>2018-11-20T11:35:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/revive-coffee-body-polish"/>
+    <title>Revive - Coffee Body Polish</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Pursoma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Revive_Front.jpg?v=1542731744" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pursoma<br />
+        <strong>Type: </strong>Body Scrub<br />
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wake up your body with the ultra-exfoliating, skin-toning and moisturizing REVIVE scrub. Caffeic acid and hand harvested French Grey sea salt purify the skin and boost circulation while Pursoma's signature silkening rice bran dry oil blend replenishes moisture and locks in hydration to leave you feeling energized, toned, and so, so smooth.</p>
+<p>• detoxifying + ultra exfoliating</p>
+<p>• toning + stimulating</p>
+<p>• moisturizing + rejuvenating</p>
+<p>• 4 oz | 113 g</p>
+<p>- 1 Bag = 1 Resurfacing Treatment</p>
+<p>- Non-GMO, SLS, Paraben &amp; Dye-Free. BPA-Free, Pthalate-Free, Gluten-Free. Vegan &amp; Cruelty-Free.</p>
+<p>- Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">sodium chloride (sea salt), coffea arabica (coffee) beans, carthamus tinctorius (safflower) seed powder, cocos nucifera (coconut oil and powder), simmondsia chinensis (jojoba) seed oil, hydrolyzed avena sativa (oat), hydrolyzed quinoa, tapioca starch, tocopherol (vitamin e). Oryza sativa (rice bran) oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>DIGITAL WELLNESS begins here by putting your devices on airplane mode. BLEND the contents of the oil sachet into the scrub mixture. Mix well. SCRUB your body while still dry before turning shower on. Begin at your shoulders, working your way down to your feet applying the scrub in circular motions. Use the entire contents of the package to exfoliate anywhere you can reach. ACTIVATE the hydration phase. Apply small amounts of water in a circular motion, scrubbing the skin as you go. RINSE completely without soap or body cleanser.</p>
+<p>Not intended for medicinal use. Keep out of reach of children. For external use only. Contains iodine. If you are pregnant or have a medical condition consult your physician before use.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>body scrubs + exfoliants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1571673899098</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>Pursoma-CoffeeBodyPolish-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1571671867482</id>
+    <published>2018-11-20T11:35:09-05:00</published>
+    <updated>2018-11-20T11:35:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/refresh-seaweed-body-polish"/>
+    <title>Refresh - Seaweed Body Polish</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Pursoma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Refresh_Front.jpg?v=1542731706" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pursoma<br />
+        <strong>Type: </strong>Body Scrub<br />
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reveal your softest skin using the sea’s deep moisturizing minerals. The REFRESH body polish sloughs off dead skin, exfoliates, and detoxifies with potent marine minerals while hydrating with a dry oil infusion of fresh rice bran oil that you mix fresh before usage. Skin is left smooth, supple and deeply nourished.</p>
+<p>• detoxifying + exfoliating</p>
+<p>• skin soothing + hydrating</p>
+<p>• moisturizing + rejuvenating</p>
+<p>• 4 oz | 113 g</p>
+<p>- 1 Bag = 1 Resurfacing Treatment</p>
+<p>- Non-GMO, SLS, Paraben &amp; Dye-Free. BPA-Free, Pthalate-Free, Gluten-Free. Vegan &amp; Cruelty-Free.</p>
+<p>- Made in the USA</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">sodium chloride (sea salt), carthamus tinctorius (safflower) seed powder, laminaria digitata (brown algae), cocos nucifera (coconut oil and powder), simmondsia chinensis (jojoba) seed oil, chlorella vulgaris (green algae), hydrolyzed avena sativa (oat), hydrolyzed quinoa, tapioca starch, tocopherol (vitamin e). Oryza sativa (rice bran) oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>DIGITAL WELLNESS begins here by putting your devices on airplane mode. BLEND the contents of the oil sachet into the scrub mixture. Mix well. SCRUB your body while still dry before turning shower on. Begin at your shoulders, working your way down to your feet applying the scrub in circular motions. Use the entire contents of the package to exfoliate anywhere you can reach. ACTIVATE the hydration phase. Apply small amounts of water in a circular motion, scrubbing the skin as you go. RINSE completely without soap or body cleanser.</p>
+<p>Not intended for medicinal use. Keep out of reach of children. For external use only. Contains iodine. If you are pregnant or have a medical condition consult your physician before use.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>body scrubs + exfoliants</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1571671867482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>Pursoma-SeaweedBodyPolish-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563550679130</id>
+    <published>2018-11-11T18:35:03-05:00</published>
+    <updated>2018-11-11T18:35:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/berejuvenated-bubble-elixir"/>
+    <title>BeRejuvenated Bubble Elixir</title>
+    <s:type>Bath Oil</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BeRejuvenated_500ml.jpg?v=1541551726" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>Bath Oil<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PINE, CEDARWOOD, &amp; SPEARMINT BUBBLE BATH OIL</strong></p>
+<p>Powerful deep penetrating bubble elixir to ease your entire body and aid in muscle recovery. Fresh pine and cedarwood essential oils calm the entire body and allow for full muscle restoration.</p>
+<p>Green, clean and natural bubble bath formulated without the use of harsh surfactants and detergents. Frothy long-lasting bubbles that elevate your bath time to the next level.</p>
+<p>250 ml ELIXIR bottle will run approx 10-12 baths</p>
+<p>500 ml ELIXIR bottle will run approx 24 baths</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Arnica Infusion (Arnica Montana and Aqua)*, Coco Betaine, Coco Glucoside, Sea Salt (Sodium Chloride), Gluconodeltalactone (and) Sodium Benzoate, Sodium Citrate, Organic Pine Needle Oil (Pinus Sylvestris)*, Organic Fir Needle Oil (Abies Balsamea)*, Organic Cedarwood Oil (Cedrus Deodora)*, Organic Spearmint Oil (Mentha Spicata)*, Organic Coriander Seed Oil (Coriandrum Sativum)*, Oakmoss Absolute (Evernia Prunastri)*, Organic chlorophyll Extract*. *certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fill the tub with warm water. Add 2-3 TBSP of Elixir under running water. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath oil</s:tag>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563550679130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Bathorium-BeRejuvenated500ml-SFA</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563536916570</id>
+    <published>2018-11-11T18:34:45-05:00</published>
+    <updated>2018-11-11T18:34:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/becalm-bubble-elixir"/>
+    <title>BeCalm Bubble Elixir</title>
+    <s:type>Bath Oil</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_BeCalm_500ml.jpg?v=1541551717" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>Bath Oil<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LAVENDER &amp; EARL GREY TEA INFUSED BUBBLE BATH OIL</strong></p>
+<p>Allow the soft scent of organic lavender &amp; delicate earl grey tea to create a creamy tub of bubbles and send you right to a sleepy abyss.</p>
+<p>Green, clean and natural bubble bath formulated without the use of harsh surfactants and detergents. Frothy long-lasting bubbles that elevate your bath time to the next level.</p>
+<p>250 ml ELIXIR bottle will run approx 10-12 baths</p>
+<p>500 ml ELIXIR bottle will run approx 24 baths</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Earl Grey Tea Infusion (Camellia Sinensis and Citrus Bergamia and Aqua)*, Coco Betaine, Coco Glucoside, Sea Salt (Sodium Chloride), Gluconodeltalactone (and) Sodium Benzoate, Sodium Citrate, Organic Lavender Oil (Lavandula Angustifolia)*, Organic Neroli Oil (Citrus Aurantium)*, Organic Bergamot Oil (Citrus Bergamia)*. *certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fill the tub with warm water. Add 2-3 TBSP of Elixir under running water. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath oil</s:tag>
+    <s:tag>bubble bath</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563536916570</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Bathorium-BeCalm500ml-SFA</s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563480424538</id>
+    <published>2018-11-11T18:34:33-05:00</published>
+    <updated>2018-11-11T18:34:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/eucalyptus-apothecary-c-r-u-s-h"/>
+    <title>Eucalyptus Apothecary C·R·U·S·H</title>
+    <s:type>bath salts</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eucalyptus_Apothecary_120g.jpg?v=1541551397" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>bath salts<br />
+        <strong>Price: </strong>
+            9.00 - 33.00
+            <a href="https://www.carbonbeauty.com/products/eucalyptus-apothecary-c-r-u-s-h">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>EUCALYPTUS PEPPERMINT + EPSOM SALT BATH SOAK</strong></p>
+<p>For centuries, eucalyptus essential oil has been known for its powerful healing properties. Bathorium has harvested the purest form of eucalyptus, peppermint, tea tree and wintergreen essential oils to truly penetrate deep within the muscle tissue, leaving your whole body in complete euphoria.</p>
+<p>Your post-workout regimen just got a lot more interesting.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, Sea Salt, Epsom Salt, Kaolin Clay, Moroccan Lava Clay, Sodium Lauryl Sulfoacetate, Jojoba Oil*, Coconut Oil*, Aloe Butter*, Tea Tree Oil*, Eucalyptus Oil*, Peppermint Oil*, Pine Oil*, Wintergreen Leaf Oil*, Camphor Oil* Eucalyptus Leaf* Aloe Leaf Juice*. *certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fill the tub with warm water. Add 1/2 cup or 1 packet of C·R·U·S·H under running water. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath salts</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563480424538</id>
+      <title>120 g (1 Bath)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>Bathorium-EucApoth120g-SFA</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563480424538</id>
+      <title>600 g (5 Baths)</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Bathorium-EucApoth600g-SFA</s:sku>
+      <s:grams>822</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563473281114</id>
+    <published>2018-11-11T18:34:18-05:00</published>
+    <updated>2018-11-11T18:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/charcoal-garden-detox-c-r-u-s-h"/>
+    <title>Charcoal Garden Detox C·R·U·S·H</title>
+    <s:type>bath salts</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Charcoal_120g.jpg?v=1541551308" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>bath salts<br />
+        <strong>Price: </strong>
+            9.00 - 33.00
+            <a href="https://www.carbonbeauty.com/products/charcoal-garden-detox-c-r-u-s-h">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ORGANIC BAMBOO CHARCOAL + EPSOM SALT BATH SOAK</strong></p>
+<p>This C·R·U·S·H is about detoxing the entire body from the outside, in. Organic activated bamboo charcoal pulls toxins + free radicals from the skin while the spicy oils of basil and calming lavender soothe the mind. Epsom salts + french sea salts relax your aching muscles while a skin softening coconut milk envelops your entire body.</p>
+<p>For a total bath detoxifying experience soak for minimum 30 minutes with a cold rinse shower immediately following. Slip into a heated bath wrap and drink 8-16oz purified mineral water to stay hydrated. Repeat weekly.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, French Sel de Mer, Epsom Salt, Coconut Milk*, Kaolin Clay, Sodium Lauryl Sulfoacetate, Sweet Almond Oil*, Cocoa Seed Butter*, Coconut Oil*, Basil Oil*, Lavender Oil*, Rose Geranium Oil*, Activated Bamboo Charcoal*, Aloe Leaf Juice*. *certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fill the tub with warm water. Add 1/2 cup or 1 packet of C·R·U·S·H under running water. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath salts</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563473281114</id>
+      <title>120 g (1 Bath)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>Bathorium-CharcoalDetox120g-SFA</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563473281114</id>
+      <title>600 g (5 Baths)</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Bathorium-CharcoalDetox600g-SFA</s:sku>
+      <s:grams>822</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563456340058</id>
+    <published>2018-11-11T18:33:54-05:00</published>
+    <updated>2018-11-11T18:33:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/sea-kelp-serenity-c-r-u-s-h"/>
+    <title>Sea Kelp Serenity C·R·U·S·H</title>
+    <s:type>bath salts</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sea_Kelp_120g.jpg?v=1541551272" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>bath salts<br />
+        <strong>Price: </strong>
+            9.00 - 33.00
+            <a href="https://www.carbonbeauty.com/products/sea-kelp-serenity-c-r-u-s-h">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SEA KELP + SHEA BUTTER LAVENDER BATH SOAK</strong></p>
+<p>Embrace the natural wonder of the sea. This C·R·U·S·H has the highest concentration of french sel de mer, dead sea mud and organic sea kelp out Bathorium's soaks. Sea kelp naturally calms the skin from inflammation while therapeutic lavender and bergamot essential oil balance and restore.</p>
+<p>Leave the tub wrapped in the silk cloak of Shea butter, naturally hydrating head to toe.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, Sea Salt (French Mineral Salt), Kaolin Clay, Sodium Lauryl Sulfoacetate, Grape Seed Oil*, Shea Butter*, Sea Kelp, Bergamot Oil*, Lavender Oil*, Dead Sea Mud, Aloe Leaf Juice* *certified organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fill the tub with warm water. Add 1/2 cup or 1 packet of C·R·U·S·H under running water. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath salts</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563456340058</id>
+      <title>120 g (1 Bath)</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>Bathorium-SeaKelp120g-SFA</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563456340058</id>
+      <title>600 g (5 Baths)</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Bathorium-SeaKelp600g-SFA</s:sku>
+      <s:grams>822</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563275264090</id>
+    <published>2018-11-11T18:33:31-05:00</published>
+    <updated>2018-11-11T18:33:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/jadore-matcha"/>
+    <title>J&apos;adore Matcha Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Jadore_Matcha.jpg?v=1541551243" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>Bath Bomb<br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MATCHA GREEN TEA + PEPPERMINT MOISTURIZING BATH BOMB</strong></p>
+<p>Bathers, meet one of Bathorium's signature bombs, J'adore Matcha. If you thought Matcha Green Tea was solely meant to drink on the way to yoga class than you better get ready for this! Matcha green tea has ancient sought out properties that naturally detoxify the skin’s outer layer and helps retain moisture throughout the day. Enzymes in green tea have been shown to reduce the look of sun damage and tighten the skin where need be. Bathorium uses premium grade blended matcha with a silky combination of butters and peppermint oils to leave your whole body and mind relaxed and peacefully rejuvenated. Bath &amp; Tea... It's a matcha made in heaven. *FRAGRANCE FREE</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, Sea Salt, Matcha Green Tea, Sweet Almond Oil, Kaolin Clay, Avocado Butter, Lemon Oil, Peppermint Oil, Sodium Laurel Sulfoacotate, Aloe Leaf Juice, Organic Dragonwell Green Tea Leaves, Hamamelis Virginiana Water.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">1. Fill the tub half way. 2. Drop in the bath bomb. 3. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath bomb</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563275264090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Bathorium-JadoreMatcha-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563273756762</id>
+    <published>2018-11-11T18:33:10-05:00</published>
+    <updated>2018-11-11T18:33:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cococreamer"/>
+    <title>CocoCreamer Bath Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_CocoCreamer.jpg?v=1541551230" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>Bath Bomb<br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>COCONUT + LAVENDER RELAXING BATH BOMB</strong></p>
+<p>Submerse yourself into a tub of creamy coconut bliss with this ball of indulgence. The CocoCreamer combines organic virgin coconut oil, creamy coconut milk, lavender essential oils and the sweet aromas of hibiscus. Dry and flaky skin will be a distant memory, so light a candle and prepare to float away...</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, Sea Salt, Coconut Milk, Corn Starch, Kaolin Clay, Organic Virgin Coconut Oil, Lavender Oil, Sodium Laurel Sulfoacotate, Hibiscus Flower, Hamamelis Virginiana Water, Aloe Leaf juice, Fragrance.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">1. Fill the tub half way. 2. Drop in the bath bomb. 3. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath bomb</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563273756762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Bathorium-CocoCreamer-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1563272544346</id>
+    <published>2018-11-11T18:32:36-05:00</published>
+    <updated>2018-11-11T18:32:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/snooze-bomb"/>
+    <title>Snooze Bomb</title>
+    <s:type>Bath Bomb</s:type>
+    <s:vendor>Bathorium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Snooze_Bomb.jpg?v=1541551171" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bathorium<br />
+        <strong>Type: </strong>Bath Bomb<br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SENSITIVE SKIN SLEEP AID PATCHOULI + COCOA BUTTER BATH BOMB</strong></p>
+<p>Inspired by nature and the beautiful hues it can create, is what this fizz is all about. Watch as your tub turns a light shade of violet created by finely ground hibiscus flowers that release a soft floral fragrance in the water. Bergamot &amp; Patchouli Oils relax your mind while the salts and butters moisturize the skin and leave the subtle scents of the essential oils on your skin long after you're finished. So, go ahead and get fizzical. *FRAGRANCE FREE</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sodium Bicarbonate, Citric Acid, Sea Salt, Kaolin Clay, Hibiscus Flower Powder, Jojoba Oil, Cocoa Butter, Bergamot Oil, Patchouli Oil, Grapefruit Oil, Ylang-Ylang Oil, Centaurea Cyanus (Blue Corn Flowers), Aloe Leaf Juice Sodium Laurel Sulfoacotate, Hamamelis Virginiana Water.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">1. Fill the tub half way. 2. Drop in the bath bomb. 3. Get in, you've earned it.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>bath bomb</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1563272544346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>Bathorium-SnoozeBomb-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1491523371098</id>
+    <published>2018-10-26T16:52:46-04:00</published>
+    <updated>2018-10-26T16:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/shave-oil"/>
+    <title>Shave Oil</title>
+    <s:type>Shave Oil</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Shave_Oil.jpg?v=1540587148" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Shave Oil<br />
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lighter version of Olio E Osso's classic Pre-Shave Oil, Shave Oil is a nutrient dense, yet light oil, that is formulated to help protect even the most sensitive parts of skin from razor nicks and ingrown hairs, leaving it soft, smooth and revitalized.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• 8 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Olea Europaea (Olive) Fruit Oil, Limnanthes Alba (Meadowfoam) Seed Oil, Vitis Vinifera (Grape) Seed Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Peel Oil, Boswellia Serrata (Frankincense) Gum Resin Oil, Citrus Aurantium (Neroli) Flower Oil, Melaleuca Alternifolia (Tea Tree) Oil, Limonene, Linalool, Citral, Geraniol</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Smooth as much as needed onto clean skin, shave and rinse.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>hair removal</s:tag>
+    <s:tag>shave oil</s:tag>
+    <s:tag>shaving oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1491523371098</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>Olio-ShaveOil8oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1491106234458</id>
+    <published>2018-10-24T21:23:00-04:00</published>
+    <updated>2018-10-24T21:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/coco-rose-body-polish"/>
+    <title>Coco Rose Body Polish</title>
+    <s:type>Body Scrub</s:type>
+    <s:vendor>Herbivore Botanicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Coco_Rose_Body_Polish.jpg?v=1540431020" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Herbivore Botanicals<br />
+        <strong>Type: </strong>Body Scrub<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coco Rose Body Polish is a highly moisturizing and gently exfoliating blend of Virgin Coconut Oil and delicately floral Moroccan Rose. Leaves skin soft and hydrated with a light scent of coconut and rose petals.</p>
+<p>• Truly Natural. Vegan. Cruelty Free.</p>
+<p>• All of Herbivore's oils are cold-pressed or steam distilled, yielding premium-quality oils</p>
+<p>• 8 oz | 226 g glass jar</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sucrose (Sugar), Cocos Nucifera (Organic Virgin Coconut) Oil, Capric Triglycerides, Cetearyl Olivate, Sorbitan Olivate, Butyrospermum Parkii (Shea) Butter, Limnanthes alba (Meadowfoam) Seed Oil, Rosa damascena (Moroccan Rose) Absolute, Rose Clay.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Massage a handful of body polish into skin. Let sit for a minute or two for complete hydration. Rinse off.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body scrubs + exfoliants</s:tag>
+    <s:tag>coco rose</s:tag>
+    <s:tag>coco rose body polish</s:tag>
+    <s:tag>herbivore coco rose</s:tag>
+    <s:tag>rose body scrub</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1491106234458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Herbivore-CocoRoseBodyPolish8oz-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1483548688474</id>
+    <published>2018-10-07T20:11:14-04:00</published>
+    <updated>2018-10-07T20:11:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/morning-shift-body-milk"/>
+    <title>Morning Shift Body Milk</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Hudson Made</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Morning_Shift_Body_Milk.jpg?v=1538940939" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hudson Made<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This emollient rich Body Milk is ideal for all-over body care. Specially formulated with Shea Butter, Aloe Leaf, Sunflower Seed Oil, Calendula Oil, and Passion Fruit Seed oil for maximum hydration and penetration without leaving the skin greasy. Hypoallergenic, contains no Artificial Colors, and is Paraben, Phthalate and Sodium Lauryl Sulfate Free.</p>
+<p>Hudson Made's refreshing and uplifting Morning Shift fragrance is ideal for the perfect pick-me-up in the morning or after a daily work-out.</p>
+<p>• Hydrating + Balancing</p>
+<p>• Uplifting + Invigorating</p>
+<p>• Suitable for all skin types</p>
+<p>• Contains nut oils</p>
+<p>• For external use only</p>
+<p>• 6.76 fl oz | 200 ml Glass Bottle</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water (Aqua), Glycerin, Stearic Acid, Myristyl Myristate, Cetearyl Alcohol, Ceteareth-20, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Helianthus Annuus (Sunflower) Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Cetyl Alcohol, (Morning Shift Natural Fragrance), Oryza Sativa (Rice) Bran Oil, Aloe Barbadensis Leaf Juice, Acrylates/c10-30 Alkyl Acrylate Crosspolymer, Calendula Officinalis Flower Oil, Passi-flora Edulis Seed (Passion Fruit) Oil, Euterpe Oleracea Fruit Oil. Phenoxyethanol, Ethylhexylglycerin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Ideal for the perfect pick-me-up in the morning or after a daily work-out.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body milk</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>morning shift</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1483548688474</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>HM-MorningShiftBodyMilk-SFA</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1478270255194</id>
+    <published>2018-10-03T20:02:34-04:00</published>
+    <updated>2018-10-03T20:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/pre-shave-oil-1"/>
+    <title>Pre-Shave Oil</title>
+    <s:type>Shave Oil</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Pre-Shave_Oil.jpg?v=1538517809" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Shave Oil<br />
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shaving creams don’t always prevent razor nicks, ingrown hairs or skin irritations. That’s why we developed Pre-Shave Oil to protect your skin during your shave, and for days afterward.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• 2 fl oz | 60 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Limnanthes Alba (Meadowfoam) Seed Oil, Borago Officinalis (Borage) Seed Oil, Persea Gratissima (Avocado) Fruit Oil, Olea Europaea (Olive) Fruit Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Cedrus Deodara (Cedarwood) Oil, Pelargonium Graveolens (Geranium) Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Smooth as much as needed on to clean skin, shave and rinse.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>fur oil</s:tag>
+    <s:tag>hair removal</s:tag>
+    <s:tag>shave oil</s:tag>
+    <s:tag>shaving oil</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478270255194</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>Olio-PreShaveOil2oz-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1478264619098</id>
+    <published>2018-10-03T20:02:20-04:00</published>
+    <updated>2018-10-03T20:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lustero-body-oil"/>
+    <title>Lustero Body Oil</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Olio E Osso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lustero_Body_Oil.jpg?v=1538517796" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olio E Osso<br />
+        <strong>Type: </strong>Body Oil<br />
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This body oil is as nourishing and versatile as it is beautiful. Leaving your skin smooth and glowing, it was designed to even out and enhance all skin tones. With a scent reminiscent of the best summer evenings, Lustero Bronzing Oil is rich and warm with hints of citrus and earthy spice. Lustero contains a golden shimmer that settles to the bottom allowing you to shake as much luster into the oil as you like.</p>
+<p>• Made by hand in small batches in Portland, Oregon</p>
+<p>• 4 fl oz | 120 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Vitis Vinifera (Grape) Seed Oil, Olea Europaea (Olive) Fruit Oil, Citrus Aurantium Bergamia (Bergamot) Fruit Peel Oil, Mica (and) Titanium Dioxide (and) Iron Oxide (CI 77019), Litsea Cubeba (Litsea) Fruit Oil, Annatto (CI 5120), Pogostemon Cablin (Patchouli) Shrub Oil, Cedrus Deodara (Cedarwood) Wood Oil.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use as a clear oil or shake to mix in shimmer to add more luster. Apply after bath or shower while skin is still moist or use to enhance sun-kissed skin.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>body oils</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1478264619098</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Olio-LusteroBodyOil4oz-SFA</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1363972751450</id>
+    <published>2018-09-20T16:48:46-04:00</published>
+    <updated>2018-09-20T16:48:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/smartbody-wash"/>
+    <title>SmartBody Wash</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>EVOLVh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_SmartBody_Wash.jpg?v=1537400852" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EVOLVh<br />
+        <strong>Type: </strong>Body Wash<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An amazing sulfate-free moisturizing cleansing foam that is concentrated and long lasting, and is healthier for our planet after going down the drain. It's nothing short of a luxurious win-win for all.</p>
+<p>Provides gentle cleansing while infusing essential nutrients to leave skin moisturized, smooth, soft and radiant.</p>
+<p>• Vegan &amp; gluten free</p>
+<p>• Silicone free, paraben free, panthenol free, phthalate/musk free, petroleum/mineral oil free</p>
+<p>• Never tested on animals</p>
+<p>• Made in the USA</p>
+<p>• 8.5 fl oz | 250 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water, Decyl Glucose‡, Disodium Sulfosuccinate, Cocamidopropyl Betaine‡, Lauryl Glucose‡, Coco Polyglucose‡, Kiwi Seed Oil†, Almond Oil*, Seaweed Extract†, Citrus Aurantifolia*, Lecithin*, Sunflower Oil*, Soya, Safflower Oil*, Butyrospermum Parkii (Shea Butter) Fruit†, Vegetable Glycerine†, Soy Amino Acids†, Vitamin C‡, Wild Pansy Extract†, Sweet Clover Extract†, Apricot Extract†, Sambucus Nigra Flower Extract†, Cucumis Sativus (Cucumber) Fruit Extract†, Aspalathus Linearis Leaf Extract†, Chamomilla Recutita (Matricaria) Flower Extract†, Equisetum Arvense Extract†, Nigella Sativa (Black Cumin) Seed Oil†, Cucurbita Pepo (Pumpkin) Seed Oil†, Elaeis Guineensis (Palm) Fruit Extract†, Nasturtium Extract†, Nectarine Extract†, Passion Flower Extract*, Parfumº, Dehydroacetic Acid*, Benzyl Alcohol*.</p>
+<p>*ECOCERT Certified Ingredient †Natural Ingredient ‡Plant Derived/Organically Derived, , °Natural Fragrance, Phthalate free/Musk free</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Start with two pumps applied directly to skin or onto your favorite applicator. Savor every rejuvenating moment and rinse. The luxurious foam is very concentrated, and as with all EVOLVh products, less is more.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body cleansers</s:tag>
+    <s:tag>body wash</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1363972751450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>EVOLVh-SmartBodyWash-SFA</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+</feed>

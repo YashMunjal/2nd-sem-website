@@ -1,0 +1,75 @@
+	<!DOCTYPE html>
+	<html lang="en" >
+
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Login Page</title>
+	  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+
+
+<link href='https://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel='stylesheet' href='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/css/demo.css'>
+      <link rel="stylesheet" href="css/1.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/MorphSVGPlugin.min.js"></script>
+	    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">	  
+	      <link rel="stylesheet" href="css/style.css">
+	</head>
+
+	<body >
+		<div id="large-header" class="large-header" ng-app="q" ng-controller="my">
+		 <canvas id="demo-canvas"></canvas>
+	  <form action="result1.php" method="POST" style="background: transparent;box-shadow: 0 0 20px white;margin: 3em 0  1em 0">
+		
+		<div class="inputGroup inputGroup1">
+			<label for="loginEmail" id="loginEmailLabel">Email</label>
+			<input type="email" id="loginEmail" name="email" maxlength="254" />
+			
+		</div>
+		<div class="inputGroup inputGroup2">
+			<label for="loginPassword" id="loginPasswordLabel">Password</label>
+			<input type="{{passwor}}" id="loginPassword" name="pass" />
+			<label id="showPasswordToggle" for="showPasswordCheck">Show
+				<input id="showPasswordCheck" type="checkbox" ng-click="func()" ng-model="a"/>
+				<div class="indicator" ></div>
+			</label>
+		</div>
+		<h2 style="float:center;font-size: 1.5vw;color: white;"> Not Registered?<a href="index.php" style="color:red;text-decoration: none;"> Sign Up</a></h2><br>
+		<h2>
+			<div class="row">
+				<div class="col-sm-3" ></div>
+				<div class="col-sm-3"></div>
+				<div class="col-sm-3" style="margin-left: 12.5vw"><a href="forget.html" style="color: #4a6060;text-decoration: none;font-size: 1.5vw;color: white;">Forgot Password?</a></div>
+			</div>
+		</h2>
+		<br>
+		<div class="inputGroup inputGroup3">
+			<button id="login" name="filter">Log in</button>
+		</div>	
+		</div>
+	</form>    
+	<script >
+		var app=angular.module("q",[]);
+		app.controller("my",function($scope){
+			$scope.passwor="password";
+			$scope.func=function($a){
+				if($scope.a==true){
+					$scope.passwor="text";
+				}
+				else{
+					$scope.passwor="password";
+				}
+			}
+		});
+	</script>
+	<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/EasePack.min.js'></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/rAF.js'></script>
+<script src='https://www.marcoguglie.it/Codepen/AnimatedHeaderBg/demo-1/js/TweenLite.min.js'></script>
+ <script  src="js/1.js"></script>
+	</body>
+	</html>

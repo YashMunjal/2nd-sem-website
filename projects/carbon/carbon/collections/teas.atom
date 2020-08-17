@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/teas.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2019-01-16T10:55:40-05:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1616097149018</id>
+    <published>2019-01-16T10:55:40-05:00</published>
+    <updated>2019-01-16T10:55:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/bincho-teapot"/>
+    <title>Bincho Teapot</title>
+    <s:type>teapot</s:type>
+    <s:vendor>Sort of Coal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Teapot_1.jpg?v=1546544619" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sort of Coal<br />
+        <strong>Type: </strong>teapot<br />
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sort of Coal's heat-resistant glass teapot features a beautifully minimalist aesthetic with two sticks of Kishu Binchotan.</p>
+<p>The water used to brew tea has a real effect on its taste. White Charcoal naturally purifies water by adsorbing chlorine and adding minerals to it; softening its taste and turning it into mineral water. In collaboration with MATIAS MOELLENBACH, Sort of Coal has combined the ancient Japanese tradition of Kishu Binchotan with various elements of contemporary Danish design. 650 ml.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Binchotan: Activated White Charcoal</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Start by rinsing the Binchotan under cold tap water. In order to sterilize the Binchotan, it needs to be boiled before use. Place the binchotan in a pot of water and let it rise to a boil for 5 minutes. Turn off the heat, drain the water and let the Binchotan cool in the pot. The teapot is dishwasher safe.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>teapot</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>water bottle</s:tag>
+    <s:tag>water purifiers</s:tag>
+    <s:tag>water vessels + purifiers</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1616097149018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>SOC-BinchoTeapot-SFA</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285943553</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/relax-tea"/>
+    <title>Relax Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBISTE_Relax_Tea_Bags.jpg?v=1494269133" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed using natural ingredients known for their calming + relaxing properties, Dr Jackson’s Relax Tea has been specially formulated to relieve feelings of stress or anxiety.</p>
+<p>This herbal blend combines soothing lemon balm with valerian, a flower that has been used to alleviate mild anxiety and panic attacks since the second century AD, and passion flower, which has a long history of use as a natural remedy for insomnia.</p>
+<p>With a refreshing citrus taste and a fragrant aroma, the Relax Tea can be enjoyed throughout the day for a more serene, balanced outlook, and before bed for a restful night’s sleep.</p>
+<p>• All Natural Ingredients</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Passion Flower (Passiflora incarnate), Lemon Balm (Melissa officinalis), Peppermint (Mentha piperita), Valerian (Valeriana officinalis), Orange Rind (Citrus sinensis), Liquorice (Glycyrrhiza glabra), Aniseed (Pimpinella anisum)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">For a moment of tranquility in a busy day, allow one teabag per person and steep for five minutes in freshly boiled water. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285943553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-RelaxTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285617025</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/expedition-tea"/>
+    <title>Expedition Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Expedition_Tea_Bags.jpg?v=1494269111" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed as an alternative to caffeine, Dr Jackson’s Expedition Tea is packed full of natural ingredients high in antioxidants and minerals to boost energy levels, strengthen the immune system and fight signs of aging.</p>
+<p>Containing baobab funicles (which have six times more antioxidants than green tea), as well as rooibos, honeybush, and licorice, this unique blend has a refreshing, vibrant taste to revitalize your body and enliven the mind.</p>
+<p>Perfect to kick-start your morning and enjoy throughout the day - and as it’s caffeine-free, it won’t impact a peaceful night’s sleep.</p>
+<p>• All Natural Ingredients</p>
+<p>• Caffeine free</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Baobab funicles (Adansonia digitata), Rooibos (Spalanthus linearis), Honeybush (Cyclopia genistoides), Liquorice (Glycyrrhiza glabra)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Awaken your senses and prepare for the day’s adventures by allowing one teabag per person and steeping in freshly boiled water for five minutes. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285617025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-ExpeditionTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285577921</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/detox-tea"/>
+    <title>Detox Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Detox_Tea_Bags.jpg?v=1494269101" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Formulated to cleanse + purify following a period of indulgence, Dr Jackson’s Detox Tea is blended using natural ingredients to refresh and restore your system.</p>
+<p>Centered around digestion-boosting fennel, this reviving tea also contains elderflower, aniseed and senna fruit to help de-bloat and rid the body of harmful toxins and free radicals. Spanish licorice, known for its calming properties, lends a naturally sweet taste.</p>
+<p>• All Natural Ingredients</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fennel (Feniculum vulgare), Elderflowers (Sambucus racemosa), Aniseed (Pimpinella anisum), Liquorice (Glycyrrhiza glabra), Senna Fruit (Cassia officinalis)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Enjoy once in the morning and once in the evening over a 4-5 day period to give your body a renewed sense of wellbeing. Ideal as an after dinner digestif or for helping your body recuperate and reset after a bout of hedonism, allow one teabag per person and steep in freshly boiled water for five minutes. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285577921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-DetoxTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9121343169</id>
+    <published>2017-04-03T14:38:00-04:00</published>
+    <updated>2017-04-03T14:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fortified-calming-tea-refill"/>
+    <title>Sleep Welle Calming Tea Refill Pack</title>
+    <s:type>Tea</s:type>
+    <s:vendor>WelleCo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sleep_Tea_Refill.jpg?v=1491244611" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WelleCo<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleep Welle Calming Tea is a natural and effective blend of herbs perfect before bed if you have difficulty sleeping, but also effective during the day when you need a moment of stillness and calm.</p>
+<p>These three powerful ingredients are combined with Lemon balm, passion flower and natural lemon and mango flower to create a mild fruity and soothing drink.</p>
+<p>• 50 tea bags refill</p>
+<p>• Made in Australia</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lemon balm (43%*), Hops (23%*), Valerian root (16%*), Passionflower (6%*), Skullcap, Natural mango flavour, Natural lemon favour. May contain traces of milk, soy, tree nuts, sesame seeds and eggs as product is processed in a facility handling those ingredients. * average quantities</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>sleep</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9121343169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>WelleCo-SleepTeaRefill</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9121334657</id>
+    <published>2017-04-03T14:38:00-04:00</published>
+    <updated>2017-04-03T14:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/fortified-calming-tea-caddy"/>
+    <title>Sleep Welle Calming Tea (Caddy)</title>
+    <s:type>Tea</s:type>
+    <s:vendor>WelleCo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sleep_Tea_Caddy.jpg?v=1491244626" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WelleCo<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleep Welle Calming Tea is a natural and effective blend of herbs perfect before bed if you have difficulty sleeping, but also effective during the day when you need a moment of stillness and calm.</p>
+<p>These three powerful ingredients are combined with Lemon balm, passionflower and natural lemon and mango flower to create a mild fruity and soothing drink.</p>
+<p>• 50 tea bags / 80 g</p>
+<p>• Made in Australia</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lemon balm (43%*), Hops (23%*), Valerian root (16%*), Passionflower (6%*), Skullcap, Natural mango flavor, Natural lemon flavor. May contain traces of milk, soy, tree nuts, sesame seeds and eggs as product is processed in a facility handling those ingredients. * average quantities</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>sleep</s:tag>
+    <s:tag>supplements</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9121334657</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>WelleCo-SleepTeaGlassCaddy</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

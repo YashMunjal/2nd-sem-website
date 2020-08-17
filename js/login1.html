@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width">
+	  <title>JS Bin</title>
+</head>	
+<body>
+	<p id="c">MyAI.com</p>
+	<form class="box" action="result.php" method="POST">
+	<h1>Sign Up</h1>
+	  <input type="text"  placeholder="USERNAME" name="name" class="user" required> 
+	  <input type="password"  placeholder="PASSWORD" class="pass" name="pass" required>
+	  <input type="password"  placeholder="CONFIRM PASSWORD" class="pass" name="confpass" required>
+	  <input type="email" placeholder="EMAIL" class="user" name="email" required >
+	  <center><p class="message">Already Registered? <a href="login page.html" > Sign In</a></p></center>
+	  <input type="submit" value="Register" class="log" name="add" class="log">
+	  <a href="#" >
+	</form>
+	<style>
+	
+	body{
+	  background:#595959;
+	}
+	#c{
+		margin-top:0vw;
+		text-align:center;
+		font-size:5.5vw;
+		color:#6666ff;
+	}
+	.box
+	{
+		margin-top:17vw;
+	  width:27vw;
+	  padding:25px;
+	  position:absolute;
+	  left:50%;
+	  transform:translate(-50%,-50%);
+	  background:#191919;
+	  color:#b3c1d6;
+	  text-align:center;
+	}
+	.user,.pass
+	{
+	  border:0;
+	  background:none;
+	  display:block;
+	  margin:20px auto;
+	  text-align:center;
+	  border:2px solid cyan;
+	  border-radius: 20px;
+	  padding: 16px 15px;
+	  width:17vw;
+	  color:white;
+	  transition: 0.45s;
+	}
+	h1
+	{
+	  color:white;
+	}
+	.user:focus,.pass:focus
+	{
+	  width:280px;
+	  border:2px solid #2ecc71;
+	}
+	.log
+	{
+	  border:0;
+	  background:none;
+	  display:block;
+	  margin:20px auto;
+	  text-align:center;
+	  border:2px solid #2ecc71;
+	  border-radius: 20px;
+	  padding: 14px 40px;
+	  color:white;
+	  transition: 0.45s;
+	  cursor:pointer;
+	}
+	.log:hover,.log:focus
+	{
+	  background-color:#47d147;
+	  cursor:pointer;
+	  
+	}
+	</style>
+	</body>
+</html>

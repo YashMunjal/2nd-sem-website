@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="bootstrap.min.css" rel="stylesheet"> <!--is line ke neeche hi hame apni external css add karni hai upar nahi -->
+    <style>
+
+            body{
+  font-family: 'Mukta', sans-serif;
+    height:100vh;
+    min-height:550px;
+    background-image: url(http://www.planwallpaper.com/static/images/Free-Wallpaper-Nature-Scenes.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+    position:relative;
+    background: linear-gradient(to top, #262626 0%, #F80806FF 100%);
+   
+}
+a{
+  text-decoration:none;
+  color:#444444;
+}
+.login-reg-panel{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align:center;
+    width:70%;
+    right:0;left:0;
+    margin:auto;
+    height:400px;
+    background-color: #000;
+}
+.white-panel{
+    background-color: white;
+    height:500px;
+    position:absolute;
+    top:-50px;
+    width:50%;
+    right:calc(50% - 50px);
+    transition:.3s ease-in-out;
+    z-index:0;
+    box-shadow: 0 0 15px 9px #00000096;
+}
+.login-reg-panel input[type="radio"]{
+    position:relative;
+    display:none;
+}
+.login-reg-panel{
+    color:#B8B8B8;
+}
+.login-reg-panel #label-login, 
+.login-reg-panel #label-register{
+    border:1px solid #9E9E9E;
+    padding:5px 5px;
+    width:150px;
+    display:block;
+    text-align:center;
+    border-radius:10px;
+    cursor:pointer;
+    font-weight: 600;
+    font-size: 18px;
+}
+.login-info-box{
+    width:30%;
+    padding:0 50px;
+    top:20%;
+    left:0;
+    position:absolute;
+    text-align:left;
+}
+.register-info-box{
+    width:30%;
+    padding:0 50px;
+    top:20%;
+    right:0;
+    position:absolute;
+    text-align:left;
+    
+}
+
+
+.register-show{
+    z-index: 1;
+    
+    color:#242424;
+    text-align:left;
+    padding:50px;
+}
+.show-log-panel{
+    display:block;
+    opacity:0.9;
+}
+
+
+.register-show input[type="text"], .register-show input[type="password"]{
+    width: 100%;
+    display: block;
+    margin:20px 0;
+    padding: 15px;
+    border: 1px solid #b5b5b5;
+    outline: none;
+}
+.register-show input[type="button"] {
+    max-width: 150px;
+    width: 100%;
+    background: #444444;
+    color: #f9f9f9;
+    border: none;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 2px;
+    float:right;
+    cursor:pointer;
+}
+
+a{
+  text-decoration:none;
+  color:#2c7715;
+}
+    </style>
+
+    <script src="jquery-3.3.1.js"></script>
+   
+    </script>
+
+
+</head>
+
+<body>
+       
+
+       <div class="login-reg-panel">
+        
+                            
+        <div class="register-info-box">
+            <h2>Don't have an account with us yet?</h2>
+            
+            <label id="label-login" for="log-login-show"><a href="new sign up.html">Sign Up</a></label>
+            <input type="radio" name="active-log-panel" id="log-login-show">
+        </div>
+                            
+        <div class="white-panel">
+            <div class="register-show">
+                <h2>Login</h2><br>
+                 <input type="text" placeholder="Username" required>                
+                <input type="password" placeholder="Password" required>                
+                <input type="button" value="Login">
+            </div>
+        </div>
+    </div>
+
+
+    <script src="bootstrap.min.js"></script>
+    
+  </body>
+</html>

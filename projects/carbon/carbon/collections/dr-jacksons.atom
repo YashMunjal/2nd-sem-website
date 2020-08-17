@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/dr-jacksons.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-10-08T16:56:37-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1483981979738</id>
+    <published>2018-10-08T16:56:37-04:00</published>
+    <updated>2018-10-08T16:56:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/baobab-rose-oil"/>
+    <title>Baobab &amp; Rose Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Baobab_10ml.jpg?v=1539032157" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            21.00 - 99.00
+            <a href="https://www.carbonbeauty.com/products/baobab-rose-oil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>NOURISHING - RESTORATIVE - RELAXING</strong></p>
+<p>Self-care in a bottle, the moisturizing formula of this natural oil blend penetrates deeply into the skin to nourish and soften. Dr Jackson's has souped up their go-to baobab oil with damask rose oil, one of the most sought-after (and therefore expensive!) oils in the world. So if you’re feeling decadent, treat yourself to a luxurious massage or add a few drops to your evening bath. Cocoon yourself in the relaxing aroma and let your cares slip away.</p>
+<p>• Suitable for All Skin Types</p>
+<p>• Slight variations in color may occur due to environmental and seasonal effects on plants used to produce natural ingredients</p>
+<p>• Never tested on animals</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Sweet Almond (Prunus Amygdalus Dulcis) Oil, Passionflower (Passiflora Incarnata) Seed Oil, Squalane, Sunflower (Helianthus Annuus) Seed Oil, Papaya (Carica Papaya) Seed Oil, Evening Primrose (Oenothera Biennis) Seed Oil, Rosehip (Rosa Canina) Fruit Oil, Baobab (Adansonia Digitata) Seed Oil, Marula (Sclerocarya Birrea) Seed Oil, Sea Buckthorn (Hippophae Rhamnoides) Fruit Oil, Arnica (Arnica Montana) Flower Extract, Calendula (Calendula Officinalis) Flower Extract, Patchouli (Pogostemon Cablin) Oil, Palmarosa (Cymbopogon Martinii) Oil, Rose Geranium (Pelargonium Graveolens) Flower Oil, Damask Rose (Rosa Damascena) Flower Oil, Tocopherol, Limonene+, Linalool+, Citral+, Citronellol+, Geraniol+ 100% Natural Ingredients, +Naturally occurs in essential oils</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Enjoy as a relaxing aromatherapy massage or bath oil. Use as needed to moisturize your skin or to simply enhance your sense of wellbeing. Apply a little to the palms of your hands, breathe deeply and enjoy a moment of relaxation on the go.</p>
+<p>Consult your healthcare practitioner prior to use if pregnant or breastfeeding due to natural essential oil content.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1483981979738</id>
+      <title>10 ml Roller</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>DrJ-BaobabRose10mlRoller-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1483981979738</id>
+      <title>50 ml Bottle</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>DrJ-BaobabRose50ml-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9728814401</id>
+    <published>2017-06-20T14:14:49-04:00</published>
+    <updated>2017-06-20T14:14:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/06-body-perfecting-gel"/>
+    <title>06 Body Perfecting Gel</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Body_Perfecting_Gel.jpg?v=1497982443" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This exhilarating gel is rich in antioxidants to moisturize, revitalize + retexturize the skin. Containing sea buckthorn, kigelia, baobab, orange flower (neroli) and patchouli, the 06 Body Perfecting Gel is a light yet decadent formula that visibly tightens + firms skin all over the body, giving it a silky, lustrous feel. Ideal for use post-gym or yoga, the restorative aroma of patchouli acts as a soft base scent for your perfume or cologne.</p>
+<p>• Suitable for all skin types</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<p>• 6.76 oz / 200 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Glycerin, Polysorbate 20, Hippophae Rhamnoides (Sea Buckthorn) Oil, Adansonia Digitata (Baobab) Seed Oil, Kigelia Africana Fruit Extract, Olea Europaea (Olive) Fruit Extract, Aloe Barbadensis Leaf Juice Powder, Daucus Carota Sativa (Carrot) Seed Oil, Citrus Aurantium Amara (Bitter Orange) Flower Oil, Pogostemon Cablin (Patchouli) Oil, Carbomer, Triethanolamine, Alcohol Denat., Phenoxyethanol, Ethylhexylglycerin, Limonene+, Linalool+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use all over after showering.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>baobab</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>kigelia</s:tag>
+    <s:tag>sea buckthorn</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9728814401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.00</s:price>
+      <s:sku>DrJackson-06BodyPerfGel</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285943553</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/relax-tea"/>
+    <title>Relax Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBISTE_Relax_Tea_Bags.jpg?v=1494269133" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed using natural ingredients known for their calming + relaxing properties, Dr Jackson’s Relax Tea has been specially formulated to relieve feelings of stress or anxiety.</p>
+<p>This herbal blend combines soothing lemon balm with valerian, a flower that has been used to alleviate mild anxiety and panic attacks since the second century AD, and passion flower, which has a long history of use as a natural remedy for insomnia.</p>
+<p>With a refreshing citrus taste and a fragrant aroma, the Relax Tea can be enjoyed throughout the day for a more serene, balanced outlook, and before bed for a restful night’s sleep.</p>
+<p>• All Natural Ingredients</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Passion Flower (Passiflora incarnate), Lemon Balm (Melissa officinalis), Peppermint (Mentha piperita), Valerian (Valeriana officinalis), Orange Rind (Citrus sinensis), Liquorice (Glycyrrhiza glabra), Aniseed (Pimpinella anisum)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">For a moment of tranquility in a busy day, allow one teabag per person and steep for five minutes in freshly boiled water. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285943553</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-RelaxTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285617025</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/expedition-tea"/>
+    <title>Expedition Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Expedition_Tea_Bags.jpg?v=1494269111" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Developed as an alternative to caffeine, Dr Jackson’s Expedition Tea is packed full of natural ingredients high in antioxidants and minerals to boost energy levels, strengthen the immune system and fight signs of aging.</p>
+<p>Containing baobab funicles (which have six times more antioxidants than green tea), as well as rooibos, honeybush, and licorice, this unique blend has a refreshing, vibrant taste to revitalize your body and enliven the mind.</p>
+<p>Perfect to kick-start your morning and enjoy throughout the day - and as it’s caffeine-free, it won’t impact a peaceful night’s sleep.</p>
+<p>• All Natural Ingredients</p>
+<p>• Caffeine free</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Baobab funicles (Adansonia digitata), Rooibos (Spalanthus linearis), Honeybush (Cyclopia genistoides), Liquorice (Glycyrrhiza glabra)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Awaken your senses and prepare for the day’s adventures by allowing one teabag per person and steeping in freshly boiled water for five minutes. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285617025</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-ExpeditionTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285577921</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/detox-tea"/>
+    <title>Detox Tea</title>
+    <s:type>Tea</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Detox_Tea_Bags.jpg?v=1494269101" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Tea<br />
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Formulated to cleanse + purify following a period of indulgence, Dr Jackson’s Detox Tea is blended using natural ingredients to refresh and restore your system.</p>
+<p>Centered around digestion-boosting fennel, this reviving tea also contains elderflower, aniseed and senna fruit to help de-bloat and rid the body of harmful toxins and free radicals. Spanish licorice, known for its calming properties, lends a naturally sweet taste.</p>
+<p>• All Natural Ingredients</p>
+<p>• Contains 21 tea bags</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Fennel (Feniculum vulgare), Elderflowers (Sambucus racemosa), Aniseed (Pimpinella anisum), Liquorice (Glycyrrhiza glabra), Senna Fruit (Cassia officinalis)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Enjoy once in the morning and once in the evening over a 4-5 day period to give your body a renewed sense of wellbeing. Ideal as an after dinner digestif or for helping your body recuperate and reset after a bout of hedonism, allow one teabag per person and steep in freshly boiled water for five minutes. Can also be enjoyed as a cooling drink in warmer weather: allow one teabag per 500ml water, leave to infuse overnight in the fridge and serve over ice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all wellness</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>pantry</s:tag>
+    <s:tag>tea</s:tag>
+    <s:tag>teas</s:tag>
+    <s:tag>wellness</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285577921</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DrJackson-DetoxTeaBags</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285512897</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/05-face-eye-essence"/>
+    <title>05 Face + Eye Essence</title>
+    <s:type>Eye Serum</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_05_Face_Eye_Essence.jpg?v=1494269035" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Eye Serum<br />
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cooling, fragrant essence refreshes the face + eye area, with skin-firming botanicals to revitalize jet-lagged, overexposed or post-workout skin. Containing damask rose flower water, aloe leaf juice, baobab seed oil, kigelia fruit extract and Roman chamomile flower, the 05 Face &amp; Eye Essence’s natural ingredients are rich in Vitamin C, enlivening, nourishing and tightening the skin for a healthy, youthful glow. A light and soothing formula, the 05 Face &amp; Eye Essence is perfect for sensitive skin.</p>
+<p>• Suitable for all skin types, gentle on sensitive skin</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 1.69 oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Rosa Damascena Flower Water, Citrus Aurantium Amara (Bitter Orange) Flower Water, Polysorbate 20, Glycerin, Carbomer, Aloe Barbadensis Leaf Juice Powder, Triethanolamine, Adansonia Digitata (Baobab) Seed Oil, Sclerocarya Birrea (Marula) Seed Oil, Kigelia Africana Fruit Extract, Pelargonium Graveolens (Rose Geranium) Flower Oil, Anthemis Nobilis (Roman Chamomile) Flower Oil, Pogostemon Cablin (Patchouli) Oil, Phenoxyethanol, Ethylhexylglycerin, Citral+, Geraniol+, Citronellol+, Limonene+, Linalool+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily after cleansing and allow to absorb before applying cream</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baobab</s:tag>
+    <s:tag>chamomile</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>kigelia</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285512897</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>DrJackson-05FaceEyeEssence50ml</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285404545</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/04-coconut-melt"/>
+    <title>04 Coconut Melt</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Coconut_Melt_15ml.jpg?v=1494269002" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Body Lotion<br />
+        <strong>Price: </strong>
+            16.00 - 33.00
+            <a href="https://www.carbonbeauty.com/products/04-coconut-melt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This ‘everything’ balm contains 100% certified organic coconut oil, known for its rehydrating, emollient and elasticizing properties. Solid at room temperature but melting upon touch, the 04 Coconut Melt is perfect for soothing dryness, smoothing the appearance of fine lines and illuminating the complexion. The 15ml pot is ideal for use on the go whenever you need a fast-acting, moisturizing fix for your skin or hair - whether to soften lips and cuticles, act as a natural highlighter for cheekbones, or condition split ends.</p>
+<p>• Suitable for all skin types, gentle on sensitive skin</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cocos Nucifera (Coconut) Oil (100% Organic)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use externally as needed. As coconut oil naturally liquefies and solidifies in response to changes in temperature, we recommend storing in a cool, dry place and refrigerating at temperatures above 23°C (74°F).</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all bath &amp; body</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>bath &amp; body</s:tag>
+    <s:tag>body moisturizers</s:tag>
+    <s:tag>coconut</s:tag>
+    <s:tag>coconut oil</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>summer 2017</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285404545</id>
+      <title>15 ml</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DrJackson-04CoconutMelt15ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285404545</id>
+      <title>50 ml</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>DrJackson-04CoconutMelt50ml</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285361537</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/03-everyday-oil"/>
+    <title>03 Everyday Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Everyday_Oil.jpg?v=1494268891" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This all-natural, moisturizing oil blend is wonderfully versatile, with a myriad of powers - from conditioning hair + cuticles to rehydrating skin after shaving. Perfect for everyday use and ideal for problem skin, the 03 Face Oil is a nourishing elixir containing baobab seed oil, marula seed oil, calendula flower extract and arnica flower extract.</p>
+<p>Naturally possessing a unique mix of oleic acid and linoleic acid, baobab oil evens out skin tone and improves elasticity for a smooth, youthful finish. Moisture-rich marula hydrates + softens, while calming calendula and soothing arnica fight imperfections for a clear complexion and a revitalized glow.</p>
+<p>• Suitable for all skin types, gentle on sensitive skin</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free, Cruelty free</p>
+<p>• 10 ml travel-friendly roll-on</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Prunus Amygdalus Dulcis (Sweet Almond) Oil, Triticum Vulgare (Wheat) Germ Oil, Helianthus Annuus (Sunflower) Seed Oil, Rosa Canina Fruit Oil, Oenothera Biennis (Evening Primrose) Oil, Adansonia Digitata (Baobab) Seed Oil, Sclerocarya Birrea (Marula) Seed Oil, Pelargonium Graveolens Flower Oil, Anthemis Nobilis (Roman Chamomile) Flower Oil, Pogostemon Cablin (Patchouli) Oil, Arnica Montana Flower Extract, Calendula Officinalis Flower Extract, Tocopherol, Citral+, Geraniol+, Citronellol+, Limonene+, Linalool+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a few drops for a deeply regenerative boost or use as needed to spot-treat dry areas.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baobab oil</s:tag>
+    <s:tag>calendula</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>evening primrose oil</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>marula oil</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>summer 2017</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285361537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>DrJackson-03EverydayOil10ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285324225</id>
+    <published>2017-05-08T15:32:29-04:00</published>
+    <updated>2017-05-08T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/03-face-oil"/>
+    <title>03 Face Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_03_Everyday_Oil_Cap_Off.jpg?v=1494268960" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            45.00 - 83.00
+            <a href="https://www.carbonbeauty.com/products/03-face-oil">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This all-natural, moisturizing oil blend is wonderfully versatile, with a myriad of powers - from conditioning hair + cuticles to rehydrating skin after shaving. Perfect for everyday use and ideal for problem skin, the 03 Face Oil is a nourishing elixir containing baobab seed oil, marula seed oil, calendula flower extract and arnica flower extract.</p>
+<p>Naturally possessing a unique mix of oleic acid and linoleic acid, baobab oil evens out skin tone and improves elasticity for a smooth, youthful finish. Moisture-rich marula hydrates + softens, while calming calendula and soothing arnica fight imperfections for a clear complexion and a revitalized glow.</p>
+<p>• Suitable for all skin types, gentle on sensitive skin</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Prunus Amygdalus Dulcis (Sweet Almond) Oil, Triticum Vulgare (Wheat) Germ Oil, Helianthus Annuus (Sunflower) Seed Oil, Rosa Canina Fruit Oil, Oenothera Biennis (Evening Primrose) Oil, Adansonia Digitata (Baobab) Seed Oil, Sclerocarya Birrea (Marula) Seed Oil, Pelargonium Graveolens Flower Oil, Anthemis Nobilis (Roman Chamomile) Flower Oil, Pogostemon Cablin (Patchouli) Oil, Arnica Montana Flower Extract, Calendula Officinalis Flower Extract, Tocopherol, Citral+, Geraniol+, Citronellol+, Limonene+, Linalool+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a few drops for a deeply regenerative boost or use as needed to spot-treat dry areas.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baobab oil</s:tag>
+    <s:tag>calendula</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>evening primrose oil</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>marula oil</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285324225</id>
+      <title>25 ml</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>DrJackson-03FaceOil25ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285324225</id>
+      <title>50 ml</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>DrJackson-03FaceOil50ml</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285281537</id>
+    <published>2017-05-08T15:32:28-04:00</published>
+    <updated>2017-05-08T15:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/02-night-cream"/>
+    <title>02 Night Cream</title>
+    <s:type>Night Cream</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_02_Night_Cream_50ml.jpg?v=1494268862" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Night Cream<br />
+        <strong>Price: </strong>
+            62.00 - 120.00
+            <a href="https://www.carbonbeauty.com/products/02-night-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This intensely moisturizing cream is perfect for night-time use, containing fragrant botanics with a relaxing aroma to help you drift off and enrich the skin while you sleep. A replenishing formula combining baobab seed oil, mango seed butter, kigelia fruit extract and frankincense tree resin, the 02 Night Skin Cream’s natural ingredients work together to nourish, hydrate and soften the skin, giving you a refreshed and radiant complexion upon waking.</p>
+<p>Fatty acid-rich baobab and emollient mango seed alleviate dryness and improve elasticity for regenerated and rejuvenated skin. Kigelia and frankincense work in harmony to calm, soothe and plump the skin for a seamless, imperfection-free finish.</p>
+<p>• Suitable for all skin types</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Triticum Vulgare (Wheat) Germ Oil, Adansonia Digitata (Baobab) Seed Oil, Sclerocarya Birrea (Marula) Seed Oil, Glyceryl Stearate, Cetearyl Alcohol, Cetyl Alcohol, Mangifera Indica (Mango) Seed Butter, Cocos Nucifera (Coconut) Oil, Glycerin, Kigelia Africana Fruit Extract, Olea Europaea (Olive) Leaf Extract, Vaccinium Macrocarpon (Cranberry) Seed Oil, Anthemis Nobilis (Roman Chamomile) Flower Extract, Lavandula Angustifolia (Lavender) Flower Extract, Panax Ginseng (Ginseng) Root Extract, Symphytum Officinale (Comfrey) Leaf Extract, Boswellia Carterii (Frankincense) Oil, Vanilla Planifolia Fruit Extract, Helianthus Annuus (Sunflower) Seed Oil, Tocopherol, Alcohol Denat., Benzyl Alcohol, Dehydroacetic Acid, Limonene+ (+ naturally occurs in essential oils)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use nightly after cleansing.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baobab oil</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>frankincense</s:tag>
+    <s:tag>kigelia</s:tag>
+    <s:tag>mango butter</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>night cream</s:tag>
+    <s:tag>night treatment</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285281537</id>
+      <title>50 ml</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>DrJackson-02NightCream50ml</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285281537</id>
+      <title>30 ml</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>DrJackson-02NightCream30ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9285216257</id>
+    <published>2017-05-08T15:32:28-04:00</published>
+    <updated>2017-05-08T15:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/01-day-cream"/>
+    <title>01 Day Cream</title>
+    <s:type>Facial Moisturizer</s:type>
+    <s:vendor>Dr Jackson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_01_Day_Cream_50ml.jpg?v=1494268807" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Jackson&#39;s<br />
+        <strong>Type: </strong>Facial Moisturizer<br />
+        <strong>Price: </strong>
+            62.00 - 120.00
+            <a href="https://www.carbonbeauty.com/products/01-day-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, moisturizing cream keeps face + body hydrated throughout the day, with SPF 20 to protect the skin against harmful UVA/UVB rays. A nourishing formula containing kigelia fruit extract, shea fruit butter, baobab seed oil and marula seed oil, the 01 Day Cream’s natural ingredients work in synergy to deliver a smooth, clear complexion and a silken finish.</p>
+<p>Kigelia’s calming and soothing properties are ideal for problem skin, working to erase imperfections and even out skin tone. High in fatty acids, baobab encourages regeneration and promotes elasticity, visibly tightening the skin and diminishing scarring. Moisture-rich marula and shea retexturize and rejuvenate for an impossibly soft, youthful skin surface.</p>
+<p>• Suitable for all skin types</p>
+<p>• All Natural Ingredients</p>
+<p>• Paraben free, Sulfate free</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua, Dicaprylyl Carbonate, Glycerin, Ethylhexyl Methoxycinnamate, Alcohol Denat., Butyl Methoxydibenzoylmethane, Cetearyl Olivate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Octocrylene, Cyclopentasiloxane, Dimethicone, Kigelia Africana Fruit Extract, Polyacrylamide, Butyrospermum Parkii (Shea) Butter, Phenoxyethanol, Adansonia Digitata (Baobab) Seed Oil, Sclerocarya Birrea (Marula) Seed Oil, C13-14 Isoparaffin, Laureth-7, Benzoic acid, Dehydroacetic Acid, Sodium Lactate, Disodium EDTA</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily after cleansing.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baobab oil</s:tag>
+    <s:tag>dr jackson</s:tag>
+    <s:tag>dr. jackson&apos;s</s:tag>
+    <s:tag>kigelia</s:tag>
+    <s:tag>marula oil</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>shea butter</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>summer 2017</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285216257</id>
+      <title>50 ml</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>DrJackson-01DayCream50ml</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9285216257</id>
+      <title>30 ml</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>DrJackson-01DayCream30ml</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

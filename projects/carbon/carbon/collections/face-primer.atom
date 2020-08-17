@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/face-primer.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-07-25T16:35:06-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1340247736410</id>
+    <published>2018-07-25T16:35:06-04:00</published>
+    <updated>2018-07-25T16:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/clarifying-cream"/>
+    <title>Clarifying Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Zyderma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Zyderma_Clarifying_Cream.jpg?v=1532550873" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zyderma<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The unique combination of skin nurturing ingredients and MicroSilver BG helps support the skins healthy appearance, while cleansing the skin of harmful bacteria.</p>
+<p><strong>For</strong>: All skin types &amp; all ages who suffer from acne-prone (mild-moderate) and problem skin (eczema, rosacea, psoriasis).</p>
+<p>The porous MicroSilver BG™﻿ particles in Zyderma's Clarifying Cream formula provide a high and sustained microbial cleansing action by continuously releasing silver ions. This reduces the impact of bacteria and microorganisms and supports the skin’s natural healing process.</p>
+<p>While Zyderma HS safely cleanses the bacteria from the skin, it also produces a calming effect on areas with a tendency for inflammation (it is very effective in reducing redness and inflammation associated with hormonal breakouts and flare-ups). MicroSilver BGTM has been proven to be effective on acne prone &amp; problem skin. Studies have shown that Microsilver BGTM helps the skin show significant improvement in as early as 3-4 days.</p>
+<p>Helps regulate the skin’s microflora &amp; strengthens the skin’s resistance to colonization of bacteria</p>
+<div style="padding-left: 20px;">- Supports the skin’s natural healing process</div>
+<div style="padding-left: 20px;">- Perfectly suited for daily skincare</div>
+<div style="padding-left: 20px;">- Supports the skin even under makeup</div>
+<div style="padding-left: 20px;">- Lasts up to 24 hrs, or until rinsed off</div>
+<div style="padding-left: 20px;"></div>
+<p> </p>
+<p>• Leaping Bunny &amp; PETA approved</p>
+<p>• Rates clean “0” on ThinkDirty</p>
+<p>• All ingredients are Eco-Certified</p>
+<p>• Free of nano particles, parabens, propylene glycol, oils, alcohol, gluten, animal by-products, fragrances &amp; dyes.</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Cetearyl Olivate, Sorbitan Olivate, Propanediol, Silver, Xanthum Gum.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>We recommend using Zyderma Clarifying Cream for at least a week to see the full benefit of the cream on your skin. Please do not combine with products containing harsh ingredients (eg. salicylic acid, benzoyl peroxide, etc.).</p>
+<p>To be applied twice a day, morning and night (before going to bed): Prepare the skin by removing makeup and other product residues. Wash face with a mild, or gentle cleanser. Pat the skin dry with a clean towel. Apply a thin layer of Clarifying Cream, gently massaging into skin until product disappears. No need to over apply, as a little goes a long way. Do not rinse off. Note: Any serums should be applied before Zyderma HS; whereas all other products, such as moisturizers, anti-aging creams, sunscreens and makeup can be applied after.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne</s:tag>
+    <s:tag>acne cream</s:tag>
+    <s:tag>acne lotion</s:tag>
+    <s:tag>acne treatment</s:tag>
+    <s:tag>all men&apos;s skin care</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>footcare</s:tag>
+    <s:tag>men&apos;s hands</s:tag>
+    <s:tag>men&apos;s skincare</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1340247736410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>Zyderma-ClarifyingCream-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/449088520223</id>
+    <published>2018-02-25T13:19:42-05:00</published>
+    <updated>2018-02-25T13:19:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/ambar-daily-antioxidant-primer"/>
+    <title>AMBAR Daily Antioxidant Primer</title>
+    <s:type>primer</s:type>
+    <s:vendor>Ambar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Antioxidant_Primer.jpg?v=1519582758" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ambar<br />
+        <strong>Type: </strong>primer<br />
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A powerful daily protectant against pollution, UV light, and free radicals.</p>
+<p>Lightweight moisture sinks in instantly with synthetic antioxidants boasting numerous times the power of Vitamins C &amp; E against a broad spectrum of free radical species, plus greater stability.</p>
+<p>Bamboo extract and murumuru butter act like natural silicone and Tonka Bean bio ferment helps disperse light for a soft focus glow.</p>
+<p>• .98 oz / 29 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Water/Aqua, Lactobacillus/Arundinaria Gigantea (Bamboo) Leaf Ferment Filtrate, Astrocaryum Murumuru Seed Butter*, Lactobacillus/Dipteryx Odorata Seed (Tonka Bean) Ferment Filtrate, Leuconostoc/Radish Root Ferment Filtrate, Mauritia Flexuosa Fruit Oil*, Dipalmitoyl Hydroxyproline, Coconut Acid, Salvia Hispanica Seed Extract, Dehydroxanthan Gum, Tamarindus Indica (Tamarind) Seed Extract, Sorbitan Laurate, Polyglyceryl-4 Laurate, Dilauryl Citrate, Dimethylmethoxy Chromanol, Citrus Bergamia (Bergamot) FCF Oil, Cymbopogon Martini (Palmarosa) Oil*, Kaempferia Galanga CO2 Extract*</p>
+<p>* Organic/Wildcrafted</p>
+<p>100% non-toxic, safe and gentle ingredients</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>Apply sparingly to clean skin. Multi-functional as a primer, light moisturizer, sun protection booster, post-sun remedy and powerful anti-aging agent. Can also be used as a daily hydrating eye treatment.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all face makeup</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup primer</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>primer</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/449088520223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>AMBAR-AntioxPrimer-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9988302337</id>
+    <published>2017-08-03T12:39:50-04:00</published>
+    <updated>2017-08-03T12:39:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/beauty-whip"/>
+    <title>Beauty Whip</title>
+    <s:type>Facial Mask</s:type>
+    <s:vendor>Skin Owl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Beauty_Whip.jpg?v=1501778357" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Owl<br />
+        <strong>Type: </strong>Facial Mask<br />
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discover the beauty benefits behind this all-in-one face mask, makeup primer, and Beauty Drops booster. One application reveals the look of intense moisture, even texture + tone, and a visibly brighter complexion.</p>
+<p>This gentle, creamy skin-drenching mask is boosted with fierce hydrators like Hyaluronic Acid, Organic Olive and Jojoba Oils, plus antioxidant rich Patagonian Maqui Berry, Organic Rooibos, toning DMAE, and smoothing MSM. Intended for all skin types.</p>
+<p>• All Natural + Organic Ingredients</p>
+<p>• Vegan, Gluten free, Cruelty free</p>
+<p>• 2 oz / 57 g</p>
+<p><strong>Founder's Tip</strong>: I love mixing one pump's worth with my Geranium Beauty Drops. It acts as a moisture booster and a makeup primer. I keep it in the fridge for extra plumping.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Organic Aloe Leaf Juice (Aloe Barbadensis), Organic Olive Fruit Oil (Olea Europaea), Organic Alcohol, Organic Jojoba Seed Oil (Simmondsia Chinensis), Emulsifying Wax (Cetyl Alcohol, Stearyl Alcohol, Lecithin), Stearic Acid, Hyaluronic Acid, MSM (Dimethyl Sulfone), DMAE Bitartrate (Dimethylaminoethanol Bitartrate), Rosehip Seed Oil (Rosa Canina), Organic Evening Primrose Oil (Oenothera Biennis), Organic Rooibos Leaf Extract (Aspalathus Linearis), Organic Lavender Extract (Lavandula Angustifolia), Maqui Berry (Aristotelia chilensis) Concentrate Powder, Organic Calendula Flower Extract (Calendula Officinalis), Organic Green Tea Leaf Extract (Camellia Sinensis), Organic White Tea Leaf Extract (Camellia Sinensis), Vitamin E (Tocopherol), Sunflower Seed Oil (Helianthus Annuus), Xanthan Gum</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a thin layer to cleansed skin, avoiding eye area. Leave on for up to thirty minutes. Can be used as an overnight mask and rinsed off in the morning. Follow with the Beauty Drops of your choice. Best when refrigerated.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>dmae</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>facial masks</s:tag>
+    <s:tag>gift list</s:tag>
+    <s:tag>hyaluronic acid</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup primer</s:tag>
+    <s:tag>maqui berry</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>msm</s:tag>
+    <s:tag>primer</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9988302337</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>SkinOwl-BeautyWhip</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/9850847809</id>
+    <published>2017-07-10T16:23:40-04:00</published>
+    <updated>2017-07-10T16:23:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/base-glow-sheer-light"/>
+    <title>Base Glow Sheer Light</title>
+    <s:type>Makeup</s:type>
+    <s:vendor>1/1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Base_Glow_1.jpg?v=1499635520" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>1/1<br />
+        <strong>Type: </strong>Makeup<br />
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A translucent, all-over liquid glow that gives skin a subtle, radiant warmth.</p>
+<p>• 94% Natural : 21% Organic</p>
+<p><strong>Organic Sesame Oil</strong>: A natural skin hydrator high in linoleic acid to boost radiance and seal in essential moisture.</p>
+<p><strong>Organic Thyme Leaf</strong>: An herbal extract that balances oil production and prevents shine while minimizing breakouts.</p>
+<p><strong>Organic Rosemary Leaf</strong>: A nutrient-dense extract high in antioxidants to fight free radicals and bacteria while toning skin.</p>
+<p><strong>Organic Green Tea Leaf</strong>: A potent skin superfood that preserves elasticity with glow-boosting antioxidants and polyphenols.</p>
+<p><strong>Avocado Oil</strong>: A soothing oil high in sterolin, a nutrient known to soften skin and prevent age spots.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water (Aqua), Glycerin, Pentylene Glycol, Bisabolol, Citrus Aurantium Amara (Bitter Orange) Flower Extract, Persea Gratissima (Avocado) Oil, Sesamum Indicum (Sesame) Seed Oil*, Polyglyceryl-2 Oleate, Polyhydroxystearic Acid, Polyglyceryl-2 Stearate, Trioctyldodecyl Citrate, Coco-caprylate, Jojoba Esters, Polyhydroxystearic Acid, Thymus Vulgaris (Thyme) Leaf*, Rosmarinus Officinalis (Rosemary) Leaf*, Salvia Officinalis (Sage) Leaf*, Camellia Sinensis (Green Tea) Leaf*, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Citrus Aurantium Dulcis (Orange) Peel Wax, Tocopherol, Phenethyl Alcohol, Ethylhexylglycerin. May Contain: Mica, Titanium Dioxide, Iron Oxide (CI 77491, CI 77492, CI 77499)</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">A good night’s sleep gives the best natural glow. Enhance it with a sheer layer of our Base Glow over your entire face or dab wherever light naturally falls.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>face makeup</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>foundation</s:tag>
+    <s:tag>foundation + tinted moisturizer</s:tag>
+    <s:tag>green tea</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>primer</s:tag>
+    <s:tag>rosemary oil</s:tag>
+    <s:tag>thyme</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/9850847809</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>1over1-BaseGlowSheerLight</s:sku>
+      <s:grams>269</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/7598727169</id>
+    <published>2016-08-29T11:29:00-04:00</published>
+    <updated>2016-08-29T11:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/green-tea-primer"/>
+    <title>Green Tea Primer</title>
+    <s:type>primer</s:type>
+    <s:vendor>Evelyn Iona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Green_Tea_Primer.jpg?v=1472484543" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Evelyn Iona<br />
+        <strong>Type: </strong>primer<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prep and protect your skin with this hydrating, antioxidant-rich, skin-friendly formula made with Organic Green Tea! Creates a smooth canvas for makeup application, reduces the look of lines and pores and will help your makeup last!</p>
+<p>• Natural + Organic</p>
+<p>• Vegan, Cruelty free</p>
+<p>• Paraben free, Sulfate free</p>
+<p>• Made in the USA</p>
+<p>• 1 oz / 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aqua (Water), Orvanic Aloe Barbadensis Leaf (Aloe Gel), Jojoba Oil, Jojoba Wax Esters, Oryza Sativa (Rice) Starch, Tocopherol (Vitamin E) Sodium Ascorbate (Vitamin C) Euphorbia Cerifera (Candelilla) Wax, Extracts of Organic Camelia Sinensis Leaf Ferment ( Green Tea), Resveratrol, Silica, Lonicera Caprifolium (Japanese Honeysuckle) Neopein, Rosa Mosquesta (Rosehip) Fruit Oil, Hydroxyethylcellulose. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content"></div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all makeup</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>primer</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/7598727169</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>EvelynIona-GreenTeaPrimer</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+</feed>

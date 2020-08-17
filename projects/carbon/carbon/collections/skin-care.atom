@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/skin-care.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2019-04-23T15:29:40-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774791032922</id>
+    <published>2019-04-23T15:29:40-04:00</published>
+    <updated>2019-04-23T15:29:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/turmeric-broad-spectrum-sunscreen-spf-30"/>
+    <title>Turmeric Broad Spectrum Sunscreen SPF 30</title>
+    <s:type>Baby</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Turmeric.jpg?v=1556047267" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Baby<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Easily Absorbed | Easy to Apply (soft texture) | Coral Reef Safe</strong></p>
+<p>0% Synthetics, with 20% Non-Nano Zinc Oxide and Turmeric, an antioxidant that protects from long-term damage caused by UV radiation.</p>
+<p>Made with healing Organic Turmeric Oil &amp; 20% uncoated Zinc Oxide, a super-safe &amp; effective physical blocker, this essential sun protector shields delicate skin with strong antioxidant activity. Non-nano, UVA-UVB-IR broad-spectrum protection ideal for the entire family. Also features: Organic Sea Buckthorn Pulp Oil that helps naturally strengthen skin immunity. Organic Calendula &amp; Shea Butter calm, hydrate and soothe delicate skin. Colorless &amp; easy to apply from head to toe keep your little ones safe, sound &amp; perfectly protected!</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 3.4 oz | 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>SIMMONDSIA CHINENSIS (JOJOBA)SEED OIL*, ZINC OXIDE, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*, CAPRYLIC/CAPRIC TRIGLYCERIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER*, CERA ALBA/BEESWAX*, HYDROGENATED VEGETABLE OIL, GLYCERYL STEARATE, OLEA EUROPAEA (OLIVE) FRUIT OIL*, PARFUM, POLYHYDROXYSTEARIC ACID, HIPPOPHAE RHAMNOIDES (SEABUCKTHORN) FRUIT OIL*, TOCOPHEROL, CURCUMA LONGA (TURMERIC) ROOT EXTRACT*, CALENDULA OFFICINALIS (CALENDULA) FLOWER EXTRACT*.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>100% ingredients of natural origin.</p>
+<p>59.14% ingredients from organic farming**.</p>
+<p>73.93% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Non-Nano SPF 30 Broad Spectrum UVA-UVB-IR Protection is very Water-Resistant and ideal for the entire family. Apply liberally &amp; evenly 15 min prior to sun exposure. Re-apply after 40 min of swimming or sweating &amp; immediately after towel drying, or at least every 2 hours.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>all skincare</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>baby sunscreen</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774791032922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>VIV-TurmSunscreen-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774722711642</id>
+    <published>2019-04-23T15:29:39-04:00</published>
+    <updated>2019-04-23T15:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/geranium-cleansing-water"/>
+    <title>Geranium Cleansing Water</title>
+    <s:type>Baby</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Rose_Geranium.jpg?v=1556047232" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Baby<br />
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Easy and safe cleansing On-the-Go!</strong></p>
+<p>A must-have in any mom’s purse, it can be used instead of a sanitizer (Bonus: also the greenest make-up remover!).</p>
+<p>Organic Rose Hydrosol mildly but effectively helps restore &amp; bring balance to sensitive skin conditions by soothing irritation and underlying inflammation.</p>
+<p>With 98% Organic Rose Geranium Floral Water, this beautiful soap-free skin tonic is designed to gently cleanse, soften &amp; soothe even the most delicate skin. Ophthalmologist-tested &amp; Dermatologist-tested for sensitive skin. PH &lt; 5.5.</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Vegan, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 3.4 oz | 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>ALOE BARBADENSIS LEAF WATER*, GERANIUM ROBERTIANUM EXTRACT*, CAPRYLYL/CAPRYL GLUCOSIDE, AQUA/WATER, SODIUM COCOYL GLUTAMATE, GLYCERYL CAPRYLATE, POLYGLYCERYL-6 OLEATE, SODIUM SURFACTIN, SODIUM HYDROXIDE, CITRUS AURANTIUM AMARA (BITTER ORANGE) FRUIT EXTRACT, OCTANOIC ACID, LACTIC ACID, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>99.55% ingredients of natural origin.</p>
+<p>98.31% ingredients from organic farming**.</p>
+<p>98.31% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply to the skin using a soft cloth or a cotton pad &amp; pat dry - no need to rinse. Ideal for in-between bath time &amp; on-the-go. Can be used also as a make-up remover!</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774722711642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>VIV-GerCleansWater-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774695776346</id>
+    <published>2019-04-23T15:29:39-04:00</published>
+    <updated>2019-04-23T15:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/olive-oil-all-purpose-rescue-balm-gel"/>
+    <title>Olive Oil All Purpose Rescue Balm Gel</title>
+    <s:type>Face Balm</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Olive_Oil.jpg?v=1556046386" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Face Balm<br />
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>A Gentle, Skin-Saver (96.77% Organic) 2-in-1 For</strong>:</p>
+<ul>
+<li>Diaper rash prevention</li>
+<li>For nursing Moms as a nipple balm gel</li>
+<li>Also great for chapped lips, rough rosy cheeks, &amp; cradle cap</li>
+</ul>
+<p>This ultra-nourishing balm-gel magically transforms into a super soothing cream on contact with skin’s own water content to bring instant relief to children’s skin &amp; a parent’s mind! Formulated for face, lips &amp; the delicate diaper area prone to dryness &amp; irritation, this heroic skin-saver is boosted with Organic, Cold Pressed, Extra Virgin Olive Oil from Greece providing multiple skin benefits. Loaded with nutrients &amp; antioxidants like Vitamin E, Organic Sunflower &amp; Sweet Almond Oils elevate the formula’s soothing properties. Shields the skin with essential moisture &amp; provides the mildest nutritional value due to little-to-no processing.</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Vegan, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 2.53 oz | 75 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL*, GLYCERIN*, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL*, SUCROSE LAURATE, OLEA EUROPAEA (OLIVE) FRUIT OIL*, SUCROSE STEARATE, CITRUS AURANTIUM DULCIS (ORANGE) FRUIT WATER*, TOCOPHEROL.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>100% ingredients of natural origin.</p>
+<p>96.77% ingredients from organic farming**.</p>
+<p>96.77% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">For diaper rash prevention: apply a very small amount to diaper area once or twice a day after washing. As a nipple gel for nursing Moms: apply a very small amount before breastfeed. No need for rinsing. Great for chapped lips, rough rosy cheeks and cradle cap. Apply to clean skin a small amount of the balm-gel as often as needed. Avoid eye area.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774695776346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>VIV-OliveOilRescBalm-SFA</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1774667497562</id>
+    <published>2019-04-23T15:29:39-04:00</published>
+    <updated>2019-04-23T15:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/apricot-oil-nourishing-face-body-lotion"/>
+    <title>Apricot Oil Nourishing Face &amp; Body Lotion</title>
+    <s:type>Baby Lotion</s:type>
+    <s:vendor>VIVAIODAYS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Apricot.jpg?v=1556046377" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VIVAIODAYS<br />
+        <strong>Type: </strong>Baby Lotion<br />
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fast absorbing, non-greasy, lightweight lotion</strong></p>
+<p>This around-the-clock nourishing lotion pampers, protects, &amp; promotes a happier baby! For baby massage or anytime baby needs pampering this Ayurvedic inspired blend of organic oils &amp; extracts creates a lightweight, nourishing texture ideal for delicate baby skin. Organic Apricot Kernel Oil helps maintain healthy moisture balance, combat rash &amp; may soothe minor hypersensitive skin conditions such as eczema.</p>
+<p>All organic and natural ingredients used are carefully selected and sourced in order to create effective products to the highest standards possible, resulting in elevated textures ideal for precious littlies ones (and us).</p>
+<p>• Dermatologist-tested for sensitive skin</p>
+<p>• Natural Ingredients, Certified COSMOS Organic, Non-GMO, Gluten-Free, Allergens-Free, Cruelty-Free</p>
+<p>• <strong>Free From</strong>: Parabens, Propylene Glycol, Silicones, Petrochemicals, Ethanolamines, Synthetic Dyes, Alcohol, Phthalates, Wheat/Gluten, Synthetic Fragrance.</p>
+<p>• 3.4 fl oz | 100 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>AQUA/WATER, ALOE BARBADENSIS LEAF WATER*, PRUNUS ARMENIACA (APRICOT) KERNEL OIL*, HEPTYL UNDECYLENATE, CUCUMIS SATIVUS(CUCUMBER) FRUIT WATER*, CETEARYL OLIVATE, SORBITAN OLIVATE, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL*, PULLULAN, GLYCERYL CAPRYLATE, MICROCRYSTALLINE CELLULOSE, GLYCERIN, CERA ALBA/BEESWAX*, TAPIOCA STARCH*, OLEA EUROPAEA (OLIVE) OIL UNSAPONIFIABLES, AVENA SATIVA (OAT) KERNEL OIL*, PARFUM, CELLULOSE GUM, GLYCERYL UNDECYLENATE, TOCOPHEROL, XANTHAN GUM, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, GLYCYRRHIZA GLABRA (LICORICE) ROOT EXTRACT*, TILIA PLATYPHYLLOS (LINDEN) FLOWER EXTRACT*, CITRIC ACID, SODIUM BENZOATE, POTASSIUM SORBATE.</p>
+<p>ALLERGENS: NONE</p>
+<p>*From organic farming.</p>
+<p>99.89% ingredients of natural origin.</p>
+<p>26.96% ingredients from organic farming**.</p>
+<p>65.60% organic of total minus water and minerals.</p>
+<p>**per COSMOS ORGANIC standard, water and minerals do not count on product organic content.</p>
+</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply a small amount of lotion after bathing or anytime moisture is needed. Use it for face &amp; body.</div>
+</article>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>baby lotion</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1774667497562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>VIV-ApricotFacBodLotion-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682412011610</id>
+    <published>2019-03-11T21:56:34-04:00</published>
+    <updated>2019-03-11T21:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-balm-face-stick-spf-30"/>
+    <title>Lip Balm + Face Stick SPF 30</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Balm_Face_Stick.jpg?v=1551984212" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sheer, multi-use Lip Balm and Face Stick provides broad spectrum UV protection, and works to nourish + hydrate skin.</p>
+<p>This SPF 30 jumbo stick is 3x the size of a normal lip balm, and with its multi-tasking abilities, the only one you’ll need to throw in your bag!</p>
+<p>Cocoa Butter is an antioxidant powerhouse, and is also rich in fatty acids, providing deep hydration. Soothing Calendula Flower Extract can help balance the appearance of redness, irritation, and inflammation from free radical damage. Zinc Oxide provides the safest broad spectrum SPF protection, and has natural anti-bacterial properties.</p>
+<p>Nutrient-dense Avocado and Sea Buckthorn Oils are high in Vitamin E and antioxidants, keeping your cheeks and lips nourished in the sun.</p>
+<p>• .56 oz | 17 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredients: ﻿non-nano Zinc Oxide (13%). Ingredients: *Calendula Officinalis (Calendula) Flower Extract, *Calophyllum Inophyllum (Tamanu) Oil, *Cera Flava (Beeswax), *Cocos Nucifera (Coconut) Oil, *Hippophae Rhamnoides (Sea Buckthorn) Oil, Natural Flavor, *Persea Gratissima (Avocado) Oil, *Ricinus Communis (Castor) Seed Oil, *Theobroma Cacao (Cocoa) Seed Butter, Mixed Tocopherols (Vitamin E). *Certified Organic Ingredients</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply liberally 15 minutes prior to sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682412011610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>AKT-LipBalmFaceStick</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682403983450</id>
+    <published>2019-03-11T21:56:34-04:00</published>
+    <updated>2019-03-11T21:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/d-luxe-daily-bronzer-spf30"/>
+    <title>D-Luxe Daily Bronzer SPF 30</title>
+    <s:type>Bronzer</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_D-Luxe_Bronzer.jpg?v=1551984183" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Bronzer<br />
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky, lightweight D-Luxe Daily Bronzer protects skin from UV damage, while providing a healthy, natural bronze glow.</p>
+<p>For a luminous foundation with a luxurious, barely-there finish, use this SPF 30 Daily Bronzer to nourish and protect your skin.</p>
+<p>Extra Virgin Olive Oil delivers decadent softness and hydration. Zinc Oxide provides the safest broad spectrum SPF protection, has natural anti-bacterial properties, and may also help balance the appearance of redness, irritation, and inflammation from free radical damage.</p>
+<p>And the best part? It’s fortified with essential Vitamin D. (Since sunscreens are designed to filter out the sun’s rays, they also block the UVB light that our body needs to make Vitamin D.) The body uses Vitamin D to maintain many aspects of its overall health, from bones and teeth to the brain and immune system.</p>
+<p>• 1 oz | 30 g</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredients: non-nano Zinc Oxide (25%). Ingredients: Aqua (Water), *Olea Europaea (Extra Virgin Olive) Fruit Oil, *Cera Alba (Beeswax), ‡Tocopherol (Vegetable Vitamin E), Cholecalciferol (Vitamin D3), Iron Oxides (Iron Oxide). *Organic ‡Non-GMO</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Apply liberally 15 minutes prior to sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682403983450</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>AKT-DLuxeBronzer</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682397331546</id>
+    <published>2019-03-11T21:56:34-04:00</published>
+    <updated>2019-03-11T21:56:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/rad-face-oil"/>
+    <title>Rad Face Oil</title>
+    <s:type>Face Oil</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Rad_Face_Oil.jpg?v=1551984223" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Face Oil<br />
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rad Face Oil revitalizes skin for a complexion that glows. Great for all skin types, but especially beneficial for sensitive, dry, or mature skin. Lightweight and insta-absorbing, this face oil is your everyday indulgence for a complexion that looks and feels nourished and restored. Wear alone, or under a favorite foundation.</p>
+<p>Red Raspberry Seed Oil is known for its high antioxidant content, its moisturizing and anti-inflammatory effects, and its natural UV protection. A rich source of Omega-3 and Omega-6 essential fatty acids, Vitamin E, and carotenoids, it gives skin a boost to help reduce the appearance of damage from free radicals.</p>
+<p>Avocado and Cactus Seed Oils soak skin in Vitamin K, which helps minimize the appearance of redness, wrinkles, and dark spots.</p>
+<p>• 1 oz | 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">*Calendula officinalis (calendula) flower extract, **Vitis vinifera (Grapeseed) oil, *Prunus cerasus (Cherry) kernel oil, **Persea americana (avocado) seed oil, *Opuntia ficus (cactus) seed oil, **Simmondsia (jojoba) oil, *Rubus idaeus (raspberry) seed oil, *Limnanthes alba (meadow foam) seed oil, **Helichrysum italicum. *Organic Agriculture **Wildcrafted</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use daily, either alone or in combination with the Elemental Sun Balm. Apply 1-3 drops to cleansed and toned skin as part of your morning and evening skincare regimen. Warm oil with fingertips, then press gently all over the face and neck. Allow to absorb for 2-3 minutes before applying makeup.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>facial oil</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682397331546</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>AKT-RadFaceOil</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1682391892058</id>
+    <published>2019-03-11T21:56:33-04:00</published>
+    <updated>2019-03-11T21:56:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/elemental-sun-balm-spf30"/>
+    <title>Elemental Sun Balm SPF 30</title>
+    <s:type>Sunscreen</s:type>
+    <s:vendor>AKT Therapy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Sun_Balm.jpg?v=1555423742" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AKT Therapy<br />
+        <strong>Type: </strong>Sunscreen<br />
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Moisturizing, mineral-based Elemental Sun Balm provides nourishment and broad spectrum UV protection. With a natural tint that blends sheer, it’s truly the best of all worlds: a balm, a block, and a base.</p>
+<p>Extra Virgin Coconut Oil locks in moisture, keeping skin plump and hydrated. It contains Vitamin E, essential amino acids, and lauric and caprylic acid, which form part of the natural barrier function of skin. Zinc Oxide provides the safest broad spectrum SPF protection, has natural anti-bacterial properties, and may also help reduce the appearance of redness, irritation, and inflammation. With a boost in antioxidants from Vanilla Extract, this luscious layer of protection will leave skin feeling refreshed and petal soft.</p>
+<p>Skip a step by using Elemental Sun Balm instead of foundation as part of your daily beauty regimen.</p>
+<p>• 1 oz | 30 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredient: **Zinc Oxide USP 25%. Inactive Ingredients: *Cocos Nucifera (Coconut) Oil, *Cera Alba (Beeswax), *Vanilla Extract (Aqua (and) *Ethanol (and) *Vanilla Planifolia Fruit Extract), Iron Oxides. *Certified Organic by USDA/NOP, **Non-nano, Uncoated</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Prep clean skin with 1-2 drops of Rad Daily Defense Face Oil. Apply a small amount of balm with fingertips and blend evenly into face, neck and decollete. Wear alone or as a primer to your foundation. Apply liberally 15 minutes before sun exposure.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:tag>spf 30</s:tag>
+    <s:tag>sun protection</s:tag>
+    <s:tag>sunscreen</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1682391892058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>AKT-ElementalSunBalm</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1681316675674</id>
+    <published>2019-03-10T18:55:18-04:00</published>
+    <updated>2019-03-10T18:55:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/plantgenius-survival-serum"/>
+    <title>PlantGenius Survival Serum</title>
+    <s:type>Facial Serum</s:type>
+    <s:vendor>Alpyn Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Survival_Serum.jpg?v=1551983908" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpyn Beauty<br />
+        <strong>Type: </strong>Facial Serum<br />
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This all-in-one brightening serum and illuminating primer delivers instant radiance, long-term glow, and all-day happiness.</p>
+<p>The hydrating, antioxidant­-rich formula helps even tone with vitamin C, bearberry leaf and licorice root extract, while a trio of gentle exfoliants help refine skin's surface and promote cell turnover. Wild actives nourish with essential vitamins.</p>
+<p><strong>What's inside</strong>:</p>
+<p>• Mica blurs imperfections and adds a soft-focus, airbrushed glow.</p>
+<p>• Natural brighteners — bearberry leaf extract, licorice root extract, vitamin C—help reduce dark spots and hyperpigmentation over time.</p>
+<p>• A trio of gentle exfoliants — azelaic, glycolic, and lactic acid— delicately exfoliate dead surface cells, promote cell turnover, and soothe skin.</p>
+<p>• Sunflower seed oil — an anti-inflammatory, antioxidant superstar rich in vitamin E—protects skin against free radical damage.</p>
+<p>• Tripeptide-29 encourages collagen production to plump skin and diminish the appearance of fine lines.</p>
+<p>• Natural moisturizers — hyaluronic acid, olive fruit oil, linoleic acid, coconut, squalane—provide lightweight hydration.</p>
+<p><strong>Formulated WITHOUT</strong>:</p>
+<p>• Parabens, Formaldehyde Donors, MEA/DEA/TEA, Palm Ingredients, Sulfates, Synthetic Dyes, Colors &amp; Fragrance, Phthalates, Petrochemicals, PEG’s/ PPG’s, Metallic Aluminum, Triclosan, Talc, Mineral Oil, Petrolatum, Toluene, Fragrance Free, Gluten Free, Soy Free, Vegan</p>
+<p>• 1.7 fl oz | 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Aloe Barbadensis (Aloe Vera) Leaf Juice*, Sodium Hyaluronate, Glycerin, Sodium Acrylates Copolymer, Squalane, Capryloyl Glycerin/Sebacic Acid Copolymer, Diheptyl Succinate, Mica, Hydrolyzed Lupine Protein, Lecithin, Titanium Dioxide, 3-0-Ethyl Ascorbic Acid, Zinc Oxide, Centella Asiatica Meri stem Cell Culture, Xanthan Gum, Dehydroacetic Acid, Benzyl Alcohol, Linoleic Acid, Azelaic Acid, Tripeptide-29, Potassium Sorbate, Hydrolyzed Sodium Hyaluronate, Lactic Acid, Glycolic Acid, Tin Oxide, Caesalpinia Sappan Bark Extract, Sodium Phytate, Tocopherol, Helianthus Annuus (Sunflower) Seed Oil*, Arctostaphylos Uva Ursi (Bearberry) Leaf Extract*, Water, Glycyrrhiza Gia bra (Licorice) Root Extract*, Simmondsia Chinensis (Jojoba) Seed Oil, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Dulcis (Orange) Oil , Salvia Officinalis (Sage) Leaf Extract, Arn lea Montana (Arni ca) Flower Extract, Baraga Officinalis (Borage) Flower Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract. * Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Smooth onto clean skin AM and PM. For added benefits, layer underneath PlantGenius Melt Moisturizer and dab on top of makeup for an even more radiant glow.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>facial serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1681316675674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>Alpyn-SurvivalSerum</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1681302388826</id>
+    <published>2019-03-10T18:55:17-04:00</published>
+    <updated>2019-03-10T18:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/plantgenius-melt-moisturizer"/>
+    <title>PlantGenius Melt Moisturizer</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Alpyn Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Melt_Moisturizer.jpg?v=1551983895" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpyn Beauty<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A weightless super-hydrator that melts into skin leaving a fresh, velvety finish. Makeup glides on, compliments roll in.</p>
+<p>Ceramides and squalane help fortify the moisture barrier; vitamin C brightens and protects against free radical damage; a non­irritating retinal helps kick-start collagen production and diminishes the appearance of fine lines. Wild actives nourish with essential vitamins.</p>
+<p><strong>What's inside</strong>:</p>
+<p>• A sophisticated cocktail of natural hydrators— hyaluronic acid, ceramides, olive fruit oil, linoleic acid, coconut, apricot kernel oil, squalane—fortify, maintain, and repair skin’s all-important moisture barrier.</p>
+<p>• Antioxidants — vitamin C, centella asiatica—brighten and provide protection from free radical damage.</p>
+<p>• Bakuchiol (a non-irritating bioavailable retinol) and Tripeptide-29 encourage collagen production and diminish the appearance of fine lines.</p>
+<p>• Glycolic acid gently exfoliates and promotes cell turnover.</p>
+<p>• Aloe soothes</p>
+<p><strong>Formulated WITHOUT</strong>:</p>
+<p>• Parabens, Formaldehyde Donors, MEA/DEA/TEA, Palm Ingredients, Sulfates, Synthetic Dyes, Colors &amp; Fragrance, Phthalates, Petrochemicals, PEG’s/ PPG’s, Metallic Aluminum, Triclosan, Talc, Mineral Oil, Petrolatum, Toluene, Fragrance Free, Gluten Free, Soy Free, Vegan</p>
+<p>• 1.7 fl oz | 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Sodium Hyaluronate, Cetyl Alcohol, Coconut Alkanes, Glycerin, Pyrus Mal us (Apple) Fruit Extract, Potassium Cetyl Phosphate, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Pru nus Armeniaca {Apricot) Kernel Oil, Capryloyl Glycerin/Sebacic Acid Copolymer, Coco-Caprylate/ Caprate, Diheptyl Succinate, Centella Asiatica Meristem Cell Culture, Xanthan Gum, Sorbitan Stea rate, Dehydroacetic Acid, Benzyl Alcohol, Squalane, Tripeptide-29, Olea Europaea (Olive) Fruit Oil, Glycolic Acid, Mica, Titanium Dioxide, Potassium Sorbate, Butyrospermum Parkii (Shea) Butter*, Tocopherol, Linoleic Acid, Coenochloris Signiensis Extract, Maltodextrin, Lecithin, Bakuchiol, Hydrolyzed Sodium Hyaluronate, Eclipta Prostrata Extract, Melia Azadirachta Leaf Extract, Moringa Pterygosperma Seed Oil, Ceramide NG, Ascorbic Acid (Vitamin C), Simmondsia Chinensis (Jojoba) Seed Oil, Salvia Officinalis (Sage) Leaf Extract, Arni ca Montana (Arni ca) Flower Extract, Baraga Officinalis (Bo rage) Flower Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Dulcis (Orange) Oil. *Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Smooth onto clean skin AM and PM. For added benefits, layer on top your favorite serum.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1681302388826</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>Alpyn-MeltMoisturizer</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1681265754202</id>
+    <published>2019-03-10T18:55:17-04:00</published>
+    <updated>2019-03-10T18:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/plantgenius-line-filling-eye-balm"/>
+    <title>PlantGenius Line-Filling Eye Balm</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Alpyn Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Eye_Balm.jpg?v=1551983887" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpyn Beauty<br />
+        <strong>Type: </strong>Eye Cream<br />
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cushiony, fast-absorbing balm instantly fills in fine lines and helps brighten and de-puff. Wild actives nourish with essential vitamins. We call it magic.</p>
+<p><strong>What's inside</strong>:</p>
+<p>• A plant-powered cocktail of natural brighteners—Eyebright, bearberry leaf extract, licorice root extract, vitamin C —diminish the appearance of dark circles.</p>
+<p>• Algae — tightens and lifts.</p>
+<p>• Mica blurs imperfections and fills in fine lines.</p>
+<p>• Caffeine stimulates circulation and reduces puffiness.</p>
+<p>• Fine line fighters — Bakuchiol (a non-irritating bioavailable retinol) and Tripeptide-29—encourage collagen production.</p>
+<p>• Heavy hitting antioxidants — healing centella asiatica, anti- inflammatory sunflower seed oil rich in vitamin E—nurture skin and protect against free radical damage.</p>
+<p>• Natural hydrators — hyaluronic acid, squalane, coconut, linoleic acid, ceramides—will not clog pores or cause milia.</p>
+<p><strong>Formulated WITHOUT</strong>:</p>
+<p>• Parabens, Formaldehyde Donors, MEA/DEA/TEA, Palm Ingredients, Sulfates, Synthetic Dyes, Colors &amp; Fragrance, Phthalates, Petrochemicals, PEG’s/ PPG’s, Metallic Aluminum, Triclosan, Talc, Mineral Oil, Petrolatum, Toluene, Fragrance Free, Gluten Free, Soy Free, Vegan</p>
+<p>• .5 fl oz | 14 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Sodium Hyaluronate, Cetearyl Alcohol, Squalane, Coconut Alkanes, Glycerin, Pyrus Mal us (Apple) Fruit Extract, Coco-Caprylate/Caprate, Mica, Titanium Dioxide, Bakuchiol, Centella Asiatica Meristem Cell Culture, Xanthan Gum, Euphrasia Officinalis Extract, Cetearyl Glucoside, Sorbitan Stea rate, Dehydroacetic Acid, Benzyl Alcohol, Linoleic Acid, Cetyl Hydroxyethylcellulose, Caffeine, Tripeptide-29, Potassium Sorbate, Hydrolyzed Sodium Hyaluronate, Kappaphycus Alvarezii Extract, Caesalpinia Spinosa Fruit Extract, Tocopherol, Tin Oxide, Caesalpinia Sappan Bark Extract, Glycyrrhiza Glabra (Licorice) Root Extract•, Helianthus Annuus (Sunflower) Seed Oil•, Arctostaphylos Uva Ursi (Bearberry) Leaf Extract•, Ascorbic Acid (Vitamin CJ, Ceramide NG, Simmondsia Chinensis (Jojoba) Seed Oil, Salvia Officinalis {Sage) Leaf Extract, Amica Montana (Amica) Flower Extract, Baraga Officinalis (Borage) Flower Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract. * Certified Organic</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Lightly tap around the entire eye area AM and PM.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>eye balm</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>eye cream</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1681265754202</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>Alpyn-EyeBalm</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1681245732954</id>
+    <published>2019-03-10T18:55:17-04:00</published>
+    <updated>2019-03-10T18:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/plantgenius-creamy-bubbling-cleanser"/>
+    <title>PlantGenius Creamy Bubbling Cleanser</title>
+    <s:type>Face Cleanser</s:type>
+    <s:vendor>Alpyn Beauty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Creamy_Bubbling_Cleanser.jpg?v=1551983983" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alpyn Beauty<br />
+        <strong>Type: </strong>Face Cleanser<br />
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suds — and Substance. Introducing your new favorite face wash: Luxurious, antioxidant-rich lather refreshes and refines as it cleanses.</p>
+<p>An antioxidant-rich face wash with superstar exfoliants (papaya and pomegranate extract, glycolic and lactic acid), and natural hydrators linoleic acid and ceramides that leave skin soft and silky. Wild actives nourish with essential vitamins.</p>
+<p><strong>What's inside</strong>:</p>
+<p>Gentle exfoliants — papaya fruit extract, pomegranate fruit ferment extract, glycolic and lactic acids—refine skin texture, eliminating dead surface cells, dirt, and grime as it cleanses.</p>
+<p>Humectants — hyaluronic acid, ceramides and linoleic acid — maintain the moisture barrier, ensuring skin feels nourished and soft.</p>
+<p>Potent antioxidant — vitamin C — protects against free radical damage.</p>
+<p><strong>Formulated WITHOUT</strong>:</p>
+<p>• Parabens, Formaldehyde Donors, MEA/DEA/TEA, Palm Ingredients, Sulfates, Synthetic Dyes, Colors &amp; Fragrance, Phthalates, Petrochemicals, PEG’s/ PPG’s, Metallic Aluminum, Triclosan, Talc, Mineral Oil, Petrolatum, Toluene, Fragrance Free, Gluten Free, Soy Free, Vegan</p>
+<p>• 4 fl oz | 118 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Glycerin, Sodium Cocoyl Isethionate, sodium hyaluronate, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Stearic Acid, Myristic Acid, Sodium Methyl Cocoyl Taurate, Cetearyl Alcohol,Lactobacillus/Punica Granatum (Pomegranate) Fruit Ferment Extract, Polyacrylate-33, Sodium Cocoyl Apple Amino Acids, Dehydroacetic Acid, Benzyl Alcohol, Tromethamine, Carica Papaya (Papaya) Fruit Extract, Potassium Sorbate, Eclipta Prostrata Extract, Melia Azadirachta Leaf Extract, Moringa Pterygosperma Seed Oil, Glycolic Acid, Lactic Acid, Ascorbic Acid (Vitamin C), Linoleic Acid, Simmondsia Chinensis (Jojoba) Seed Oil, Lavandula Angustifolia (Lavender) Oil, Citrus Aurantium Dulcis (Orange) Oil, Salvia Officinalis (Sage) Leaf Extract, Arnica Montana (Arnica) Flower Extract, Borago Officinalis (Borage) Flower Extract, Calendula Officinalis (Calendula) Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Ceramide NG, Alcohol.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Wet hands and gently massage in circular motion on dry skin. Rinse thoroughly. For added benefits, follow with Melt Moisturizer and Line-Filling Eye Balm.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1681245732954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>Alpyn-CrmBubbCleanser</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614944763994</id>
+    <published>2019-01-16T10:54:34-05:00</published>
+    <updated>2019-01-16T10:54:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cell-power-neck-decollete-cream"/>
+    <title>Cell–Power Neck &amp; Decolleté Cream</title>
+    <s:type>neck treatment</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cell_Power_Neck_Decollete_Cream.jpg?v=1546304931" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>neck treatment<br />
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Smoothing Cell Activator”</p>
+<p>A rich, intensely nourishing cream with a rejuvenating effect on the stem cells. An improved microcirculation enables the regeneration process. Cell-Power Neck &amp; Decolleté Cream protects the skin against premature aging, such as UV ray induced damage. Nourishing components deeply hydrate the skin, increase the ability to retain moisture and improve the skin’s surface structure noticeably. The delicate skin of the neck and décolleté feels immediately firmed, smooth and supple.</p>
+<p>• Rejuvenates stem cells</p>
+<p>• Protects against UV ray induced cell DNA damage</p>
+<p>• Improves microcirculation, enabling regeneration</p>
+<p>• Balances moisture content and increases ability to retain moisture</p>
+<p>• Smoothes and firms skin’s surface structure with a silky soft feel</p>
+<p>- 100 ml | 3.4 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shea Butter, Olive Oil, Meadowfoam Oil, Crambe Abyssinian Oil, Argan Oil, Pentavitin®, Niacin (Vitamin B3), Phytosan, Tocopherol (Vitamin E), Hyaluronic Acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Cell-Power Neck &amp; Decolleté Cream by gently massaging it in upward motions. For optimal results, apply after serum of your choice. Tip: For an intensive treatment, use as a mask twice a month or as desired. Apply Cell-Power Neck &amp; Decolleté Cream evenly to the entire neck and décolleté and allow to penetrate for 10-15 minutes. Massage in the remaining mask in upward motions or remove with cosmetic tissue. For optimal results, use after serum of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>decollete</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>neck cream</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614944763994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>MBR-CellPowerNeckCream3.4oz-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614940930138</id>
+    <published>2019-01-16T10:54:34-05:00</published>
+    <updated>2019-01-16T10:54:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cream-extraordinary"/>
+    <title>Cream Extraordinary</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cream_Extraordinary.jpg?v=1546304959" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            372.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Extraordinary Skin Perfector” </p>
+<p>A synergistic combination of deeply nourishing, advanced ingredients and precious gold leaf flakes. Cream Extraordinary intensively moisturizes the skin while stimulating collagen synthesis, allowing for a long-term plumping effect from deeper layers of the tissue. Fine lines and wrinkles are smoothed and significantly reduced. Light diffracting real gold leaf flakes illuminate and bring a truly unique radiance to the skin. The properties of this extraordinary cream soothe and restore even the most sensitive or irritated skin.</p>
+<p>• Stimulates collagen synthesis</p>
+<p>• Plumps fine lines and wrinkles from the inside</p>
+<p>• Strengthens dermal and epidermal linkage</p>
+<p>• Illuminates with precious gold flakes</p>
+<p>• Provides long-term moisturization</p>
+<p>• Increases ability to retain moisture</p>
+<p>• Leaves a velvety soft feel</p>
+<p>- 50 ml | 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Meadowfoam Oil, Argan Oil, Tocopherol Acetate (Vitamin E Acetate), Jojoba Oil, Crambe Abyssinian Oil, Lanolin, Phytoconcentrole Camomile, Pentavitin®, Magnesium, Retinol (Vitamin A), Herbal Infusion (Extracts of Magnolia Bark, Willow Bark, Grapefruit, Camellia Sinensis, Thujopsis Branch, Propolis, Chamomile Extract), Tocopherol (Vitamin E), Hyaluronic Acid, Gold, Kalpariane®, CroNoline™, Thiotaine (L-Ergothioneine).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Cream Extraordinary by gently massaging it in. For optimal results, apply after serum of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cream</s:tag>
+    <s:tag>facial creams</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614940930138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku>MBR-CreamExtraordinary1.7oz-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614938505306</id>
+    <published>2019-01-16T10:54:33-05:00</published>
+    <updated>2019-01-16T10:54:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cross-lift-serum-ultrapeptide"/>
+    <title>Cross Lift Serum Ultrapeptide</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cross_Lift_Serum_Ultrapeptide.jpg?v=1546305163" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Face Serum<br />
+        <strong>Price: </strong>
+            442.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Exceptional Firming Lift” </p>
+<p>A multi-acting, intensive, state-of-the-art serum for immediate and sustainable results. The highly concentrated formulation of Cross Lift Serum Ultrapeptide increases the epidermal cell metabolism as well as the dermal tissue functions. Due to neuromuscular blocking compounds there is a reduction of microcontractions, leading to a remarkably renewed skin structure directly after application.</p>
+<p>• Relieves deep wrinkles by reducing microcontractions</p>
+<p>• Plumps fine lines and wrinkles from the inside</p>
+<p>• Activates skin’s own regenerative ability</p>
+<p>• Defines facial contours dramatically</p>
+<p>• Renews elasticity and firmness</p>
+<p>• Refines skin’s surface structure significantly</p>
+<p>• Smoothes and firms with a long-lasting effect</p>
+<p>- 30 ml | 1 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">MBR MaxAqua, MBR Cross-Lift, Acqua Cell, Syn®-Ake, Sea Mayweed, Cyclopeptide 5, CroNoline™, Thiotaine (L-Ergothioneine).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Cross Lift Serum Ultrapeptide by gently massaging it in. For optimal results, follow with creams of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>facial oils + serums</s:tag>
+    <s:tag>facial serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614938505306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">442.00</s:price>
+      <s:sku>MBR-CrossLiftSerumUltra-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614937325658</id>
+    <published>2019-01-16T10:54:33-05:00</published>
+    <updated>2019-01-16T10:54:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/liquid-surgery-serum"/>
+    <title>Liquid Surgery Serum</title>
+    <s:type>Facial Serum</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Liquid_Surgery.jpg?v=1546305860" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Facial Serum<br />
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Pure Perfection”</p>
+<p>A revolutionary serum that transforms the skin, revealing an exceptional perfect complexion. Only found in Liquid Surgery Serum®, a synergistic ingredient system based on a medical synthetic oxygen carrier is used as a hemoglobin substitute and replaces excess carbon dioxide with essential, pure oxygen. This remarkable process allows for a complete rejuvenation of the cell metabolism. Combined with the multitude of highly concentrated ingredients, this state-of-the-art treatment delivers significant, sustainable and measurable skin care results, revealing a youthful, flawless complexion. Neuromuscular blocking compounds reduce microcontractions, resulting in a dramatic reduction of wrinkles and creases. Strengthened collagen fibers prevent further sagging of the skin and wrinkle formation. Colloidal gold allow for an optimal penetration of precious ingredients.</p>
+<p>• Increases oxygen levels of cells, while eliminating carbon dioxide through a hemoglobin substitute</p>
+<p>• Rejuvenates the cell metabolism and refines skin’s surface structure significantly</p>
+<p>• Relieves deep wrinkles and creases by reducing microcontractions</p>
+<p>• Plumps skin from the inside out, restoring volume and elasticity</p>
+<p>• Stimulates collagen production and sustainably strengthens fibroblastic structures</p>
+<p>• Promotes skin’s own production of hyaluronan and increases ability to retain moisture</p>
+<p>• Leaves exceptionally smooth, flawless and youthful skin</p>
+<p>- 50 ml | 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Liquid Surgery Complex (Perfluorocarbons), Meadowfoam Oil, Shea Butter, Pentavitin®, Hyaluronic Acid, Trylagen™, Tocopherol (Vitamin E), Ceramide III, Sea Mayweed, Syn®-Ake, Syn®-Hycan, CroNoline™, Cyclopeptide 5, Colloidal Gold, Golden Collagenine</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Liquid Surgery Serum® by gently massaging it in. For optimal results, follow with creams of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oil</s:tag>
+    <s:tag>facial oil</s:tag>
+    <s:tag>facial oils + serums</s:tag>
+    <s:tag>facial serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614937325658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1750.00</s:price>
+      <s:sku>MBR-LiquidSurgerySerum-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614934507610</id>
+    <published>2019-01-16T10:54:33-05:00</published>
+    <updated>2019-01-16T10:54:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/enzyme-cleansing-booster"/>
+    <title>Enzyme Cleansing Booster</title>
+    <s:type>Facial Cleanser</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Enzyme_Cleansing_Boost.jpg?v=1546305569" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Facial Cleanser<br />
+        <strong>Price: </strong>
+            227.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Perfection of Purity” </p>
+<p>An innovative combination of gentle and deep-pore cleansing components to start your incomparably Pure Perfection skin care ritual. Enzyme Cleansing Booster revitalizes, radiates and purifies, for a matte and even complexion. Minimizes fine lines, wrinkles and pores and revives dull skin. After prolonged use, there is a noticeable refinement of the skin’s surface structure, while balancing the skin’s moisture.</p>
+<p>• Removes excess sebum and lipids</p>
+<p>• Reduces impurities / suitable for acne skin conditions</p>
+<p>• Increases ability to absorb treatment products</p>
+<p>• Stimulates cell metabolism and promotes detoxification process</p>
+<p>• Activates regeneration process</p>
+<p>• Minimizes fine lines, wrinkles and pores</p>
+<p>• Refines skin’s surface structure</p>
+<p>• Reveals smoothed and radiant skin</p>
+<p>- 80 g | 2.82 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Zymo Clear MD, Zea Mays, Amino Acid Tenside, Sodium Bicarbonate, Kaolin, Aloe Vera Gel Powder, Allantoin, Niacin, Inositol, Argan Oil, Galactoarabinan, Caffein, Ectoin, MPC™ Complex, Lactic Acid.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings. Apply Enzyme Cleansing Booster to the palm of your hand, emulsify with water to a fluffy-gentle foam and gently massage onto dry or damp skin. Allow to penetrate for a few moments before rinsing it off with lukewarm water. For optimal results, follow with serum and creams of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face cleansers</s:tag>
+    <s:tag>facial cleansers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614934507610</id>
+      <title>Default Title</title>
+      <s:price currency="USD">227.00</s:price>
+      <s:sku>MBR-EnzymeCleansingBooster-SFA</s:sku>
+      <s:grams>306</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614932541530</id>
+    <published>2019-01-16T10:54:33-05:00</published>
+    <updated>2019-01-16T10:54:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cytoline-eyecare-cream-100"/>
+    <title>Cytoline Eyecare Cream 100</title>
+    <s:type>Eye Cream</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cytoline_Eyecare_Cream.jpg?v=1546305350" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Eye Cream<br />
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky-soft, rich eye care which actively increases the functional performance of the skin in the sensitive areas around the eyes.</p>
+<p>• Improves natural cell growth and activates the regeneration process</p>
+<p>• Has an immediate and long-term lifting effect</p>
+<p>• Binds free radicals</p>
+<p>• Optimizes the skin’s ability to retain moisture and protects it against the loss of moisture</p>
+<p>• Firms the tissue and improves microcirculation</p>
+<p>• Reduces dark shadows around the eyes</p>
+<p>• Immediately improves the appearance of the sensitive area around the eyes</p>
+<p>- 15 ml | .5 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Cytobiol Lumin-Eye, shea butter, ceramide III, Limnanthes Alba (meadowfoam seed oil), jojoba oil, vitamin E acetate, hyaluronic acid, caffeine, MBR® Cyto-Lift, dexpanthenol (provitamin B5), MPC™ complex.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Mornings and evenings, after application of the active serum to the area around the eyes, gently pat with fingertips.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>eye cream</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614932541530</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.00</s:price>
+      <s:sku>MBR-CytolineEyeCream100-SFA</s:sku>
+      <s:grams>241</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614931689562</id>
+    <published>2019-01-16T10:54:32-05:00</published>
+    <updated>2019-01-16T10:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/cytoline-cream-100"/>
+    <title>Cytoline Cream 100</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Cytoline_Cream_100.jpg?v=1546305188" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Nourishing Cell Regeneration”</p>
+<p>A high performing nourishing cream that increases the skin’s functions and cell metabolism. CytoLine® Cream 100 stimulates the cell proliferation and regenerates the fibroblastic structures. Rebuilds the lipid barrier of the skin, maintaining resiliency. Skin cells are strengthened, resulting in a significant reduction of wrinkle depth. Collagen and elastin levels are replenished, revealing visibly firmer, younger skin.</p>
+<p>• Stimulates natural cell proliferation</p>
+<p>• Regenerates fibroblastic structures</p>
+<p>• Promotes elasticity and reduces wrinkle depth</p>
+<p>• Provides intense moisturization</p>
+<p>• Protects and rebuilds lipid barrier</p>
+<p>• Smoothes and softens the skin’s surface structure</p>
+<p>- 50 ml | 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Meadowfoam Oil, Crambe Abyssinian Oil, Tocopherol Acetate (Vitamin E Acetate), Avocado Oil, Shea Butter, MPC™ Complex, Hyaluronic Acid, Tocopherol (Vitamin E), Kalpariane®, Sea Mayweed.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply CytoLine® Cream 100 by gently massaging it in. For optimal results, apply after serum of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614931689562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>MBR-CytolineCream100-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614929854554</id>
+    <published>2019-01-16T10:54:32-05:00</published>
+    <updated>2019-01-16T10:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/lip-contour-refiner"/>
+    <title>Lip Contour Refiner</title>
+    <s:type>Lip Refiner</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Lip_Contour_Refiner.jpg?v=1546305836" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Lip Refiner<br />
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Lip Firming Agent”</p>
+<p>A restructuring lip care that deeply moisturizes the delicate lip area. Lip Contour Refiner increases the density of the tissue and strengthens the skin cells. After prolonged use, lip contours are more defined and fine lines are noticeably smoothed and plumped.</p>
+<p>• Nourishes lips and area around lips</p>
+<p>• Increases tissue density</p>
+<p>• Strengthens cells</p>
+<p>• Plumps expression lines and wrinkles</p>
+<p>• Refines lip contours</p>
+<p>- 15 ml | .5 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Shea Butter, Crodamol ISIS, Panthenol (Provitamin B5), Crambe Abyssinian Oil, Phytoconcentrole Chamomile, Cooling Agent, Kalpariane®, Tocopherol (Vitamin E), Syn®-Hycan.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use as needed. Apply evenly on lips and lip contours. Tip: For an intensive treatment, use as a lip mask. Apply Lip Contour Refiner evenly to the lips and lip area and allow to penetrate for 10-15 minutes. Massage in the remaining mask or remove with cosmetic tissue.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>lip care</s:tag>
+    <s:tag>lip plumper</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614929854554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">102.00</s:price>
+      <s:sku>MBR-LipContourRefiner-SFA</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614926184538</id>
+    <published>2019-01-16T10:54:32-05:00</published>
+    <updated>2019-01-16T10:54:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/awake-lift-eye-patches"/>
+    <title>Awake &amp; Lift Eye Patches</title>
+    <s:type>Eye Serum</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Awake_Lift_Eye_Patches.jpg?v=1546304826" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Eye Serum<br />
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Lifting Eye Radiance”</p>
+<p>Hydrating Eye Sheet Mask with lifting and firming properties, to relieve puffiness, dark circles and tired eyes. Awake &amp; Lift Eye Patches plump lines and wrinkles immediately, for a rested, hydrated and radiant eye area.</p>
+<p>• Reduces under eye bags and puffiness</p>
+<p>• Brightens dark circles</p>
+<p>• Plumps and lifts fine lines and wrinkles</p>
+<p>• Improves microcirculation and cell renewal</p>
+<p>• Provides intense moisturization</p>
+<p>• Increases ability to retain moisture</p>
+<p>- Includes 6 Pairs</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Panthenol (Provitamin B5), Beautyfeye®, LIFTONIN®-XPRESS, HyaCare®, Caffeine, Lavender Extract, Hyaluronic Acid, Allantoin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use as desired after preparing the skin. Apply Awake &amp; Lift Eye Patches around the eye area. For optimal results, use after serum and follow with cream of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>eye care</s:tag>
+    <s:tag>eye patch</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614926184538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>MBR-AwakeLiftEyePatch-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614925037658</id>
+    <published>2019-01-16T10:54:31-05:00</published>
+    <updated>2019-01-16T10:54:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/hyaluron-mask"/>
+    <title>Hyaluron Mask</title>
+    <s:type>face mask</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Hyaluron_Masl.jpg?v=1546305688" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>face mask<br />
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Intensely hydrating, nourishing and revitalizing cream mask with an immediate firming effect. Hyaluron Mask stimulates the cell and tissue structures and replenishes skin's moisture levels. Significantly reduces the wrinkle depth. The skin appears instantly nourished, glowing and recuperated. A perfectly harmonized addition to the daily skin care regimen.</p>
+<p>• Intensely moisturizing and revitalizing</p>
+<p>• Instantly regenerates and smoothes wrinkles</p>
+<p>• Stimulates cell and tissue structures</p>
+<p>• Promotes skin elasticity and balances moisture content</p>
+<p>• Protects and rebuilds lipid barrier</p>
+<p>- 100 ml / 3.4 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Hyaluronic Acid, Macromolecular Hyaluronic Acid, Small-Molecule Hyaluronic Acid, FILMEXEL® Lifting</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use as needed, 2-3 times a week, after preparing the skin. Apply Hyaluron Mask evenly to the entire face, including the lip area if desired, and allow to penetrate for 10-15 minutes. Remove remaining mask with lukewarm water or cosmetic tissue. For optimal results, use after serum and follow with serum and creams of your choice. Avoid direct contact with eyes. Tip: Use Hyaluron Mask as an intensive beautifying 3-minute Booster before a special occasion.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>facial masks</s:tag>
+    <s:tag>hyaluronic acid</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614925037658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>MBR-HyaluronMask-SFA</s:sku>
+      <s:grams>323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614923792474</id>
+    <published>2019-01-16T10:54:31-05:00</published>
+    <updated>2019-01-16T10:54:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/tissue-activator-serum"/>
+    <title>Tissue Activator Serum</title>
+    <s:type>Face Serum</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Tissue_Activator_Serum.jpg?v=1546306177" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Face Serum<br />
+        <strong>Price: </strong>
+            231.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Collagen Formation Specialist”</p>
+<p>A highly concentrated state-of-the-art serum that stimulates the dermal tissue functions. Stimulated dermal tissue function promotes the formation and generation of collagen fibers to provide elasticity and more visibly defined skin contours. Reduces the appearance of dark shadows, especially around the eyes, mouth and chin.</p>
+<p>Tissue Activator Serum is particularly well suited as a pre- and post-treatment to accompany laser treatments.</p>
+<p>• Stimulates tissue formation and generation of collagen fibers</p>
+<p>• Promotes adhesion of collagen fibers and maintains collagen balance</p>
+<p>• Reduces dark shadows, especially around the eyes, mouth and chin</p>
+<p>• Improves elasticity</p>
+<p>• Defines and lifts contours</p>
+<p>- 50 ml / 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Hydrolite® 5, Trylagen™, Hyalufix™, Hyaluronic Acid, MBR Hydromatrix, Sea Mayweed, Tocopherol (Vitamin E), Thiotaine (L-Ergothioneine).</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Tissue Activator Serum by gently massaging it in. For optimal results, follow with creams of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>anti aging serum</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>facial serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614923792474</id>
+      <title>Default Title</title>
+      <s:price currency="USD">231.00</s:price>
+      <s:sku>MBR-TissueActivatorSerum-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1614922907738</id>
+    <published>2019-01-16T10:54:31-05:00</published>
+    <updated>2019-01-16T10:54:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/starter-facial-booster"/>
+    <title>Starter Facial Booster</title>
+    <s:type>Facial Serum</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Starter_Facial_Booster.jpg?v=1546306154" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>Facial Serum<br />
+        <strong>Price: </strong>
+            117.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“Revitalizing Primer”</p>
+<p>A balanced combination of soothing and hydrating plant extracts as well as gentle stimulating and strengthening components, leaving the skin revitalized, smooth and firm. Replenishes the lipid barrier and improves the ability to retain moisture of even the most sensitive and irritated skin. Starter Facial Booster is an optimal primer to allow for better absorption of serums and creams in the regimen.</p>
+<p>• Replenishes, revitalizes and firms instantly</p>
+<p>• Balances moisture content</p>
+<p>• Protects and rebuilds lipid barrier</p>
+<p>• Improves elasticity</p>
+<p>• Smoothes and softens skin’s surface structure</p>
+<p>- 200 ml / 6.8 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">MBR MaxAqua, Urea, MBR Panthenol Complex, Gatuline® Expression, Hydrolyzed Hyaluronic Acid, Acqua Cell, MultiEx BSASM™, Sea Mayweed</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use mornings and evenings after preparing the skin. Apply Starter Facial Booster, either to the palm of your hand and gently press over the face, or to a cotton pad and gently swipe onto the skin. For optimal results, follow with serum and creams of your choice.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face oils + serums</s:tag>
+    <s:tag>face serum</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1614922907738</id>
+      <title>Default Title</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>MBR-StarterFacialBooster-SFA</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1592304074842</id>
+    <published>2019-01-16T10:54:30-05:00</published>
+    <updated>2019-01-16T10:54:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/beta-enzyme-treatment"/>
+    <title>Beta Enzyme Treatment</title>
+    <s:type>face mask</s:type>
+    <s:vendor>Medical Beauty Research</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Beta_Enzyme.jpg?v=1546304877" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Medical Beauty Research<br />
+        <strong>Type: </strong>face mask<br />
+        <strong>Price: </strong>
+            103.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>“The Key Preparation Treatment” </p>
+<p>An efficient skin care gel, based on mild hydroxy acids and a papain enzyme complex, which allows the skin to optimally absorb treatment products. Beta Enzyme removes excess sebum and lipids and therefore enables skin regeneration, revealing a radiant complexion. By stimulating the cell metabolism, the overall skin condition is improved. Minimizes fine lines, wrinkles and pores and revives dull skin. After prolonged use, there is a noticeable refinement of the skin’s surface structure as well as long-lasting moisturization.</p>
+<p>• Removes excess sebum and lipids</p>
+<p>• Increases ability to absorb treatment products</p>
+<p>• Stimulates cell metabolism</p>
+<p>• Activates regeneration process</p>
+<p>• Minimizes fine lines, wrinkles and pores</p>
+<p>• Refines skin’s surface structure</p>
+<p>• Reveals smoothed and radiant skin</p>
+<p>- 50 ml / 1.7 oz</p>
+<p>- *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Active Ingredients: Alpha and Beta Hydroxy Acids, Peelmoist (Papain Enzyme Complex), Panthenol (Provitamin B5), Allantoin.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Use once a day, either morning or evening after cleansing. Apply Beta-Enzyme evenly to the entire face, including the eye area and lip contour if desired and allow to penetrate for 15 minutes. Rinse thoroughly several times with lukewarm water. For optimal results, follow with serum and creams of your choice. May cause tingling sensation. Avoid direct contact with eyes.</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all skin care</s:tag>
+    <s:tag>face masks</s:tag>
+    <s:tag>facial masks</s:tag>
+    <s:tag>masks</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1592304074842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku>MBR-BetaEnzyme1.7oz-SFA</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+</feed>

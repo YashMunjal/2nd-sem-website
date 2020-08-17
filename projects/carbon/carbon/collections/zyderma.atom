@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.carbonbeauty.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.carbonbeauty.com/collections/zyderma.atom"/>
+  <title>Carbon Beauty</title>
+  <updated>2018-07-25T16:35:06-04:00</updated>
+  <author>
+    <name>Carbon Beauty</name>
+  </author>
+  <entry>
+    <id>https://www.carbonbeauty.com/products/1340247736410</id>
+    <published>2018-07-25T16:35:06-04:00</published>
+    <updated>2018-07-25T16:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.carbonbeauty.com/products/clarifying-cream"/>
+    <title>Clarifying Cream</title>
+    <s:type>Face Cream</s:type>
+    <s:vendor>Zyderma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0293/8269/products/WEBSITE_Zyderma_Clarifying_Cream.jpg?v=1532550873" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zyderma<br />
+        <strong>Type: </strong>Face Cream<br />
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The unique combination of skin nurturing ingredients and MicroSilver BG helps support the skins healthy appearance, while cleansing the skin of harmful bacteria.</p>
+<p><strong>For</strong>: All skin types &amp; all ages who suffer from acne-prone (mild-moderate) and problem skin (eczema, rosacea, psoriasis).</p>
+<p>The porous MicroSilver BG™﻿ particles in Zyderma's Clarifying Cream formula provide a high and sustained microbial cleansing action by continuously releasing silver ions. This reduces the impact of bacteria and microorganisms and supports the skin’s natural healing process.</p>
+<p>While Zyderma HS safely cleanses the bacteria from the skin, it also produces a calming effect on areas with a tendency for inflammation (it is very effective in reducing redness and inflammation associated with hormonal breakouts and flare-ups). MicroSilver BGTM has been proven to be effective on acne prone &amp; problem skin. Studies have shown that Microsilver BGTM helps the skin show significant improvement in as early as 3-4 days.</p>
+<p>Helps regulate the skin’s microflora &amp; strengthens the skin’s resistance to colonization of bacteria</p>
+<div style="padding-left: 20px;">- Supports the skin’s natural healing process</div>
+<div style="padding-left: 20px;">- Perfectly suited for daily skincare</div>
+<div style="padding-left: 20px;">- Supports the skin even under makeup</div>
+<div style="padding-left: 20px;">- Lasts up to 24 hrs, or until rinsed off</div>
+<div style="padding-left: 20px;"></div>
+<p> </p>
+<p>• Leaping Bunny &amp; PETA approved</p>
+<p>• Rates clean “0” on ThinkDirty</p>
+<p>• All ingredients are Eco-Certified</p>
+<p>• Free of nano particles, parabens, propylene glycol, oils, alcohol, gluten, animal by-products, fragrances &amp; dyes.</p>
+<p>• 1.7 fl oz / 50 ml</p>
+<div id="popup">
+<div id="ingredients">
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Ingredients <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">Water, Cetearyl Olivate, Sorbitan Olivate, Propanediol, Silver, Xanthum Gum.</div>
+</article>
+<article class="c-accordion-item js-parallax">
+<h3 class="c-accordion-item_title js-accordion">Directions <span class="c-accordion-icon"></span>
+</h3>
+<div class="c-accordion-item_content js-accordion-content">
+<p>We recommend using Zyderma Clarifying Cream for at least a week to see the full benefit of the cream on your skin. Please do not combine with products containing harsh ingredients (eg. salicylic acid, benzoyl peroxide, etc.).</p>
+<p>To be applied twice a day, morning and night (before going to bed): Prepare the skin by removing makeup and other product residues. Wash face with a mild, or gentle cleanser. Pat the skin dry with a clean towel. Apply a thin layer of Clarifying Cream, gently massaging into skin until product disappears. No need to over apply, as a little goes a long way. Do not rinse off. Note: Any serums should be applied before Zyderma HS; whereas all other products, such as moisturizers, anti-aging creams, sunscreens and makeup can be applied after.</p>
+</div>
+</article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>acne</s:tag>
+    <s:tag>acne cream</s:tag>
+    <s:tag>acne lotion</s:tag>
+    <s:tag>acne treatment</s:tag>
+    <s:tag>all men&apos;s skin care</s:tag>
+    <s:tag>all skin care</s:tag>
+    <s:tag>deodorant</s:tag>
+    <s:tag>face primer</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>footcare</s:tag>
+    <s:tag>men&apos;s hands</s:tag>
+    <s:tag>men&apos;s skincare</s:tag>
+    <s:tag>moisturizers</s:tag>
+    <s:tag>mom &amp; baby</s:tag>
+    <s:tag>oily skin</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://www.carbonbeauty.com/products/1340247736410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>Zyderma-ClarifyingCream-SFA</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>
